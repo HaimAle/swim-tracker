@@ -1,0 +1,41 @@
+name: Daily swim data update
+
+on:
+  schedule:
+    # GitHub cron is UTC. 18:00 UTC = 21:00 Israel in summer (IDT, UTC+3).
+    # In winter (IST, UTC+2) this fires at 20:00 Israel. To keep 21:00 IL
+    # year-round, switch to '0 19 * * *' during winter, or keep both lines.
+    - cron: '0 18 * * *'
+  workflow_dispatch: {}          # allows a manual "Run workflow" button
+
+permissions:
+  contents: write                # so the job can commit the updated data back
+
+concurrency:
+  group: swim-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+
+      - name: Check for new / recent competitions and update the DB
+        run: python scraper.py --recent-range 16680 17400
+
+      - name: Commit updated data (if anything changed)
+        run: |
+          git config user.name  "swim-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add swim.db data.js swimmers.json
+          if git diff --cached --quiet; then
+            echo "No data changes today."
+          else
+            git commit -m "Daily update $(date -u +%F)"
+            git push
+          fi

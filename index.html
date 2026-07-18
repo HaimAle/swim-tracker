@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>מעקב שחיינים — איגוד השחייה</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+  :root{--bg:#f4f7fb;--card:#fff;--ink:#0f2540;--muted:#6b7c93;--line:#e4ebf3;
+    --accent:#0072c6;--accent2:#00a3a3;--good:#1a9e5c;--shadow:0 2px 14px rgba(20,50,90,.08);}
+  *{box-sizing:border-box}
+  body{margin:0;font-family:"Segoe UI",Arial,"Noto Sans Hebrew",sans-serif;background:var(--bg);color:var(--ink);}
+  header{background:linear-gradient(110deg,#0072c6,#00a3a3);color:#fff;padding:18px 22px;box-shadow:var(--shadow)}
+  header h1{margin:0;font-size:22px;font-weight:700}
+  header .sub{opacity:.9;font-size:13px;margin-top:3px}
+  .wrap{max-width:1060px;margin:0 auto;padding:18px}
+  .search{background:var(--card);border-radius:14px;padding:16px;box-shadow:var(--shadow);margin-bottom:16px}
+  .searchrow{display:flex;gap:10px}
+  .search input{flex:1;font-size:18px;padding:12px 14px;border:2px solid var(--line);border-radius:10px;outline:none}
+  .search input:focus{border-color:var(--accent)}
+  #go{font-size:16px;font-weight:700;color:#fff;background:var(--accent);border:none;border-radius:10px;padding:0 22px;cursor:pointer;white-space:nowrap}
+  #go:hover{background:#005ea6}
+  .hint{color:var(--muted);font-size:13px;margin-top:10px}
+  .chips{margin-top:8px;display:flex;gap:8px;flex-wrap:wrap}
+  .chip{background:#eef4fb;border:1px solid var(--line);color:var(--accent);border-radius:20px;padding:5px 12px;font-size:13px;cursor:pointer}
+  .chip:hover{background:#e0edfa}
+  .matches{display:flex;flex-direction:column;gap:8px;margin-top:12px}
+  .match{display:flex;justify-content:space-between;align-items:center;padding:10px 14px;border:1px solid var(--line);border-radius:10px;cursor:pointer;background:#fff}
+  .match:hover{border-color:var(--accent);background:#f7fbff}
+  .match .nm{font-weight:700}
+  .match .meta{color:var(--muted);font-size:13px}
+  .badge{font-size:11px;padding:2px 8px;border-radius:10px;margin-inline-start:6px}
+  .b-past{background:#eaf4ff;color:#0072c6}
+  .b-future{background:#e8f7ee;color:#1a9e5c}
+  .panel{background:var(--card);border-radius:14px;box-shadow:var(--shadow);padding:18px;margin-bottom:16px;display:none}
+  .who{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap;border-bottom:1px solid var(--line);padding-bottom:12px;margin-bottom:6px}
+  .who h2{margin:0;font-size:24px}
+  .who .yr{color:var(--muted);font-size:15px}
+  .who .club{color:var(--accent2);font-size:14px}
+  .filterbar{display:flex;align-items:center;gap:10px;margin-top:12px;flex-wrap:wrap}
+  .flabel{color:var(--muted);font-size:13px;font-weight:600}
+  .filterbar select{font-size:14px;font-weight:600;color:var(--ink);padding:7px 12px;border:1px solid var(--line);border-radius:9px;background:#fff;cursor:pointer;min-width:130px}
+  .tabs{display:flex;gap:6px;margin:12px 0}
+  .tab{padding:9px 16px;border-radius:9px;border:1px solid var(--line);background:#fff;cursor:pointer;font-size:14px;font-weight:600;color:var(--muted)}
+  .tab.active{background:var(--accent);color:#fff;border-color:var(--accent)}
+  .tab .n{font-size:12px;opacity:.8}
+  table{width:100%;border-collapse:collapse;font-size:14px}
+  th,td{padding:9px 10px;text-align:right;border-bottom:1px solid var(--line)}
+  th{background:#f7fafd;color:var(--muted);font-weight:600;position:sticky;top:0}
+  tbody tr:hover{background:#f7fbff}
+  .time{font-weight:700;font-variant-numeric:tabular-nums;direction:ltr;display:inline-block}
+  .rank1{color:#c8961e;font-weight:700}
+  .view{display:none}
+  .view.active{display:block}
+  .chartbox{position:relative;height:440px}
+  .empty{color:var(--muted);padding:26px;text-align:center}
+  .foot{color:var(--muted);font-size:12px;text-align:center;padding:10px 0 30px}
+  .seedhint{background:#fff8e6;border:1px solid #f2e0a8;color:#8a6d1e;font-size:12.5px;padding:8px 12px;border-radius:8px;margin-bottom:12px}
+  .status{background:var(--card);border-radius:10px;padding:9px 14px;font-size:13px;color:var(--muted);text-align:center;box-shadow:var(--shadow);margin-bottom:14px}
+  .status.new{background:#e8f7ee;color:#1a7f47;font-weight:700}
+  @media (max-width:640px){
+    header{padding:14px 16px}
+    header h1{font-size:18px}
+    header .sub{font-size:12px}
+    .wrap{padding:12px}
+    .search{padding:12px}
+    .search input{font-size:16px;padding:10px 12px}
+    #go{padding:0 16px;font-size:15px}
+    .panel{padding:12px}
+    .who h2{font-size:20px}
+    .filterbar{gap:6px}
+    .filterbar .flabel{width:100%;margin-top:4px}
+    .filterbar select{min-width:0;flex:1}
+    .tabs{flex-wrap:wrap}
+    .tab{flex:1;text-align:center;padding:8px 6px;font-size:13px}
+    .view{overflow-x:auto;-webkit-overflow-scrolling:touch}
+    table{font-size:12.5px}
+    th,td{padding:7px 6px;white-space:nowrap}
+    .chartbox{height:330px}
+    .match{flex-direction:column;align-items:flex-start;gap:4px}
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>🏊 מעקב שחיינים — איגוד השחייה</h1>
+  <div class="sub">חיפוש שחיין · תוצאות עבר · תחרויות עתידיות · גרף התקדמות</div>
+</header>
+
+<div class="wrap">
+  <div id="status" class="status"></div>
+  <div class="search">
+    <div class="searchrow">
+      <input id="q" type="text" placeholder="הקלד שם שחיין (למשל: איתן חניצקי, עלמה אלזרקי)…" autocomplete="off">
+      <button id="go" type="button">חיפוש</button>
+    </div>
+    <div class="hint" id="hint"></div>
+    <div class="chips" id="chips"></div>
+    <div class="matches" id="matches"></div>
+  </div>
+
+  <div class="panel" id="panel">
+    <div class="who">
+      <h2 id="swName"></h2>
+      <span class="yr" id="swYear"></span>
+      <span class="club" id="swClub"></span>
+    </div>
+    <div class="filterbar">
+      <span class="flabel">סגנון שחייה:</span>
+      <select id="strokeFilter"></select>
+      <span class="flabel">אורך בריכה:</span>
+      <select id="poolFilter"></select>
+    </div>
+    <div class="tabs">
+      <div class="tab active" data-view="past">תוצאות עבר <span class="n" id="nPast"></span></div>
+      <div class="tab" data-view="future">תחרויות עתידיות <span class="n" id="nFuture"></span></div>
+      <div class="tab" data-view="chart">גרף התקדמות</div>
+    </div>
+
+    <div class="view active" id="view-past"></div>
+    <div class="view" id="view-future"></div>
+    <div class="view" id="view-chart">
+      <div class="hint" style="margin:0 0 6px">כל צבע = סוג משחה. ציר הזמן משמאל לימין; נקודה גבוהה יותר = זמן טוב יותר (הציר הפוך: זמן נמוך למעלה). זמני 25 מ׳ ו-50 מ׳ אינם ברי-השוואה ומוצגים בנפרד (לפי מסנן אורך הבריכה).</div>
+      <div class="hint" id="poolNote" style="margin:0 0 10px;font-weight:600;color:var(--accent2)"></div>
+      <div class="chartbox"><canvas id="chart"></canvas></div>
+    </div>
+  </div>
+
+  <div class="foot" id="foot"></div>
+</div>
+
+<script src="data.js"></script>
+<script>
+const D = window.SWIM_DATA || {swimmers:{}};
+const SW = D.swimmers || {};
+const list = Object.values(SW);
+
+// ---------- helpers ----------
+function fmt(sec){ if(sec==null) return "—";
+  const m=Math.floor(sec/60), s=(sec-m*60);
+  return (m>0? m+":"+s.toFixed(2).padStart(5,"0") : s.toFixed(2)); }
+function esc(s){return (s==null?"":String(s)).replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));}
+function pool(p){ return p? p+" מ׳" : "—"; }
+function fmtDate(d){ if(!d) return "—"; const p=String(d).split("-"); return p.length===3? p[2]+"/"+p[1]+"/"+p[0] : d; }
+function strokeOf(ev){ ev=ev||"";
+  if(ev.includes("חופשי")) return "חופשי";
+  if(ev.includes("פרפר"))  return "פרפר";
+  if(ev.includes("גב"))    return "גב";
+  if(ev.includes("חזה"))   return "חזה";
+  if(ev.includes("מעורב")) return "מעורב אישי";
+  return "אחר"; }
+function norm(s){ return (s||"").replace(/[‎‏‪-‮]/g,"").replace(/\s+/g," ").trim(); }
+function byDateDesc(a,b){ return (b.date||"").localeCompare(a.date||""); }
+function byDateAsc(a,b){ return (a.date||"").localeCompare(b.date||""); }
+
+// ---------- filters state ----------
+let curStroke="all", curPoolFilter="all", curSw=null;
+function strokeMatch(r){ return curStroke==="all" || strokeOf(r.event)===curStroke; }
+function poolMatch(r){ return curPoolFilter==="all" || r.poolLength==Number(curPoolFilter); }
+function match(r){ return strokeMatch(r) && poolMatch(r); }
+
+// ---------- search ----------
+const q=document.getElementById("q"), matches=document.getElementById("matches"), hint=document.getElementById("hint");
+function search(term){
+  term=norm(term); matches.innerHTML="";
+  if(term.length<1) return;
+  const toks=term.split(" ");
+  const hits=list.filter(s=>{
+    const hay=norm(s.displayName+" "+s.birthYear+" "+(s.clubs||[]).join(" "));
+    return toks.every(t=>hay.includes(t));
+  }).sort((a,b)=>a.displayName.localeCompare(b.displayName,"he")).slice(0,60);
+  if(!hits.length){ matches.innerHTML='<div class="empty">לא נמצא שחיין תואם.</div>'; return; }
+  hits.forEach(s=>{
+    const div=document.createElement("div"); div.className="match";
+    div.innerHTML=`<span><span class="nm">${esc(s.displayName)}</span>
+        <span class="meta">· ${esc((s.clubs||[])[0]||"")}</span></span>
+      <span class="meta">${s.birthYear}
+        ${s.past.length?`<span class="badge b-past">${s.past.length} תוצאות</span>`:""}
+        ${s.future.length?`<span class="badge b-future">${s.future.length} עתידיות</span>`:""}</span>`;
+    div.onclick=()=>select(s.id);
+    matches.appendChild(div);
+  });
+}
+q.addEventListener("input",e=>search(e.target.value));
+document.getElementById("go").addEventListener("click",()=>search(q.value));
+q.addEventListener("keydown",e=>{ if(e.key==="Enter") search(q.value); });
+
+// ---------- select swimmer ----------
+let chart=null, curSwimmer=null;
+const palette=["#0072c6","#e4572e","#1a9e5c","#8e44ad","#f2a900","#00a3a3","#d81b60","#3d5afe","#795548","#607d8b"];
+function select(id){
+  const s=SW[id]; if(!s) return;
+  recordRecent(s);
+  matches.innerHTML="";          // collapse the results list — show only the chosen swimmer
+  curSwimmer=s;
+  document.getElementById("panel").style.display="block";
+  document.getElementById("swName").textContent=s.displayName;
+  document.getElementById("swYear").textContent="שנתון "+s.birthYear;
+  document.getElementById("swClub").textContent=(s.clubs||[]).join(" · ");
+  document.getElementById("nPast").textContent="("+s.past.length+")";
+  document.getElementById("nFuture").textContent="("+s.future.length+")";
+  buildFilters(s);
+  renderPast(s); renderFuture(s); renderChart(s);
+  setView("past");
+  document.getElementById("panel").scrollIntoView({behavior:"smooth",block:"start"});
+}
+
+function buildFilters(s){
+  curStroke="all"; curPoolFilter="all"; curSw=s;
+  const all=[...s.past,...s.future];
+  // strokes present
+  const order=["חופשי","גב","חזה","פרפר","מעורב אישי","אחר"];
+  const strokes=[...new Set(all.map(r=>strokeOf(r.event)))].sort((a,b)=>order.indexOf(a)-order.indexOf(b));
+  const sSel=document.getElementById("strokeFilter");
+  sSel.innerHTML='<option value="all">כל הסגנונות</option>'+strokes.map(x=>`<option value="${esc(x)}">${esc(x)}</option>`).join("");
+  sSel.onchange=()=>{ curStroke=sSel.value; applyFilters(); };
+  // pools present
+  const pools=[...new Set(all.map(r=>r.poolLength).filter(Boolean))].sort((a,b)=>b-a);
+  const pSel=document.getElementById("poolFilter");
+  pSel.innerHTML='<option value="all">הכול</option>'+pools.map(p=>`<option value="${p}">${p} מ׳</option>`).join("");
+  pSel.onchange=()=>{ curPoolFilter=pSel.value; applyFilters(); };
+}
+function applyFilters(){ renderPast(curSw); renderFuture(curSw); drawChart(); }
+
+function renderPast(s){
+  const el=document.getElementById("view-past");
+  const rows=s.past.filter(match).sort(byDateDesc);
+  if(!rows.length){ el.innerHTML='<div class="empty">אין תוצאות עבר לסינון זה.</div>'; return; }
+  let h='<table><thead><tr><th>תאריך</th><th>תחרות</th><th>משחה</th><th>קטגוריה</th><th>בריכה</th><th>דירוג</th><th>תוצאה</th><th>ניקוד</th><th>מועדון</th></tr></thead><tbody>';
+  rows.forEach(r=>{
+    h+=`<tr><td>${fmtDate(r.date)}</td><td>${esc(r.competition)}</td><td>${esc(r.event)}</td>
+      <td>${esc(r.category)}</td><td>${pool(r.poolLength)}</td><td class="${r.place==1?'rank1':''}">${esc(r.place)}</td>
+      <td><span class="time">${esc(r.timeStr)||fmt(r.seconds)}</span></td><td>${r.points??"—"}</td><td>${esc(r.club)}</td></tr>`;
+  });
+  el.innerHTML=h+"</tbody></table>";
+}
+
+function renderFuture(s){
+  const el=document.getElementById("view-future");
+  const rows=s.future.filter(match).sort(byDateAsc);
+  if(!rows.length){ el.innerHTML='<div class="empty">אין תחרויות עתידיות לסינון זה.</div>'; return; }
+  let h='<table><thead><tr><th>תאריך</th><th>תחרות</th><th>משחה</th><th>קטגוריה</th><th>בריכה</th><th>שעת התחלה</th><th>מקצה</th><th>מסלול</th><th>זמן כניסה</th><th>מועדון</th></tr></thead><tbody>';
+  rows.forEach(r=>{
+    h+=`<tr><td>${fmtDate(r.date)}</td><td>${esc(r.competition)}</td><td>${esc(r.event)}</td>
+      <td>${esc(r.category)}</td><td>${pool(r.poolLength)}</td><td>${esc(r.startTime)}</td><td>${esc(r.heat)}</td><td>${esc(r.lane)}</td>
+      <td><span class="time">${esc(r.seedStr)||fmt(r.seedSeconds)}</span></td><td>${esc(r.club)}</td></tr>`;
+  });
+  el.innerHTML=h+"</tbody></table>";
+}
+
+// ---------- progress graph ----------
+function renderChart(s){ curSwimmer=s; drawChart(); }
+function drawChart(){
+  const s=curSwimmer; if(!s) return;
+  const pts=s.past.filter(r=>r.seconds!=null && r.date && match(r));
+  const bothPools=(curPoolFilter==="all");
+  const note=document.getElementById("poolNote");
+  note.textContent = bothPools ? "מוצג 25 מ׳ ו-50 מ׳ בנפרד — קו נפרד (וצבע) לכל אורך בריכה"
+                               : ("מוצג לפי בריכת "+curPoolFilter+" מ׳");
+  const box=document.getElementById("view-chart").querySelector(".chartbox");
+  if(chart){ chart.destroy(); chart=null; }
+  if(!pts.length){ box.innerHTML='<div class="empty">אין נתוני זמן לסינון זה.</div>'; return; }
+  if(!box.querySelector("canvas")) box.innerHTML='<canvas id="chart"></canvas>';
+  const canvas=document.getElementById("chart");
+  const dates=[...new Set(pts.map(r=>r.date))].sort();
+  const grp=r=> bothPools ? (r.event+" · "+(r.poolLength||"?")+"מ׳") : r.event;
+  const byEvent={};
+  pts.forEach(r=>{ (byEvent[grp(r)]=byEvent[grp(r)]||[]).push(r); });
+  const datasets=Object.keys(byEvent).map((ev,i)=>{
+    const c=palette[i%palette.length];
+    const data=dates.map(d=>{
+      const rows=byEvent[ev].filter(r=>r.date===d);
+      return rows.length? Math.min(...rows.map(r=>r.seconds)) : null;
+    });
+    return {label:ev,data,borderColor:c,backgroundColor:c,spanGaps:true,tension:.3,
+            showLine:true,pointRadius:3,pointHoverRadius:6,pointBackgroundColor:c,borderWidth:3};
+  });
+  chart=new Chart(canvas,{type:"line",
+    data:{labels:dates.map(fmtDate),datasets},
+    options:{responsive:true,maintainAspectRatio:false,
+      plugins:{legend:{position:"bottom",labels:{usePointStyle:true,font:{size:12}}},
+        tooltip:{callbacks:{label:c=>c.dataset.label+": "+fmt(c.parsed.y)}}},
+      scales:{
+        y:{reverse:true,title:{display:true,text:"זמן (דקות:שניות) — למעלה = מהיר יותר"},ticks:{callback:v=>fmt(v)}},
+        x:{title:{display:true,text:"תאריך התחרות"}}}}});
+}
+
+// ---------- recent searches ----------
+const RECENT_KEY="swimRecent";
+function getRecent(){ try{return JSON.parse(localStorage.getItem(RECENT_KEY))||[];}catch(e){return [];} }
+function recordRecent(s){
+  let r=getRecent().filter(x=>x.id!==s.id);
+  r.unshift({id:s.id,name:s.displayName}); r=r.slice(0,8);
+  try{localStorage.setItem(RECENT_KEY,JSON.stringify(r));}catch(e){}
+  renderChips();
+}
+function renderChips(){
+  const chips=document.getElementById("chips"); chips.innerHTML="";
+  const r=getRecent(); if(!r.length) return;
+  const lbl=document.createElement("span"); lbl.className="flabel";
+  lbl.style.marginInlineEnd="4px"; lbl.textContent="חיפושים אחרונים:";
+  chips.appendChild(lbl);
+  r.forEach(x=>{ const c=document.createElement("span"); c.className="chip"; c.textContent=x.name;
+    c.onclick=()=>{ q.value=x.name; if(SW[x.id]) select(x.id); else search(x.name); };
+    chips.appendChild(c); });
+}
+
+// ---------- tabs ----------
+document.querySelectorAll(".tab").forEach(t=>t.onclick=()=>setView(t.dataset.view));
+function setView(v){
+  document.querySelectorAll(".tab").forEach(t=>t.classList.toggle("active",t.dataset.view===v));
+  document.querySelectorAll(".view").forEach(el=>el.classList.toggle("active",el.id==="view-"+v));
+  if(v==="chart"&&chart) chart.resize();
+}
+
+// ---------- init ----------
+(function(){
+  const nP=list.reduce((a,s)=>a+s.past.length,0), nF=list.reduce((a,s)=>a+s.future.length,0);
+  hint.textContent=`${list.length} שחיינים במאגר · ${nP} תוצאות · ${nF} רישומים עתידיים${D.isSeedSample?"  (מדגם לדוגמה)":""}`;
+  renderChips();
+  const st=document.getElementById("status");
+  let base="המאגר עודכן לאחרונה: "+esc(D.generated||"—");
+  if(D.lastChecked) base+=" · נבדק: "+esc(D.lastChecked);
+  if(D.newThisRun>0){
+    st.classList.add("new");
+    let html="🆕 נוספו "+D.newThisRun+" תוצאות חדשות בעדכון האחרון · "+base;
+    if(D.newComps && D.newComps.length){
+      html+='<div style="margin-top:6px;font-weight:400;font-size:12.5px">תחרויות שעודכנו: '
+        + D.newComps.map(c=>esc(c.name)+" ("+fmtDate(c.date)+")").join(" · ") + '</div>';
+    }
+    st.innerHTML=html;
+  } else {
+    st.textContent=base;
+  }
+  document.getElementById("foot").textContent=`מקור נתונים: isr.org.il ← loglig.com`;
+})();
+</script>
+</body>
+</html>
