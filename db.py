@@ -76,6 +76,15 @@ def count_results(con):
 def has_comp(con, comp_id):
     return con.execute("SELECT 1 FROM result WHERE comp_id=? LIMIT 1", (comp_id,)).fetchone() is not None
 
+def comp_has_placeholder(con, comp_id):
+    """True if this competition still holds seed/placeholder rows (empty 'place'),
+    i.e. it was stored from a start list before the meet actually happened."""
+    return con.execute("SELECT 1 FROM result WHERE comp_id=? AND (place='' OR place IS NULL) LIMIT 1",
+                       (comp_id,)).fetchone() is not None
+
+def delete_results_for_comp(con, comp_id):
+    con.execute("DELETE FROM result WHERE comp_id=?", (comp_id,)); con.commit()
+
 def swimmer_key(full_name, year):
     toks = sorted(str(full_name).split())
     return f"{year}|" + "·".join(toks)

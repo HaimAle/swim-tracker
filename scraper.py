@@ -229,8 +229,10 @@ def crawl(isr_ids, con, log):
         date = ev_data["date"]
         pool = detect_course(loglig, info["name"])
         is_future = bool(date) and datetime.date.fromisoformat(date) >= today
-        # skip meets that finished > 14 days ago and are already stored (results won't change)
-        if date and not is_future and DB.has_comp(con, loglig):
+        # skip meets that finished > 14 days ago and already have REAL results (won't change).
+        # Meets still holding seed placeholders are NOT skipped, so real results replace them.
+        if (date and not is_future and DB.has_comp(con, loglig)
+                and not DB.comp_has_placeholder(con, loglig)):
             if datetime.date.fromisoformat(date) < today - datetime.timedelta(days=14):
                 continue
         log(f"  comp {isr_id} -> loglig {loglig}  {date}  [{pool}m]  {info['name'][:38]}")
@@ -262,6 +264,8 @@ def crawl(isr_ids, con, log):
             time.sleep(SLEEP)
         was_present = DB.has_comp(con, loglig)
         if past_rows:
+            if DB.comp_has_placeholder(con, loglig):
+                DB.delete_results_for_comp(con, loglig)   # drop seed placeholders before real results
             DB.save_results(con, past_rows); n_past += len(past_rows)
             DB.clear_future_for_comp(con, loglig)  # it happened -> drop stale start list
             if not was_present:   # brand-new competition with results this run
