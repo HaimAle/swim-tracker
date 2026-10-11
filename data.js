@@ -274684,7 +274684,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "DQ / SW 6.5",
      "seconds": null,
-     "place": "25",
+     "place": "38",
      "points": 0
     },
     {
@@ -274697,7 +274697,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:33.35",
      "seconds": 33.35,
-     "place": "1",
+     "place": "2",
      "points": 432
     },
     {
@@ -274710,7 +274710,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:33.79",
      "seconds": 33.79,
-     "place": "8",
+     "place": "11",
      "points": 355
     }
    ],
@@ -277111,7 +277111,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "01:23.16",
      "seconds": 83.16,
-     "place": "7",
+     "place": "13",
      "points": 291
     },
     {
@@ -277124,7 +277124,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:45.95",
      "seconds": 45.95,
-     "place": "12",
+     "place": "17",
      "points": 235
     },
     {
@@ -277137,7 +277137,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:36.04",
      "seconds": 36.04,
-     "place": "14",
+     "place": "20",
      "points": 293
     }
    ],
@@ -278611,10 +278611,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "27",
-     "points": 0
+     "timeStr": "01:25.93",
+     "seconds": 85.93,
+     "place": "20",
+     "points": 263
     },
     {
      "date": "2026-10-09",
@@ -278626,7 +278626,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:36.60",
      "seconds": 36.6,
-     "place": "4",
+     "place": "7",
      "points": 327
     },
     {
@@ -278637,10 +278637,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "32",
-     "points": 0
+     "timeStr": "00:31.92",
+     "seconds": 31.92,
+     "place": "11",
+     "points": 365
     },
     {
      "date": "2026-10-09",
@@ -278650,10 +278650,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "24",
-     "points": 0
+     "timeStr": "00:37.00",
+     "seconds": 37.0,
+     "place": "22",
+     "points": 270
     }
    ],
    "future": []
@@ -280436,10 +280436,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "41",
-     "points": 0
+     "timeStr": "01:12.85",
+     "seconds": 72.85,
+     "place": "16",
+     "points": 309
     },
     {
      "date": "2026-10-09",
@@ -280451,7 +280451,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:28.18",
      "seconds": 28.18,
-     "place": "12",
+     "place": "16",
      "points": 352
     },
     {
@@ -280462,10 +280462,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "31",
-     "points": 0
+     "timeStr": "00:30.88",
+     "seconds": 30.88,
+     "place": "17",
+     "points": 329
     }
    ],
    "future": []
@@ -283522,10 +283522,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "41",
-     "points": 0
+     "timeStr": "01:04.90",
+     "seconds": 64.9,
+     "place": "7",
+     "points": 437
     },
     {
      "date": "2026-10-09",
@@ -283550,7 +283550,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:25.81",
      "seconds": 25.81,
-     "place": "4",
+     "place": "5",
      "points": 458
     },
     {
@@ -283563,7 +283563,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:27.59",
      "seconds": 27.59,
-     "place": "2",
+     "place": "3",
      "points": 461
     }
    ],
@@ -283951,7 +283951,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "01:19.94",
      "seconds": 79.94,
-     "place": "21",
+     "place": "32",
      "points": 234
     },
     {
@@ -283962,10 +283962,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "27",
-     "points": 0
+     "timeStr": "00:32.85",
+     "seconds": 32.85,
+     "place": "9",
+     "points": 304
     },
     {
      "date": "2026-10-09",
@@ -283977,7 +283977,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:29.72",
      "seconds": 29.72,
-     "place": "14",
+     "place": "22",
      "points": 300
     },
     {
@@ -283988,10 +283988,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "31",
-     "points": 0
+     "timeStr": "00:31.31",
+     "seconds": 31.31,
+     "place": "21",
+     "points": 315
     }
    ],
    "future": []
@@ -284248,7 +284248,7 @@ window.SWIM_DATA = {
      "club": "מכבי אושן חדרה",
      "timeStr": "01:14.00",
      "seconds": 74.0,
-     "place": "14",
+     "place": "21",
      "points": 295
     },
     {
@@ -284259,10 +284259,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "מכבי אושן חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "39",
-     "points": 0
+     "timeStr": "00:28.99",
+     "seconds": 28.99,
+     "place": "18",
+     "points": 323
     },
     {
      "date": "2026-10-09",
@@ -284274,7 +284274,7 @@ window.SWIM_DATA = {
      "club": "מכבי אושן חדרה",
      "timeStr": "00:30.96",
      "seconds": 30.96,
-     "place": "13",
+     "place": "18",
      "points": 326
     }
    ],
@@ -284779,7 +284779,7 @@ window.SWIM_DATA = {
      "club": "מכבי אושן חדרה",
      "timeStr": "01:11.82",
      "seconds": 71.82,
-     "place": "10",
+     "place": "14",
      "points": 323
     },
     {
@@ -284792,7 +284792,7 @@ window.SWIM_DATA = {
      "club": "מכבי אושן חדרה",
      "timeStr": "00:33.50",
      "seconds": 33.5,
-     "place": "8",
+     "place": "11",
      "points": 287
     },
     {
@@ -284803,10 +284803,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "מכבי אושן חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "39",
-     "points": 0
+     "timeStr": "00:29.29",
+     "seconds": 29.29,
+     "place": "20",
+     "points": 313
     }
    ],
    "future": []
@@ -285063,7 +285063,7 @@ window.SWIM_DATA = {
      "club": "מכבי אושן חדרה",
      "timeStr": "01:13.13",
      "seconds": 73.13,
-     "place": "12",
+     "place": "17",
      "points": 306
     },
     {
@@ -285087,10 +285087,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "מכבי אושן חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "39",
-     "points": 0
+     "timeStr": "00:28.34",
+     "seconds": 28.34,
+     "place": "17",
+     "points": 346
     }
    ],
    "future": []
@@ -286849,7 +286849,7 @@ window.SWIM_DATA = {
      "club": "מכבי כוכב יאיר - צור יגאל",
      "timeStr": "01:22.35",
      "seconds": 82.35,
-     "place": "27",
+     "place": "41",
      "points": 214
     },
     {
@@ -286862,7 +286862,7 @@ window.SWIM_DATA = {
      "club": "מכבי כוכב יאיר - צור יגאל",
      "timeStr": "00:36.70",
      "seconds": 36.7,
-     "place": "12",
+     "place": "17",
      "points": 218
     },
     {
@@ -286873,10 +286873,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "מכבי כוכב יאיר - צור יגאל",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "31",
-     "points": 0
+     "timeStr": "00:34.23",
+     "seconds": 34.23,
+     "place": "30",
+     "points": 241
     }
    ],
    "future": []
@@ -288534,10 +288534,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "27",
-     "points": 0
+     "timeStr": "01:14.70",
+     "seconds": 74.7,
+     "place": "6",
+     "points": 401
     },
     {
      "date": "2026-10-09",
@@ -288549,7 +288549,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:32.12",
      "seconds": 32.12,
-     "place": "6",
+     "place": "12",
      "points": 359
     },
     {
@@ -288560,10 +288560,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "24",
-     "points": 0
+     "timeStr": "00:33.58",
+     "seconds": 33.58,
+     "place": "10",
+     "points": 362
     }
    ],
    "future": []
@@ -290307,10 +290307,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "27",
-     "points": 0
+     "timeStr": "01:13.76",
+     "seconds": 73.76,
+     "place": "3",
+     "points": 417
     },
     {
      "date": "2026-10-09",
@@ -290320,10 +290320,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "32",
-     "points": 0
+     "timeStr": "00:30.27",
+     "seconds": 30.27,
+     "place": "4",
+     "points": 429
     },
     {
      "date": "2026-10-09",
@@ -290335,7 +290335,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:31.40",
      "seconds": 31.4,
-     "place": "3",
+     "place": "2",
      "points": 443
     }
    ],
@@ -293571,10 +293571,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל פליפר חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "41",
-     "points": 0
+     "timeStr": "01:08.46",
+     "seconds": 68.46,
+     "place": "11",
+     "points": 372
     },
     {
      "date": "2026-10-09",
@@ -293586,7 +293586,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:36.36",
      "seconds": 36.36,
-     "place": "4",
+     "place": "8",
      "points": 323
     },
     {
@@ -293597,10 +293597,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל פליפר חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "31",
-     "points": 0
+     "timeStr": "00:29.38",
+     "seconds": 29.38,
+     "place": "13",
+     "points": 382
     }
    ],
    "future": []
@@ -295205,7 +295205,7 @@ window.SWIM_DATA = {
      "club": "מכבי אושן חדרה",
      "timeStr": "01:16.98",
      "seconds": 76.98,
-     "place": "17",
+     "place": "25",
      "points": 262
     },
     {
@@ -295216,10 +295216,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "מכבי אושן חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "27",
-     "points": 0
+     "timeStr": "00:32.53",
+     "seconds": 32.53,
+     "place": "8",
+     "points": 313
     },
     {
      "date": "2026-10-09",
@@ -295231,7 +295231,7 @@ window.SWIM_DATA = {
      "club": "מכבי אושן חדרה",
      "timeStr": "00:28.05",
      "seconds": 28.05,
-     "place": "10",
+     "place": "14",
      "points": 357
     }
    ],
@@ -296382,10 +296382,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "27",
-     "points": 0
+     "timeStr": "00:32.13",
+     "seconds": 32.13,
+     "place": "7",
+     "points": 325
     },
     {
      "date": "2026-10-09",
@@ -296395,10 +296395,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "39",
-     "points": 0
+     "timeStr": "00:27.13",
+     "seconds": 27.13,
+     "place": "9",
+     "points": 394
     },
     {
      "date": "2026-10-09",
@@ -296410,7 +296410,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:30.15",
      "seconds": 30.15,
-     "place": "11",
+     "place": "15",
      "points": 353
     }
    ],
@@ -297342,7 +297342,7 @@ window.SWIM_DATA = {
      "club": "מכבי כוכב יאיר - צור יגאל",
      "timeStr": "DQ / SW 6.5",
      "seconds": null,
-     "place": "40",
+     "place": "61",
      "points": 0
     },
     {
@@ -297353,10 +297353,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "מכבי כוכב יאיר - צור יגאל",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "22",
-     "points": 0
+     "timeStr": "00:37.30",
+     "seconds": 37.3,
+     "place": "11",
+     "points": 299
     },
     {
      "date": "2026-10-09",
@@ -297368,7 +297368,7 @@ window.SWIM_DATA = {
      "club": "מכבי כוכב יאיר - צור יגאל",
      "timeStr": "00:29.16",
      "seconds": 29.16,
-     "place": "9",
+     "place": "11",
      "points": 390
     }
    ],
@@ -298495,7 +298495,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "01:17.93",
      "seconds": 77.93,
-     "place": "18",
+     "place": "27",
      "points": 252
     },
     {
@@ -298508,7 +298508,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:39.64",
      "seconds": 39.64,
-     "place": "17",
+     "place": "25",
      "points": 173
     },
     {
@@ -298521,7 +298521,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:41.16",
      "seconds": 41.16,
-     "place": "9",
+     "place": "16",
      "points": 222
     },
     {
@@ -298534,7 +298534,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:34.68",
      "seconds": 34.68,
-     "place": "23",
+     "place": "32",
      "points": 232
     }
    ],
@@ -303389,7 +303389,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "01:17.15",
      "seconds": 77.15,
-     "place": "3",
+     "place": "7",
      "points": 364
     },
     {
@@ -303402,7 +303402,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:31.16",
      "seconds": 31.16,
-     "place": "3",
+     "place": "7",
      "points": 393
     },
     {
@@ -303415,7 +303415,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:38.60",
      "seconds": 38.6,
-     "place": "2",
+     "place": "3",
      "points": 397
     },
     {
@@ -303426,10 +303426,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "24",
-     "points": 0
+     "timeStr": "00:34.05",
+     "seconds": 34.05,
+     "place": "13",
+     "points": 347
     }
    ],
    "future": []
@@ -306485,7 +306485,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "01:06.23",
      "seconds": 66.23,
-     "place": "6",
+     "place": "8",
      "points": 411
     },
     {
@@ -306498,7 +306498,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:32.68",
      "seconds": 32.68,
-     "place": "2",
+     "place": "4",
      "points": 445
     },
     {
@@ -306511,7 +306511,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:30.86",
      "seconds": 30.86,
-     "place": "12",
+     "place": "16",
      "points": 329
     }
    ],
@@ -307911,7 +307911,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "DNS",
      "seconds": null,
-     "place": "38",
+     "place": "57",
      "points": 0
     },
     {
@@ -307924,7 +307924,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "DNS",
      "seconds": null,
-     "place": "26",
+     "place": "37",
      "points": 0
     },
     {
@@ -307937,7 +307937,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "DNS",
      "seconds": null,
-     "place": "20",
+     "place": "32",
      "points": 0
     }
    ],
@@ -309491,7 +309491,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "01:13.45",
      "seconds": 73.45,
-     "place": "13",
+     "place": "18",
      "points": 302
     },
     {
@@ -309502,10 +309502,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "31",
-     "points": 0
+     "timeStr": "00:31.56",
+     "seconds": 31.56,
+     "place": "22",
+     "points": 308
     }
    ],
    "future": []
@@ -310360,7 +310360,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "01:16.29",
      "seconds": 76.29,
-     "place": "16",
+     "place": "24",
      "points": 269
     },
     {
@@ -310371,10 +310371,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "31",
-     "points": 0
+     "timeStr": "00:31.04",
+     "seconds": 31.04,
+     "place": "19",
+     "points": 324
     }
    ],
    "future": []
@@ -311047,7 +311047,7 @@ window.SWIM_DATA = {
      "club": "מכבי כוכב יאיר - צור יגאל",
      "timeStr": "01:12.62",
      "seconds": 72.62,
-     "place": "11",
+     "place": "15",
      "points": 312
     },
     {
@@ -311058,10 +311058,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "מכבי כוכב יאיר - צור יגאל",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "22",
-     "points": 0
+     "timeStr": "00:36.86",
+     "seconds": 36.86,
+     "place": "9",
+     "points": 310
     },
     {
      "date": "2026-10-09",
@@ -311071,10 +311071,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "מכבי כוכב יאיר - צור יגאל",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "31",
-     "points": 0
+     "timeStr": "00:29.60",
+     "seconds": 29.6,
+     "place": "14",
+     "points": 373
     }
    ],
    "future": []
@@ -313295,9 +313295,9 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
+     "timeStr": "DNS",
      "seconds": null,
-     "place": "41",
+     "place": "57",
      "points": 0
     },
     {
@@ -313308,9 +313308,9 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
+     "timeStr": "DNS",
      "seconds": null,
-     "place": "27",
+     "place": "37",
      "points": 0
     },
     {
@@ -313323,7 +313323,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "DNS",
      "seconds": null,
-     "place": "20",
+     "place": "32",
      "points": 0
     },
     {
@@ -313334,9 +313334,9 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
+     "timeStr": "DNS",
      "seconds": null,
-     "place": "31",
+     "place": "44",
      "points": 0
     }
    ],
@@ -314978,10 +314978,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "מכבי כוכב יאיר - צור יגאל",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "41",
-     "points": 0
+     "timeStr": "01:17.66",
+     "seconds": 77.66,
+     "place": "26",
+     "points": 255
     },
     {
      "date": "2026-10-09",
@@ -314993,7 +314993,7 @@ window.SWIM_DATA = {
      "club": "מכבי כוכב יאיר - צור יגאל",
      "timeStr": "00:33.10",
      "seconds": 33.1,
-     "place": "7",
+     "place": "10",
      "points": 298
     },
     {
@@ -315006,7 +315006,7 @@ window.SWIM_DATA = {
      "club": "מכבי כוכב יאיר - צור יגאל",
      "timeStr": "00:29.89",
      "seconds": 29.89,
-     "place": "15",
+     "place": "23",
      "points": 295
     }
    ],
@@ -316146,7 +316146,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:35.31",
      "seconds": 35.31,
-     "place": "2",
+     "place": "4",
      "points": 364
     },
     {
@@ -316159,7 +316159,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:31.74",
      "seconds": 31.74,
-     "place": "4",
+     "place": "9",
      "points": 372
     },
     {
@@ -316170,10 +316170,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "24",
-     "points": 0
+     "timeStr": "00:34.26",
+     "seconds": 34.26,
+     "place": "14",
+     "points": 341
     }
    ],
    "future": []
@@ -319323,7 +319323,7 @@ window.SWIM_DATA = {
      "club": "מכבי כוכב יאיר - צור יגאל",
      "timeStr": "01:25.29",
      "seconds": 85.29,
-     "place": "12",
+     "place": "19",
      "points": 269
     },
     {
@@ -319336,7 +319336,7 @@ window.SWIM_DATA = {
      "club": "מכבי כוכב יאיר - צור יגאל",
      "timeStr": "00:33.73",
      "seconds": 33.73,
-     "place": "17",
+     "place": "26",
      "points": 310
     },
     {
@@ -319349,7 +319349,7 @@ window.SWIM_DATA = {
      "club": "מכבי כוכב יאיר - צור יגאל",
      "timeStr": "00:37.45",
      "seconds": 37.45,
-     "place": "15",
+     "place": "23",
      "points": 261
     }
    ],
@@ -319711,7 +319711,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "01:32.22",
      "seconds": 92.22,
-     "place": "18",
+     "place": "27",
      "points": 213
     },
     {
@@ -319722,10 +319722,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "17",
-     "points": 0
+     "timeStr": "00:40.96",
+     "seconds": 40.96,
+     "place": "16",
+     "points": 233
     },
     {
      "date": "2026-10-09",
@@ -319737,7 +319737,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:37.26",
      "seconds": 37.26,
-     "place": "26",
+     "place": "36",
      "points": 230
     },
     {
@@ -319750,7 +319750,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:37.58",
      "seconds": 37.58,
-     "place": "18",
+     "place": "26",
      "points": 258
     }
    ],
@@ -320294,7 +320294,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "01:23.67",
      "seconds": 83.67,
-     "place": "9",
+     "place": "15",
      "points": 285
     },
     {
@@ -320305,10 +320305,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "17",
-     "points": 0
+     "timeStr": "00:37.81",
+     "seconds": 37.81,
+     "place": "13",
+     "points": 297
     },
     {
      "date": "2026-10-09",
@@ -320318,10 +320318,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "32",
-     "points": 0
+     "timeStr": "00:32.68",
+     "seconds": 32.68,
+     "place": "18",
+     "points": 340
     },
     {
      "date": "2026-10-09",
@@ -320331,10 +320331,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "24",
-     "points": 0
+     "timeStr": "00:33.51",
+     "seconds": 33.51,
+     "place": "9",
+     "points": 364
     }
    ],
    "future": []
@@ -324232,7 +324232,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:28.05",
      "seconds": 28.05,
-     "place": "10",
+     "place": "14",
      "points": 357
     },
     {
@@ -324245,7 +324245,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:28.19",
      "seconds": 28.19,
-     "place": "7",
+     "place": "9",
      "points": 432
     }
    ],
@@ -326434,9 +326434,9 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "timeStr": "NS",
+     "timeStr": "DNS",
      "seconds": null,
-     "place": "41",
+     "place": "57",
      "points": 0
     },
     {
@@ -326447,10 +326447,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "22",
-     "points": 0
+     "timeStr": "00:34.59",
+     "seconds": 34.59,
+     "place": "6",
+     "points": 375
     },
     {
      "date": "2026-10-09",
@@ -326462,7 +326462,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:31.09",
      "seconds": 31.09,
-     "place": "14",
+     "place": "20",
      "points": 322
     }
    ],
@@ -329633,10 +329633,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "27",
-     "points": 0
+     "timeStr": "01:14.58",
+     "seconds": 74.58,
+     "place": "5",
+     "points": 403
     },
     {
      "date": "2026-10-09",
@@ -329648,7 +329648,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:30.27",
      "seconds": 30.27,
-     "place": "2",
+     "place": "4",
      "points": 429
     },
     {
@@ -329659,10 +329659,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "24",
-     "points": 0
+     "timeStr": "00:31.63",
+     "seconds": 31.63,
+     "place": "4",
+     "points": 433
     }
    ],
    "future": []
@@ -331204,7 +331204,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:36.87",
      "seconds": 36.87,
-     "place": "6",
+     "place": "9",
      "points": 320
     },
     {
@@ -331217,7 +331217,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:31.79",
      "seconds": 31.79,
-     "place": "5",
+     "place": "10",
      "points": 370
     }
    ],
@@ -332097,10 +332097,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "17",
-     "points": 0
+     "timeStr": "00:36.91",
+     "seconds": 36.91,
+     "place": "10",
+     "points": 319
     },
     {
      "date": "2026-10-09",
@@ -332112,7 +332112,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:32.49",
      "seconds": 32.49,
-     "place": "9",
+     "place": "16",
      "points": 346
     }
    ],
@@ -333018,10 +333018,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "27",
-     "points": 0
+     "timeStr": "01:23.83",
+     "seconds": 83.83,
+     "place": "16",
+     "points": 284
     },
     {
      "date": "2026-10-09",
@@ -333033,7 +333033,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:45.12",
      "seconds": 45.12,
-     "place": "10",
+     "place": "15",
      "points": 248
     }
    ],
@@ -333861,7 +333861,7 @@ window.SWIM_DATA = {
      "club": "מכבי אושן חדרה",
      "timeStr": "01:35.07",
      "seconds": 95.07,
-     "place": "20",
+     "place": "30",
      "points": 194
     },
     {
@@ -333872,10 +333872,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "מכבי אושן חדרה",
-     "timeStr": "NS",
-     "seconds": null,
+     "timeStr": "00:42.18",
+     "seconds": 42.18,
      "place": "17",
-     "points": 0
+     "points": 214
     },
     {
      "date": "2026-10-09",
@@ -333887,7 +333887,7 @@ window.SWIM_DATA = {
      "club": "מכבי אושן חדרה",
      "timeStr": "00:35.65",
      "seconds": 35.65,
-     "place": "22",
+     "place": "32",
      "points": 262
     }
    ],
@@ -334390,10 +334390,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "27",
-     "points": 0
+     "timeStr": "01:21.98",
+     "seconds": 81.98,
+     "place": "11",
+     "points": 303
     },
     {
      "date": "2026-10-09",
@@ -334405,7 +334405,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:37.76",
      "seconds": 37.76,
-     "place": "8",
+     "place": "12",
      "points": 298
     },
     {
@@ -334418,7 +334418,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:32.60",
      "seconds": 32.6,
-     "place": "10",
+     "place": "17",
      "points": 343
     },
     {
@@ -334431,7 +334431,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:35.00",
      "seconds": 35.0,
-     "place": "10",
+     "place": "16",
      "points": 320
     }
    ],
@@ -335842,10 +335842,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "41",
-     "points": 0
+     "timeStr": "01:13.75",
+     "seconds": 73.75,
+     "place": "19",
+     "points": 298
     },
     {
      "date": "2026-10-09",
@@ -335857,7 +335857,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:34.35",
      "seconds": 34.35,
-     "place": "9",
+     "place": "13",
      "points": 266
     }
    ],
@@ -337475,7 +337475,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:35.41",
      "seconds": 35.41,
-     "place": "20",
+     "place": "30",
      "points": 268
     },
     {
@@ -337486,10 +337486,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל פליפר חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "24",
-     "points": 0
+     "timeStr": "00:36.72",
+     "seconds": 36.72,
+     "place": "21",
+     "points": 277
     }
    ],
    "future": []
@@ -337927,10 +337927,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל פליפר חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "32",
-     "points": 0
+     "timeStr": "00:33.41",
+     "seconds": 33.41,
+     "place": "23",
+     "points": 319
     },
     {
      "date": "2026-10-09",
@@ -337942,7 +337942,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:35.94",
      "seconds": 35.94,
-     "place": "12",
+     "place": "18",
      "points": 295
     }
    ],
@@ -339082,7 +339082,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "01:18.36",
      "seconds": 78.36,
-     "place": "19",
+     "place": "29",
      "points": 248
     },
     {
@@ -339095,7 +339095,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:29.90",
      "seconds": 29.9,
-     "place": "16",
+     "place": "24",
      "points": 294
     },
     {
@@ -339108,7 +339108,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:41.55",
      "seconds": 41.55,
-     "place": "10",
+     "place": "17",
      "points": 216
     },
     {
@@ -339121,7 +339121,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:31.65",
      "seconds": 31.65,
-     "place": "15",
+     "place": "23",
      "points": 305
     }
    ],
@@ -343336,7 +343336,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:43.76",
      "seconds": 43.76,
-     "place": "8",
+     "place": "13",
      "points": 272
     },
     {
@@ -343349,7 +343349,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:37.53",
      "seconds": 37.53,
-     "place": "17",
+     "place": "25",
      "points": 259
     }
    ],
@@ -343906,7 +343906,7 @@ window.SWIM_DATA = {
      "club": "מכבי כוכב יאיר - צור יגאל",
      "timeStr": "01:24.50",
      "seconds": 84.5,
-     "place": "10",
+     "place": "17",
      "points": 277
     },
     {
@@ -343919,7 +343919,7 @@ window.SWIM_DATA = {
      "club": "מכבי כוכב יאיר - צור יגאל",
      "timeStr": "00:34.09",
      "seconds": 34.09,
-     "place": "18",
+     "place": "27",
      "points": 300
     },
     {
@@ -343932,7 +343932,7 @@ window.SWIM_DATA = {
      "club": "מכבי כוכב יאיר - צור יגאל",
      "timeStr": "00:40.75",
      "seconds": 40.75,
-     "place": "4",
+     "place": "7",
      "points": 337
     }
    ],
@@ -344944,7 +344944,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "01:07.23",
      "seconds": 67.23,
-     "place": "8",
+     "place": "10",
      "points": 393
     },
     {
@@ -344957,7 +344957,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:27.40",
      "seconds": 27.4,
-     "place": "8",
+     "place": "11",
      "points": 383
     },
     {
@@ -344968,10 +344968,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "22",
-     "points": 0
+     "timeStr": "00:35.13",
+     "seconds": 35.13,
+     "place": "7",
+     "points": 358
     }
    ],
    "future": []
@@ -345969,7 +345969,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "01:04.71",
      "seconds": 64.71,
-     "place": "5",
+     "place": "6",
      "points": 441
     },
     {
@@ -345995,7 +345995,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:27.33",
      "seconds": 27.33,
-     "place": "7",
+     "place": "10",
      "points": 386
     }
    ],
@@ -347122,10 +347122,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "17",
-     "points": 0
+     "timeStr": "00:38.00",
+     "seconds": 38.0,
+     "place": "2",
+     "points": 416
     },
     {
      "date": "2026-10-09",
@@ -350016,7 +350016,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "01:09.97",
      "seconds": 69.97,
-     "place": "9",
+     "place": "13",
      "points": 349
     },
     {
@@ -350027,10 +350027,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "39",
-     "points": 0
+     "timeStr": "00:27.73",
+     "seconds": 27.73,
+     "place": "13",
+     "points": 369
     },
     {
      "date": "2026-10-09",
@@ -350042,7 +350042,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:32.80",
      "seconds": 32.8,
-     "place": "3",
+     "place": "5",
      "points": 440
     }
    ],
@@ -350690,7 +350690,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "01:15.90",
      "seconds": 75.9,
-     "place": "15",
+     "place": "23",
      "points": 273
     },
     {
@@ -350703,7 +350703,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:39.62",
      "seconds": 39.62,
-     "place": "7",
+     "place": "13",
      "points": 249
     },
     {
@@ -350716,7 +350716,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:32.83",
      "seconds": 32.83,
-     "place": "18",
+     "place": "26",
      "points": 273
     }
    ],
@@ -353178,7 +353178,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "01:06.94",
      "seconds": 66.94,
-     "place": "7",
+     "place": "9",
      "points": 398
     },
     {
@@ -353191,7 +353191,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:28.45",
      "seconds": 28.45,
-     "place": "8",
+     "place": "10",
      "points": 420
     }
    ],
@@ -353889,10 +353889,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "41",
-     "points": 0
+     "timeStr": "01:13.97",
+     "seconds": 73.97,
+     "place": "20",
+     "points": 295
     },
     {
      "date": "2026-10-09",
@@ -353904,7 +353904,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:38.44",
      "seconds": 38.44,
-     "place": "6",
+     "place": "12",
      "points": 273
     },
     {
@@ -353917,7 +353917,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:32.22",
      "seconds": 32.22,
-     "place": "17",
+     "place": "25",
      "points": 289
     }
    ],
@@ -355911,7 +355911,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "01:21.06",
      "seconds": 81.06,
-     "place": "22",
+     "place": "34",
      "points": 224
     },
     {
@@ -355924,7 +355924,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:31.35",
      "seconds": 31.35,
-     "place": "19",
+     "place": "29",
      "points": 255
     },
     {
@@ -355937,7 +355937,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:41.06",
      "seconds": 41.06,
-     "place": "8",
+     "place": "15",
      "points": 224
     },
     {
@@ -355950,7 +355950,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "DQ / SW 8.5",
      "seconds": null,
-     "place": "30",
+     "place": "45",
      "points": 0
     }
    ],
@@ -356982,7 +356982,7 @@ window.SWIM_DATA = {
      "club": "מכבי אושן חדרה",
      "timeStr": "01:27.15",
      "seconds": 87.15,
-     "place": "14",
+     "place": "23",
      "points": 252
     },
     {
@@ -356993,10 +356993,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "מכבי אושן חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "32",
-     "points": 0
+     "timeStr": "00:34.91",
+     "seconds": 34.91,
+     "place": "29",
+     "points": 279
     },
     {
      "date": "2026-10-09",
@@ -357008,7 +357008,7 @@ window.SWIM_DATA = {
      "club": "מכבי אושן חדרה",
      "timeStr": "00:35.94",
      "seconds": 35.94,
-     "place": "12",
+     "place": "18",
      "points": 295
     }
    ],
@@ -358122,10 +358122,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "41",
-     "points": 0
+     "timeStr": "01:02.28",
+     "seconds": 62.28,
+     "place": "3",
+     "points": 495
     },
     {
      "date": "2026-10-09",
@@ -358135,10 +358135,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "22",
-     "points": 0
+     "timeStr": "00:32.60",
+     "seconds": 32.6,
+     "place": "3",
+     "points": 448
     },
     {
      "date": "2026-10-09",
@@ -358150,7 +358150,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:28.16",
      "seconds": 28.16,
-     "place": "6",
+     "place": "7",
      "points": 433
     }
    ],
@@ -359184,7 +359184,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:27.08",
      "seconds": 27.08,
-     "place": "6",
+     "place": "8",
      "points": 396
     },
     {
@@ -359197,7 +359197,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:27.80",
      "seconds": 27.8,
-     "place": "5",
+     "place": "6",
      "points": 451
     }
    ],
@@ -370266,7 +370266,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:33.85",
      "seconds": 33.85,
-     "place": "9",
+     "place": "12",
      "points": 353
     }
    ],
@@ -460018,7 +460018,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "01:27.79",
      "seconds": 87.79,
-     "place": "17",
+     "place": "26",
      "points": 247
     },
     {
@@ -460031,7 +460031,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:33.16",
      "seconds": 33.16,
-     "place": "13",
+     "place": "21",
      "points": 326
     },
     {
@@ -460044,7 +460044,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:44.68",
      "seconds": 44.68,
-     "place": "9",
+     "place": "14",
      "points": 255
     },
     {
@@ -460055,10 +460055,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "24",
-     "points": 0
+     "timeStr": "00:39.30",
+     "seconds": 39.3,
+     "place": "28",
+     "points": 226
     }
    ],
    "future": []
@@ -460562,7 +460562,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "01:27.58",
      "seconds": 87.58,
-     "place": "15",
+     "place": "24",
      "points": 249
     },
     {
@@ -460575,7 +460575,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:35.63",
      "seconds": 35.63,
-     "place": "21",
+     "place": "31",
      "points": 263
     },
     {
@@ -460588,7 +460588,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:42.30",
      "seconds": 42.3,
-     "place": "7",
+     "place": "11",
      "points": 301
     },
     {
@@ -460601,7 +460601,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:39.93",
      "seconds": 39.93,
-     "place": "19",
+     "place": "29",
      "points": 215
     }
    ],
@@ -461494,7 +461494,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "01:40.08",
      "seconds": 100.08,
-     "place": "22",
+     "place": "33",
      "points": 166
     },
     {
@@ -461505,10 +461505,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "32",
-     "points": 0
+     "timeStr": "00:40.15",
+     "seconds": 40.15,
+     "place": "42",
+     "points": 183
     },
     {
      "date": "2026-10-09",
@@ -461520,7 +461520,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:48.05",
      "seconds": 48.05,
-     "place": "13",
+     "place": "19",
      "points": 205
     }
    ],
@@ -463096,7 +463096,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "01:28.00",
      "seconds": 88.0,
-     "place": "29",
+     "place": "45",
      "points": 175
     },
     {
@@ -463107,10 +463107,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "22",
-     "points": 0
+     "timeStr": "00:44.70",
+     "seconds": 44.7,
+     "place": "21",
+     "points": 173
     },
     {
      "date": "2026-10-09",
@@ -463120,10 +463120,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "31",
-     "points": 0
+     "timeStr": "00:40.31",
+     "seconds": 40.31,
+     "place": "41",
+     "points": 147
     }
    ],
    "future": []
@@ -465051,7 +465051,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "01:33.28",
      "seconds": 93.28,
-     "place": "34",
+     "place": "52",
      "points": 147
     },
     {
@@ -465064,7 +465064,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:46.50",
      "seconds": 46.5,
-     "place": "14",
+     "place": "22",
      "points": 154
     },
     {
@@ -465075,10 +465075,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "31",
-     "points": 0
+     "timeStr": "00:44.07",
+     "seconds": 44.07,
+     "place": "42",
+     "points": 113
     }
    ],
    "future": []
@@ -465879,7 +465879,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "01:33.10",
      "seconds": 93.1,
-     "place": "33",
+     "place": "51",
      "points": 148
     },
     {
@@ -465892,7 +465892,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:35.09",
      "seconds": 35.09,
-     "place": "29",
+     "place": "45",
      "points": 182
     },
     {
@@ -465905,7 +465905,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:50.36",
      "seconds": 50.36,
-     "place": "17",
+     "place": "26",
      "points": 121
     }
    ],
@@ -466540,7 +466540,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:48.76",
      "seconds": 48.76,
-     "place": "23",
+     "place": "33",
      "points": 93
     },
     {
@@ -466553,7 +466553,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:42.29",
      "seconds": 42.29,
-     "place": "36",
+     "place": "52",
      "points": 104
     },
     {
@@ -466566,7 +466566,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:51.34",
      "seconds": 51.34,
-     "place": "18",
+     "place": "28",
      "points": 114
     }
    ],
@@ -466939,10 +466939,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "41",
-     "points": 0
+     "timeStr": "01:27.64",
+     "seconds": 87.64,
+     "place": "44",
+     "points": 177
     },
     {
      "date": "2026-10-09",
@@ -466954,7 +466954,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:38.32",
      "seconds": 38.32,
-     "place": "16",
+     "place": "23",
      "points": 192
     },
     {
@@ -466965,10 +466965,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "31",
-     "points": 0
+     "timeStr": "00:36.67",
+     "seconds": 36.67,
+     "place": "36",
+     "points": 196
     }
    ],
    "future": []
@@ -468426,10 +468426,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "41",
-     "points": 0
+     "timeStr": "01:31.88",
+     "seconds": 91.88,
+     "place": "50",
+     "points": 154
     },
     {
      "date": "2026-10-09",
@@ -468439,10 +468439,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "27",
-     "points": 0
+     "timeStr": "00:38.04",
+     "seconds": 38.04,
+     "place": "22",
+     "points": 196
     },
     {
      "date": "2026-10-09",
@@ -468454,7 +468454,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:35.23",
      "seconds": 35.23,
-     "place": "30",
+     "place": "46",
      "points": 180
     }
    ],
@@ -469012,7 +469012,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "01:23.29",
      "seconds": 83.29,
-     "place": "8",
+     "place": "14",
      "points": 289
     },
     {
@@ -469025,7 +469025,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:32.45",
      "seconds": 32.45,
-     "place": "8",
+     "place": "15",
      "points": 348
     },
     {
@@ -469038,7 +469038,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:39.77",
      "seconds": 39.77,
-     "place": "3",
+     "place": "5",
      "points": 363
     },
     {
@@ -469049,9 +469049,9 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
+     "timeStr": "DNS",
      "seconds": null,
-     "place": "24",
+     "place": "35",
      "points": 0
     }
    ],
@@ -469515,10 +469515,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "27",
-     "points": 0
+     "timeStr": "01:26.81",
+     "seconds": 86.81,
+     "place": "21",
+     "points": 255
     },
     {
      "date": "2026-10-09",
@@ -469530,7 +469530,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:38.22",
      "seconds": 38.22,
-     "place": "9",
+     "place": "14",
      "points": 287
     },
     {
@@ -469543,7 +469543,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:33.30",
      "seconds": 33.3,
-     "place": "14",
+     "place": "22",
      "points": 322
     }
    ],
@@ -470706,10 +470706,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל פליפר חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "41",
-     "points": 0
+     "timeStr": "01:19.69",
+     "seconds": 79.69,
+     "place": "30",
+     "points": 236
     },
     {
      "date": "2026-10-09",
@@ -470719,10 +470719,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל פליפר חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "27",
-     "points": 0
+     "timeStr": "00:34.21",
+     "seconds": 34.21,
+     "place": "12",
+     "points": 269
     },
     {
      "date": "2026-10-09",
@@ -470732,10 +470732,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל פליפר חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "39",
-     "points": 0
+     "timeStr": "00:30.98",
+     "seconds": 30.98,
+     "place": "25",
+     "points": 265
     }
    ],
    "future": []
@@ -471224,10 +471224,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "41",
-     "points": 0
+     "timeStr": "01:20.20",
+     "seconds": 80.2,
+     "place": "33",
+     "points": 232
     },
     {
      "date": "2026-10-09",
@@ -471237,10 +471237,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "27",
-     "points": 0
+     "timeStr": "00:35.42",
+     "seconds": 35.42,
+     "place": "14",
+     "points": 243
     },
     {
      "date": "2026-10-09",
@@ -471250,10 +471250,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "39",
-     "points": 0
+     "timeStr": "00:31.51",
+     "seconds": 31.51,
+     "place": "34",
+     "points": 251
     },
     {
      "date": "2026-10-09",
@@ -471265,7 +471265,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:34.07",
      "seconds": 34.07,
-     "place": "20",
+     "place": "28",
      "points": 245
     }
    ],
@@ -472327,7 +472327,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:37.41",
      "seconds": 37.41,
-     "place": "14",
+     "place": "20",
      "points": 206
     },
     {
@@ -472340,7 +472340,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:33.07",
      "seconds": 33.07,
-     "place": "26",
+     "place": "39",
      "points": 217
     },
     {
@@ -472351,10 +472351,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל פליפר חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "31",
-     "points": 0
+     "timeStr": "00:37.77",
+     "seconds": 37.77,
+     "place": "38",
+     "points": 179
     }
    ],
    "future": []
@@ -514701,7 +514701,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "01:25.00",
      "seconds": 85.0,
-     "place": "28",
+     "place": "42",
      "points": 194
     },
     {
@@ -514714,7 +514714,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:32.19",
      "seconds": 32.19,
-     "place": "24",
+     "place": "37",
      "points": 236
     },
     {
@@ -514727,7 +514727,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:34.56",
      "seconds": 34.56,
-     "place": "22",
+     "place": "31",
      "points": 234
     }
    ],
@@ -515360,7 +515360,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:36.50",
      "seconds": 36.5,
-     "place": "11",
+     "place": "16",
      "points": 222
     },
     {
@@ -515373,7 +515373,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:31.93",
      "seconds": 31.93,
-     "place": "22",
+     "place": "35",
      "points": 242
     },
     {
@@ -515386,7 +515386,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:44.41",
      "seconds": 44.41,
-     "place": "13",
+     "place": "20",
      "points": 177
     }
    ],
@@ -515748,7 +515748,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:42.84",
      "seconds": 42.84,
-     "place": "21",
+     "place": "29",
      "points": 137
     },
     {
@@ -515761,7 +515761,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:36.53",
      "seconds": 36.53,
-     "place": "31",
+     "place": "47",
      "points": 161
     }
    ],
@@ -516136,7 +516136,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:53.73",
      "seconds": 53.73,
-     "place": "38",
+     "place": "55",
      "points": 50
     },
     {
@@ -516147,10 +516147,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל פליפר חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "22",
-     "points": 0
+     "timeStr": "00:51.67",
+     "seconds": 51.67,
+     "place": "29",
+     "points": 112
     },
     {
      "date": "2026-10-09",
@@ -516162,7 +516162,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:39.91",
      "seconds": 39.91,
-     "place": "28",
+     "place": "39",
      "points": 152
     }
    ],
@@ -516600,10 +516600,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל פליפר חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "41",
-     "points": 0
+     "timeStr": "01:26.03",
+     "seconds": 86.03,
+     "place": "43",
+     "points": 187
     },
     {
      "date": "2026-10-09",
@@ -516613,10 +516613,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל פליפר חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "39",
-     "points": 0
+     "timeStr": "00:34.20",
+     "seconds": 34.2,
+     "place": "40",
+     "points": 197
     },
     {
      "date": "2026-10-09",
@@ -516628,7 +516628,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:43.99",
      "seconds": 43.99,
-     "place": "12",
+     "place": "19",
      "points": 182
     }
    ],
@@ -620874,10 +620874,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "39",
-     "points": 0
+     "timeStr": "00:25.83",
+     "seconds": 25.83,
+     "place": "6",
+     "points": 457
     },
     {
      "date": "2026-10-09",
@@ -620887,10 +620887,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "22",
-     "points": 0
+     "timeStr": "00:29.97",
+     "seconds": 29.97,
+     "place": "1",
+     "points": 576
     },
     {
      "date": "2026-10-09",
@@ -620902,7 +620902,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:27.74",
      "seconds": 27.74,
-     "place": "3",
+     "place": "4",
      "points": 453
     }
    ],
@@ -771076,10 +771076,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "32",
-     "points": 0
+     "timeStr": "00:30.40",
+     "seconds": 30.4,
+     "place": "6",
+     "points": 423
     },
     {
      "date": "2026-10-09",
@@ -771091,7 +771091,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:37.45",
      "seconds": 37.45,
-     "place": "15",
+     "place": "23",
      "points": 261
     }
    ],
@@ -821097,10 +821097,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל פליפר חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "32",
-     "points": 0
+     "timeStr": "00:31.45",
+     "seconds": 31.45,
+     "place": "8",
+     "points": 382
     },
     {
      "date": "2026-10-09",
@@ -821110,10 +821110,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל פליפר חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "17",
-     "points": 0
+     "timeStr": "00:39.75",
+     "seconds": 39.75,
+     "place": "4",
+     "points": 363
     }
    ],
    "future": []
@@ -822788,7 +822788,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:35.32",
      "seconds": 35.32,
-     "place": "3",
+     "place": "5",
      "points": 364
     },
     {
@@ -822799,10 +822799,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "17",
-     "points": 0
+     "timeStr": "00:41.80",
+     "seconds": 41.8,
+     "place": "9",
+     "points": 312
     }
    ],
    "future": []
@@ -831658,7 +831658,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:29.30",
      "seconds": 29.3,
-     "place": "13",
+     "place": "21",
      "points": 313
     },
     {
@@ -831671,7 +831671,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:31.96",
      "seconds": 31.96,
-     "place": "16",
+     "place": "24",
      "points": 296
     }
    ],
@@ -842895,7 +842895,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "01:22.60",
      "seconds": 82.6,
-     "place": "6",
+     "place": "12",
      "points": 296
     },
     {
@@ -842908,7 +842908,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:36.63",
      "seconds": 36.63,
-     "place": "5",
+     "place": "8",
      "points": 326
     },
     {
@@ -842921,7 +842921,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:41.54",
      "seconds": 41.54,
-     "place": "5",
+     "place": "8",
      "points": 318
     }
    ],
@@ -844486,10 +844486,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "27",
-     "points": 0
+     "timeStr": "01:21.74",
+     "seconds": 81.74,
+     "place": "10",
+     "points": 306
     },
     {
      "date": "2026-10-09",
@@ -844499,10 +844499,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "17",
-     "points": 0
+     "timeStr": "00:40.32",
+     "seconds": 40.32,
+     "place": "6",
+     "points": 348
     }
    ],
    "future": []
@@ -885666,7 +885666,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "01:24.66",
      "seconds": 84.66,
-     "place": "11",
+     "place": "18",
      "points": 275
     },
     {
@@ -885679,7 +885679,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:34.10",
      "seconds": 34.1,
-     "place": "19",
+     "place": "28",
      "points": 300
     }
    ],
@@ -893154,7 +893154,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:32.38",
      "seconds": 32.38,
-     "place": "25",
+     "place": "38",
      "points": 232
     },
     {
@@ -893167,7 +893167,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:36.20",
      "seconds": 36.2,
-     "place": "26",
+     "place": "35",
      "points": 204
     }
    ],
@@ -896651,7 +896651,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "01:03.30",
      "seconds": 63.3,
-     "place": "3",
+     "place": "4",
      "points": 471
     },
     {
@@ -898333,10 +898333,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "17",
-     "points": 0
+     "timeStr": "00:35.00",
+     "seconds": 35.0,
+     "place": "3",
+     "points": 374
     },
     {
      "date": "2026-10-09",
@@ -898346,10 +898346,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "24",
-     "points": 0
+     "timeStr": "00:32.82",
+     "seconds": 32.82,
+     "place": "7",
+     "points": 388
     }
    ],
    "future": []
@@ -899720,10 +899720,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "32",
-     "points": 0
+     "timeStr": "00:32.38",
+     "seconds": 32.38,
+     "place": "14",
+     "points": 350
     },
     {
      "date": "2026-10-09",
@@ -899735,7 +899735,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:41.84",
      "seconds": 41.84,
-     "place": "6",
+     "place": "10",
      "points": 311
     }
    ],
@@ -945873,7 +945873,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:27.78",
      "seconds": 27.78,
-     "place": "4",
+     "place": "5",
      "points": 452
     }
    ],
@@ -999332,9 +999332,9 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "timeStr": "NS",
+     "timeStr": "DQ",
      "seconds": null,
-     "place": "27",
+     "place": "40",
      "points": 0
     },
     {
@@ -999347,7 +999347,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:24.44",
      "seconds": 24.44,
-     "place": "3",
+     "place": "4",
      "points": 539
     },
     {
@@ -999358,10 +999358,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "31",
-     "points": 0
+     "timeStr": "00:26.37",
+     "seconds": 26.37,
+     "place": "1",
+     "points": 528
     }
    ],
    "future": []
@@ -1002727,7 +1002727,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:26.13",
      "seconds": 26.13,
-     "place": "5",
+     "place": "7",
      "points": 441
     },
     {
@@ -1002740,7 +1002740,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:31.98",
      "seconds": 31.98,
-     "place": "1",
+     "place": "2",
      "points": 474
     },
     {
@@ -1002751,10 +1002751,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "31",
-     "points": 0
+     "timeStr": "00:28.16",
+     "seconds": 28.16,
+     "place": "7",
+     "points": 433
     }
    ],
    "future": []
@@ -1189878,10 +1189878,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "מכבי אושן חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "41",
-     "points": 0
+     "timeStr": "01:09.35",
+     "seconds": 69.35,
+     "place": "12",
+     "points": 358
     },
     {
      "date": "2026-10-09",
@@ -1189893,7 +1189893,7 @@ window.SWIM_DATA = {
      "club": "מכבי אושן חדרה",
      "timeStr": "00:27.49",
      "seconds": 27.49,
-     "place": "9",
+     "place": "12",
      "points": 379
     },
     {
@@ -1189906,7 +1189906,7 @@ window.SWIM_DATA = {
      "club": "מכבי אושן חדרה",
      "timeStr": "00:29.34",
      "seconds": 29.34,
-     "place": "10",
+     "place": "12",
      "points": 383
     }
    ],
@@ -1199391,10 +1199391,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל פליפר חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "17",
-     "points": 0
+     "timeStr": "00:35.89",
+     "seconds": 35.89,
+     "place": "6",
+     "points": 347
     },
     {
      "date": "2026-10-09",
@@ -1199406,7 +1199406,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:33.70",
      "seconds": 33.7,
-     "place": "16",
+     "place": "25",
      "points": 310
     }
    ],
@@ -1202354,7 +1202354,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "01:21.17",
      "seconds": 81.17,
-     "place": "24",
+     "place": "37",
      "points": 223
     },
     {
@@ -1202365,10 +1202365,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל פליפר חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "39",
-     "points": 0
+     "timeStr": "00:31.48",
+     "seconds": 31.48,
+     "place": "32",
+     "points": 252
     },
     {
      "date": "2026-10-09",
@@ -1202378,10 +1202378,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל פליפר חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "22",
-     "points": 0
+     "timeStr": "00:40.76",
+     "seconds": 40.76,
+     "place": "14",
+     "points": 229
     }
    ],
    "future": []
@@ -1213980,10 +1213980,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל פליפר חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "32",
-     "points": 0
+     "timeStr": "00:27.47",
+     "seconds": 27.47,
+     "place": "1",
+     "points": 574
     },
     {
      "date": "2026-10-09",
@@ -1213995,7 +1213995,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:31.38",
      "seconds": 31.38,
-     "place": "2",
+     "place": "1",
      "points": 444
     }
    ],
@@ -1217199,10 +1217199,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "27",
-     "points": 0
+     "timeStr": "01:33.88",
+     "seconds": 93.88,
+     "place": "28",
+     "points": 202
     },
     {
      "date": "2026-10-09",
@@ -1217214,7 +1217214,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:44.98",
      "seconds": 44.98,
-     "place": "12",
+     "place": "21",
      "points": 176
     },
     {
@@ -1217225,10 +1217225,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "32",
-     "points": 0
+     "timeStr": "00:38.17",
+     "seconds": 38.17,
+     "place": "39",
+     "points": 213
     },
     {
      "date": "2026-10-09",
@@ -1217238,9 +1217238,9 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
+     "timeStr": "DNS",
      "seconds": null,
-     "place": "24",
+     "place": "35",
      "points": 0
     }
    ],
@@ -1220013,7 +1220013,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "01:18.84",
      "seconds": 78.84,
-     "place": "4",
+     "place": "8",
      "points": 341
     },
     {
@@ -1220026,7 +1220026,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:32.83",
      "seconds": 32.83,
-     "place": "11",
+     "place": "19",
      "points": 336
     },
     {
@@ -1220037,10 +1220037,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "17",
-     "points": 0
+     "timeStr": "00:42.40",
+     "seconds": 42.4,
+     "place": "12",
+     "points": 299
     },
     {
      "date": "2026-10-09",
@@ -1220050,10 +1220050,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "24",
-     "points": 0
+     "timeStr": "00:34.79",
+     "seconds": 34.79,
+     "place": "15",
+     "points": 325
     }
    ],
    "future": []
@@ -1226780,7 +1226780,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "01:27.70",
      "seconds": 87.7,
-     "place": "16",
+     "place": "25",
      "points": 248
     },
     {
@@ -1226793,7 +1226793,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:36.56",
      "seconds": 36.56,
-     "place": "24",
+     "place": "34",
      "points": 243
     },
     {
@@ -1226806,7 +1226806,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:45.76",
      "seconds": 45.76,
-     "place": "11",
+     "place": "16",
      "points": 238
     },
     {
@@ -1226817,10 +1226817,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "00:00:00.00",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "00:39.29",
+     "seconds": 39.29,
+     "place": "27",
+     "points": 226
     }
    ],
    "future": []
@@ -1275919,10 +1275919,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "17",
-     "points": 0
+     "timeStr": "00:43.20",
+     "seconds": 43.2,
+     "place": "18",
+     "points": 199
     },
     {
      "date": "2026-10-09",
@@ -1275932,10 +1275932,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "32",
-     "points": 0
+     "timeStr": "00:37.80",
+     "seconds": 37.8,
+     "place": "37",
+     "points": 220
     }
    ],
    "future": []
@@ -1282065,7 +1282065,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "01:44.26",
      "seconds": 104.26,
-     "place": "24",
+     "place": "36",
      "points": 147
     },
     {
@@ -1282078,7 +1282078,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:39.09",
      "seconds": 39.09,
-     "place": "27",
+     "place": "40",
      "points": 199
     },
     {
@@ -1282091,7 +1282091,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:43.35",
      "seconds": 43.35,
-     "place": "22",
+     "place": "32",
      "points": 168
     }
    ],
@@ -1318341,7 +1318341,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:51.40",
      "seconds": 51.4,
-     "place": "25",
+     "place": "35",
      "points": 79
     },
     {
@@ -1318352,10 +1318352,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "39",
-     "points": 0
+     "timeStr": "00:44.32",
+     "seconds": 44.32,
+     "place": "53",
+     "points": 90
     }
    ],
    "future": []
@@ -1319237,7 +1319237,7 @@ window.SWIM_DATA = {
      "club": "מכבי כוכב יאיר - צור יגאל",
      "timeStr": "01:21.45",
      "seconds": 81.45,
-     "place": "25",
+     "place": "38",
      "points": 221
     },
     {
@@ -1319250,7 +1319250,7 @@ window.SWIM_DATA = {
      "club": "מכבי כוכב יאיר - צור יגאל",
      "timeStr": "00:31.50",
      "seconds": 31.5,
-     "place": "21",
+     "place": "33",
      "points": 252
     },
     {
@@ -1319263,7 +1319263,7 @@ window.SWIM_DATA = {
      "club": "מכבי כוכב יאיר - צור יגאל",
      "timeStr": "00:34.98",
      "seconds": 34.98,
-     "place": "25",
+     "place": "34",
      "points": 226
     }
    ],
@@ -1319543,10 +1319543,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "מכבי כוכב יאיר - צור יגאל",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "41",
-     "points": 0
+     "timeStr": "01:28.00",
+     "seconds": 88.0,
+     "place": "45",
+     "points": 175
     },
     {
      "date": "2026-10-09",
@@ -1319558,7 +1319558,7 @@ window.SWIM_DATA = {
      "club": "מכבי כוכב יאיר - צור יגאל",
      "timeStr": "00:42.79",
      "seconds": 42.79,
-     "place": "20",
+     "place": "28",
      "points": 137
     },
     {
@@ -1319569,10 +1319569,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "מכבי כוכב יאיר - צור יגאל",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "39",
-     "points": 0
+     "timeStr": "00:34.36",
+     "seconds": 34.36,
+     "place": "43",
+     "points": 194
     }
    ],
    "future": []
@@ -1335259,10 +1335259,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "27",
-     "points": 0
+     "timeStr": "01:38.10",
+     "seconds": 98.1,
+     "place": "32",
+     "points": 177
     },
     {
      "date": "2026-10-09",
@@ -1335274,7 +1335274,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:36.13",
      "seconds": 36.13,
-     "place": "23",
+     "place": "33",
      "points": 252
     },
     {
@@ -1335287,7 +1335287,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:51.91",
      "seconds": 51.91,
-     "place": "15",
+     "place": "23",
      "points": 163
     },
     {
@@ -1335300,7 +1335300,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:42.87",
      "seconds": 42.87,
-     "place": "21",
+     "place": "31",
      "points": 174
     }
    ],
@@ -1358795,10 +1358795,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "מכבי כוכב יאיר - צור יגאל",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "41",
-     "points": 0
+     "timeStr": "01:21.11",
+     "seconds": 81.11,
+     "place": "36",
+     "points": 224
     },
     {
      "date": "2026-10-09",
@@ -1358810,7 +1358810,7 @@ window.SWIM_DATA = {
      "club": "מכבי כוכב יאיר - צור יגאל",
      "timeStr": "00:37.65",
      "seconds": 37.65,
-     "place": "15",
+     "place": "21",
      "points": 202
     },
     {
@@ -1358821,10 +1358821,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "מכבי כוכב יאיר - צור יגאל",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "39",
-     "points": 0
+     "timeStr": "00:31.42",
+     "seconds": 31.42,
+     "place": "31",
+     "points": 254
     }
    ],
    "future": []
@@ -1365195,7 +1365195,7 @@ window.SWIM_DATA = {
      "club": "מכבי כוכב יאיר - צור יגאל",
      "timeStr": "01:19.76",
      "seconds": 79.76,
-     "place": "20",
+     "place": "31",
      "points": 235
     },
     {
@@ -1365208,7 +1365208,7 @@ window.SWIM_DATA = {
      "club": "מכבי כוכב יאיר - צור יגאל",
      "timeStr": "00:31.00",
      "seconds": 31.0,
-     "place": "17",
+     "place": "26",
      "points": 264
     },
     {
@@ -1365221,7 +1365221,7 @@ window.SWIM_DATA = {
      "club": "מכבי כוכב יאיר - צור יגאל",
      "timeStr": "00:34.17",
      "seconds": 34.17,
-     "place": "21",
+     "place": "29",
      "points": 242
     }
    ],
@@ -1391032,7 +1391032,7 @@ window.SWIM_DATA = {
      "club": "מכבי כוכב יאיר - צור יגאל",
      "timeStr": "01:21.10",
      "seconds": 81.1,
-     "place": "23",
+     "place": "35",
      "points": 224
     },
     {
@@ -1391045,7 +1391045,7 @@ window.SWIM_DATA = {
      "club": "מכבי כוכב יאיר - צור יגאל",
      "timeStr": "00:36.84",
      "seconds": 36.84,
-     "place": "13",
+     "place": "18",
      "points": 216
     },
     {
@@ -1391058,7 +1391058,7 @@ window.SWIM_DATA = {
      "club": "מכבי כוכב יאיר - צור יגאל",
      "timeStr": "00:37.37",
      "seconds": 37.37,
-     "place": "27",
+     "place": "37",
      "points": 185
     }
    ],
@@ -1409580,7 +1409580,7 @@ window.SWIM_DATA = {
      "club": "מכבי אושן חדרה",
      "timeStr": "01:34.37",
      "seconds": 94.37,
-     "place": "35",
+     "place": "53",
      "points": 142
     },
     {
@@ -1409593,7 +1409593,7 @@ window.SWIM_DATA = {
      "club": "מכבי אושן חדרה",
      "timeStr": "00:42.38",
      "seconds": 42.38,
-     "place": "19",
+     "place": "27",
      "points": 141
     },
     {
@@ -1410908,10 +1410908,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "מכבי אושן חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "27",
-     "points": 0
+     "timeStr": "01:40.51",
+     "seconds": 100.51,
+     "place": "34",
+     "points": 164
     },
     {
      "date": "2026-10-09",
@@ -1410921,10 +1410921,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "מכבי אושן חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "32",
-     "points": 0
+     "timeStr": "00:41.71",
+     "seconds": 41.71,
+     "place": "44",
+     "points": 163
     },
     {
      "date": "2026-10-09",
@@ -1410934,10 +1410934,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "מכבי אושן חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "17",
-     "points": 0
+     "timeStr": "00:47.91",
+     "seconds": 47.91,
+     "place": "18",
+     "points": 207
     }
    ],
    "future": []
@@ -1458722,7 +1458722,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "01:34.76",
      "seconds": 94.76,
-     "place": "19",
+     "place": "29",
      "points": 196
     },
     {
@@ -1458733,10 +1458733,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "17",
-     "points": 0
+     "timeStr": "00:48.34",
+     "seconds": 48.34,
+     "place": "20",
+     "points": 202
     },
     {
      "date": "2026-10-09",
@@ -1458748,7 +1458748,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:41.88",
      "seconds": 41.88,
-     "place": "20",
+     "place": "30",
      "points": 186
     }
    ],
@@ -1460049,7 +1460049,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:41.78",
      "seconds": 41.78,
-     "place": "35",
+     "place": "51",
      "points": 108
     },
     {
@@ -1460060,10 +1460060,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "22",
-     "points": 0
+     "timeStr": "00:50.21",
+     "seconds": 50.21,
+     "place": "25",
+     "points": 122
     }
    ],
    "future": []
@@ -1482928,7 +1482928,7 @@ window.SWIM_DATA = {
      "club": "מכבי כוכב יאיר - צור יגאל",
      "timeStr": "01:27.10",
      "seconds": 87.1,
-     "place": "13",
+     "place": "22",
      "points": 253
     },
     {
@@ -1482941,7 +1482941,7 @@ window.SWIM_DATA = {
      "club": "מכבי כוכב יאיר - צור יגאל",
      "timeStr": "00:43.76",
      "seconds": 43.76,
-     "place": "11",
+     "place": "19",
      "points": 191
     },
     {
@@ -1482954,7 +1482954,7 @@ window.SWIM_DATA = {
      "club": "מכבי כוכב יאיר - צור יגאל",
      "timeStr": "00:33.66",
      "seconds": 33.66,
-     "place": "15",
+     "place": "24",
      "points": 312
     }
    ],
@@ -1494680,7 +1494680,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:47.66",
      "seconds": 47.66,
-     "place": "13",
+     "place": "22",
      "points": 148
     },
     {
@@ -1494691,10 +1494691,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל פליפר חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "32",
-     "points": 0
+     "timeStr": "00:37.86",
+     "seconds": 37.86,
+     "place": "38",
+     "points": 219
     },
     {
      "date": "2026-10-09",
@@ -1494706,7 +1494706,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:45.98",
      "seconds": 45.98,
-     "place": "23",
+     "place": "34",
      "points": 141
     }
    ],
@@ -1495416,7 +1495416,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:50.79",
      "seconds": 50.79,
-     "place": "24",
+     "place": "34",
      "points": 82
     },
     {
@@ -1495440,10 +1495440,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל פליפר חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "22",
-     "points": 0
+     "timeStr": "00:51.16",
+     "seconds": 51.16,
+     "place": "27",
+     "points": 115
     }
    ],
    "future": []
@@ -1496733,7 +1496733,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "DQ / SW 6.5",
      "seconds": null,
-     "place": "25",
+     "place": "38",
      "points": 0
     },
     {
@@ -1496746,7 +1496746,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:37.36",
      "seconds": 37.36,
-     "place": "7",
+     "place": "11",
      "points": 307
     },
     {
@@ -1496759,7 +1496759,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:32.32",
      "seconds": 32.32,
-     "place": "7",
+     "place": "13",
      "points": 352
     }
    ],
@@ -1500727,7 +1500727,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:50.34",
      "seconds": 50.34,
-     "place": "15",
+     "place": "24",
      "points": 125
     },
     {
@@ -1500740,7 +1500740,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:43.27",
      "seconds": 43.27,
-     "place": "30",
+     "place": "45",
      "points": 146
     }
    ],
@@ -1502753,10 +1502753,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל פליפר חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "27",
-     "points": 0
+     "timeStr": "00:48.34",
+     "seconds": 48.34,
+     "place": "31",
+     "points": 95
     },
     {
      "date": "2026-10-09",
@@ -1502768,7 +1502768,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:39.87",
      "seconds": 39.87,
-     "place": "34",
+     "place": "50",
      "points": 124
     },
     {
@@ -1502779,10 +1502779,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל פליפר חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "22",
-     "points": 0
+     "timeStr": "00:51.79",
+     "seconds": 51.79,
+     "place": "30",
+     "points": 111
     }
    ],
    "future": []
@@ -1517353,7 +1517353,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "01:03.73",
      "seconds": 63.73,
-     "place": "4",
+     "place": "5",
      "points": 462
     },
     {
@@ -1517364,10 +1517364,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "39",
-     "points": 0
+     "timeStr": "00:24.04",
+     "seconds": 24.04,
+     "place": "3",
+     "points": 567
     },
     {
      "date": "2026-10-09",
@@ -1517379,7 +1517379,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:27.04",
      "seconds": 27.04,
-     "place": "1",
+     "place": "2",
      "points": 490
     }
    ],
@@ -1596837,10 +1596837,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "מכבי אושן חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "41",
-     "points": 0
+     "timeStr": "01:21.98",
+     "seconds": 81.98,
+     "place": "40",
+     "points": 217
     },
     {
      "date": "2026-10-09",
@@ -1596852,7 +1596852,7 @@ window.SWIM_DATA = {
      "club": "מכבי אושן חדרה",
      "timeStr": "00:35.50",
      "seconds": 35.5,
-     "place": "10",
+     "place": "15",
      "points": 241
     },
     {
@@ -1596865,7 +1596865,7 @@ window.SWIM_DATA = {
      "club": "מכבי אושן חדרה",
      "timeStr": "00:31.15",
      "seconds": 31.15,
-     "place": "18",
+     "place": "27",
      "points": 260
     }
    ],
@@ -1596980,7 +1596980,7 @@ window.SWIM_DATA = {
      "club": "מכבי אושן חדרה",
      "timeStr": "01:21.87",
      "seconds": 81.87,
-     "place": "26",
+     "place": "39",
      "points": 218
     },
     {
@@ -1596991,10 +1596991,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "מכבי אושן חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "27",
-     "points": 0
+     "timeStr": "00:37.09",
+     "seconds": 37.09,
+     "place": "19",
+     "points": 211
     },
     {
      "date": "2026-10-09",
@@ -1597006,7 +1597006,7 @@ window.SWIM_DATA = {
      "club": "מכבי אושן חדרה",
      "timeStr": "00:31.93",
      "seconds": 31.93,
-     "place": "22",
+     "place": "35",
      "points": 242
     }
    ],
@@ -1597210,10 +1597210,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל פליפר חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "17",
-     "points": 0
+     "timeStr": "00:43.79",
+     "seconds": 43.79,
+     "place": "20",
+     "points": 191
     },
     {
      "date": "2026-10-09",
@@ -1597225,7 +1597225,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:36.62",
      "seconds": 36.62,
-     "place": "25",
+     "place": "35",
      "points": 242
     },
     {
@@ -1597238,7 +1597238,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:48.72",
      "seconds": 48.72,
-     "place": "14",
+     "place": "21",
      "points": 197
     }
    ],
@@ -1597364,10 +1597364,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "מכבי אושן חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "41",
-     "points": 0
+     "timeStr": "01:18.15",
+     "seconds": 78.15,
+     "place": "28",
+     "points": 250
     },
     {
      "date": "2026-10-09",
@@ -1597377,10 +1597377,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "מכבי אושן חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "39",
-     "points": 0
+     "timeStr": "00:29.20",
+     "seconds": 29.2,
+     "place": "19",
+     "points": 316
     },
     {
      "date": "2026-10-09",
@@ -1597392,7 +1597392,7 @@ window.SWIM_DATA = {
      "club": "מכבי אושן חדרה",
      "timeStr": "00:41.95",
      "seconds": 41.95,
-     "place": "11",
+     "place": "18",
      "points": 210
     }
    ],
@@ -1602645,7 +1602645,7 @@ window.SWIM_DATA = {
      "club": "מכבי אושן חדרה",
      "timeStr": "01:28.46",
      "seconds": 88.46,
-     "place": "30",
+     "place": "47",
      "points": 172
     },
     {
@@ -1602658,7 +1602658,7 @@ window.SWIM_DATA = {
      "club": "מכבי אושן חדרה",
      "timeStr": "00:34.29",
      "seconds": 34.29,
-     "place": "27",
+     "place": "41",
      "points": 195
     },
     {
@@ -1602669,10 +1602669,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "מכבי אושן חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "31",
-     "points": 0
+     "timeStr": "00:40.16",
+     "seconds": 40.16,
+     "place": "40",
+     "points": 149
     }
    ],
    "future": []
@@ -1603738,7 +1603738,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "DNS",
      "seconds": null,
-     "place": "38",
+     "place": "57",
      "points": 0
     },
     {
@@ -1603749,9 +1603749,9 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
+     "timeStr": "DNS",
      "seconds": null,
-     "place": "27",
+     "place": "37",
      "points": 0
     },
     {
@@ -1603762,9 +1603762,9 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
+     "timeStr": "DNS",
      "seconds": null,
-     "place": "39",
+     "place": "56",
      "points": 0
     }
    ],
@@ -1604009,7 +1604009,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "01:42.49",
      "seconds": 102.49,
-     "place": "37",
+     "place": "56",
      "points": 111
     },
     {
@@ -1604020,10 +1604020,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "27",
-     "points": 0
+     "timeStr": "00:45.47",
+     "seconds": 45.47,
+     "place": "30",
+     "points": 114
     }
    ],
    "future": []
@@ -1604239,10 +1604239,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל פליפר חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "41",
-     "points": 0
+     "timeStr": "01:37.16",
+     "seconds": 97.16,
+     "place": "54",
+     "points": 130
     },
     {
      "date": "2026-10-09",
@@ -1604254,7 +1604254,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:37.20",
      "seconds": 37.2,
-     "place": "32",
+     "place": "48",
      "points": 153
     },
     {
@@ -1604267,7 +1604267,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:45.19",
      "seconds": 45.19,
-     "place": "29",
+     "place": "43",
      "points": 105
     }
    ],
@@ -1604471,10 +1604471,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל פליפר חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "27",
-     "points": 0
+     "timeStr": "00:51.46",
+     "seconds": 51.46,
+     "place": "36",
+     "points": 79
     },
     {
      "date": "2026-10-09",
@@ -1604486,7 +1604486,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:45.22",
      "seconds": 45.22,
-     "place": "37",
+     "place": "54",
      "points": 85
     },
     {
@@ -1604499,7 +1604499,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:58.09",
      "seconds": 58.09,
-     "place": "19",
+     "place": "31",
      "points": 79
     }
    ],
@@ -1604692,7 +1604692,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "01:38.00",
      "seconds": 98.0,
-     "place": "21",
+     "place": "31",
      "points": 177
     },
     {
@@ -1604705,7 +1604705,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "DQ / SW 4.4",
      "seconds": null,
-     "place": "31",
+     "place": "46",
      "points": 0
     }
    ],
@@ -1605065,7 +1605065,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "01:37.25",
      "seconds": 97.25,
-     "place": "36",
+     "place": "55",
      "points": 130
     },
     {
@@ -1605078,7 +1605078,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:38.10",
      "seconds": 38.1,
-     "place": "33",
+     "place": "49",
      "points": 142
     },
     {
@@ -1605091,7 +1605091,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:48.65",
      "seconds": 48.65,
-     "place": "16",
+     "place": "24",
      "points": 134
     }
    ],
@@ -1605218,10 +1605218,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "27",
-     "points": 0
+     "timeStr": "00:38.86",
+     "seconds": 38.86,
+     "place": "24",
+     "points": 184
     },
     {
      "date": "2026-10-09",
@@ -1605231,10 +1605231,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "39",
-     "points": 0
+     "timeStr": "00:31.28",
+     "seconds": 31.28,
+     "place": "28",
+     "points": 257
     },
     {
      "date": "2026-10-09",
@@ -1605246,7 +1605246,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:33.41",
      "seconds": 33.41,
-     "place": "19",
+     "place": "27",
      "points": 259
     }
    ],
@@ -1605901,7 +1605901,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:39.84",
      "seconds": 39.84,
-     "place": "28",
+     "place": "41",
      "points": 188
     },
     {
@@ -1605912,10 +1605912,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל פליפר חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "17",
-     "points": 0
+     "timeStr": "00:52.27",
+     "seconds": 52.27,
+     "place": "24",
+     "points": 159
     }
    ],
    "future": []
@@ -1606326,7 +1606326,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "01:30.91",
      "seconds": 90.91,
-     "place": "32",
+     "place": "49",
      "points": 159
     },
     {
@@ -1606337,10 +1606337,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל פליפר חדרה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "39",
-     "points": 0
+     "timeStr": "00:34.30",
+     "seconds": 34.3,
+     "place": "42",
+     "points": 195
     },
     {
      "date": "2026-10-09",
@@ -1606352,7 +1606352,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "timeStr": "00:48.14",
      "seconds": 48.14,
-     "place": "15",
+     "place": "23",
      "points": 139
     }
    ],
@@ -1607492,10 +1607492,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "17",
-     "points": 0
+     "timeStr": "00:53.95",
+     "seconds": 53.95,
+     "place": "26",
+     "points": 145
     },
     {
      "date": "2026-10-09",
@@ -1607505,10 +1607505,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "24",
-     "points": 0
+     "timeStr": "00:45.87",
+     "seconds": 45.87,
+     "place": "33",
+     "points": 142
     }
    ],
    "future": []
@@ -1608353,7 +1608353,7 @@ window.SWIM_DATA = {
      "club": "מכבי אושן חדרה",
      "timeStr": "00:48.59",
      "seconds": 48.59,
-     "place": "22",
+     "place": "32",
      "points": 94
     }
    ],
@@ -1609082,10 +1609082,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "27",
-     "points": 0
+     "timeStr": "01:14.54",
+     "seconds": 74.54,
+     "place": "4",
+     "points": 404
     },
     {
      "date": "2026-10-09",
@@ -1609095,10 +1609095,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "17",
-     "points": 0
+     "timeStr": "00:32.45",
+     "seconds": 32.45,
+     "place": "1",
+     "points": 470
     },
     {
      "date": "2026-10-09",
@@ -1609108,10 +1609108,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "32",
-     "points": 0
+     "timeStr": "00:29.38",
+     "seconds": 29.38,
+     "place": "3",
+     "points": 469
     },
     {
      "date": "2026-10-09",
@@ -1609123,7 +1609123,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:35.20",
      "seconds": 35.2,
-     "place": "11",
+     "place": "17",
      "points": 314
     }
    ],
@@ -1639099,7 +1639099,7 @@ window.SWIM_DATA = {
      "club": "מכבי כוכב יאיר - צור יגאל",
      "timeStr": "01:44.21",
      "seconds": 104.21,
-     "place": "23",
+     "place": "35",
      "points": 147
     },
     {
@@ -1639110,9 +1639110,9 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "מכבי כוכב יאיר - צור יגאל",
-     "timeStr": "00:40.98",
-     "seconds": 40.98,
-     "place": "29",
+     "timeStr": "DNS",
+     "seconds": null,
+     "place": "43",
      "points": 172
     },
     {
@@ -1639123,10 +1639123,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "מכבי כוכב יאיר - צור יגאל",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "17",
-     "points": 0
+     "timeStr": "00:51.57",
+     "seconds": 51.57,
+     "place": "22",
+     "points": 166
     }
    ],
    "future": []
@@ -1663127,10 +1663127,10 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "27",
-     "points": 0
+     "timeStr": "01:47.78",
+     "seconds": 107.78,
+     "place": "37",
+     "points": 133
     },
     {
      "date": "2026-10-09",
@@ -1663142,7 +1663142,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:48.40",
      "seconds": 48.4,
-     "place": "14",
+     "place": "23",
      "points": 141
     },
     {
@@ -1663155,7 +1663155,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:53.53",
      "seconds": 53.53,
-     "place": "16",
+     "place": "25",
      "points": 148
     }
    ],
@@ -1669589,10 +1669589,10 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "41",
-     "points": 0
+     "timeStr": "01:14.50",
+     "seconds": 74.5,
+     "place": "22",
+     "points": 289
     },
     {
      "date": "2026-10-09",
@@ -1669604,7 +1669604,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:31.35",
      "seconds": 31.35,
-     "place": "19",
+     "place": "29",
      "points": 255
     },
     {
@@ -1669617,7 +1669617,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:37.15",
      "seconds": 37.15,
-     "place": "5",
+     "place": "10",
      "points": 302
     },
     {
@@ -1669630,7 +1669630,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:34.90",
      "seconds": 34.9,
-     "place": "24",
+     "place": "33",
      "points": 227
     }
    ],
@@ -1672883,7 +1672883,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "DNS",
      "seconds": null,
-     "place": "16",
+     "place": "25",
      "points": 0
     },
     {
@@ -1672896,7 +1672896,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:29.12",
      "seconds": 29.12,
-     "place": "1",
+     "place": "2",
      "points": 481
     },
     {
@@ -1672909,7 +1672909,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:31.55",
      "seconds": 31.55,
-     "place": "4",
+     "place": "3",
      "points": 436
     }
    ],
@@ -1691161,7 +1691161,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "01:20.42",
      "seconds": 80.42,
-     "place": "5",
+     "place": "9",
      "points": 321
     },
     {
@@ -1691174,7 +1691174,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:38.35",
      "seconds": 38.35,
-     "place": "10",
+     "place": "15",
      "points": 284
     },
     {
@@ -1691187,7 +1691187,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:32.98",
      "seconds": 32.98,
-     "place": "12",
+     "place": "20",
      "points": 331
     },
     {
@@ -1691200,7 +1691200,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "00:33.24",
      "seconds": 33.24,
-     "place": "7",
+     "place": "8",
      "points": 373
     }
    ],
@@ -1691224,7 +1691224,7 @@ window.SWIM_DATA = {
      "club": "מכבי אושן חדרה",
      "timeStr": "01:30.82",
      "seconds": 90.82,
-     "place": "31",
+     "place": "48",
      "points": 159
     },
     {
@@ -1691237,7 +1691237,7 @@ window.SWIM_DATA = {
      "club": "מכבי אושן חדרה",
      "timeStr": "00:40.20",
      "seconds": 40.2,
-     "place": "18",
+     "place": "26",
      "points": 166
     },
     {
@@ -1691250,7 +1691250,7 @@ window.SWIM_DATA = {
      "club": "מכבי אושן חדרה",
      "timeStr": "00:34.44",
      "seconds": 34.44,
-     "place": "28",
+     "place": "44",
      "points": 192
     }
    ],
@@ -1691799,23 +1691799,7 @@ window.SWIM_DATA = {
    "future": []
   }
  },
- "lastChecked": "2026-10-10 21:17",
- "newThisRun": 1040,
- "newComps": [
-  {
-   "name": "ליגה אזורית וייסגל - 09/10/2026",
-   "date": "2026-10-09",
-   "count": 188
-  },
-  {
-   "name": "ליגה צעירים 1 בת ים - 09/10/2026",
-   "date": "2026-10-09",
-   "count": 445
-  },
-  {
-   "name": "לידה אזורי עמק חפר 1 - 09/10/2026",
-   "date": "2026-10-09",
-   "count": 407
-  }
- ]
+ "lastChecked": "2026-10-11 21:38",
+ "newThisRun": 0,
+ "newComps": []
 };
