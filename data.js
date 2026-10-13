@@ -452432,7 +452432,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית אונו",
      "timeStr": "01:40.84",
      "seconds": 100.84,
-     "place": "79",
+     "place": "78",
      "points": 116
     },
     {
@@ -453623,7 +453623,7 @@ window.SWIM_DATA = {
      "club": "מכבי מרום רמת גן",
      "timeStr": "01:32.81",
      "seconds": 92.81,
-     "place": "64",
+     "place": "63",
      "points": 149
     },
     {
@@ -454608,7 +454608,7 @@ window.SWIM_DATA = {
      "club": "הפועל פתח תקווה",
      "timeStr": "01:40.47",
      "seconds": 100.47,
-     "place": "78",
+     "place": "77",
      "points": 118
     },
     {
@@ -455850,7 +455850,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית אונו",
      "timeStr": "01:40.11",
      "seconds": 100.11,
-     "place": "77",
+     "place": "76",
      "points": 119
     },
     {
@@ -457326,7 +457326,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית אונו",
      "timeStr": "01:45.30",
      "seconds": 105.3,
-     "place": "83",
+     "place": "82",
      "points": 102
     },
     {
@@ -1278435,7 +1278435,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "timeStr": "01:51.07",
      "seconds": 111.07,
-     "place": "87",
+     "place": "86",
      "points": 87
     },
     {
@@ -1278746,7 +1278746,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "timeStr": "01:44.58",
      "seconds": 104.58,
-     "place": "82",
+     "place": "81",
      "points": 104
     },
     {
@@ -1416698,7 +1416698,7 @@ window.SWIM_DATA = {
      "club": "הפועל בת ים",
      "timeStr": "01:33.44",
      "seconds": 93.44,
-     "place": "65",
+     "place": "64",
      "points": 146
     },
     {
@@ -1508145,7 +1508145,7 @@ window.SWIM_DATA = {
      "club": "מכבי מרום רמת גן",
      "timeStr": "01:42.41",
      "seconds": 102.41,
-     "place": "81",
+     "place": "80",
      "points": 111
     },
     {
@@ -1508737,10 +1508737,10 @@ window.SWIM_DATA = {
      "category": "בנים 9-15",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "timeStr": "01:37.18",
-     "seconds": 97.18,
-     "place": "73",
-     "points": 130
+     "timeStr": "01:34.18",
+     "seconds": 94.18,
+     "place": "65",
+     "points": 143
     },
     {
      "date": "2026-10-09",
@@ -1540292,7 +1540292,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית אונו",
      "timeStr": "01:46.03",
      "seconds": 106.03,
-     "place": "84",
+     "place": "83",
      "points": 100
     },
     {
@@ -1589662,7 +1589662,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית אונו",
      "timeStr": "01:37.87",
      "seconds": 97.87,
-     "place": "74",
+     "place": "73",
      "points": 127
     },
     {
@@ -1631267,10 +1631267,10 @@ window.SWIM_DATA = {
      "category": "בנים 9-15",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "timeStr": "01:32.63",
-     "seconds": 92.63,
-     "place": "63",
-     "points": 150
+     "timeStr": "01:52.63",
+     "seconds": 112.63,
+     "place": "87",
+     "points": 83
     },
     {
      "date": "2026-10-09",
@@ -1645027,7 +1645027,7 @@ window.SWIM_DATA = {
      "club": "מכבי מרום רמת גן",
      "timeStr": "01:37.91",
      "seconds": 97.91,
-     "place": "75",
+     "place": "74",
      "points": 127
     },
     {
@@ -1658894,7 +1658894,7 @@ window.SWIM_DATA = {
      "club": "הפועל פתח תקווה",
      "timeStr": "00:44.38",
      "seconds": 44.38,
-     "place": "36",
+     "place": "37",
      "points": 136
     }
    ],
@@ -1675177,10 +1675177,10 @@ window.SWIM_DATA = {
      "category": "בנות 9-14",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "timeStr": "00:44.72",
-     "seconds": 44.72,
-     "place": "37",
-     "points": 133
+     "timeStr": "00:44.12",
+     "seconds": 44.12,
+     "place": "36",
+     "points": 138
     },
     {
      "date": "2026-10-09",
@@ -1690511,7 +1690511,7 @@ window.SWIM_DATA = {
      "club": "מכבי מרום רמת גן",
      "timeStr": "01:39.21",
      "seconds": 99.21,
-     "place": "76",
+     "place": "75",
      "points": 122
     },
     {
@@ -1691442,7 +1691442,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "timeStr": "01:41.40",
      "seconds": 101.4,
-     "place": "80",
+     "place": "79",
      "points": 114
     },
     {
@@ -1692894,7 +1692894,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית אונו",
      "timeStr": "01:49.26",
      "seconds": 109.26,
-     "place": "85",
+     "place": "84",
      "points": 91
     },
     {
@@ -1692931,7 +1692931,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "timeStr": "01:49.26",
      "seconds": 109.26,
-     "place": "85",
+     "place": "84",
      "points": 91
     },
     {
@@ -1694269,7 +1694269,7 @@ window.SWIM_DATA = {
    ]
   }
  },
- "lastChecked": "2026-10-13 00:19",
+ "lastChecked": "2026-10-13 22:30",
  "newThisRun": 0,
  "newComps": []
 };
