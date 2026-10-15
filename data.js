@@ -3,7 +3,7 @@ window.SWIM_DATA = {
  "generated": "2026-10-14",
  "source": "isr.org.il  →  loglig.com  (SQLite backend)",
  "isSeedSample": false,
- "swimmerCount": 6430,
+ "swimmerCount": 6432,
  "swimmers": {
   "2006|יבגניה·קליימן": {
    "id": "2006|יבגניה·קליימן",
@@ -62872,8 +62872,8 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "12:48",
-     "heat": "3",
+     "startTime": "12:50",
+     "heat": "4",
      "lane": "5",
      "seedStr": "01:08.44",
      "seedSeconds": 68.44
@@ -62886,9 +62886,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:33",
+     "startTime": "13:38",
      "heat": "4",
-     "lane": "8",
+     "lane": "4",
      "seedStr": "01:16.21",
      "seedSeconds": 76.21
     }
@@ -63974,8 +63974,8 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "12:48",
-     "heat": "3",
+     "startTime": "12:50",
+     "heat": "4",
      "lane": "6",
      "seedStr": "01:10.49",
      "seedSeconds": 70.49
@@ -63988,9 +63988,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:33",
-     "heat": "4",
-     "lane": "2",
+     "startTime": "13:40",
+     "heat": "5",
+     "lane": "7",
      "seedStr": "01:15.44",
      "seedSeconds": 75.44
     }
@@ -65002,8 +65002,8 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "12:48",
-     "heat": "3",
+     "startTime": "12:50",
+     "heat": "4",
      "lane": "3",
      "seedStr": "01:09.61",
      "seedSeconds": 69.61
@@ -65016,9 +65016,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:10",
-     "heat": "4",
-     "lane": "8",
+     "startTime": "13:12",
+     "heat": "3",
+     "lane": "4",
      "seedStr": "01:04.32",
      "seedSeconds": 64.32
     }
@@ -67896,9 +67896,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "12:48",
-     "heat": "3",
-     "lane": "7",
+     "startTime": "12:50",
+     "heat": "4",
+     "lane": "1",
      "seedStr": "01:12.17",
      "seedSeconds": 72.17
     },
@@ -67910,9 +67910,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:08",
+     "startTime": "13:12",
      "heat": "3",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "01:05.84",
      "seedSeconds": 65.84
     }
@@ -70010,9 +70010,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "12:48",
-     "heat": "3",
-     "lane": "1",
+     "startTime": "12:50",
+     "heat": "4",
+     "lane": "8",
      "seedStr": "01:12.92",
      "seedSeconds": 72.92
     },
@@ -70024,9 +70024,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:06",
+     "startTime": "13:10",
      "heat": "2",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "01:09.23",
      "seedSeconds": 69.23
     }
@@ -72614,9 +72614,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:06",
+     "startTime": "13:10",
      "heat": "2",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "01:10.04",
      "seedSeconds": 70.04
     },
@@ -72628,9 +72628,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:30",
-     "heat": "2",
-     "lane": "3",
+     "startTime": "13:37",
+     "heat": "3",
+     "lane": "1",
      "seedStr": "01:22.67",
      "seedSeconds": 82.67
     }
@@ -73822,9 +73822,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "12:45",
-     "heat": "1",
-     "lane": "4",
+     "startTime": "12:46",
+     "heat": "2",
+     "lane": "3",
      "seedStr": "01:22.00",
      "seedSeconds": 82.0
     },
@@ -73836,9 +73836,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:08",
-     "heat": "3",
-     "lane": "8",
+     "startTime": "13:10",
+     "heat": "2",
+     "lane": "4",
      "seedStr": "01:07.81",
      "seedSeconds": 67.81
     }
@@ -80472,7 +80472,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:21",
+     "startTime": "13:26",
      "heat": "1",
      "lane": "7",
      "seedStr": "NT",
@@ -80486,8 +80486,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:45",
-     "heat": "7",
+     "startTime": "13:50",
+     "heat": "6",
      "lane": "1",
      "seedStr": "01:03.12",
      "seedSeconds": 63.12
@@ -83897,8 +83897,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "12:53",
-     "heat": "3",
+     "startTime": "12:57",
+     "heat": "4",
      "lane": "3",
      "seedStr": "00:59.49",
      "seedSeconds": 59.49
@@ -83911,8 +83911,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:15",
-     "heat": "3",
+     "startTime": "13:20",
+     "heat": "4",
      "lane": "3",
      "seedStr": "00:57.59",
      "seedSeconds": 57.59
@@ -89736,8 +89736,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:16",
-     "heat": "4",
+     "startTime": "13:21",
+     "heat": "5",
      "lane": "7",
      "seedStr": "00:55.70",
      "seedSeconds": 55.7
@@ -89750,8 +89750,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:43",
-     "heat": "6",
+     "startTime": "13:48",
+     "heat": "5",
      "lane": "3",
      "seedStr": "01:03.87",
      "seedSeconds": 63.87
@@ -90517,8 +90517,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "12:53",
-     "heat": "3",
+     "startTime": "12:57",
+     "heat": "4",
      "lane": "5",
      "seedStr": "00:59.35",
      "seedSeconds": 59.35
@@ -90531,9 +90531,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:13",
-     "heat": "2",
-     "lane": "5",
+     "startTime": "13:18",
+     "heat": "3",
+     "lane": "6",
      "seedStr": "01:01.80",
      "seedSeconds": 61.8
     }
@@ -91441,9 +91441,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:38",
-     "heat": "3",
-     "lane": "5",
+     "startTime": "13:43",
+     "heat": "2",
+     "lane": "3",
      "seedStr": "01:15.10",
      "seedSeconds": 75.1
     }
@@ -94436,8 +94436,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "12:53",
-     "heat": "3",
+     "startTime": "12:57",
+     "heat": "4",
      "lane": "7",
      "seedStr": "01:05.24",
      "seedSeconds": 65.24
@@ -94450,9 +94450,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:40",
-     "heat": "4",
-     "lane": "1",
+     "startTime": "13:45",
+     "heat": "3",
+     "lane": "8",
      "seedStr": "01:13.89",
      "seedSeconds": 73.89
     }
@@ -97536,8 +97536,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "12:50",
-     "heat": "1",
+     "startTime": "12:53",
+     "heat": "2",
      "lane": "4",
      "seedStr": "01:14.59",
      "seedSeconds": 74.59
@@ -97550,9 +97550,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:13",
-     "heat": "2",
-     "lane": "4",
+     "startTime": "13:18",
+     "heat": "3",
+     "lane": "3",
      "seedStr": "01:01.72",
      "seedSeconds": 61.72
     }
@@ -102927,7 +102927,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:10",
+     "startTime": "13:13",
      "heat": "4",
      "lane": "5",
      "seedStr": "01:00.17",
@@ -102941,8 +102941,8 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:33",
-     "heat": "4",
+     "startTime": "13:40",
+     "heat": "5",
      "lane": "4",
      "seedStr": "01:08.17",
      "seedSeconds": 68.17
@@ -110719,9 +110719,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:06",
+     "startTime": "13:10",
      "heat": "2",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "01:13.11",
      "seedSeconds": 73.11
     },
@@ -110733,9 +110733,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:18",
+     "startTime": "13:23",
      "heat": "1",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "03:14.34",
      "seedSeconds": 194.34
     }
@@ -112018,9 +112018,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "12:45",
-     "heat": "1",
-     "lane": "6",
+     "startTime": "12:46",
+     "heat": "2",
+     "lane": "7",
      "seedStr": "01:24.58",
      "seedSeconds": 84.58
     },
@@ -112032,9 +112032,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:05",
+     "startTime": "13:08",
      "heat": "1",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "01:17.63",
      "seedSeconds": 77.63
     }
@@ -112552,9 +112552,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:06",
+     "startTime": "13:10",
      "heat": "2",
-     "lane": "1",
+     "lane": "8",
      "seedStr": "01:13.16",
      "seedSeconds": 73.16
     },
@@ -112566,9 +112566,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:30",
+     "startTime": "13:35",
      "heat": "2",
-     "lane": "2",
+     "lane": "4",
      "seedStr": "01:23.46",
      "seedSeconds": 83.46
     }
@@ -115654,7 +115654,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:25",
+     "startTime": "13:30",
      "heat": "2",
      "lane": "4",
      "seedStr": "02:12.69",
@@ -115668,8 +115668,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:45",
-     "heat": "7",
+     "startTime": "13:50",
+     "heat": "6",
      "lane": "3",
      "seedStr": "00:58.80",
      "seedSeconds": 58.8
@@ -119013,7 +119013,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:25",
+     "startTime": "13:30",
      "heat": "2",
      "lane": "3",
      "seedStr": "02:20.90",
@@ -119027,8 +119027,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:45",
-     "heat": "7",
+     "startTime": "13:50",
+     "heat": "6",
      "lane": "6",
      "seedStr": "00:59.65",
      "seedSeconds": 59.65
@@ -119859,7 +119859,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:25",
+     "startTime": "13:30",
      "heat": "2",
      "lane": "5",
      "seedStr": "02:19.13",
@@ -119873,8 +119873,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:45",
-     "heat": "7",
+     "startTime": "13:50",
+     "heat": "6",
      "lane": "2",
      "seedStr": "01:00.76",
      "seedSeconds": 60.76
@@ -121846,7 +121846,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:25",
+     "startTime": "13:30",
      "heat": "2",
      "lane": "2",
      "seedStr": "02:31.16",
@@ -125463,8 +125463,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:15",
-     "heat": "3",
+     "startTime": "13:20",
+     "heat": "4",
      "lane": "4",
      "seedStr": "00:56.40",
      "seedSeconds": 56.4
@@ -125477,8 +125477,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:43",
-     "heat": "6",
+     "startTime": "13:48",
+     "heat": "5",
      "lane": "4",
      "seedStr": "01:03.52",
      "seedSeconds": 63.52
@@ -127952,8 +127952,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "12:53",
-     "heat": "3",
+     "startTime": "12:57",
+     "heat": "4",
      "lane": "1",
      "seedStr": "01:05.58",
      "seedSeconds": 65.58
@@ -127966,9 +127966,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:13",
-     "heat": "2",
-     "lane": "3",
+     "startTime": "13:18",
+     "heat": "3",
+     "lane": "2",
      "seedStr": "01:02.15",
      "seedSeconds": 62.15
     }
@@ -130788,7 +130788,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:02",
+     "startTime": "13:05",
      "heat": "2",
      "lane": "2",
      "seedStr": "02:27.50",
@@ -130802,9 +130802,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:41",
-     "heat": "5",
-     "lane": "3",
+     "startTime": "13:47",
+     "heat": "4",
+     "lane": "6",
      "seedStr": "01:08.13",
      "seedSeconds": 68.13
     }
@@ -133190,9 +133190,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "12:50",
+     "startTime": "12:52",
      "heat": "1",
-     "lane": "8",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -133204,7 +133204,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:25",
+     "startTime": "13:30",
      "heat": "2",
      "lane": "7",
      "seedStr": "02:46.47",
@@ -216202,9 +216202,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:10",
+     "startTime": "13:13",
      "heat": "4",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "01:02.88",
      "seedSeconds": 62.88
     },
@@ -216216,9 +216216,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:32",
+     "startTime": "13:37",
      "heat": "3",
-     "lane": "1",
+     "lane": "3",
      "seedStr": "01:20.12",
      "seedSeconds": 80.12
     }
@@ -218190,9 +218190,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "12:55",
+     "startTime": "12:58",
      "heat": "1",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "02:42.40",
      "seedSeconds": 162.4
     },
@@ -218204,7 +218204,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:10",
+     "startTime": "13:13",
      "heat": "4",
      "lane": "3",
      "seedStr": "01:01.25",
@@ -221957,7 +221957,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "12:46",
      "heat": "2",
-     "lane": "1",
+     "lane": "4",
      "seedStr": "01:19.31",
      "seedSeconds": 79.31
     },
@@ -221969,9 +221969,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "12:55",
+     "startTime": "12:58",
      "heat": "1",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -225718,7 +225718,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "12:48",
      "heat": "3",
-     "lane": "8",
+     "lane": "4",
      "seedStr": "01:13.47",
      "seedSeconds": 73.47
     },
@@ -225730,9 +225730,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:33",
-     "heat": "4",
-     "lane": "6",
+     "startTime": "13:40",
+     "heat": "5",
+     "lane": "2",
      "seedStr": "01:13.25",
      "seedSeconds": 73.25
     }
@@ -226293,7 +226293,36 @@ window.SWIM_DATA = {
      "points": 144
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
+     "compId": 15740,
+     "event": "200 פרפר",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי חיפה",
+     "startTime": "12:58",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "02:36.72",
+     "seedSeconds": 156.72
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
+     "compId": 15740,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי חיפה",
+     "startTime": "13:38",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "01:18.25",
+     "seedSeconds": 78.25
+    }
+   ]
   },
   "2011|חסדשוילי·לינוי": {
    "id": "2011|חסדשוילי·לינוי",
@@ -227442,9 +227471,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "12:46",
-     "heat": "2",
-     "lane": "3",
+     "startTime": "12:48",
+     "heat": "3",
+     "lane": "6",
      "seedStr": "01:16.48",
      "seedSeconds": 76.48
     },
@@ -227456,9 +227485,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:30",
+     "startTime": "13:35",
      "heat": "2",
-     "lane": "7",
+     "lane": "5",
      "seedStr": "01:23.94",
      "seedSeconds": 83.94
     }
@@ -231476,7 +231505,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:02",
+     "startTime": "13:05",
      "heat": "2",
      "lane": "4",
      "seedStr": "01:55.67",
@@ -231490,8 +231519,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:45",
-     "heat": "7",
+     "startTime": "13:50",
+     "heat": "6",
      "lane": "4",
      "seedStr": "00:56.82",
      "seedSeconds": 56.82
@@ -240124,7 +240153,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:02",
+     "startTime": "13:05",
      "heat": "2",
      "lane": "7",
      "seedStr": "02:28.13",
@@ -240138,8 +240167,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:43",
-     "heat": "6",
+     "startTime": "13:48",
+     "heat": "5",
      "lane": "1",
      "seedStr": "01:06.32",
      "seedSeconds": 66.32
@@ -242602,8 +242631,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:16",
-     "heat": "4",
+     "startTime": "13:21",
+     "heat": "5",
      "lane": "5",
      "seedStr": "00:54.01",
      "seedSeconds": 54.01
@@ -242616,9 +242645,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:41",
-     "heat": "5",
-     "lane": "4",
+     "startTime": "13:47",
+     "heat": "4",
+     "lane": "5",
      "seedStr": "01:07.20",
      "seedSeconds": 67.2
     }
@@ -243862,8 +243891,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:15",
-     "heat": "3",
+     "startTime": "13:20",
+     "heat": "4",
      "lane": "2",
      "seedStr": "00:57.82",
      "seedSeconds": 57.82
@@ -243876,8 +243905,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:37",
-     "heat": "2",
+     "startTime": "13:42",
+     "heat": "1",
      "lane": "4",
      "seedStr": "01:27.69",
      "seedSeconds": 87.69
@@ -245380,8 +245409,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "12:51",
-     "heat": "2",
+     "startTime": "12:55",
+     "heat": "3",
      "lane": "3",
      "seedStr": "01:07.08",
      "seedSeconds": 67.08
@@ -245394,7 +245423,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:02",
+     "startTime": "13:05",
      "heat": "2",
      "lane": "6",
      "seedStr": "02:25.09",
@@ -256281,8 +256310,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:15",
-     "heat": "3",
+     "startTime": "13:20",
+     "heat": "4",
      "lane": "6",
      "seedStr": "00:57.69",
      "seedSeconds": 57.69
@@ -256295,8 +256324,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:45",
-     "heat": "7",
+     "startTime": "13:50",
+     "heat": "6",
      "lane": "8",
      "seedStr": "01:03.23",
      "seedSeconds": 63.23
@@ -262239,7 +262268,36 @@ window.SWIM_DATA = {
      "points": 407
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
+     "compId": 15740,
+     "event": "100 גב",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי חיפה",
+     "startTime": "12:48",
+     "heat": "3",
+     "lane": "7",
+     "seedStr": "01:17.11",
+     "seedSeconds": 77.11
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
+     "compId": 15740,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי חיפה",
+     "startTime": "13:38",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "01:17.83",
+     "seedSeconds": 77.83
+    }
+   ]
   },
   "2011|בר·חביב": {
    "id": "2011|בר·חביב",
@@ -264023,9 +264081,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:08",
+     "startTime": "13:12",
      "heat": "3",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "01:05.53",
      "seedSeconds": 65.53
     },
@@ -264037,9 +264095,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:33",
-     "heat": "4",
-     "lane": "1",
+     "startTime": "13:40",
+     "heat": "5",
+     "lane": "8",
      "seedStr": "01:16.19",
      "seedSeconds": 76.19
     }
@@ -272497,8 +272555,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "12:51",
-     "heat": "2",
+     "startTime": "12:55",
+     "heat": "3",
      "lane": "2",
      "seedStr": "01:09.10",
      "seedSeconds": 69.1
@@ -272511,9 +272569,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:13",
-     "heat": "2",
-     "lane": "2",
+     "startTime": "13:18",
+     "heat": "3",
+     "lane": "1",
      "seedStr": "01:05.17",
      "seedSeconds": 65.17
     }
@@ -286844,8 +286902,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "12:53",
-     "heat": "3",
+     "startTime": "12:57",
+     "heat": "4",
      "lane": "8",
      "seedStr": "01:06.61",
      "seedSeconds": 66.61
@@ -286858,9 +286916,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:13",
+     "startTime": "13:16",
      "heat": "2",
-     "lane": "1",
+     "lane": "5",
      "seedStr": "01:06.48",
      "seedSeconds": 66.48
     }
@@ -293701,8 +293759,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "הפועל קרית טבעון",
-     "startTime": "12:53",
-     "heat": "3",
+     "startTime": "12:57",
+     "heat": "4",
      "lane": "2",
      "seedStr": "01:04.41",
      "seedSeconds": 64.41
@@ -293715,8 +293773,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "הפועל קרית טבעון",
-     "startTime": "13:16",
-     "heat": "4",
+     "startTime": "13:21",
+     "heat": "5",
      "lane": "4",
      "seedStr": "00:53.40",
      "seedSeconds": 53.4
@@ -301631,9 +301689,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל קרית טבעון",
-     "startTime": "12:46",
-     "heat": "2",
-     "lane": "2",
+     "startTime": "12:48",
+     "heat": "3",
+     "lane": "1",
      "seedStr": "01:17.49",
      "seedSeconds": 77.49
     },
@@ -301645,8 +301703,8 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל קרית טבעון",
-     "startTime": "13:33",
-     "heat": "4",
+     "startTime": "13:40",
+     "heat": "5",
      "lane": "5",
      "seedStr": "01:08.92",
      "seedSeconds": 68.92
@@ -302592,9 +302650,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל קרית טבעון",
-     "startTime": "13:08",
+     "startTime": "13:12",
      "heat": "3",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "01:05.87",
      "seedSeconds": 65.87
     },
@@ -302606,9 +302664,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל קרית טבעון",
-     "startTime": "13:33",
-     "heat": "4",
-     "lane": "7",
+     "startTime": "13:40",
+     "heat": "5",
+     "lane": "1",
      "seedStr": "01:16.13",
      "seedSeconds": 76.13
     }
@@ -349282,9 +349340,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "12:46",
-     "heat": "2",
-     "lane": "4",
+     "startTime": "12:48",
+     "heat": "3",
+     "lane": "5",
      "seedStr": "01:15.15",
      "seedSeconds": 75.15
     },
@@ -349296,9 +349354,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:08",
+     "startTime": "13:12",
      "heat": "3",
-     "lane": "4",
+     "lane": "5",
      "seedStr": "01:04.38",
      "seedSeconds": 64.38
     }
@@ -552733,9 +552791,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:08",
+     "startTime": "13:12",
      "heat": "3",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "01:05.41",
      "seedSeconds": 65.41
     },
@@ -552747,9 +552805,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:32",
-     "heat": "3",
-     "lane": "6",
+     "startTime": "13:38",
+     "heat": "4",
+     "lane": "8",
      "seedStr": "01:19.17",
      "seedSeconds": 79.17
     }
@@ -553373,7 +553431,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "startTime": "12:46",
      "heat": "2",
-     "lane": "8",
+     "lane": "5",
      "seedStr": "01:21.22",
      "seedSeconds": 81.22
     },
@@ -553385,9 +553443,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:30",
-     "heat": "2",
-     "lane": "6",
+     "startTime": "13:37",
+     "heat": "3",
+     "lane": "8",
      "seedStr": "01:22.80",
      "seedSeconds": 82.8
     }
@@ -557708,9 +557766,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:18",
+     "startTime": "13:23",
      "heat": "1",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "03:27.57",
      "seedSeconds": 207.57
     },
@@ -557722,9 +557780,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:30",
-     "heat": "2",
-     "lane": "5",
+     "startTime": "13:37",
+     "heat": "3",
+     "lane": "7",
      "seedStr": "01:22.40",
      "seedSeconds": 82.4
     }
@@ -559896,9 +559954,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "12:45",
-     "heat": "1",
-     "lane": "5",
+     "startTime": "12:46",
+     "heat": "2",
+     "lane": "6",
      "seedStr": "01:23.59",
      "seedSeconds": 83.59
     },
@@ -559910,9 +559968,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:05",
+     "startTime": "13:08",
      "heat": "1",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "01:32.03",
      "seedSeconds": 92.03
     }
@@ -561275,7 +561333,22 @@ window.SWIM_DATA = {
      "points": 355
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
+     "compId": 15740,
+     "event": "200 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי חיפה",
+     "startTime": "13:23",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "03:11.23",
+     "seedSeconds": 191.23
+    }
+   ]
   },
   "2015|אביגייל·ממדוב": {
    "id": "2015|אביגייל·ממדוב",
@@ -567607,8 +567680,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "12:53",
-     "heat": "3",
+     "startTime": "12:57",
+     "heat": "4",
      "lane": "6",
      "seedStr": "01:00.72",
      "seedSeconds": 60.72
@@ -567621,9 +567694,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:41",
-     "heat": "5",
-     "lane": "7",
+     "startTime": "13:47",
+     "heat": "4",
+     "lane": "1",
      "seedStr": "01:09.20",
      "seedSeconds": 69.2
     }
@@ -568414,9 +568487,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:15",
-     "heat": "3",
-     "lane": "7",
+     "startTime": "13:20",
+     "heat": "4",
+     "lane": "1",
      "seedStr": "00:59.26",
      "seedSeconds": 59.26
     },
@@ -568428,8 +568501,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:43",
-     "heat": "6",
+     "startTime": "13:48",
+     "heat": "5",
      "lane": "7",
      "seedStr": "01:06.04",
      "seedSeconds": 66.04
@@ -570038,8 +570111,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "12:51",
-     "heat": "2",
+     "startTime": "12:55",
+     "heat": "3",
      "lane": "1",
      "seedStr": "01:11.82",
      "seedSeconds": 71.82
@@ -570052,7 +570125,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:21",
+     "startTime": "13:26",
      "heat": "1",
      "lane": "3",
      "seedStr": "03:03.03",
@@ -571051,9 +571124,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "12:58",
+     "startTime": "13:02",
      "heat": "1",
-     "lane": "1",
+     "lane": "7",
      "seedStr": "02:59.72",
      "seedSeconds": 179.72
     },
@@ -571065,9 +571138,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:40",
-     "heat": "4",
-     "lane": "6",
+     "startTime": "13:45",
+     "heat": "3",
+     "lane": "2",
      "seedStr": "01:11.92",
      "seedSeconds": 71.92
     }
@@ -571832,8 +571905,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "12:51",
-     "heat": "2",
+     "startTime": "12:55",
+     "heat": "3",
      "lane": "7",
      "seedStr": "01:09.94",
      "seedSeconds": 69.94
@@ -571846,8 +571919,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:43",
-     "heat": "6",
+     "startTime": "13:48",
+     "heat": "5",
      "lane": "2",
      "seedStr": "01:04.62",
      "seedSeconds": 64.62
@@ -573415,9 +573488,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:15",
-     "heat": "3",
-     "lane": "1",
+     "startTime": "13:20",
+     "heat": "4",
+     "lane": "8",
      "seedStr": "00:59.94",
      "seedSeconds": 59.94
     },
@@ -573429,9 +573502,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:40",
-     "heat": "4",
-     "lane": "4",
+     "startTime": "13:45",
+     "heat": "3",
+     "lane": "5",
      "seedStr": "01:10.24",
      "seedSeconds": 70.24
     }
@@ -574274,9 +574347,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:02",
+     "startTime": "13:05",
      "heat": "2",
-     "lane": "8",
+     "lane": "1",
      "seedStr": "02:33.73",
      "seedSeconds": 153.73
     },
@@ -574288,9 +574361,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:40",
-     "heat": "4",
-     "lane": "8",
+     "startTime": "13:43",
+     "heat": "2",
+     "lane": "4",
      "seedStr": "01:14.65",
      "seedSeconds": 74.65
     }
@@ -575133,8 +575206,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "12:51",
-     "heat": "2",
+     "startTime": "12:55",
+     "heat": "3",
      "lane": "5",
      "seedStr": "01:06.92",
      "seedSeconds": 66.92
@@ -575147,9 +575220,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:40",
-     "heat": "4",
-     "lane": "5",
+     "startTime": "13:45",
+     "heat": "3",
+     "lane": "3",
      "seedStr": "01:11.24",
      "seedSeconds": 71.24
     }
@@ -577819,9 +577892,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "12:50",
-     "heat": "1",
-     "lane": "6",
+     "startTime": "12:53",
+     "heat": "2",
+     "lane": "3",
      "seedStr": "01:23.66",
      "seedSeconds": 83.66
     },
@@ -577833,9 +577906,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:41",
-     "heat": "5",
-     "lane": "5",
+     "startTime": "13:47",
+     "heat": "4",
+     "lane": "3",
      "seedStr": "01:08.09",
      "seedSeconds": 68.09
     }
@@ -608829,9 +608902,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל גליל עליון",
-     "startTime": "12:55",
+     "startTime": "12:58",
      "heat": "1",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "03:14.63",
      "seedSeconds": 194.63
     },
@@ -608843,9 +608916,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל גליל עליון",
-     "startTime": "13:32",
-     "heat": "3",
-     "lane": "4",
+     "startTime": "13:38",
+     "heat": "4",
+     "lane": "5",
      "seedStr": "01:16.36",
      "seedSeconds": 76.36
     }
@@ -609792,9 +609865,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "12:55",
+     "startTime": "12:58",
      "heat": "1",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "02:38.20",
      "seedSeconds": 158.2
     },
@@ -609806,9 +609879,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:06",
+     "startTime": "13:10",
      "heat": "2",
-     "lane": "4",
+     "lane": "5",
      "seedStr": "01:07.84",
      "seedSeconds": 67.84
     }
@@ -610443,7 +610516,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:18",
+     "startTime": "13:23",
      "heat": "1",
      "lane": "5",
      "seedStr": "03:05.64",
@@ -610457,9 +610530,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:30",
-     "heat": "2",
-     "lane": "4",
+     "startTime": "13:37",
+     "heat": "3",
+     "lane": "2",
      "seedStr": "01:22.27",
      "seedSeconds": 82.27
     }
@@ -611442,9 +611515,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "12:46",
-     "heat": "2",
-     "lane": "7",
+     "startTime": "12:48",
+     "heat": "3",
+     "lane": "8",
      "seedStr": "01:17.95",
      "seedSeconds": 77.95
     },
@@ -611456,9 +611529,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:32",
-     "heat": "3",
-     "lane": "5",
+     "startTime": "13:38",
+     "heat": "4",
+     "lane": "6",
      "seedStr": "01:17.04",
      "seedSeconds": 77.04
     }
@@ -612132,7 +612205,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:18",
+     "startTime": "13:23",
      "heat": "1",
      "lane": "3",
      "seedStr": "03:07.74",
@@ -612146,9 +612219,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:32",
+     "startTime": "13:37",
      "heat": "3",
-     "lane": "2",
+     "lane": "4",
      "seedStr": "01:19.63",
      "seedSeconds": 79.63
     }
@@ -614112,9 +614185,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:06",
-     "heat": "2",
-     "lane": "8",
+     "startTime": "13:08",
+     "heat": "1",
+     "lane": "4",
      "seedStr": "01:13.19",
      "seedSeconds": 73.19
     },
@@ -614126,9 +614199,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:32",
+     "startTime": "13:37",
      "heat": "3",
-     "lane": "8",
+     "lane": "6",
      "seedStr": "01:22.17",
      "seedSeconds": 82.17
     }
@@ -615192,7 +615265,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "startTime": "12:45",
      "heat": "1",
-     "lane": "7",
+     "lane": "5",
      "seedStr": "01:34.53",
      "seedSeconds": 94.53
     },
@@ -615204,9 +615277,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:10",
+     "startTime": "13:13",
      "heat": "4",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "01:03.42",
      "seedSeconds": 63.42
     }
@@ -616936,9 +617009,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:06",
+     "startTime": "13:10",
      "heat": "2",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "01:10.23",
      "seedSeconds": 70.23
     },
@@ -616950,9 +617023,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:30",
+     "startTime": "13:35",
      "heat": "2",
-     "lane": "8",
+     "lane": "6",
      "seedStr": "01:27.10",
      "seedSeconds": 87.1
     }
@@ -617791,9 +617864,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:05",
+     "startTime": "13:08",
      "heat": "1",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "01:23.46",
      "seedSeconds": 83.46
     },
@@ -617805,9 +617878,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:28",
+     "startTime": "13:33",
      "heat": "1",
-     "lane": "7",
+     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -625084,8 +625157,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:16",
-     "heat": "4",
+     "startTime": "13:21",
+     "heat": "5",
      "lane": "1",
      "seedStr": "00:56.14",
      "seedSeconds": 56.14
@@ -625098,8 +625171,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:43",
-     "heat": "6",
+     "startTime": "13:48",
+     "heat": "5",
      "lane": "6",
      "seedStr": "01:04.26",
      "seedSeconds": 64.26
@@ -625945,7 +626018,36 @@ window.SWIM_DATA = {
      "points": 452
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
+     "compId": 15740,
+     "event": "100 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי חיפה",
+     "startTime": "13:20",
+     "heat": "4",
+     "lane": "7",
+     "seedStr": "00:58.58",
+     "seedSeconds": 58.58
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
+     "compId": 15740,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי חיפה",
+     "startTime": "13:47",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "01:07.09",
+     "seedSeconds": 67.09
+    }
+   ]
   },
   "2009|אריק·לוקין": {
    "id": "2009|אריק·לוקין",
@@ -627673,9 +627775,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:13",
-     "heat": "2",
-     "lane": "7",
+     "startTime": "13:18",
+     "heat": "3",
+     "lane": "8",
      "seedStr": "01:05.83",
      "seedSeconds": 65.83
     },
@@ -627687,8 +627789,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:38",
-     "heat": "3",
+     "startTime": "13:43",
+     "heat": "2",
      "lane": "7",
      "seedStr": "01:23.77",
      "seedSeconds": 83.77
@@ -628698,9 +628800,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "12:50",
-     "heat": "1",
-     "lane": "1",
+     "startTime": "12:53",
+     "heat": "2",
+     "lane": "7",
      "seedStr": "01:34.04",
      "seedSeconds": 94.04
     },
@@ -628712,8 +628814,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:37",
-     "heat": "2",
+     "startTime": "13:42",
+     "heat": "1",
      "lane": "6",
      "seedStr": "01:43.83",
      "seedSeconds": 103.83
@@ -631146,7 +631248,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:25",
+     "startTime": "13:30",
      "heat": "2",
      "lane": "8",
      "seedStr": "02:51.98",
@@ -631160,9 +631262,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:40",
-     "heat": "4",
-     "lane": "2",
+     "startTime": "13:45",
+     "heat": "3",
+     "lane": "7",
      "seedStr": "01:12.08",
      "seedSeconds": 72.08
     }
@@ -632274,9 +632376,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "הפועל גליל עליון",
-     "startTime": "12:58",
+     "startTime": "13:02",
      "heat": "1",
-     "lane": "8",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -632288,9 +632390,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "הפועל גליל עליון",
-     "startTime": "13:38",
-     "heat": "3",
-     "lane": "4",
+     "startTime": "13:43",
+     "heat": "2",
+     "lane": "5",
      "seedStr": "01:14.88",
      "seedSeconds": 74.88
     }
@@ -635080,9 +635182,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:13",
+     "startTime": "13:16",
      "heat": "2",
-     "lane": "8",
+     "lane": "3",
      "seedStr": "01:06.70",
      "seedSeconds": 66.7
     },
@@ -635094,8 +635196,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:37",
-     "heat": "2",
+     "startTime": "13:42",
+     "heat": "1",
      "lane": "3",
      "seedStr": "01:35.48",
      "seedSeconds": 95.48
@@ -720168,9 +720270,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:13",
-     "heat": "2",
-     "lane": "6",
+     "startTime": "13:18",
+     "heat": "3",
+     "lane": "7",
      "seedStr": "01:02.80",
      "seedSeconds": 62.8
     },
@@ -720182,8 +720284,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:37",
-     "heat": "2",
+     "startTime": "13:42",
+     "heat": "1",
      "lane": "7",
      "seedStr": "NT",
      "seedSeconds": null
@@ -725135,8 +725237,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:16",
-     "heat": "4",
+     "startTime": "13:21",
+     "heat": "5",
      "lane": "2",
      "seedStr": "00:55.64",
      "seedSeconds": 55.64
@@ -725149,9 +725251,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:41",
-     "heat": "5",
-     "lane": "6",
+     "startTime": "13:47",
+     "heat": "4",
+     "lane": "2",
      "seedStr": "01:08.43",
      "seedSeconds": 68.43
     }
@@ -726773,7 +726875,22 @@ window.SWIM_DATA = {
      "points": 455
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
+     "compId": 15740,
+     "event": "100 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי חיפה",
+     "startTime": "13:18",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "01:00.18",
+     "seedSeconds": 60.18
+    }
+   ]
   },
   "2011|גבידולין·דניאל": {
    "id": "2011|גבידולין·דניאל",
@@ -763293,9 +763410,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "12:55",
+     "startTime": "12:58",
      "heat": "1",
-     "lane": "1",
+     "lane": "8",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -763307,9 +763424,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:10",
+     "startTime": "13:13",
      "heat": "4",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "01:03.62",
      "seedSeconds": 63.62
     }
@@ -768114,8 +768231,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "12:53",
-     "heat": "3",
+     "startTime": "12:57",
+     "heat": "4",
      "lane": "4",
      "seedStr": "00:59.10",
      "seedSeconds": 59.1
@@ -768128,8 +768245,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:16",
-     "heat": "4",
+     "startTime": "13:21",
+     "heat": "5",
      "lane": "3",
      "seedStr": "00:54.37",
      "seedSeconds": 54.37
@@ -840965,7 +841082,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "הפועל קרית טבעון",
-     "startTime": "13:25",
+     "startTime": "13:30",
      "heat": "2",
      "lane": "1",
      "seedStr": "02:47.22",
@@ -840979,8 +841096,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "הפועל קרית טבעון",
-     "startTime": "13:38",
-     "heat": "3",
+     "startTime": "13:43",
+     "heat": "2",
      "lane": "1",
      "seedStr": "01:26.65",
      "seedSeconds": 86.65
@@ -881992,7 +882109,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:25",
+     "startTime": "13:30",
      "heat": "2",
      "lane": "6",
      "seedStr": "02:30.51",
@@ -882006,8 +882123,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:43",
-     "heat": "6",
+     "startTime": "13:48",
+     "heat": "5",
      "lane": "8",
      "seedStr": "01:06.45",
      "seedSeconds": 66.45
@@ -883667,9 +883784,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "12:50",
-     "heat": "1",
-     "lane": "7",
+     "startTime": "12:53",
+     "heat": "2",
+     "lane": "2",
      "seedStr": "01:32.82",
      "seedSeconds": 92.82
     },
@@ -883681,9 +883798,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:41",
-     "heat": "5",
-     "lane": "2",
+     "startTime": "13:47",
+     "heat": "4",
+     "lane": "7",
      "seedStr": "01:09.01",
      "seedSeconds": 69.01
     }
@@ -955557,8 +955674,8 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "12:48",
-     "heat": "3",
+     "startTime": "12:50",
+     "heat": "4",
      "lane": "4",
      "seedStr": "01:02.13",
      "seedSeconds": 62.13
@@ -955571,8 +955688,8 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:33",
-     "heat": "4",
+     "startTime": "13:40",
+     "heat": "5",
      "lane": "3",
      "seedStr": "01:09.21",
      "seedSeconds": 69.21
@@ -961111,7 +961228,36 @@ window.SWIM_DATA = {
      "points": 643
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
+     "compId": 15740,
+     "event": "100 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "13:13",
+     "heat": "4",
+     "lane": "6",
+     "seedStr": "01:02.16",
+     "seedSeconds": 62.16
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
+     "compId": 15740,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "13:40",
+     "heat": "5",
+     "lane": "6",
+     "seedStr": "01:12.98",
+     "seedSeconds": 72.98
+    }
+   ]
   },
   "2011|וינשל·נגה": {
    "id": "2011|וינשל·נגה",
@@ -963673,9 +963819,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "12:48",
-     "heat": "3",
-     "lane": "2",
+     "startTime": "12:50",
+     "heat": "4",
+     "lane": "7",
      "seedStr": "01:11.96",
      "seedSeconds": 71.96
     },
@@ -963687,9 +963833,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:08",
+     "startTime": "13:12",
      "heat": "3",
-     "lane": "1",
+     "lane": "8",
      "seedStr": "01:07.22",
      "seedSeconds": 67.22
     }
@@ -973835,8 +973981,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:15",
-     "heat": "3",
+     "startTime": "13:20",
+     "heat": "4",
      "lane": "5",
      "seedStr": "00:56.46",
      "seedSeconds": 56.46
@@ -973849,8 +973995,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:43",
-     "heat": "6",
+     "startTime": "13:48",
+     "heat": "5",
      "lane": "5",
      "seedStr": "01:03.73",
      "seedSeconds": 63.73
@@ -984147,7 +984293,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "12:55",
+     "startTime": "12:58",
      "heat": "1",
      "lane": "4",
      "seedStr": "02:17.67",
@@ -984161,7 +984307,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:10",
+     "startTime": "13:13",
      "heat": "4",
      "lane": "4",
      "seedStr": "00:56.74",
@@ -999718,9 +999864,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "12:55",
+     "startTime": "12:58",
      "heat": "1",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "02:46.06",
      "seedSeconds": 166.06
     },
@@ -999732,9 +999878,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:06",
+     "startTime": "13:10",
      "heat": "2",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "01:09.81",
      "seedSeconds": 69.81
     }
@@ -1032796,9 +1032942,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:10",
+     "startTime": "13:13",
      "heat": "4",
-     "lane": "1",
+     "lane": "8",
      "seedStr": "01:04.25",
      "seedSeconds": 64.25
     },
@@ -1032810,9 +1032956,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:32",
-     "heat": "3",
-     "lane": "3",
+     "startTime": "13:38",
+     "heat": "4",
+     "lane": "7",
      "seedStr": "01:17.87",
      "seedSeconds": 77.87
     }
@@ -1044052,9 +1044198,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:11",
-     "heat": "1",
-     "lane": "3",
+     "startTime": "13:16",
+     "heat": "2",
+     "lane": "7",
      "seedStr": "01:12.84",
      "seedSeconds": 72.84
     },
@@ -1044066,9 +1044212,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:41",
-     "heat": "5",
-     "lane": "8",
+     "startTime": "13:45",
+     "heat": "3",
+     "lane": "4",
      "seedStr": "01:09.80",
      "seedSeconds": 69.8
     }
@@ -1047390,8 +1047536,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:16",
-     "heat": "4",
+     "startTime": "13:21",
+     "heat": "5",
      "lane": "8",
      "seedStr": "00:56.22",
      "seedSeconds": 56.22
@@ -1047404,8 +1047550,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:45",
-     "heat": "7",
+     "startTime": "13:50",
+     "heat": "6",
      "lane": "5",
      "seedStr": "00:58.35",
      "seedSeconds": 58.35
@@ -1056106,8 +1056252,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "12:51",
-     "heat": "2",
+     "startTime": "12:55",
+     "heat": "3",
      "lane": "4",
      "seedStr": "01:06.77",
      "seedSeconds": 66.77
@@ -1056120,9 +1056266,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:41",
-     "heat": "5",
-     "lane": "1",
+     "startTime": "13:47",
+     "heat": "4",
+     "lane": "8",
      "seedStr": "01:09.44",
      "seedSeconds": 69.44
     }
@@ -1059440,7 +1059586,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:02",
+     "startTime": "13:05",
      "heat": "2",
      "lane": "5",
      "seedStr": "01:59.39",
@@ -1059454,9 +1059600,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:40",
-     "heat": "4",
-     "lane": "7",
+     "startTime": "13:45",
+     "heat": "3",
+     "lane": "1",
      "seedStr": "01:13.12",
      "seedSeconds": 73.12
     }
@@ -1157072,9 +1157218,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "12:58",
+     "startTime": "13:02",
      "heat": "1",
-     "lane": "5",
+     "lane": "4",
      "seedStr": "02:36.52",
      "seedSeconds": 156.52
     },
@@ -1157086,9 +1157232,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:11",
-     "heat": "1",
-     "lane": "5",
+     "startTime": "13:16",
+     "heat": "2",
+     "lane": "2",
      "seedStr": "01:08.53",
      "seedSeconds": 68.53
     }
@@ -1158345,9 +1158491,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "12:58",
+     "startTime": "13:02",
      "heat": "1",
-     "lane": "3",
+     "lane": "5",
      "seedStr": "02:38.85",
      "seedSeconds": 158.85
     },
@@ -1158359,7 +1158505,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:21",
+     "startTime": "13:26",
      "heat": "1",
      "lane": "2",
      "seedStr": "03:22.97",
@@ -1159009,9 +1159155,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "12:58",
+     "startTime": "13:02",
      "heat": "1",
-     "lane": "2",
+     "lane": "6",
      "seedStr": "02:45.68",
      "seedSeconds": 165.68
     },
@@ -1159023,7 +1159169,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:21",
+     "startTime": "13:26",
      "heat": "1",
      "lane": "6",
      "seedStr": "03:20.21",
@@ -1160230,9 +1160376,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "12:58",
+     "startTime": "13:02",
      "heat": "1",
-     "lane": "6",
+     "lane": "3",
      "seedStr": "02:42.41",
      "seedSeconds": 162.41
     },
@@ -1160244,8 +1160390,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:38",
-     "heat": "3",
+     "startTime": "13:43",
+     "heat": "2",
      "lane": "8",
      "seedStr": "01:27.27",
      "seedSeconds": 87.27
@@ -1160946,9 +1161092,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "12:58",
-     "heat": "1",
-     "lane": "4",
+     "startTime": "13:05",
+     "heat": "2",
+     "lane": "8",
      "seedStr": "02:35.96",
      "seedSeconds": 155.96
     },
@@ -1160960,8 +1161106,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:38",
-     "heat": "3",
+     "startTime": "13:43",
+     "heat": "2",
      "lane": "2",
      "seedStr": "01:19.06",
      "seedSeconds": 79.06
@@ -1161662,9 +1161808,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:11",
-     "heat": "1",
-     "lane": "4",
+     "startTime": "13:16",
+     "heat": "2",
+     "lane": "6",
      "seedStr": "01:08.42",
      "seedSeconds": 68.42
     },
@@ -1161676,7 +1161822,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:21",
+     "startTime": "13:26",
      "heat": "1",
      "lane": "1",
      "seedStr": "NT",
@@ -1165394,9 +1165540,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "12:46",
-     "heat": "2",
-     "lane": "6",
+     "startTime": "12:48",
+     "heat": "3",
+     "lane": "2",
      "seedStr": "01:16.53",
      "seedSeconds": 76.53
     },
@@ -1165408,9 +1165554,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:08",
+     "startTime": "13:12",
      "heat": "3",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "01:07.11",
      "seedSeconds": 67.11
     }
@@ -1170703,9 +1170849,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "12:50",
-     "heat": "1",
-     "lane": "3",
+     "startTime": "12:53",
+     "heat": "2",
+     "lane": "5",
      "seedStr": "01:17.60",
      "seedSeconds": 77.6
     },
@@ -1170717,8 +1170863,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:38",
-     "heat": "3",
+     "startTime": "13:43",
+     "heat": "2",
      "lane": "6",
      "seedStr": "01:18.01",
      "seedSeconds": 78.01
@@ -1175076,7 +1175222,8 @@ window.SWIM_DATA = {
    "displayName": "אלה שטיפט",
    "birthYear": 2013,
    "clubs": [
-    "מכבי נהריה"
+    "מכבי נהריה",
+    "מכבי קרית ביאליק"
    ],
    "past": [
     {
@@ -1175717,7 +1175864,36 @@ window.SWIM_DATA = {
      "points": 543
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
+     "compId": 15740,
+     "event": "100 גב",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "12:50",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "01:11.02",
+     "seedSeconds": 71.02
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
+     "compId": 15740,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "13:38",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "01:16.99",
+     "seedSeconds": 76.99
+    }
+   ]
   },
   "2011|אלית·ורזוב·ריבה": {
    "id": "2011|אלית·ורזוב·ריבה",
@@ -1176878,9 +1177054,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:05",
+     "startTime": "13:08",
      "heat": "1",
-     "lane": "4",
+     "lane": "5",
      "seedStr": "01:13.99",
      "seedSeconds": 73.99
     },
@@ -1176892,9 +1177068,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:28",
-     "heat": "1",
-     "lane": "3",
+     "startTime": "13:35",
+     "heat": "2",
+     "lane": "1",
      "seedStr": "01:37.34",
      "seedSeconds": 97.34
     }
@@ -1178149,8 +1178325,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "12:51",
-     "heat": "2",
+     "startTime": "12:55",
+     "heat": "3",
      "lane": "6",
      "seedStr": "01:08.84",
      "seedSeconds": 68.84
@@ -1178163,9 +1178339,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:11",
+     "startTime": "13:15",
      "heat": "1",
-     "lane": "2",
+     "lane": "4",
      "seedStr": "01:20.35",
      "seedSeconds": 80.35
     }
@@ -1179357,7 +1179533,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:02",
+     "startTime": "13:05",
      "heat": "2",
      "lane": "3",
      "seedStr": "02:23.73",
@@ -1179371,9 +1179547,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:40",
-     "heat": "4",
-     "lane": "3",
+     "startTime": "13:45",
+     "heat": "3",
+     "lane": "6",
      "seedStr": "01:11.53",
      "seedSeconds": 71.53
     }
@@ -1184138,7 +1184314,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:18",
+     "startTime": "13:23",
      "heat": "1",
      "lane": "4",
      "seedStr": "03:03.39",
@@ -1184152,9 +1184328,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:32",
+     "startTime": "13:37",
      "heat": "3",
-     "lane": "7",
+     "lane": "5",
      "seedStr": "01:19.70",
      "seedSeconds": 79.7
     }
@@ -1294295,9 +1294471,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "12:46",
-     "heat": "2",
-     "lane": "5",
+     "startTime": "12:48",
+     "heat": "3",
+     "lane": "3",
      "seedStr": "01:15.35",
      "seedSeconds": 75.35
     },
@@ -1294309,9 +1294485,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:28",
+     "startTime": "13:33",
      "heat": "1",
-     "lane": "2",
+     "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1298552,7 +1298728,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:21",
+     "startTime": "13:26",
      "heat": "1",
      "lane": "4",
      "seedStr": "02:55.56",
@@ -1298566,8 +1298742,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:37",
-     "heat": "2",
+     "startTime": "13:42",
+     "heat": "1",
      "lane": "5",
      "seedStr": "01:31.49",
      "seedSeconds": 91.49
@@ -1365635,9 +1365811,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל קרית טבעון",
-     "startTime": "12:45",
-     "heat": "1",
-     "lane": "3",
+     "startTime": "12:46",
+     "heat": "2",
+     "lane": "2",
      "seedStr": "01:23.81",
      "seedSeconds": 83.81
     },
@@ -1365649,9 +1365825,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל קרית טבעון",
-     "startTime": "13:30",
+     "startTime": "13:35",
      "heat": "2",
-     "lane": "1",
+     "lane": "3",
      "seedStr": "01:24.87",
      "seedSeconds": 84.87
     }
@@ -1367370,9 +1367546,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל קרית טבעון",
-     "startTime": "13:05",
+     "startTime": "13:08",
      "heat": "1",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "01:18.54",
      "seedSeconds": 78.54
     },
@@ -1367384,9 +1367560,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל קרית טבעון",
-     "startTime": "13:28",
-     "heat": "1",
-     "lane": "5",
+     "startTime": "13:35",
+     "heat": "2",
+     "lane": "7",
      "seedStr": "01:36.91",
      "seedSeconds": 96.91
     }
@@ -1376920,9 +1377096,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "12:58",
+     "startTime": "13:02",
      "heat": "1",
-     "lane": "7",
+     "lane": "2",
      "seedStr": "02:46.88",
      "seedSeconds": 166.88
     },
@@ -1376934,9 +1377110,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:35",
+     "startTime": "13:42",
      "heat": "1",
-     "lane": "4",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1397729,7 +1397905,22 @@ window.SWIM_DATA = {
      "points": 47
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-15",
+     "competition": "תחרות ליגה מספר1 של הפועל ירושלים - 15/10/2026",
+     "compId": 15687,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "18:15",
+     "heat": "1",
+     "lane": "1",
+     "seedStr": "00:52.18",
+     "seedSeconds": 52.18
+    }
+   ]
   },
   "2008|מזרחי·נעה": {
    "id": "2008|מזרחי·נעה",
@@ -1472648,22 +1472839,7 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": [
-    {
-     "date": "2026-10-16",
-     "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
-     "compId": 15740,
-     "event": "100 חופשי",
-     "category": "גברים 15-99",
-     "poolLength": 25,
-     "club": "הפועל גליל עליון",
-     "startTime": "13:11",
-     "heat": "1",
-     "lane": "6",
-     "seedStr": "01:15.45",
-     "seedSeconds": 75.45
-    }
-   ]
+   "future": []
   },
   "2013|עלמה·שיינפלד": {
    "id": "2013|עלמה·שיינפלד",
@@ -1472891,9 +1473067,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל גליל עליון",
-     "startTime": "13:05",
+     "startTime": "13:08",
      "heat": "1",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "01:19.25",
      "seedSeconds": 79.25
     },
@@ -1472905,9 +1473081,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל גליל עליון",
-     "startTime": "13:28",
-     "heat": "1",
-     "lane": "4",
+     "startTime": "13:35",
+     "heat": "2",
+     "lane": "2",
      "seedStr": "01:29.93",
      "seedSeconds": 89.93
     }
@@ -1473219,7 +1473395,7 @@ window.SWIM_DATA = {
      "club": "הפועל גליל עליון",
      "startTime": "12:45",
      "heat": "1",
-     "lane": "1",
+     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1473231,9 +1473407,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל גליל עליון",
-     "startTime": "13:28",
+     "startTime": "13:33",
      "heat": "1",
-     "lane": "6",
+     "lane": "4",
      "seedStr": "01:39.15",
      "seedSeconds": 99.15
     }
@@ -1474551,8 +1474727,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "הפועל גליל עליון",
-     "startTime": "12:51",
-     "heat": "2",
+     "startTime": "12:55",
+     "heat": "3",
      "lane": "8",
      "seedStr": "01:14.47",
      "seedSeconds": 74.47
@@ -1474565,8 +1474741,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "הפועל גליל עליון",
-     "startTime": "13:37",
-     "heat": "2",
+     "startTime": "13:42",
+     "heat": "1",
      "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
@@ -1504394,7 +1504570,7 @@ window.SWIM_DATA = {
      "club": "הפועל גליל עליון",
      "startTime": "12:45",
      "heat": "1",
-     "lane": "2",
+     "lane": "4",
      "seedStr": "01:28.23",
      "seedSeconds": 88.23
     },
@@ -1504406,9 +1504582,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל גליל עליון",
-     "startTime": "13:18",
+     "startTime": "13:23",
      "heat": "1",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1560970,9 +1561146,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "12:50",
-     "heat": "1",
-     "lane": "2",
+     "startTime": "12:53",
+     "heat": "2",
+     "lane": "6",
      "seedStr": "01:32.20",
      "seedSeconds": 92.2
     },
@@ -1560984,9 +1561160,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:15",
+     "startTime": "13:18",
      "heat": "3",
-     "lane": "8",
+     "lane": "5",
      "seedStr": "01:00.57",
      "seedSeconds": 60.57
     }
@@ -1626426,7 +1626602,36 @@ window.SWIM_DATA = {
      "points": 364
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
+     "compId": 15740,
+     "event": "100 גב",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל קרית טבעון",
+     "startTime": "12:53",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "02:19.78",
+     "seedSeconds": 139.78
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
+     "compId": 15740,
+     "event": "100 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל קרית טבעון",
+     "startTime": "13:16",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "01:06.22",
+     "seedSeconds": 66.22
+    }
+   ]
   },
   "2014|נועם·פרנקו": {
    "id": "2014|נועם·פרנקו",
@@ -1640957,8 +1641162,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:16",
-     "heat": "4",
+     "startTime": "13:21",
+     "heat": "5",
      "lane": "6",
      "seedStr": "00:55.17",
      "seedSeconds": 55.17
@@ -1640971,8 +1641176,8 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:45",
-     "heat": "7",
+     "startTime": "13:50",
+     "heat": "6",
      "lane": "7",
      "seedStr": "01:01.81",
      "seedSeconds": 61.81
@@ -1683981,7 +1684186,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:21",
+     "startTime": "13:26",
      "heat": "1",
      "lane": "5",
      "seedStr": "03:02.06",
@@ -1683995,9 +1684200,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:35",
+     "startTime": "13:42",
      "heat": "1",
-     "lane": "3",
+     "lane": "8",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1707203,6 +1707408,31 @@ window.SWIM_DATA = {
     }
    ]
   },
+  "2012|רון·שכטר": {
+   "id": "2012|רון·שכטר",
+   "displayName": "רון שכטר",
+   "birthYear": 2012,
+   "clubs": [
+    "הפועל ירושלים"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-15",
+     "competition": "תחרות ליגה מספר1 של הפועל ירושלים - 15/10/2026",
+     "compId": 15687,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "18:30",
+     "heat": "1",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
   "2018|קאהן·שי": {
    "id": "2018|קאהן·שי",
    "displayName": "שי קאהן",
@@ -1707616,13 +1707846,27 @@ window.SWIM_DATA = {
      "date": "2026-10-16",
      "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
      "compId": 15740,
+     "event": "100 גב",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי חיפה",
+     "startTime": "12:52",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
+     "compId": 15740,
      "event": "100 חופשי",
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:11",
+     "startTime": "13:15",
      "heat": "1",
-     "lane": "1",
+     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1707641,13 +1707885,27 @@ window.SWIM_DATA = {
      "date": "2026-10-16",
      "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
      "compId": 15740,
+     "event": "100 גב",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי חיפה",
+     "startTime": "12:52",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
+     "compId": 15740,
      "event": "100 חופשי",
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "13:11",
+     "startTime": "13:15",
      "heat": "1",
-     "lane": "7",
+     "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1709760,6 +1710018,31 @@ window.SWIM_DATA = {
     }
    ]
   },
+  "2014|נילי·רויכמן": {
+   "id": "2014|נילי·רויכמן",
+   "displayName": "נילי רויכמן",
+   "birthYear": 2014,
+   "clubs": [
+    "מכבי שוהם"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:40",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
   "2016|אמה·כהן": {
    "id": "2016|אמה·כהן",
    "displayName": "אמה כהן",
@@ -1710114,7 +1710397,7 @@ window.SWIM_DATA = {
    ]
   }
  },
- "lastChecked": "2026-10-14 21:32",
- "newThisRun": 2,
+ "lastChecked": "2026-10-15 21:11",
+ "newThisRun": 0,
  "newComps": []
 };
