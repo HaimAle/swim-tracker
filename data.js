@@ -1,9 +1,9 @@
 // Auto-generated from swim.db
 window.SWIM_DATA = {
- "generated": "2026-10-17",
+ "generated": "2026-10-18",
  "source": "isr.org.il  →  loglig.com  (SQLite backend)",
  "isSeedSample": false,
- "swimmerCount": 6432,
+ "swimmerCount": 6436,
  "swimmers": {
   "2006|יבגניה·קליימן": {
    "id": "2006|יבגניה·קליימן",
@@ -62870,10 +62870,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:13.72",
+     "seconds": 73.72,
+     "place": "5",
+     "points": 393
     },
     {
      "date": "2026-10-16",
@@ -62883,10 +62883,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:16.45",
+     "seconds": 76.45,
+     "place": "9",
+     "points": 374
     }
    ],
    "future": []
@@ -63969,10 +63969,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:16.49",
+     "seconds": 76.49,
+     "place": "14",
+     "points": 352
     },
     {
      "date": "2026-10-16",
@@ -63982,10 +63982,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:19.32",
+     "seconds": 79.32,
+     "place": "14",
+     "points": 335
     }
    ],
    "future": []
@@ -64994,10 +64994,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:14.27",
+     "seconds": 74.27,
+     "place": "6",
+     "points": 384
     },
     {
      "date": "2026-10-16",
@@ -65007,10 +65007,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:08.35",
+     "seconds": 68.35,
+     "place": "14",
+     "points": 397
     }
    ],
    "future": []
@@ -66320,6 +66320,45 @@ window.SWIM_DATA = {
      "seconds": 612.26,
      "place": "36",
      "points": 494
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "02:23.94",
+     "seconds": 143.94,
+     "place": "13",
+     "points": 450
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "00:30.07",
+     "seconds": 30.07,
+     "place": "12",
+     "points": 437
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "00:38.57",
+     "seconds": 38.57,
+     "place": "7",
+     "points": 397
     }
    ],
    "future": []
@@ -67885,10 +67924,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:19.22",
+     "seconds": 79.22,
+     "place": "19",
+     "points": 317
     },
     {
      "date": "2026-10-16",
@@ -67898,10 +67937,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:09.00",
+     "seconds": 69.0,
+     "place": "16",
+     "points": 386
     }
    ],
    "future": []
@@ -69996,10 +70035,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:16.16",
+     "seconds": 76.16,
+     "place": "12",
+     "points": 356
     },
     {
      "date": "2026-10-16",
@@ -70009,10 +70048,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:12.91",
+     "seconds": 72.91,
+     "place": "22",
+     "points": 327
     }
    ],
    "future": []
@@ -71359,6 +71398,32 @@ window.SWIM_DATA = {
      "seconds": 582.88,
      "place": "13",
      "points": 572
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "02:15.48",
+     "seconds": 135.48,
+     "place": "3",
+     "points": 539
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "00:29.95",
+     "seconds": 29.95,
+     "place": "11",
+     "points": 442
     }
    ],
    "future": []
@@ -72597,9 +72662,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
+     "timeStr": "DNS",
      "seconds": null,
-     "place": "1",
+     "place": "31",
      "points": 0
     },
     {
@@ -72610,9 +72675,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
+     "timeStr": "DNS",
      "seconds": null,
-     "place": "1",
+     "place": "34",
      "points": 0
     }
    ],
@@ -73223,6 +73288,32 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "22",
      "points": 440
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "01:16.38",
+     "seconds": 76.38,
+     "place": "17",
+     "points": 375
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "00:40.86",
+     "seconds": 40.86,
+     "place": "12",
+     "points": 334
     }
    ],
    "future": []
@@ -73802,10 +73893,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:21.34",
+     "seconds": 81.34,
+     "place": "21",
+     "points": 292
     },
     {
      "date": "2026-10-16",
@@ -73815,10 +73906,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:10.39",
+     "seconds": 70.39,
+     "place": "20",
+     "points": 363
     }
    ],
    "future": []
@@ -80449,10 +80540,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:01.71",
+     "seconds": 61.71,
+     "place": "6",
+     "points": 509
     },
     {
      "date": "2026-10-16",
@@ -80462,10 +80553,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
+     "timeStr": "02:36.18",
+     "seconds": 156.18,
      "place": "1",
-     "points": 0
+     "points": 455
     }
    ],
    "future": []
@@ -83871,10 +83962,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:02.70",
+     "seconds": 62.7,
+     "place": "5",
+     "points": 457
     },
     {
      "date": "2026-10-16",
@@ -83884,10 +83975,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:01.68",
+     "seconds": 61.68,
+     "place": "21",
+     "points": 384
     }
    ],
    "future": []
@@ -89011,6 +89102,45 @@ window.SWIM_DATA = {
      "seconds": 137.66,
      "place": "14",
      "points": 537
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "01:02.09",
+     "seconds": 62.09,
+     "place": "10",
+     "points": 499
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "02:09.48",
+     "seconds": 129.48,
+     "place": "26",
+     "points": 441
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "00:25.53",
+     "seconds": 25.53,
+     "place": "8",
+     "points": 473
     }
    ],
    "future": []
@@ -89707,10 +89837,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "00:56.38",
+     "seconds": 56.38,
+     "place": "8",
+     "points": 503
     },
     {
      "date": "2026-10-16",
@@ -89720,10 +89850,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:03.26",
+     "seconds": 63.26,
+     "place": "11",
+     "points": 472
     }
    ],
    "future": []
@@ -90485,10 +90615,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
+     "timeStr": "00:59.95",
+     "seconds": 59.95,
      "place": "1",
-     "points": 0
+     "points": 523
     },
     {
      "date": "2026-10-16",
@@ -90498,10 +90628,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "00:59.25",
+     "seconds": 59.25,
+     "place": "16",
+     "points": 433
     }
    ],
    "future": []
@@ -91406,10 +91536,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:00.49",
+     "seconds": 60.49,
+     "place": "5",
+     "points": 540
     }
    ],
    "future": []
@@ -94399,10 +94529,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:06.52",
+     "seconds": 66.52,
+     "place": "12",
+     "points": 383
     },
     {
      "date": "2026-10-16",
@@ -94412,10 +94542,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:10.24",
+     "seconds": 70.24,
+     "place": "29",
+     "points": 345
     }
    ],
    "future": []
@@ -97496,10 +97626,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:11.43",
+     "seconds": 71.43,
+     "place": "19",
+     "points": 309
     },
     {
      "date": "2026-10-16",
@@ -97509,10 +97639,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:02.98",
+     "seconds": 62.98,
+     "place": "24",
+     "points": 360
     }
    ],
    "future": []
@@ -102884,10 +103014,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:00.78",
+     "seconds": 60.78,
+     "place": "3",
+     "points": 565
     },
     {
      "date": "2026-10-16",
@@ -102897,10 +103027,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:10.06",
+     "seconds": 70.06,
+     "place": "2",
+     "points": 486
     }
    ],
    "future": []
@@ -107437,6 +107567,32 @@ window.SWIM_DATA = {
      "seconds": 83.96,
      "place": "5",
      "points": 445
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "01:15.66",
+     "seconds": 75.66,
+     "place": "13",
+     "points": 386
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "00:36.95",
+     "seconds": 36.95,
+     "place": "4",
+     "points": 452
     }
    ],
    "future": []
@@ -110673,10 +110829,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:14.30",
+     "seconds": 74.3,
+     "place": "24",
+     "points": 309
     },
     {
      "date": "2026-10-16",
@@ -110686,10 +110842,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "03:19.55",
+     "seconds": 199.55,
+     "place": "6",
+     "points": 292
     }
    ],
    "future": []
@@ -111969,9 +112125,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
+     "timeStr": "DNS",
      "seconds": null,
-     "place": "1",
+     "place": "25",
      "points": 0
     },
     {
@@ -111982,9 +112138,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
+     "timeStr": "DNS",
      "seconds": null,
-     "place": "1",
+     "place": "31",
      "points": 0
     }
    ],
@@ -112500,10 +112656,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:15.89",
+     "seconds": 75.89,
+     "place": "25",
+     "points": 290
     },
     {
      "date": "2026-10-16",
@@ -112513,10 +112669,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:25.46",
+     "seconds": 85.46,
+     "place": "28",
+     "points": 268
     }
    ],
    "future": []
@@ -113891,6 +114047,32 @@ window.SWIM_DATA = {
      "seconds": 32.07,
      "place": "70",
      "points": 399
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "00:32.48",
+     "seconds": 32.48,
+     "place": "29",
+     "points": 347
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "00:42.91",
+     "seconds": 42.91,
+     "place": "17",
+     "points": 289
     }
    ],
    "future": []
@@ -115599,10 +115781,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:00.27",
+     "seconds": 60.27,
+     "place": "4",
+     "points": 546
     },
     {
      "date": "2026-10-16",
@@ -115614,7 +115796,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "timeStr": "NS",
      "seconds": null,
-     "place": "1",
+     "place": "8",
      "points": 0
     }
    ],
@@ -118955,10 +119137,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:02.35",
+     "seconds": 62.35,
+     "place": "8",
+     "points": 493
     },
     {
      "date": "2026-10-16",
@@ -118970,7 +119152,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "timeStr": "NS",
      "seconds": null,
-     "place": "1",
+     "place": "8",
      "points": 0
     }
    ],
@@ -119798,10 +119980,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:02.76",
+     "seconds": 62.76,
+     "place": "9",
+     "points": 484
     },
     {
      "date": "2026-10-16",
@@ -119813,7 +119995,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "timeStr": "NS",
      "seconds": null,
-     "place": "1",
+     "place": "8",
      "points": 0
     }
    ],
@@ -121784,7 +121966,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "timeStr": "NS",
      "seconds": null,
-     "place": "1",
+     "place": "8",
      "points": 0
     }
    ],
@@ -125397,10 +125579,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "00:55.81",
+     "seconds": 55.81,
+     "place": "4",
+     "points": 518
     },
     {
      "date": "2026-10-16",
@@ -125410,10 +125592,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:04.08",
+     "seconds": 64.08,
+     "place": "13",
+     "points": 454
     }
    ],
    "future": []
@@ -127883,10 +128065,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:02.49",
+     "seconds": 62.49,
+     "place": "4",
+     "points": 462
     },
     {
      "date": "2026-10-16",
@@ -127896,10 +128078,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "00:58.10",
+     "seconds": 58.1,
+     "place": "14",
+     "points": 459
     }
    ],
    "future": []
@@ -130716,10 +130898,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:00.06",
+     "seconds": 60.06,
+     "place": "3",
+     "points": 552
     },
     {
      "date": "2026-10-16",
@@ -130729,10 +130911,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "02:19.68",
+     "seconds": 139.68,
+     "place": "3",
+     "points": 447
     }
    ],
    "future": []
@@ -133115,10 +133297,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:11.98",
+     "seconds": 71.98,
+     "place": "21",
+     "points": 302
     },
     {
      "date": "2026-10-16",
@@ -133130,7 +133312,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "timeStr": "NS",
      "seconds": null,
-     "place": "1",
+     "place": "8",
      "points": 0
     }
    ],
@@ -135361,6 +135543,45 @@ window.SWIM_DATA = {
      "seconds": 29.26,
      "place": "7",
      "points": 582
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "01:08.17",
+     "seconds": 68.17,
+     "place": "1",
+     "points": 528
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "02:16.14",
+     "seconds": 136.14,
+     "place": "4",
+     "points": 531
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:27.20",
+     "seconds": 27.2,
+     "place": "1",
+     "points": 591
     }
    ],
    "future": []
@@ -142325,6 +142546,45 @@ window.SWIM_DATA = {
      "seconds": 74.27,
      "place": "5",
      "points": 643
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "01:11.66",
+     "seconds": 71.66,
+     "place": "4",
+     "points": 454
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:29.27",
+     "seconds": 29.27,
+     "place": "7",
+     "points": 474
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:33.33",
+     "seconds": 33.33,
+     "place": "1",
+     "points": 616
     }
    ],
    "future": []
@@ -146383,6 +146643,45 @@ window.SWIM_DATA = {
      "seconds": 31.56,
      "place": "13",
      "points": 463
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "01:14.42",
+     "seconds": 74.42,
+     "place": "11",
+     "points": 406
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "02:17.89",
+     "seconds": 137.89,
+     "place": "7",
+     "points": 511
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:36.24",
+     "seconds": 36.24,
+     "place": "2",
+     "points": 479
     }
    ],
    "future": []
@@ -149110,6 +149409,45 @@ window.SWIM_DATA = {
      "seconds": 571.3,
      "place": "4",
      "points": 608
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "01:08.66",
+     "seconds": 68.66,
+     "place": "2",
+     "points": 517
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "02:11.38",
+     "seconds": 131.38,
+     "place": "1",
+     "points": 591
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:27.81",
+     "seconds": 27.81,
+     "place": "2",
+     "points": 553
     }
    ],
    "future": []
@@ -152428,6 +152766,45 @@ window.SWIM_DATA = {
      "seconds": 603.37,
      "place": "29",
      "points": 516
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "01:13.18",
+     "seconds": 73.18,
+     "place": "7",
+     "points": 427
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "02:19.20",
+     "seconds": 139.2,
+     "place": "10",
+     "points": 497
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:32.41",
+     "seconds": 32.41,
+     "place": "28",
+     "points": 349
     }
    ],
    "future": []
@@ -154138,6 +154515,45 @@ window.SWIM_DATA = {
      "seconds": 583.97,
      "place": "14",
      "points": 569
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "01:11.71",
+     "seconds": 71.71,
+     "place": "5",
+     "points": 453
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "02:17.97",
+     "seconds": 137.97,
+     "place": "8",
+     "points": 511
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "00:29.05",
+     "seconds": 29.05,
+     "place": "6",
+     "points": 485
     }
    ],
    "future": []
@@ -155785,6 +156201,32 @@ window.SWIM_DATA = {
      "seconds": 30.05,
      "place": "16",
      "points": 537
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "02:37.15",
+     "seconds": 157.15,
+     "place": "23",
+     "points": 345
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:28.78",
+     "seconds": 28.78,
+     "place": "5",
+     "points": 499
     }
    ],
    "future": []
@@ -158094,6 +158536,45 @@ window.SWIM_DATA = {
      "seconds": 29.47,
      "place": "9",
      "points": 569
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "01:15.98",
+     "seconds": 75.98,
+     "place": "15",
+     "points": 381
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "02:27.30",
+     "seconds": 147.3,
+     "place": "15",
+     "points": 419
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:28.71",
+     "seconds": 28.71,
+     "place": "4",
+     "points": 502
     }
    ],
    "future": []
@@ -159729,6 +160210,45 @@ window.SWIM_DATA = {
      "seconds": 75.17,
      "place": "8",
      "points": 620
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "01:14.14",
+     "seconds": 74.14,
+     "place": "9",
+     "points": 410
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "02:31.51",
+     "seconds": 151.51,
+     "place": "20",
+     "points": 385
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:36.85",
+     "seconds": 36.85,
+     "place": "3",
+     "points": 456
     }
    ],
    "future": []
@@ -163632,6 +164152,45 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "24",
      "points": 411
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "01:22.17",
+     "seconds": 82.17,
+     "place": "28",
+     "points": 301
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "02:32.97",
+     "seconds": 152.97,
+     "place": "22",
+     "points": 374
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:31.26",
+     "seconds": 31.26,
+     "place": "21",
+     "points": 389
     }
    ],
    "future": []
@@ -164345,6 +164904,45 @@ window.SWIM_DATA = {
      "seconds": 32.66,
      "place": "17",
      "points": 418
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "01:16.96",
+     "seconds": 76.96,
+     "place": "18",
+     "points": 367
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:31.42",
+     "seconds": 31.42,
+     "place": "23",
+     "points": 383
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:42.30",
+     "seconds": 42.3,
+     "place": "14",
+     "points": 301
     }
    ],
    "future": []
@@ -166092,6 +166690,45 @@ window.SWIM_DATA = {
      "seconds": 33.05,
      "place": "16",
      "points": 403
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "01:17.54",
+     "seconds": 77.54,
+     "place": "20",
+     "points": 359
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "02:29.47",
+     "seconds": 149.47,
+     "place": "19",
+     "points": 401
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:31.32",
+     "seconds": 31.32,
+     "place": "22",
+     "points": 387
     }
    ],
    "future": []
@@ -167739,6 +168376,45 @@ window.SWIM_DATA = {
      "seconds": 323.26,
      "place": "8",
      "points": 542
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "01:14.34",
+     "seconds": 74.34,
+     "place": "10",
+     "points": 407
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "02:16.29",
+     "seconds": 136.29,
+     "place": "5",
+     "points": 530
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "00:29.66",
+     "seconds": 29.66,
+     "place": "9",
+     "points": 456
     }
    ],
    "future": []
@@ -168634,6 +169310,45 @@ window.SWIM_DATA = {
      "seconds": 586.03,
      "place": "17",
      "points": 563
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "01:16.15",
+     "seconds": 76.15,
+     "place": "16",
+     "points": 379
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "02:22.28",
+     "seconds": 142.28,
+     "place": "12",
+     "points": 466
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "00:30.40",
+     "seconds": 30.4,
+     "place": "13",
+     "points": 423
     }
    ],
    "future": []
@@ -169696,6 +170411,45 @@ window.SWIM_DATA = {
      "seconds": 590.06,
      "place": "20",
      "points": 552
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "01:26.59",
+     "seconds": 86.59,
+     "place": "33",
+     "points": 257
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "02:25.24",
+     "seconds": 145.24,
+     "place": "14",
+     "points": 438
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "00:31.42",
+     "seconds": 31.42,
+     "place": "23",
+     "points": 383
     }
    ],
    "future": []
@@ -175611,6 +176365,45 @@ window.SWIM_DATA = {
      "seconds": 62.62,
      "place": "4",
      "points": 749
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "58",
+     "points": 0
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "51",
+     "points": 0
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "28",
+     "points": 0
     }
    ],
    "future": []
@@ -177064,6 +177857,45 @@ window.SWIM_DATA = {
      "seconds": 124.19,
      "place": "4",
      "points": 731
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:57.93",
+     "seconds": 57.93,
+     "place": "1",
+     "points": 615
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "01:54.22",
+     "seconds": 114.22,
+     "place": "2",
+     "points": 643
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:23.83",
+     "seconds": 23.83,
+     "place": "3",
+     "points": 582
     }
    ],
    "future": []
@@ -177790,6 +178622,32 @@ window.SWIM_DATA = {
      "seconds": 27.12,
      "place": "41",
      "points": 553
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "01:01.60",
+     "seconds": 61.6,
+     "place": "9",
+     "points": 512
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:30.62",
+     "seconds": 30.62,
+     "place": "3",
+     "points": 540
     }
    ],
    "future": []
@@ -180486,6 +181344,32 @@ window.SWIM_DATA = {
      "seconds": 137.88,
      "place": "27",
      "points": 534
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "timeStr": "02:00.02",
+     "seconds": 120.02,
+     "place": "7",
+     "points": 554
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "timeStr": "00:32.25",
+     "seconds": 32.25,
+     "place": "7",
+     "points": 463
     }
    ],
    "future": []
@@ -183741,6 +184625,32 @@ window.SWIM_DATA = {
      "seconds": 110.82,
      "place": "1",
      "points": 779
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "00:58.54",
+     "seconds": 58.54,
+     "place": "4",
+     "points": 596
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "01:50.60",
+     "seconds": 110.6,
+     "place": "1",
+     "points": 708
     }
    ],
    "future": []
@@ -187254,6 +188164,32 @@ window.SWIM_DATA = {
      "seconds": 72.81,
      "place": "22",
      "points": 476
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:26.49",
+     "seconds": 26.49,
+     "place": "22",
+     "points": 423
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:32.98",
+     "seconds": 32.98,
+     "place": "10",
+     "points": 432
     }
    ],
    "future": []
@@ -188953,6 +189889,19 @@ window.SWIM_DATA = {
      "seconds": 26.45,
      "place": "20",
      "points": 596
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "timeStr": "01:59.11",
+     "seconds": 119.11,
+     "place": "6",
+     "points": 567
     }
    ],
    "future": []
@@ -190804,6 +191753,45 @@ window.SWIM_DATA = {
      "seconds": 72.66,
      "place": "8",
      "points": 479
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "01:06.34",
+     "seconds": 66.34,
+     "place": "19",
+     "points": 409
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:26.91",
+     "seconds": 26.91,
+     "place": "27",
+     "points": 404
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:32.68",
+     "seconds": 32.68,
+     "place": "9",
+     "points": 445
     }
    ],
    "future": []
@@ -196536,6 +197524,45 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "26",
      "points": 0
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "01:06.54",
+     "seconds": 66.54,
+     "place": "23",
+     "points": 406
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "02:14.20",
+     "seconds": 134.2,
+     "place": "33",
+     "points": 396
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:32.56",
+     "seconds": 32.56,
+     "place": "8",
+     "points": 449
     }
    ],
    "future": []
@@ -198001,6 +199028,45 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "19",
      "points": 446
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "01:08.06",
+     "seconds": 68.06,
+     "place": "30",
+     "points": 379
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "02:11.40",
+     "seconds": 131.4,
+     "place": "29",
+     "points": 422
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:26.07",
+     "seconds": 26.07,
+     "place": "14",
+     "points": 444
     }
    ],
    "future": []
@@ -199285,6 +200351,19 @@ window.SWIM_DATA = {
      "seconds": 124.47,
      "place": "14",
      "points": 550
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "timeStr": "02:07.32",
+     "seconds": 127.32,
+     "place": "20",
+     "points": 464
     }
    ],
    "future": []
@@ -200024,6 +201103,45 @@ window.SWIM_DATA = {
      "seconds": 556.86,
      "place": "30",
      "points": 535
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "01:05.00",
+     "seconds": 65.0,
+     "place": "14",
+     "points": 435
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "02:03.45",
+     "seconds": 123.45,
+     "place": "11",
+     "points": 509
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:25.90",
+     "seconds": 25.9,
+     "place": "12",
+     "points": 453
     }
    ],
    "future": []
@@ -201425,6 +202543,45 @@ window.SWIM_DATA = {
      "seconds": 557.5,
      "place": "31",
      "points": 533
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "01:07.55",
+     "seconds": 67.55,
+     "place": "27",
+     "points": 388
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "02:07.86",
+     "seconds": 127.86,
+     "place": "22",
+     "points": 458
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "00:26.96",
+     "seconds": 26.96,
+     "place": "28",
+     "points": 402
     }
    ],
    "future": []
@@ -201995,6 +203152,45 @@ window.SWIM_DATA = {
      "seconds": 66.89,
      "place": "19",
      "points": 459
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "01:10.16",
+     "seconds": 70.16,
+     "place": "40",
+     "points": 346
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "02:19.06",
+     "seconds": 139.06,
+     "place": "41",
+     "points": 356
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:26.11",
+     "seconds": 26.11,
+     "place": "15",
+     "points": 442
     }
    ],
    "future": []
@@ -202903,6 +204099,45 @@ window.SWIM_DATA = {
      "seconds": 72.73,
      "place": "11",
      "points": 478
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "01:06.46",
+     "seconds": 66.46,
+     "place": "22",
+     "points": 407
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "00:26.51",
+     "seconds": 26.51,
+     "place": "23",
+     "points": 422
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "00:31.63",
+     "seconds": 31.63,
+     "place": "5",
+     "points": 490
     }
    ],
    "future": []
@@ -204199,6 +205434,45 @@ window.SWIM_DATA = {
      "seconds": 28.45,
      "place": "24",
      "points": 479
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "01:05.21",
+     "seconds": 65.21,
+     "place": "15",
+     "points": 431
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "02:06.22",
+     "seconds": 126.22,
+     "place": "15",
+     "points": 476
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "00:26.43",
+     "seconds": 26.43,
+     "place": "21",
+     "points": 426
     }
    ],
    "future": []
@@ -206037,6 +207311,32 @@ window.SWIM_DATA = {
      "seconds": 63.59,
      "place": "7",
      "points": 715
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "timeStr": "00:59.68",
+     "seconds": 59.68,
+     "place": "6",
+     "points": 563
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "timeStr": "00:28.79",
+     "seconds": 28.79,
+     "place": "1",
+     "points": 650
     }
    ],
    "future": []
@@ -209899,6 +211199,45 @@ window.SWIM_DATA = {
      "seconds": 503.57,
      "place": "1",
      "points": 723
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:59.24",
+     "seconds": 59.24,
+     "place": "5",
+     "points": 575
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "01:57.33",
+     "seconds": 117.33,
+     "place": "5",
+     "points": 593
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:23.71",
+     "seconds": 23.71,
+     "place": "2",
+     "points": 591
     }
    ],
    "future": []
@@ -212378,6 +213717,45 @@ window.SWIM_DATA = {
      "seconds": 534.34,
      "place": "10",
      "points": 605
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "01:04.41",
+     "seconds": 64.41,
+     "place": "13",
+     "points": 447
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "01:57.11",
+     "seconds": 117.11,
+     "place": "4",
+     "points": 597
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:25.74",
+     "seconds": 25.74,
+     "place": "11",
+     "points": 462
     }
    ],
    "future": []
@@ -212987,6 +214365,45 @@ window.SWIM_DATA = {
      "seconds": 67.74,
      "place": "2",
      "points": 349
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "01:05.88",
+     "seconds": 65.88,
+     "place": "17",
+     "points": 418
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "02:18.47",
+     "seconds": 138.47,
+     "place": "40",
+     "points": 361
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:28.29",
+     "seconds": 28.29,
+     "place": "35",
+     "points": 348
     }
    ],
    "future": []
@@ -213609,6 +215026,45 @@ window.SWIM_DATA = {
      "seconds": 28.83,
      "place": "48",
      "points": 460
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "01:10.25",
+     "seconds": 70.25,
+     "place": "42",
+     "points": 345
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "02:07.30",
+     "seconds": 127.3,
+     "place": "19",
+     "points": 464
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:28.74",
+     "seconds": 28.74,
+     "place": "41",
+     "points": 331
     }
    ],
    "future": []
@@ -216121,10 +217577,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
+     "timeStr": "01:00.33",
+     "seconds": 60.33,
      "place": "1",
-     "points": 0
+     "points": 577
     },
     {
      "date": "2026-10-16",
@@ -216134,10 +217590,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:10.07",
+     "seconds": 70.07,
+     "place": "3",
+     "points": 486
     }
    ],
    "future": []
@@ -218106,10 +219562,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:04.16",
+     "seconds": 64.16,
+     "place": "7",
+     "points": 480
     },
     {
      "date": "2026-10-16",
@@ -218119,10 +219575,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "02:40.78",
+     "seconds": 160.78,
+     "place": "3",
+     "points": 408
     }
    ],
    "future": []
@@ -221868,10 +223324,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:15.23",
+     "seconds": 75.23,
+     "place": "9",
+     "points": 370
     },
     {
      "date": "2026-10-16",
@@ -221881,10 +223337,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "02:54.33",
+     "seconds": 174.33,
+     "place": "6",
+     "points": 320
     }
    ],
    "future": []
@@ -225626,10 +227082,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:15.36",
+     "seconds": 75.36,
+     "place": "11",
+     "points": 368
     },
     {
      "date": "2026-10-16",
@@ -225639,10 +227095,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:16.25",
+     "seconds": 76.25,
+     "place": "8",
+     "points": 377
     }
    ],
    "future": []
@@ -226209,10 +227665,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:24.81",
+     "seconds": 84.81,
+     "place": "25",
+     "points": 274
     },
     {
      "date": "2026-10-16",
@@ -226222,10 +227678,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "02:29.41",
+     "seconds": 149.41,
+     "place": "2",
+     "points": 509
     }
    ],
    "future": []
@@ -227375,10 +228831,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:21.38",
+     "seconds": 81.38,
+     "place": "22",
+     "points": 292
     },
     {
      "date": "2026-10-16",
@@ -227388,10 +228844,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:24.83",
+     "seconds": 84.83,
+     "place": "26",
+     "points": 274
     }
    ],
    "future": []
@@ -231406,10 +232862,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:02.27",
+     "seconds": 62.27,
+     "place": "7",
+     "points": 495
     },
     {
      "date": "2026-10-16",
@@ -231419,10 +232875,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "02:06.11",
+     "seconds": 126.11,
+     "place": "2",
+     "points": 608
     }
    ],
    "future": []
@@ -240051,10 +241507,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:08.18",
+     "seconds": 68.18,
+     "place": "24",
+     "points": 377
     },
     {
      "date": "2026-10-16",
@@ -240064,10 +241520,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "02:31.25",
+     "seconds": 151.25,
+     "place": "9",
+     "points": 352
     }
    ],
    "future": []
@@ -242526,9 +243982,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
+     "timeStr": "DNS",
      "seconds": null,
-     "place": "1",
+     "place": "31",
      "points": 0
     },
     {
@@ -242539,9 +243995,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
+     "timeStr": "DNS",
      "seconds": null,
-     "place": "1",
+     "place": "45",
      "points": 0
     }
    ],
@@ -243783,10 +245239,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "00:57.62",
+     "seconds": 57.62,
+     "place": "12",
+     "points": 471
     },
     {
      "date": "2026-10-16",
@@ -243796,10 +245252,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:06.76",
+     "seconds": 66.76,
+     "place": "18",
+     "points": 402
     }
    ],
    "future": []
@@ -245298,10 +246754,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:00.40",
+     "seconds": 60.4,
+     "place": "2",
+     "points": 512
     },
     {
      "date": "2026-10-16",
@@ -245311,10 +246767,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "02:27.33",
+     "seconds": 147.33,
+     "place": "6",
+     "points": 381
     }
    ],
    "future": []
@@ -256196,10 +257652,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "00:55.51",
+     "seconds": 55.51,
+     "place": "2",
+     "points": 527
     },
     {
      "date": "2026-10-16",
@@ -256209,10 +257665,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:04.59",
+     "seconds": 64.59,
+     "place": "14",
+     "points": 444
     }
    ],
    "future": []
@@ -258792,6 +260248,45 @@ window.SWIM_DATA = {
      "seconds": 612.15,
      "place": "35",
      "points": 494
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "01:10.96",
+     "seconds": 70.96,
+     "place": "3",
+     "points": 468
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "02:13.10",
+     "seconds": 133.1,
+     "place": "2",
+     "points": 569
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "00:28.53",
+     "seconds": 28.53,
+     "place": "3",
+     "points": 512
     }
    ],
    "future": []
@@ -262160,10 +263655,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:17.14",
+     "seconds": 77.14,
+     "place": "15",
+     "points": 343
     },
     {
      "date": "2026-10-16",
@@ -262173,10 +263668,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:18.89",
+     "seconds": 78.89,
+     "place": "13",
+     "points": 340
     }
    ],
    "future": []
@@ -263096,6 +264591,19 @@ window.SWIM_DATA = {
      "seconds": 30.93,
      "place": "17",
      "points": 444
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "00:31.14",
+     "seconds": 31.14,
+     "place": "18",
+     "points": 394
     }
    ],
    "future": []
@@ -263961,10 +265469,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:08.89",
+     "seconds": 68.89,
+     "place": "15",
+     "points": 388
     },
     {
      "date": "2026-10-16",
@@ -263974,10 +265482,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:21.41",
+     "seconds": 81.41,
+     "place": "19",
+     "points": 310
     }
    ],
    "future": []
@@ -267850,6 +269358,32 @@ window.SWIM_DATA = {
      "seconds": 26.24,
      "place": "25",
      "points": 611
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "02:04.10",
+     "seconds": 124.1,
+     "place": "12",
+     "points": 501
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "00:25.71",
+     "seconds": 25.71,
+     "place": "10",
+     "points": 463
     }
    ],
    "future": []
@@ -269120,6 +270654,45 @@ window.SWIM_DATA = {
      "seconds": 528.76,
      "place": "8",
      "points": 625
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "01:05.56",
+     "seconds": 65.56,
+     "place": "16",
+     "points": 424
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "02:00.76",
+     "seconds": 120.76,
+     "place": "8",
+     "points": 544
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "00:25.59",
+     "seconds": 25.59,
+     "place": "9",
+     "points": 470
     }
    ],
    "future": []
@@ -272432,10 +274005,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:09.00",
+     "seconds": 69.0,
+     "place": "15",
+     "points": 343
     },
     {
      "date": "2026-10-16",
@@ -272445,10 +274018,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:04.13",
+     "seconds": 64.13,
+     "place": "29",
+     "points": 341
     }
    ],
    "future": []
@@ -286776,10 +288349,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:06.25",
+     "seconds": 66.25,
+     "place": "11",
+     "points": 388
     },
     {
      "date": "2026-10-16",
@@ -286789,10 +288362,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:03.44",
+     "seconds": 63.44,
+     "place": "26",
+     "points": 353
     }
    ],
    "future": []
@@ -293630,10 +295203,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "הפועל קרית טבעון",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:04.78",
+     "seconds": 64.78,
+     "place": "8",
+     "points": 415
     },
     {
      "date": "2026-10-16",
@@ -293643,10 +295216,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "הפועל קרית טבעון",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "00:55.54",
+     "seconds": 55.54,
+     "place": "3",
+     "points": 526
     }
    ],
    "future": []
@@ -301554,10 +303127,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל קרית טבעון",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:12.78",
+     "seconds": 72.78,
+     "place": "4",
+     "points": 408
     },
     {
      "date": "2026-10-16",
@@ -301567,10 +303140,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל קרית טבעון",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:10.29",
+     "seconds": 70.29,
+     "place": "4",
+     "points": 481
     }
    ],
    "future": []
@@ -302512,10 +304085,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל קרית טבעון",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:07.32",
+     "seconds": 67.32,
+     "place": "13",
+     "points": 415
     },
     {
      "date": "2026-10-16",
@@ -302525,10 +304098,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל קרית טבעון",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:17.40",
+     "seconds": 77.4,
+     "place": "10",
+     "points": 360
     }
    ],
    "future": []
@@ -329185,7 +330758,8 @@ window.SWIM_DATA = {
    "displayName": "מישל אגרונוב",
    "birthYear": 2009,
    "clubs": [
-    "הפועל עמק חפר"
+    "הפועל עמק חפר",
+    "מכבי חיפה"
    ],
    "past": [
     {
@@ -329889,6 +331463,19 @@ window.SWIM_DATA = {
      "seconds": 541.05,
      "place": "16",
      "points": 583
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
+     "compId": 15740,
+     "event": "200 פרפר",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי חיפה",
+     "timeStr": "02:23.69",
+     "seconds": 143.69,
+     "place": "4",
+     "points": 411
     }
    ],
    "future": []
@@ -349191,10 +350778,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:15.15",
+     "seconds": 75.15,
+     "place": "8",
+     "points": 371
     },
     {
      "date": "2026-10-16",
@@ -349204,10 +350791,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:05.16",
+     "seconds": 65.16,
+     "place": "8",
+     "points": 458
     }
    ],
    "future": []
@@ -410764,6 +412351,45 @@ window.SWIM_DATA = {
      "seconds": 86.64,
      "place": "11",
      "points": 405
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "02:32.45",
+     "seconds": 152.45,
+     "place": "21",
+     "points": 378
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:31.14",
+     "seconds": 31.14,
+     "place": "18",
+     "points": 394
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:38.30",
+     "seconds": 38.3,
+     "place": "6",
+     "points": 406
     }
    ],
    "future": []
@@ -412084,6 +413710,45 @@ window.SWIM_DATA = {
      "seconds": 194.35,
      "place": "17",
      "points": 354
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "01:17.68",
+     "seconds": 77.68,
+     "place": "22",
+     "points": 357
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:34.74",
+     "seconds": 34.74,
+     "place": "35",
+     "points": 283
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:39.92",
+     "seconds": 39.92,
+     "place": "10",
+     "points": 358
     }
    ],
    "future": []
@@ -414444,6 +416109,45 @@ window.SWIM_DATA = {
      "seconds": 194.04,
      "place": "14",
      "points": 356
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "01:17.47",
+     "seconds": 77.47,
+     "place": "19",
+     "points": 359
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:33.03",
+     "seconds": 33.03,
+     "place": "31",
+     "points": 330
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:39.89",
+     "seconds": 39.89,
+     "place": "9",
+     "points": 359
     }
    ],
    "future": []
@@ -415194,6 +416898,45 @@ window.SWIM_DATA = {
      "seconds": 355.13,
      "place": "9",
      "points": 272
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "01:19.99",
+     "seconds": 79.99,
+     "place": "25",
+     "points": 327
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "02:27.73",
+     "seconds": 147.73,
+     "place": "16",
+     "points": 416
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:30.61",
+     "seconds": 30.61,
+     "place": "14",
+     "points": 414
     }
    ],
    "future": []
@@ -416321,6 +418064,32 @@ window.SWIM_DATA = {
      "seconds": 195.12,
      "place": "19",
      "points": 350
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "01:22.68",
+     "seconds": 82.68,
+     "place": "29",
+     "points": 296
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "00:40.74",
+     "seconds": 40.74,
+     "place": "11",
+     "points": 337
     }
    ],
    "future": []
@@ -425793,6 +427562,45 @@ window.SWIM_DATA = {
      "seconds": 72.92,
      "place": "8",
      "points": 474
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "01:03.16",
+     "seconds": 63.16,
+     "place": "12",
+     "points": 474
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "02:11.20",
+     "seconds": 131.2,
+     "place": "28",
+     "points": 424
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:32.12",
+     "seconds": 32.12,
+     "place": "6",
+     "points": 468
     }
    ],
    "future": []
@@ -430628,6 +432436,45 @@ window.SWIM_DATA = {
      "seconds": 177.49,
      "place": "22",
      "points": 353
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "01:11.54",
+     "seconds": 71.54,
+     "place": "47",
+     "points": 326
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:28.29",
+     "seconds": 28.29,
+     "place": "35",
+     "points": 348
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:34.01",
+     "seconds": 34.01,
+     "place": "12",
+     "points": 394
     }
    ],
    "future": []
@@ -431807,6 +433654,45 @@ window.SWIM_DATA = {
      "seconds": 80.03,
      "place": "28",
      "points": 359
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "01:10.66",
+     "seconds": 70.66,
+     "place": "46",
+     "points": 339
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:27.25",
+     "seconds": 27.25,
+     "place": "30",
+     "points": 389
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:34.74",
+     "seconds": 34.74,
+     "place": "15",
+     "points": 370
     }
    ],
    "future": []
@@ -433905,6 +435791,45 @@ window.SWIM_DATA = {
      "seconds": 168.59,
      "place": "9",
      "points": 412
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "01:09.13",
+     "seconds": 69.13,
+     "place": "32",
+     "points": 362
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "02:11.71",
+     "seconds": 131.71,
+     "place": "31",
+     "points": 419
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:34.68",
+     "seconds": 34.68,
+     "place": "14",
+     "points": 372
     }
    ],
    "future": []
@@ -435097,6 +437022,19 @@ window.SWIM_DATA = {
      "seconds": 176.17,
      "place": "18",
      "points": 361
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "timeStr": "00:35.29",
+     "seconds": 35.29,
+     "place": "17",
+     "points": 353
     }
    ],
    "future": []
@@ -436237,6 +438175,45 @@ window.SWIM_DATA = {
      "seconds": 83.68,
      "place": "32",
      "points": 314
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "01:17.46",
+     "seconds": 77.46,
+     "place": "55",
+     "points": 257
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:30.45",
+     "seconds": 30.45,
+     "place": "48",
+     "points": 279
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:36.16",
+     "seconds": 36.16,
+     "place": "20",
+     "points": 328
     }
    ],
    "future": []
@@ -436794,6 +438771,45 @@ window.SWIM_DATA = {
      "seconds": 27.1,
      "place": "26",
      "points": 459
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "01:08.59",
+     "seconds": 68.59,
+     "place": "31",
+     "points": 370
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "02:18.27",
+     "seconds": 138.27,
+     "place": "39",
+     "points": 362
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:25.99",
+     "seconds": 25.99,
+     "place": "13",
+     "points": 448
     }
    ],
    "future": []
@@ -437377,6 +439393,45 @@ window.SWIM_DATA = {
      "seconds": 177.0,
      "place": "20",
      "points": 356
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "01:12.19",
+     "seconds": 72.19,
+     "place": "50",
+     "points": 318
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:28.35",
+     "seconds": 28.35,
+     "place": "39",
+     "points": 345
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:35.39",
+     "seconds": 35.39,
+     "place": "18",
+     "points": 350
     }
    ],
    "future": []
@@ -437947,6 +440002,32 @@ window.SWIM_DATA = {
      "seconds": 154.55,
      "place": "24",
      "points": 379
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "01:10.54",
+     "seconds": 70.54,
+     "place": "45",
+     "points": 340
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "00:27.29",
+     "seconds": 27.29,
+     "place": "31",
+     "points": 387
     }
    ],
    "future": []
@@ -438569,6 +440650,32 @@ window.SWIM_DATA = {
      "seconds": 177.17,
      "place": "21",
      "points": 355
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "58",
+     "points": 0
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "timeStr": "00:34.15",
+     "seconds": 34.15,
+     "place": "13",
+     "points": 389
     }
    ],
    "future": []
@@ -440668,6 +442775,19 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "49",
      "points": 181
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "timeStr": "00:38.08",
+     "seconds": 38.08,
+     "place": "22",
+     "points": 281
     }
    ],
    "future": []
@@ -448276,6 +450396,45 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "47",
      "points": 190
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "01:22.20",
+     "seconds": 82.2,
+     "place": "57",
+     "points": 215
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:33.13",
+     "seconds": 33.13,
+     "place": "50",
+     "points": 216
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:35.77",
+     "seconds": 35.77,
+     "place": "19",
+     "points": 339
     }
    ],
    "future": []
@@ -496670,6 +498829,45 @@ window.SWIM_DATA = {
      "seconds": 561.62,
      "place": "1",
      "points": 521
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "01:09.56",
+     "seconds": 69.56,
+     "place": "35",
+     "points": 355
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "02:08.17",
+     "seconds": 128.17,
+     "place": "24",
+     "points": 455
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "00:26.42",
+     "seconds": 26.42,
+     "place": "20",
+     "points": 427
     }
    ],
    "future": []
@@ -497682,6 +499880,45 @@ window.SWIM_DATA = {
      "seconds": 562.48,
      "place": "2",
      "points": 519
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "01:11.86",
+     "seconds": 71.86,
+     "place": "48",
+     "points": 322
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "02:10.36",
+     "seconds": 130.36,
+     "place": "27",
+     "points": 432
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "00:27.50",
+     "seconds": 27.5,
+     "place": "32",
+     "points": 378
     }
    ],
    "future": []
@@ -499368,6 +501605,45 @@ window.SWIM_DATA = {
      "seconds": 586.6,
      "place": "7",
      "points": 457
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "01:10.29",
+     "seconds": 70.29,
+     "place": "43",
+     "points": 344
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "02:16.91",
+     "seconds": 136.91,
+     "place": "36",
+     "points": 373
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "00:26.55",
+     "seconds": 26.55,
+     "place": "24",
+     "points": 421
     }
    ],
    "future": []
@@ -501286,6 +503562,45 @@ window.SWIM_DATA = {
      "seconds": 139.34,
      "place": "9",
      "points": 518
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "01:05.93",
+     "seconds": 65.93,
+     "place": "18",
+     "points": 417
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "02:06.41",
+     "seconds": 126.41,
+     "place": "17",
+     "points": 474
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:26.66",
+     "seconds": 26.66,
+     "place": "25",
+     "points": 415
     }
    ],
    "future": []
@@ -502543,6 +504858,45 @@ window.SWIM_DATA = {
      "seconds": 571.63,
      "place": "36",
      "points": 494
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "01:07.53",
+     "seconds": 67.53,
+     "place": "26",
+     "points": 388
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "02:06.34",
+     "seconds": 126.34,
+     "place": "16",
+     "points": 475
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "00:26.13",
+     "seconds": 26.13,
+     "place": "17",
+     "points": 441
     }
    ],
    "future": []
@@ -504992,6 +507346,45 @@ window.SWIM_DATA = {
      "seconds": 608.41,
      "place": "18",
      "points": 410
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "01:07.48",
+     "seconds": 67.48,
+     "place": "25",
+     "points": 389
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "02:06.50",
+     "seconds": 126.5,
+     "place": "18",
+     "points": 473
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "00:26.84",
+     "seconds": 26.84,
+     "place": "26",
+     "points": 407
     }
    ],
    "future": []
@@ -506405,6 +508798,45 @@ window.SWIM_DATA = {
      "seconds": 30.82,
      "place": "31",
      "points": 377
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "01:10.31",
+     "seconds": 70.31,
+     "place": "44",
+     "points": 344
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "02:24.28",
+     "seconds": 144.28,
+     "place": "43",
+     "points": 319
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:27.78",
+     "seconds": 27.78,
+     "place": "34",
+     "points": 367
     }
    ],
    "future": []
@@ -507649,6 +510081,45 @@ window.SWIM_DATA = {
      "seconds": 30.9,
      "place": "32",
      "points": 374
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "01:10.08",
+     "seconds": 70.08,
+     "place": "39",
+     "points": 347
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "02:18.18",
+     "seconds": 138.18,
+     "place": "38",
+     "points": 363
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:38.33",
+     "seconds": 38.33,
+     "place": "23",
+     "points": 275
     }
    ],
    "future": []
@@ -508438,6 +510909,45 @@ window.SWIM_DATA = {
      "seconds": 71.67,
      "place": "27",
      "points": 328
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "01:10.24",
+     "seconds": 70.24,
+     "place": "41",
+     "points": 345
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "02:21.22",
+     "seconds": 141.22,
+     "place": "42",
+     "points": 340
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:28.30",
+     "seconds": 28.3,
+     "place": "37",
+     "points": 347
     }
    ],
    "future": []
@@ -519939,6 +522449,45 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "19",
      "points": 318
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "01:29.11",
+     "seconds": 89.11,
+     "place": "36",
+     "points": 236
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "02:46.88",
+     "seconds": 166.88,
+     "place": "29",
+     "points": 288
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "timeStr": "00:35.55",
+     "seconds": 35.55,
+     "place": "36",
+     "points": 264
     }
    ],
    "future": []
@@ -552564,10 +555113,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:05.56",
+     "seconds": 65.56,
+     "place": "9",
+     "points": 450
     },
     {
      "date": "2026-10-16",
@@ -552577,10 +555126,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:20.29",
+     "seconds": 80.29,
+     "place": "16",
+     "points": 323
     }
    ],
    "future": []
@@ -553199,10 +555748,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:21.23",
+     "seconds": 81.23,
+     "place": "20",
+     "points": 294
     },
     {
      "date": "2026-10-16",
@@ -553212,10 +555761,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:21.51",
+     "seconds": 81.51,
+     "place": "20",
+     "points": 309
     }
    ],
    "future": []
@@ -557533,10 +560082,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:22.39",
+     "seconds": 82.39,
+     "place": "22",
+     "points": 299
     },
     {
      "date": "2026-10-16",
@@ -557546,10 +560095,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "03:13.43",
+     "seconds": 193.43,
+     "place": "5",
+     "points": 321
     }
    ],
    "future": []
@@ -559718,10 +562267,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:24.05",
+     "seconds": 84.05,
+     "place": "24",
+     "points": 265
     },
     {
      "date": "2026-10-16",
@@ -559731,10 +562280,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:20.75",
+     "seconds": 80.75,
+     "place": "28",
+     "points": 240
     }
    ],
    "future": []
@@ -561103,10 +563652,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "03:12.93",
+     "seconds": 192.93,
+     "place": "4",
+     "points": 323
     }
    ],
    "future": []
@@ -561622,7 +564171,8 @@ window.SWIM_DATA = {
    "birthYear": 2013,
    "clubs": [
     "מכבי חיפה",
-    "מכבי מרום רמת גן"
+    "מכבי מרום רמת גן",
+    "מכבי קרית אונו"
    ],
    "past": [
     {
@@ -561897,6 +564447,32 @@ window.SWIM_DATA = {
      "seconds": 194.4,
      "place": "27",
      "points": 270
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "01:28.63",
+     "seconds": 88.63,
+     "place": "35",
+     "points": 240
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "00:34.31",
+     "seconds": 34.31,
+     "place": "33",
+     "points": 294
     }
    ],
    "future": []
@@ -567439,9 +570015,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
+     "timeStr": "DNS",
      "seconds": null,
-     "place": "1",
+     "place": "24",
      "points": 0
     },
     {
@@ -567452,9 +570028,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
+     "timeStr": "DNS",
      "seconds": null,
-     "place": "1",
+     "place": "45",
      "points": 0
     }
    ],
@@ -568243,10 +570819,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "00:56.62",
+     "seconds": 56.62,
+     "place": "11",
+     "points": 496
     },
     {
      "date": "2026-10-16",
@@ -568256,10 +570832,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:08.02",
+     "seconds": 68.02,
+     "place": "23",
+     "points": 380
     }
    ],
    "future": []
@@ -569864,10 +572440,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:11.47",
+     "seconds": 71.47,
+     "place": "20",
+     "points": 309
     },
     {
      "date": "2026-10-16",
@@ -569877,10 +572453,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "02:55.51",
+     "seconds": 175.51,
+     "place": "4",
+     "points": 320
     }
    ],
    "future": []
@@ -570874,10 +573450,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:15.55",
+     "seconds": 75.55,
+     "place": "41",
+     "points": 277
     },
     {
      "date": "2026-10-16",
@@ -570887,10 +573463,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "02:45.24",
+     "seconds": 165.24,
+     "place": "16",
+     "points": 270
     }
    ],
    "future": []
@@ -571652,10 +574228,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:03.54",
+     "seconds": 63.54,
+     "place": "6",
+     "points": 440
     },
     {
      "date": "2026-10-16",
@@ -571665,10 +574241,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:03.92",
+     "seconds": 63.92,
+     "place": "12",
+     "points": 458
     }
    ],
    "future": []
@@ -573232,10 +575808,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "00:59.34",
+     "seconds": 59.34,
+     "place": "17",
+     "points": 431
     },
     {
      "date": "2026-10-16",
@@ -573245,9 +575821,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
+     "timeStr": "DNS",
      "seconds": null,
-     "place": "1",
+     "place": "45",
      "points": 0
     }
    ],
@@ -574088,10 +576664,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:11.44",
+     "seconds": 71.44,
+     "place": "33",
+     "points": 328
     },
     {
      "date": "2026-10-16",
@@ -574101,10 +576677,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "02:28.96",
+     "seconds": 148.96,
+     "place": "8",
+     "points": 369
     }
    ],
    "future": []
@@ -574944,10 +577520,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:04.00",
+     "seconds": 64.0,
+     "place": "7",
+     "points": 430
     },
     {
      "date": "2026-10-16",
@@ -574957,10 +577533,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:06.83",
+     "seconds": 66.83,
+     "place": "19",
+     "points": 400
     }
    ],
    "future": []
@@ -577627,10 +580203,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:14.36",
+     "seconds": 74.36,
+     "place": "22",
+     "points": 274
     },
     {
      "date": "2026-10-16",
@@ -577640,10 +580216,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:09.29",
+     "seconds": 69.29,
+     "place": "26",
+     "points": 359
     }
    ],
    "future": []
@@ -608634,9 +611210,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל גליל עליון",
-     "timeStr": "NS",
+     "timeStr": "DNS",
      "seconds": null,
-     "place": "1",
+     "place": "34",
      "points": 0
     },
     {
@@ -608647,9 +611223,9 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל גליל עליון",
-     "timeStr": "NS",
+     "timeStr": "DNS",
      "seconds": null,
-     "place": "1",
+     "place": "8",
      "points": 0
     }
    ],
@@ -609594,10 +612170,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:06.48",
+     "seconds": 66.48,
+     "place": "11",
+     "points": 431
     },
     {
      "date": "2026-10-16",
@@ -609607,10 +612183,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "02:44.04",
+     "seconds": 164.04,
+     "place": "4",
+     "points": 384
     }
    ],
    "future": []
@@ -610242,10 +612818,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:26.98",
+     "seconds": 86.98,
+     "place": "29",
+     "points": 254
     },
     {
      "date": "2026-10-16",
@@ -610255,10 +612831,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "03:12.10",
+     "seconds": 192.1,
+     "place": "3",
+     "points": 328
     }
    ],
    "future": []
@@ -611238,10 +613814,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:17.82",
+     "seconds": 77.82,
+     "place": "17",
+     "points": 334
     },
     {
      "date": "2026-10-16",
@@ -611251,10 +613827,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:15.48",
+     "seconds": 75.48,
+     "place": "7",
+     "points": 389
     }
    ],
    "future": []
@@ -611925,10 +614501,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:17.44",
+     "seconds": 77.44,
+     "place": "11",
+     "points": 360
     },
     {
      "date": "2026-10-16",
@@ -611938,10 +614514,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
+     "timeStr": "03:00.30",
+     "seconds": 180.3,
      "place": "1",
-     "points": 0
+     "points": 396
     }
    ],
    "future": []
@@ -613902,10 +616478,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:09.00",
+     "seconds": 69.0,
+     "place": "16",
+     "points": 386
     },
     {
      "date": "2026-10-16",
@@ -613915,10 +616491,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:21.56",
+     "seconds": 81.56,
+     "place": "21",
+     "points": 308
     }
    ],
    "future": []
@@ -614977,10 +617553,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:16.28",
+     "seconds": 76.28,
+     "place": "13",
+     "points": 355
     },
     {
      "date": "2026-10-16",
@@ -614990,10 +617566,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:04.10",
+     "seconds": 64.1,
+     "place": "6",
+     "points": 481
     }
    ],
    "future": []
@@ -616720,10 +619296,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:13.15",
+     "seconds": 73.15,
+     "place": "23",
+     "points": 324
     },
     {
      "date": "2026-10-16",
@@ -616733,10 +619309,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:24.88",
+     "seconds": 84.88,
+     "place": "27",
+     "points": 273
     }
    ],
    "future": []
@@ -617572,10 +620148,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:25.28",
+     "seconds": 85.28,
+     "place": "30",
+     "points": 204
     },
     {
      "date": "2026-10-16",
@@ -617585,10 +620161,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:35.61",
+     "seconds": 95.61,
+     "place": "32",
+     "points": 191
     }
    ],
    "future": []
@@ -620704,6 +623280,32 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "33",
      "points": 269
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
+     "compId": 15740,
+     "event": "100 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי חיפה",
+     "timeStr": "01:25.20",
+     "seconds": 85.2,
+     "place": "29",
+     "points": 205
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
+     "compId": 15740,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי חיפה",
+     "timeStr": "01:38.67",
+     "seconds": 98.67,
+     "place": "33",
+     "points": 174
     }
    ],
    "future": []
@@ -624862,10 +627464,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "00:56.48",
+     "seconds": 56.48,
+     "place": "9",
+     "points": 500
     },
     {
      "date": "2026-10-16",
@@ -624875,10 +627477,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:03.24",
+     "seconds": 63.24,
+     "place": "10",
+     "points": 473
     }
    ],
    "future": []
@@ -625729,10 +628331,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "00:57.89",
+     "seconds": 57.89,
+     "place": "13",
+     "points": 464
     },
     {
      "date": "2026-10-16",
@@ -625742,10 +628344,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:05.28",
+     "seconds": 65.28,
+     "place": "17",
+     "points": 430
     }
    ],
    "future": []
@@ -627474,10 +630076,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:00.91",
+     "seconds": 60.91,
+     "place": "19",
+     "points": 398
     },
     {
      "date": "2026-10-16",
@@ -627487,10 +630089,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:11.26",
+     "seconds": 71.26,
+     "place": "31",
+     "points": 330
     }
    ],
    "future": []
@@ -628496,10 +631098,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:09.69",
+     "seconds": 69.69,
+     "place": "16",
+     "points": 333
     },
     {
      "date": "2026-10-16",
@@ -628509,10 +631111,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:12.31",
+     "seconds": 72.31,
+     "place": "35",
+     "points": 316
     }
    ],
    "future": []
@@ -630941,10 +633543,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:13.38",
+     "seconds": 73.38,
+     "place": "36",
+     "points": 302
     },
     {
      "date": "2026-10-16",
@@ -630956,7 +633558,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "timeStr": "NS",
      "seconds": null,
-     "place": "1",
+     "place": "8",
      "points": 0
     }
    ],
@@ -632066,10 +634668,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "הפועל גליל עליון",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:14.14",
+     "seconds": 74.14,
+     "place": "38",
+     "points": 293
     },
     {
      "date": "2026-10-16",
@@ -632079,10 +634681,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "הפועל גליל עליון",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "02:34.22",
+     "seconds": 154.22,
+     "place": "10",
+     "points": 332
     }
    ],
    "future": []
@@ -634869,10 +637471,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:03.16",
+     "seconds": 63.16,
+     "place": "25",
+     "points": 357
     },
     {
      "date": "2026-10-16",
@@ -634882,10 +637484,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:15.42",
+     "seconds": 75.42,
+     "place": "40",
+     "points": 278
     }
    ],
    "future": []
@@ -703770,7 +706372,8 @@ window.SWIM_DATA = {
    "displayName": "יהונתן שילר",
    "birthYear": 2007,
    "clubs": [
-    "מכבי ראשון לציון SEALS"
+    "מכבי ראשון לציון SEALS",
+    "אלומה עירוני הוד השרון"
    ],
    "past": [
     {
@@ -704461,6 +707064,45 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "11",
      "points": 0
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:57.93",
+     "seconds": 57.93,
+     "place": "1",
+     "points": 615
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "01:56.84",
+     "seconds": 116.84,
+     "place": "3",
+     "points": 601
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:23.90",
+     "seconds": 23.9,
+     "place": "4",
+     "points": 577
     }
    ],
    "future": []
@@ -709978,6 +712620,32 @@ window.SWIM_DATA = {
      "seconds": 25.25,
      "place": "9",
      "points": 686
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "timeStr": "01:01.30",
+     "seconds": 61.3,
+     "place": "8",
+     "points": 519
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "timeStr": "02:14.45",
+     "seconds": 134.45,
+     "place": "35",
+     "points": 394
     }
    ],
    "future": []
@@ -719942,10 +722610,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:00.92",
+     "seconds": 60.92,
+     "place": "20",
+     "points": 398
     },
     {
      "date": "2026-10-16",
@@ -719955,10 +722623,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:14.31",
+     "seconds": 74.31,
+     "place": "39",
+     "points": 291
     }
    ],
    "future": []
@@ -724906,10 +727574,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "00:56.56",
+     "seconds": 56.56,
+     "place": "10",
+     "points": 498
     },
     {
      "date": "2026-10-16",
@@ -724919,10 +727587,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:07.25",
+     "seconds": 67.25,
+     "place": "21",
+     "points": 393
     }
    ],
    "future": []
@@ -726550,9 +729218,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
+     "timeStr": "DNS",
      "seconds": null,
-     "place": "1",
+     "place": "31",
      "points": 0
     }
    ],
@@ -763071,10 +765739,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:03.99",
+     "seconds": 63.99,
+     "place": "5",
+     "points": 484
     },
     {
      "date": "2026-10-16",
@@ -763084,10 +765752,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "02:59.09",
+     "seconds": 179.09,
+     "place": "7",
+     "points": 295
     }
    ],
    "future": []
@@ -767883,10 +770551,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:00.60",
+     "seconds": 60.6,
+     "place": "3",
+     "points": 507
     },
     {
      "date": "2026-10-16",
@@ -767896,10 +770564,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
+     "timeStr": "00:55.23",
+     "seconds": 55.23,
      "place": "1",
-     "points": 0
+     "points": 535
     }
    ],
    "future": []
@@ -780312,7 +782980,8 @@ window.SWIM_DATA = {
    "displayName": "אמה ריבקוב",
    "birthYear": 2013,
    "clubs": [
-    "מכבי ראשון לציון SEALS"
+    "מכבי ראשון לציון SEALS",
+    "סוהו טים שחייה"
    ],
    "past": [
     {
@@ -780704,6 +783373,45 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "24",
      "points": 280
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "סוהו טים שחייה",
+     "timeStr": "01:25.33",
+     "seconds": 85.33,
+     "place": "32",
+     "points": 269
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "סוהו טים שחייה",
+     "timeStr": "00:32.80",
+     "seconds": 32.8,
+     "place": "30",
+     "points": 337
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "סוהו טים שחייה",
+     "timeStr": "00:47.88",
+     "seconds": 47.88,
+     "place": "21",
+     "points": 208
     }
    ],
    "future": []
@@ -834376,6 +837084,45 @@ window.SWIM_DATA = {
      "seconds": 28.76,
      "place": "15",
      "points": 464
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "01:07.70",
+     "seconds": 67.7,
+     "place": "28",
+     "points": 385
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "02:04.70",
+     "seconds": 124.7,
+     "place": "13",
+     "points": 494
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "00:24.40",
+     "seconds": 24.4,
+     "place": "5",
+     "points": 542
     }
    ],
    "future": []
@@ -840584,10 +843331,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "הפועל קרית טבעון",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:10.23",
+     "seconds": 70.23,
+     "place": "28",
+     "points": 345
     },
     {
      "date": "2026-10-16",
@@ -840599,7 +843346,7 @@ window.SWIM_DATA = {
      "club": "הפועל קרית טבעון",
      "timeStr": "NS",
      "seconds": null,
-     "place": "1",
+     "place": "8",
      "points": 0
     }
    ],
@@ -880266,7 +883013,8 @@ window.SWIM_DATA = {
    "displayName": "מהדי שריף",
    "birthYear": 2010,
    "clubs": [
-    "מכבי נצרת"
+    "מכבי נצרת",
+    "מכבי מרום רמת גן"
    ],
    "past": [
     {
@@ -880567,6 +883315,32 @@ window.SWIM_DATA = {
      "seconds": 71.29,
      "place": "6",
      "points": 507
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "51",
+     "points": 0
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "28",
+     "points": 0
     }
    ],
    "future": []
@@ -881549,10 +884323,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:07.08",
+     "seconds": 67.08,
+     "place": "20",
+     "points": 396
     },
     {
      "date": "2026-10-16",
@@ -881564,7 +884338,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "timeStr": "NS",
      "seconds": null,
-     "place": "1",
+     "place": "8",
      "points": 0
     }
    ],
@@ -883221,10 +885995,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:10.86",
+     "seconds": 70.86,
+     "place": "18",
+     "points": 317
     },
     {
      "date": "2026-10-16",
@@ -883234,10 +886008,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:09.72",
+     "seconds": 69.72,
+     "place": "27",
+     "points": 353
     }
    ],
    "future": []
@@ -903422,7 +906196,8 @@ window.SWIM_DATA = {
    "displayName": "ליבי גולדברג",
    "birthYear": 2013,
    "clubs": [
-    "מכבי ראשון לציון SEALS"
+    "מכבי ראשון לציון SEALS",
+    "סוהו טים שחייה"
    ],
    "past": [
     {
@@ -904087,6 +906862,45 @@ window.SWIM_DATA = {
      "seconds": 32.61,
      "place": "26",
      "points": 379
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "סוהו טים שחייה",
+     "timeStr": "01:21.06",
+     "seconds": 81.06,
+     "place": "27",
+     "points": 314
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "סוהו טים שחייה",
+     "timeStr": "00:31.95",
+     "seconds": 31.95,
+     "place": "25",
+     "points": 364
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "סוהו טים שחייה",
+     "timeStr": "00:42.24",
+     "seconds": 42.24,
+     "place": "13",
+     "points": 302
     }
    ],
    "future": []
@@ -909543,6 +912357,19 @@ window.SWIM_DATA = {
      "seconds": 179.51,
      "place": "6",
      "points": 341
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "סוהו טים שחייה",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "51",
+     "points": 0
     }
    ],
    "future": []
@@ -940000,6 +942827,45 @@ window.SWIM_DATA = {
      "seconds": 112.72,
      "place": "5",
      "points": 740
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "58",
+     "points": 0
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "49",
+     "points": 0
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "51",
+     "points": 0
     }
    ],
    "future": []
@@ -955005,10 +957871,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
+     "timeStr": "01:04.89",
+     "seconds": 64.89,
      "place": "1",
-     "points": 0
+     "points": 576
     },
     {
      "date": "2026-10-16",
@@ -955018,10 +957884,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
+     "timeStr": "01:08.54",
+     "seconds": 68.54,
      "place": "1",
-     "points": 0
+     "points": 519
     }
    ],
    "future": []
@@ -958384,7 +961250,8 @@ window.SWIM_DATA = {
    "displayName": "אלה פרימור",
    "birthYear": 2011,
    "clubs": [
-    "הפועל כפר סבא ב. ב."
+    "הפועל כפר סבא ב. ב.",
+    "אלומה עירוני הוד השרון"
    ],
    "past": [
     {
@@ -959153,6 +962020,45 @@ window.SWIM_DATA = {
      "seconds": 31.25,
      "place": "28",
      "points": 477
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "01:14.81",
+     "seconds": 74.81,
+     "place": "12",
+     "points": 399
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "02:40.70",
+     "seconds": 160.7,
+     "place": "28",
+     "points": 323
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:30.64",
+     "seconds": 30.64,
+     "place": "16",
+     "points": 413
     }
    ],
    "future": []
@@ -960562,10 +963468,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:01.73",
+     "seconds": 61.73,
+     "place": "4",
+     "points": 539
     },
     {
      "date": "2026-10-16",
@@ -960575,10 +963481,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:12.08",
+     "seconds": 72.08,
+     "place": "5",
+     "points": 446
     }
    ],
    "future": []
@@ -963141,10 +966047,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:12.47",
+     "seconds": 72.47,
+     "place": "3",
+     "points": 414
     },
     {
      "date": "2026-10-16",
@@ -963154,10 +966060,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:09.79",
+     "seconds": 69.79,
+     "place": "18",
+     "points": 373
     }
    ],
    "future": []
@@ -964534,6 +967440,45 @@ window.SWIM_DATA = {
      "seconds": 600.29,
      "place": "25",
      "points": 524
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "01:15.84",
+     "seconds": 75.84,
+     "place": "14",
+     "points": 383
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "02:18.25",
+     "seconds": 138.25,
+     "place": "9",
+     "points": 507
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:29.42",
+     "seconds": 29.42,
+     "place": "8",
+     "points": 467
     }
    ],
    "future": []
@@ -964975,6 +967920,32 @@ window.SWIM_DATA = {
      "seconds": 79.51,
      "place": "17",
      "points": 370
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "01:23.57",
+     "seconds": 83.57,
+     "place": "31",
+     "points": 286
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "31",
+     "points": 0
     }
    ],
    "future": []
@@ -967255,7 +970226,8 @@ window.SWIM_DATA = {
    "displayName": "איתי בירגר",
    "birthYear": 2010,
    "clubs": [
-    "הפועל דולפין נתניה"
+    "הפועל דולפין נתניה",
+    "אלומה עירוני הוד השרון"
    ],
    "past": [
     {
@@ -967946,6 +970918,45 @@ window.SWIM_DATA = {
      "seconds": 25.96,
      "place": "17",
      "points": 631
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "01:02.42",
+     "seconds": 62.42,
+     "place": "11",
+     "points": 492
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "02:01.75",
+     "seconds": 121.75,
+     "place": "9",
+     "points": 531
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:25.28",
+     "seconds": 25.28,
+     "place": "7",
+     "points": 487
     }
    ],
    "future": []
@@ -972379,6 +975390,45 @@ window.SWIM_DATA = {
      "seconds": 136.45,
      "place": "11",
      "points": 551
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "01:06.39",
+     "seconds": 66.39,
+     "place": "21",
+     "points": 408
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "02:05.98",
+     "seconds": 125.98,
+     "place": "14",
+     "points": 479
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:26.11",
+     "seconds": 26.11,
+     "place": "15",
+     "points": 442
     }
    ],
    "future": []
@@ -973294,10 +976344,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "00:56.11",
+     "seconds": 56.11,
+     "place": "6",
+     "points": 510
     },
     {
      "date": "2026-10-16",
@@ -973307,10 +976357,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:04.86",
+     "seconds": 64.86,
+     "place": "16",
+     "points": 438
     }
    ],
    "future": []
@@ -976277,7 +979327,8 @@ window.SWIM_DATA = {
    "displayName": "עמית אזולאי",
    "birthYear": 2011,
    "clubs": [
-    "הפועל דולפין נתניה"
+    "הפועל דולפין נתניה",
+    "אלומה עירוני הוד השרון"
    ],
    "past": [
     {
@@ -976786,6 +979837,45 @@ window.SWIM_DATA = {
      "seconds": 26.62,
      "place": "20",
      "points": 484
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "01:06.36",
+     "seconds": 66.36,
+     "place": "20",
+     "points": 409
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "02:03.00",
+     "seconds": 123.0,
+     "place": "10",
+     "points": 515
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:26.25",
+     "seconds": 26.25,
+     "place": "18",
+     "points": 435
     }
    ],
    "future": []
@@ -980190,6 +983280,32 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "29",
      "points": 356
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "58",
+     "points": 0
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "49",
+     "points": 0
     }
    ],
    "future": []
@@ -980564,6 +983680,45 @@ window.SWIM_DATA = {
      "seconds": 74.81,
      "place": "5",
      "points": 328
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "01:18.88",
+     "seconds": 78.88,
+     "place": "56",
+     "points": 243
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:30.99",
+     "seconds": 30.99,
+     "place": "49",
+     "points": 264
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:39.49",
+     "seconds": 39.49,
+     "place": "25",
+     "points": 252
     }
    ],
    "future": []
@@ -983600,10 +986755,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:00.38",
+     "seconds": 60.38,
+     "place": "2",
+     "points": 576
     },
     {
      "date": "2026-10-16",
@@ -983613,10 +986768,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
+     "timeStr": "02:23.02",
+     "seconds": 143.02,
      "place": "1",
-     "points": 0
+     "points": 580
     }
    ],
    "future": []
@@ -997027,6 +1000182,32 @@ window.SWIM_DATA = {
      "seconds": 34.96,
      "place": "21",
      "points": 341
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "01:22.71",
+     "seconds": 82.71,
+     "place": "30",
+     "points": 295
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:32.26",
+     "seconds": 32.26,
+     "place": "27",
+     "points": 354
     }
    ],
    "future": []
@@ -999150,10 +1002331,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:10.07",
+     "seconds": 70.07,
+     "place": "19",
+     "points": 368
     },
     {
      "date": "2026-10-16",
@@ -999163,10 +1002344,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "02:53.00",
+     "seconds": 173.0,
+     "place": "5",
+     "points": 328
     }
    ],
    "future": []
@@ -999903,6 +1003084,45 @@ window.SWIM_DATA = {
      "seconds": 34.02,
      "place": "19",
      "points": 370
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "01:20.26",
+     "seconds": 80.26,
+     "place": "26",
+     "points": 323
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:31.16",
+     "seconds": 31.16,
+     "place": "20",
+     "points": 393
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:42.86",
+     "seconds": 42.86,
+     "place": "15",
+     "points": 290
     }
    ],
    "future": []
@@ -1001872,7 +1005092,8 @@ window.SWIM_DATA = {
    "displayName": "ארז דרור",
    "birthYear": 2007,
    "clubs": [
-    "הפועל כפר סבא ב. ב."
+    "הפועל כפר סבא ב. ב.",
+    "אלומה עירוני הוד השרון"
    ],
    "past": [
     {
@@ -1002563,6 +1005784,32 @@ window.SWIM_DATA = {
      "seconds": 25.35,
      "place": "7",
      "points": 677
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "02:30.35",
+     "seconds": 150.35,
+     "place": "48",
+     "points": 282
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:23.36",
+     "seconds": 23.36,
+     "place": "1",
+     "points": 618
     }
    ],
    "future": []
@@ -1011467,6 +1014714,45 @@ window.SWIM_DATA = {
      "seconds": 27.78,
      "place": "34",
      "points": 515
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "01:06.58",
+     "seconds": 66.58,
+     "place": "24",
+     "points": 405
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "02:07.60",
+     "seconds": 127.6,
+     "place": "21",
+     "points": 461
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:26.40",
+     "seconds": 26.4,
+     "place": "19",
+     "points": 428
     }
    ],
    "future": []
@@ -1016511,7 +1019797,8 @@ window.SWIM_DATA = {
    "displayName": "טומי גליקמן",
    "birthYear": 2011,
    "clubs": [
-    "הפועל כפר סבא ב. ב."
+    "הפועל כפר סבא ב. ב.",
+    "אלומה עירוני הוד השרון"
    ],
    "past": [
     {
@@ -1017189,6 +1020476,45 @@ window.SWIM_DATA = {
      "seconds": 27.9,
      "place": "9",
      "points": 508
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "01:09.24",
+     "seconds": 69.24,
+     "place": "33",
+     "points": 360
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "02:08.46",
+     "seconds": 128.46,
+     "place": "25",
+     "points": 452
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:28.35",
+     "seconds": 28.35,
+     "place": "39",
+     "points": 345
     }
    ],
    "future": []
@@ -1019341,6 +1022667,45 @@ window.SWIM_DATA = {
      "seconds": 128.74,
      "place": "23",
      "points": 497
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "01:09.86",
+     "seconds": 69.86,
+     "place": "36",
+     "points": 351
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "02:07.98",
+     "seconds": 127.98,
+     "place": "23",
+     "points": 457
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:27.20",
+     "seconds": 27.2,
+     "place": "29",
+     "points": 391
     }
    ],
    "future": []
@@ -1022037,6 +1025402,45 @@ window.SWIM_DATA = {
      "seconds": 30.34,
      "place": "26",
      "points": 395
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "02:11.68",
+     "seconds": 131.68,
+     "place": "30",
+     "points": 419
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:27.57",
+     "seconds": 27.57,
+     "place": "33",
+     "points": 376
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:37.38",
+     "seconds": 37.38,
+     "place": "21",
+     "points": 297
     }
    ],
    "future": []
@@ -1022633,6 +1026037,32 @@ window.SWIM_DATA = {
      "seconds": 80.57,
      "place": "29",
      "points": 351
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "01:09.91",
+     "seconds": 69.91,
+     "place": "37",
+     "points": 350
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "02:16.93",
+     "seconds": 136.93,
+     "place": "37",
+     "points": 373
     }
    ],
    "future": []
@@ -1027972,7 +1031402,8 @@ window.SWIM_DATA = {
    "displayName": "עמנואל סטרוז",
    "birthYear": 2010,
    "clubs": [
-    "הפועל כפר סבא ב. ב."
+    "הפועל כפר סבא ב. ב.",
+    "אלומה עירוני הוד השרון"
    ],
    "past": [
     {
@@ -1028806,6 +1032237,45 @@ window.SWIM_DATA = {
      "seconds": 85.66,
      "place": "12",
      "points": 419
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "01:11.97",
+     "seconds": 71.97,
+     "place": "6",
+     "points": 448
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "02:22.19",
+     "seconds": 142.19,
+     "place": "11",
+     "points": 466
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:37.50",
+     "seconds": 37.5,
+     "place": "5",
+     "points": 432
     }
    ],
    "future": []
@@ -1032210,10 +1035680,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:06.00",
+     "seconds": 66.0,
+     "place": "10",
+     "points": 441
     },
     {
      "date": "2026-10-16",
@@ -1032223,10 +1035693,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:18.41",
+     "seconds": 78.41,
+     "place": "12",
+     "points": 347
     }
    ],
    "future": []
@@ -1032798,6 +1036268,45 @@ window.SWIM_DATA = {
      "seconds": 85.78,
      "place": "7",
      "points": 417
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "02:38.30",
+     "seconds": 158.3,
+     "place": "26",
+     "points": 338
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:32.21",
+     "seconds": 32.21,
+     "place": "26",
+     "points": 356
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:39.54",
+     "seconds": 39.54,
+     "place": "8",
+     "points": 369
     }
    ],
    "future": []
@@ -1034120,6 +1037629,32 @@ window.SWIM_DATA = {
      "seconds": 25.85,
      "place": "10",
      "points": 561
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "01:00.80",
+     "seconds": 60.8,
+     "place": "7",
+     "points": 532
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "00:24.70",
+     "seconds": 24.7,
+     "place": "6",
+     "points": 522
     }
    ],
    "future": []
@@ -1039562,7 +1043097,8 @@ window.SWIM_DATA = {
    "displayName": "גיא פאוקר",
    "birthYear": 2010,
    "clubs": [
-    "הפועל דולפין נתניה"
+    "הפועל דולפין נתניה",
+    "אלומה עירוני הוד השרון"
    ],
    "past": [
     {
@@ -1039967,6 +1043503,45 @@ window.SWIM_DATA = {
      "seconds": 72.31,
      "place": "7",
      "points": 486
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "01:07.80",
+     "seconds": 67.8,
+     "place": "29",
+     "points": 383
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "02:12.45",
+     "seconds": 132.45,
+     "place": "32",
+     "points": 412
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:33.89",
+     "seconds": 33.89,
+     "place": "11",
+     "points": 399
     }
    ],
    "future": []
@@ -1041834,6 +1045409,45 @@ window.SWIM_DATA = {
      "seconds": 30.64,
      "place": "44",
      "points": 383
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "01:10.04",
+     "seconds": 70.04,
+     "place": "38",
+     "points": 348
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:28.34",
+     "seconds": 28.34,
+     "place": "38",
+     "points": 346
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:35.22",
+     "seconds": 35.22,
+     "place": "16",
+     "points": 355
     }
    ],
    "future": []
@@ -1043451,10 +1047065,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:00.20",
+     "seconds": 60.2,
+     "place": "18",
+     "points": 413
     },
     {
      "date": "2026-10-16",
@@ -1043464,10 +1047078,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:07.56",
+     "seconds": 67.56,
+     "place": "22",
+     "points": 388
     }
    ],
    "future": []
@@ -1046786,10 +1050400,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "00:55.96",
+     "seconds": 55.96,
+     "place": "5",
+     "points": 514
     },
     {
      "date": "2026-10-16",
@@ -1046799,10 +1050413,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
+     "timeStr": "00:59.88",
+     "seconds": 59.88,
      "place": "1",
-     "points": 0
+     "points": 557
     }
    ],
    "future": []
@@ -1052301,6 +1055915,45 @@ window.SWIM_DATA = {
      "seconds": 33.22,
      "place": "15",
      "points": 397
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "01:18.77",
+     "seconds": 78.77,
+     "place": "23",
+     "points": 342
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:30.61",
+     "seconds": 30.61,
+     "place": "14",
+     "points": 414
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:42.86",
+     "seconds": 42.86,
+     "place": "15",
+     "points": 290
     }
    ],
    "future": []
@@ -1055496,10 +1059149,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:04.78",
+     "seconds": 64.78,
+     "place": "8",
+     "points": 415
     },
     {
      "date": "2026-10-16",
@@ -1055509,10 +1059162,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:11.38",
+     "seconds": 71.38,
+     "place": "32",
+     "points": 329
     }
    ],
    "future": []
@@ -1058827,10 +1062480,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "00:59.90",
+     "seconds": 59.9,
+     "place": "2",
+     "points": 556
     },
     {
      "date": "2026-10-16",
@@ -1058840,10 +1062493,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
+     "timeStr": "02:02.93",
+     "seconds": 122.93,
      "place": "1",
-     "points": 0
+     "points": 656
     }
    ],
    "future": []
@@ -1058853,7 +1062506,8 @@ window.SWIM_DATA = {
    "displayName": "איתן גאוגזייב",
    "birthYear": 2008,
    "clubs": [
-    "הפועל כפר סבא ב. ב."
+    "הפועל כפר סבא ב. ב.",
+    "אלומה עירוני הוד השרון"
    ],
    "past": [
     {
@@ -1059804,6 +1063458,45 @@ window.SWIM_DATA = {
      "seconds": 127.19,
      "place": "6",
      "points": 681
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:58.42",
+     "seconds": 58.42,
+     "place": "3",
+     "points": 600
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "02:14.23",
+     "seconds": 134.23,
+     "place": "34",
+     "points": 396
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:30.50",
+     "seconds": 30.5,
+     "place": "2",
+     "points": 547
     }
    ],
    "future": []
@@ -1136744,6 +1140437,19 @@ window.SWIM_DATA = {
      "seconds": 90.36,
      "place": "18",
      "points": 357
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "timeStr": "02:37.95",
+     "seconds": 157.95,
+     "place": "24",
+     "points": 340
     }
    ],
    "future": []
@@ -1156281,10 +1159987,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:03.96",
+     "seconds": 63.96,
+     "place": "28",
+     "points": 344
     },
     {
      "date": "2026-10-16",
@@ -1156294,10 +1160000,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "02:34.82",
+     "seconds": 154.82,
+     "place": "11",
+     "points": 328
     }
    ],
    "future": []
@@ -1157551,10 +1161257,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "03:06.50",
+     "seconds": 186.5,
+     "place": "6",
+     "points": 267
     },
     {
      "date": "2026-10-16",
@@ -1157564,10 +1161270,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "02:41.72",
+     "seconds": 161.72,
+     "place": "12",
+     "points": 288
     }
    ],
    "future": []
@@ -1158212,10 +1161918,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "03:15.86",
+     "seconds": 195.86,
+     "place": "7",
+     "points": 230
     },
     {
      "date": "2026-10-16",
@@ -1158225,10 +1161931,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "02:42.22",
+     "seconds": 162.22,
+     "place": "13",
+     "points": 285
     }
    ],
    "future": []
@@ -1159430,10 +1163136,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:17.74",
+     "seconds": 77.74,
+     "place": "43",
+     "points": 254
     },
     {
      "date": "2026-10-16",
@@ -1159443,10 +1163149,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "02:43.49",
+     "seconds": 163.49,
+     "place": "15",
+     "points": 279
     }
    ],
    "future": []
@@ -1160143,10 +1163849,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:17.26",
+     "seconds": 77.26,
+     "place": "42",
+     "points": 259
     },
     {
      "date": "2026-10-16",
@@ -1160156,10 +1163862,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "02:43.16",
+     "seconds": 163.16,
+     "place": "14",
+     "points": 280
     }
    ],
    "future": []
@@ -1160856,10 +1164562,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:03.68",
+     "seconds": 63.68,
+     "place": "27",
+     "points": 349
     },
     {
      "date": "2026-10-16",
@@ -1160869,10 +1164575,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "02:59.70",
+     "seconds": 179.7,
+     "place": "5",
+     "points": 298
     }
    ],
    "future": []
@@ -1164585,10 +1168291,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:14.44",
+     "seconds": 74.44,
+     "place": "7",
+     "points": 382
     },
     {
      "date": "2026-10-16",
@@ -1164598,10 +1168304,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:06.99",
+     "seconds": 66.99,
+     "place": "12",
+     "points": 422
     }
    ],
    "future": []
@@ -1169891,9 +1173597,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
+     "timeStr": "DNS",
      "seconds": null,
-     "place": "1",
+     "place": "24",
      "points": 0
     },
     {
@@ -1169904,9 +1173610,9 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
+     "timeStr": "DNS",
      "seconds": null,
-     "place": "1",
+     "place": "45",
      "points": 0
     }
    ],
@@ -1174912,10 +1178618,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:11.88",
+     "seconds": 71.88,
+     "place": "2",
+     "points": 424
     },
     {
      "date": "2026-10-16",
@@ -1174925,10 +1178631,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:12.35",
+     "seconds": 72.35,
+     "place": "6",
+     "points": 441
     }
    ],
    "future": []
@@ -1176090,10 +1179796,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:12.28",
+     "seconds": 72.28,
+     "place": "21",
+     "points": 336
     },
     {
      "date": "2026-10-16",
@@ -1176103,10 +1179809,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:22.94",
+     "seconds": 82.94,
+     "place": "24",
+     "points": 293
     }
    ],
    "future": []
@@ -1177358,10 +1181064,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:05.95",
+     "seconds": 65.95,
+     "place": "10",
+     "points": 393
     },
     {
      "date": "2026-10-16",
@@ -1177371,10 +1181077,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "00:58.97",
+     "seconds": 58.97,
+     "place": "15",
+     "points": 439
     }
    ],
    "future": []
@@ -1178563,10 +1182269,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:08.27",
+     "seconds": 68.27,
+     "place": "25",
+     "points": 376
     },
     {
      "date": "2026-10-16",
@@ -1178576,10 +1182282,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "02:28.94",
+     "seconds": 148.94,
+     "place": "7",
+     "points": 369
     }
    ],
    "future": []
@@ -1183341,10 +1187047,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:20.45",
+     "seconds": 80.45,
+     "place": "17",
+     "points": 321
     },
     {
      "date": "2026-10-16",
@@ -1183354,10 +1187060,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "03:06.72",
+     "seconds": 186.72,
+     "place": "2",
+     "points": 357
     }
    ],
    "future": []
@@ -1209444,7 +1213150,8 @@ window.SWIM_DATA = {
    "displayName": "נוגה הר-שי",
    "birthYear": 2013,
    "clubs": [
-    "הפועל כפר סבא ב. ב."
+    "הפועל כפר סבא ב. ב.",
+    "אלומה עירוני הוד השרון"
    ],
    "past": [
     {
@@ -1210161,6 +1213868,32 @@ window.SWIM_DATA = {
      "seconds": 643.0,
      "place": "6",
      "points": 426
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "01:19.00",
+     "seconds": 79.0,
+     "place": "24",
+     "points": 339
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "02:28.96",
+     "seconds": 148.96,
+     "place": "18",
+     "points": 406
     }
    ],
    "future": []
@@ -1235637,7 +1239370,8 @@ window.SWIM_DATA = {
    "displayName": "מיקה ארד",
    "birthYear": 2013,
    "clubs": [
-    "הפועל כפר סבא ב. ב."
+    "הפועל כפר סבא ב. ב.",
+    "אלומה עירוני הוד השרון"
    ],
    "past": [
     {
@@ -1236575,6 +1240309,45 @@ window.SWIM_DATA = {
      "seconds": 138.74,
      "place": "3",
      "points": 529
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "01:13.71",
+     "seconds": 73.71,
+     "place": "8",
+     "points": 417
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "02:17.65",
+     "seconds": 137.65,
+     "place": "6",
+     "points": 514
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:29.67",
+     "seconds": 29.67,
+     "place": "10",
+     "points": 455
     }
    ],
    "future": []
@@ -1293435,10 +1297208,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:17.35",
+     "seconds": 77.35,
+     "place": "16",
+     "points": 340
     },
     {
      "date": "2026-10-16",
@@ -1293448,10 +1297221,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:19.89",
+     "seconds": 79.89,
+     "place": "15",
+     "points": 328
     }
    ],
    "future": []
@@ -1297689,10 +1301462,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:11.85",
+     "seconds": 71.85,
+     "place": "34",
+     "points": 322
     },
     {
      "date": "2026-10-16",
@@ -1297702,10 +1301475,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "02:48.63",
+     "seconds": 168.63,
+     "place": "2",
+     "points": 361
     }
    ],
    "future": []
@@ -1356257,6 +1360030,32 @@ window.SWIM_DATA = {
      "seconds": 31.69,
      "place": "19",
      "points": 413
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "01:17.54",
+     "seconds": 77.54,
+     "place": "20",
+     "points": 359
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "02:28.88",
+     "seconds": 148.88,
+     "place": "17",
+     "points": 406
     }
    ],
    "future": []
@@ -1357901,6 +1361700,45 @@ window.SWIM_DATA = {
      "seconds": 30.46,
      "place": "9",
      "points": 465
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "02:46.88",
+     "seconds": 166.88,
+     "place": "29",
+     "points": 288
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:30.73",
+     "seconds": 30.73,
+     "place": "17",
+     "points": 410
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "23",
+     "points": 0
     }
    ],
    "future": []
@@ -1361739,6 +1365577,45 @@ window.SWIM_DATA = {
      "seconds": 31.22,
      "place": "32",
      "points": 300
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "01:17.30",
+     "seconds": 77.3,
+     "place": "54",
+     "points": 259
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:29.26",
+     "seconds": 29.26,
+     "place": "45",
+     "points": 314
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:38.63",
+     "seconds": 38.63,
+     "place": "24",
+     "points": 269
     }
    ],
    "future": []
@@ -1364759,10 +1368636,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל קרית טבעון",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:18.80",
+     "seconds": 78.8,
+     "place": "18",
+     "points": 322
     },
     {
      "date": "2026-10-16",
@@ -1364772,10 +1368649,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל קרית טבעון",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:22.64",
+     "seconds": 82.64,
+     "place": "23",
+     "points": 296
     }
    ],
    "future": []
@@ -1366491,10 +1370368,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל קרית טבעון",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:18.85",
+     "seconds": 78.85,
+     "place": "27",
+     "points": 258
     },
     {
      "date": "2026-10-16",
@@ -1366504,10 +1370381,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל קרית טבעון",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:32.25",
+     "seconds": 92.25,
+     "place": "31",
+     "points": 213
     }
    ],
    "future": []
@@ -1369966,6 +1373843,32 @@ window.SWIM_DATA = {
      "seconds": 161.25,
      "place": "29",
      "points": 334
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "01:13.74",
+     "seconds": 73.74,
+     "place": "51",
+     "points": 298
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "02:24.49",
+     "seconds": 144.49,
+     "place": "44",
+     "points": 317
     }
    ],
    "future": []
@@ -1370303,6 +1374206,45 @@ window.SWIM_DATA = {
      "seconds": 29.72,
      "place": "22",
      "points": 348
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "01:14.52",
+     "seconds": 74.52,
+     "place": "52",
+     "points": 289
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:28.84",
+     "seconds": 28.84,
+     "place": "44",
+     "points": 328
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:40.63",
+     "seconds": 40.63,
+     "place": "26",
+     "points": 231
     }
    ],
    "future": []
@@ -1376038,10 +1379980,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:10.82",
+     "seconds": 70.82,
+     "place": "30",
+     "points": 336
     },
     {
      "date": "2026-10-16",
@@ -1376051,10 +1379993,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "02:25.10",
+     "seconds": 145.1,
+     "place": "5",
+     "points": 399
     }
    ],
    "future": []
@@ -1377275,7 +1381217,8 @@ window.SWIM_DATA = {
    "displayName": "רוני  בן שלוש",
    "birthYear": 2013,
    "clubs": [
-    "מכבי מרום רמת גן"
+    "מכבי מרום רמת גן",
+    "מכבי קרית אונו"
    ],
    "past": [
     {
@@ -1377459,6 +1381402,45 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "28",
      "points": 237
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "01:32.05",
+     "seconds": 92.05,
+     "place": "38",
+     "points": 214
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "00:35.80",
+     "seconds": 35.8,
+     "place": "37",
+     "points": 259
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "00:48.02",
+     "seconds": 48.02,
+     "place": "22",
+     "points": 206
     }
    ],
    "future": []
@@ -1378090,7 +1382072,8 @@ window.SWIM_DATA = {
    "birthYear": 2012,
    "clubs": [
     "מכבי מרום רמת גן",
-    "הפועל פתח תקווה"
+    "הפועל פתח תקווה",
+    "מכבי קרית אונו"
    ],
    "past": [
     {
@@ -1378287,6 +1382270,45 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "50",
      "points": 0
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "01:12.07",
+     "seconds": 72.07,
+     "place": "49",
+     "points": 319
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "02:29.38",
+     "seconds": 149.38,
+     "place": "46",
+     "points": 287
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "00:29.48",
+     "seconds": 29.48,
+     "place": "46",
+     "points": 307
     }
    ],
    "future": []
@@ -1388794,6 +1392816,45 @@ window.SWIM_DATA = {
      "seconds": 335.64,
      "place": "23",
      "points": 339
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "02:39.47",
+     "seconds": 159.47,
+     "place": "27",
+     "points": 330
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:34.32",
+     "seconds": 34.32,
+     "place": "34",
+     "points": 294
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:47.10",
+     "seconds": 47.1,
+     "place": "20",
+     "points": 218
     }
    ],
    "future": []
@@ -1435979,6 +1440040,45 @@ window.SWIM_DATA = {
      "seconds": 31.82,
      "place": "36",
      "points": 342
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "סוהו טים שחייה",
+     "timeStr": "01:09.54",
+     "seconds": 69.54,
+     "place": "34",
+     "points": 355
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "סוהו טים שחייה",
+     "timeStr": "02:29.65",
+     "seconds": 149.65,
+     "place": "47",
+     "points": 286
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "סוהו טים שחייה",
+     "timeStr": "00:28.81",
+     "seconds": 28.81,
+     "place": "42",
+     "points": 329
     }
    ],
    "future": []
@@ -1471939,10 +1476039,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל גליל עליון",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:17.89",
+     "seconds": 77.89,
+     "place": "26",
+     "points": 268
     },
     {
      "date": "2026-10-16",
@@ -1471952,10 +1476052,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל גליל עליון",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:28.00",
+     "seconds": 88.0,
+     "place": "30",
+     "points": 245
     }
    ],
    "future": []
@@ -1472262,10 +1476362,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל גליל עליון",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:22.06",
+     "seconds": 82.06,
+     "place": "23",
+     "points": 285
     },
     {
      "date": "2026-10-16",
@@ -1472275,10 +1476375,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל גליל עליון",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:20.78",
+     "seconds": 80.78,
+     "place": "18",
+     "points": 317
     }
    ],
    "future": []
@@ -1473248,6 +1477348,19 @@ window.SWIM_DATA = {
      "seconds": 176.9,
      "place": "19",
      "points": 356
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
+     "compId": 15740,
+     "event": "100 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל גליל עליון",
+     "timeStr": "DNS",
+     "seconds": null,
+     "place": "31",
+     "points": 0
     }
    ],
    "future": []
@@ -1473593,10 +1477706,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "הפועל גליל עליון",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:10.63",
+     "seconds": 70.63,
+     "place": "17",
+     "points": 320
     },
     {
      "date": "2026-10-16",
@@ -1473606,10 +1477719,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "הפועל גליל עליון",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:18.10",
+     "seconds": 78.1,
+     "place": "44",
+     "points": 251
     }
    ],
    "future": []
@@ -1487025,6 +1491138,45 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "16",
      "points": 321
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "02:38.27",
+     "seconds": 158.27,
+     "place": "25",
+     "points": 338
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:33.21",
+     "seconds": 33.21,
+     "place": "32",
+     "points": 324
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:46.07",
+     "seconds": 46.07,
+     "place": "19",
+     "points": 233
     }
    ],
    "future": []
@@ -1489252,6 +1493404,45 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "35",
      "points": 349
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "01:28.50",
+     "seconds": 88.5,
+     "place": "34",
+     "points": 241
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:37.35",
+     "seconds": 37.35,
+     "place": "39",
+     "points": 228
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "timeStr": "00:44.90",
+     "seconds": 44.9,
+     "place": "18",
+     "points": 252
     }
    ],
    "future": []
@@ -1503408,10 +1507599,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל גליל עליון",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:15.23",
+     "seconds": 75.23,
+     "place": "9",
+     "points": 370
     },
     {
      "date": "2026-10-16",
@@ -1503421,10 +1507612,10 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל גליל עליון",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "03:25.14",
+     "seconds": 205.14,
+     "place": "7",
+     "points": 269
     }
    ],
    "future": []
@@ -1528956,6 +1533147,45 @@ window.SWIM_DATA = {
      "seconds": 31.87,
      "place": "41",
      "points": 282
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "01:16.31",
+     "seconds": 76.31,
+     "place": "53",
+     "points": 269
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "00:28.81",
+     "seconds": 28.81,
+     "place": "42",
+     "points": 329
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "00:40.95",
+     "seconds": 40.95,
+     "place": "27",
+     "points": 226
     }
    ],
    "future": []
@@ -1559846,10 +1564076,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:07.94",
+     "seconds": 67.94,
+     "place": "14",
+     "points": 359
     },
     {
      "date": "2026-10-16",
@@ -1559859,10 +1564089,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:01.78",
+     "seconds": 61.78,
+     "place": "22",
+     "points": 382
     }
    ],
    "future": []
@@ -1593329,7 +1597559,8 @@ window.SWIM_DATA = {
    "displayName": "נטע בן חמו",
    "birthYear": 2012,
    "clubs": [
-    "הפועל פתח תקווה"
+    "הפועל פתח תקווה",
+    "מכבי קרית אונו"
    ],
    "past": [
     {
@@ -1593435,6 +1597666,32 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "1",
      "points": 174
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "01:29.61",
+     "seconds": 89.61,
+     "place": "37",
+     "points": 232
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "00:36.33",
+     "seconds": 36.33,
+     "place": "38",
+     "points": 248
     }
    ],
    "future": []
@@ -1625112,10 +1629369,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "הפועל קרית טבעון",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:06.64",
+     "seconds": 66.64,
+     "place": "13",
+     "points": 381
     },
     {
      "date": "2026-10-16",
@@ -1625125,10 +1629382,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "הפועל קרית טבעון",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:02.22",
+     "seconds": 62.22,
+     "place": "23",
+     "points": 374
     }
    ],
    "future": []
@@ -1639652,10 +1643909,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "00:56.34",
+     "seconds": 56.34,
+     "place": "7",
+     "points": 504
     },
     {
      "date": "2026-10-16",
@@ -1639665,10 +1643922,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:04.81",
+     "seconds": 64.81,
+     "place": "15",
+     "points": 439
     }
    ],
    "future": []
@@ -1682608,10 +1686865,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:14.00",
+     "seconds": 74.0,
+     "place": "37",
+     "points": 295
     },
     {
      "date": "2026-10-16",
@@ -1682621,10 +1686878,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "02:55.30",
+     "seconds": 175.3,
+     "place": "3",
+     "points": 322
     }
    ],
    "future": []
@@ -1706174,43 +1710431,6 @@ window.SWIM_DATA = {
    ],
    "future": []
   },
-  "2012|ג'ומעה·ניל": {
-   "id": "2012|ג'ומעה·ניל",
-   "displayName": "ניל ג'ומעה",
-   "birthYear": 2012,
-   "clubs": [
-    "מכבי חיפה"
-   ],
-   "past": [
-    {
-     "date": "2026-10-16",
-     "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
-     "compId": 15740,
-     "event": "100 גב",
-     "category": "גברים 15-99",
-     "poolLength": 25,
-     "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
-    },
-    {
-     "date": "2026-10-16",
-     "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
-     "compId": 15740,
-     "event": "100 חופשי",
-     "category": "גברים 15-99",
-     "poolLength": 25,
-     "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
-    }
-   ],
-   "future": []
-  },
   "2010|סמוטרוב·פטר": {
    "id": "2010|סמוטרוב·פטר",
    "displayName": "פטר סמוטרוב",
@@ -1706227,9 +1710447,46 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
+     "timeStr": "01:27.43",
+     "seconds": 87.43,
+     "place": "23",
+     "points": 168
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
+     "compId": 15740,
+     "event": "100 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי חיפה",
+     "timeStr": "01:15.58",
+     "seconds": 75.58,
+     "place": "30",
+     "points": 208
+    }
+   ],
+   "future": []
+  },
+  "2012|ג'ומעה·ניל": {
+   "id": "2012|ג'ומעה·ניל",
+   "displayName": "ניל ג'ומעה",
+   "birthYear": 2012,
+   "clubs": [
+    "מכבי חיפה"
+   ],
+   "past": [
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
+     "compId": 15740,
+     "event": "100 גב",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי חיפה",
+     "timeStr": "DQ / SW 6.4",
      "seconds": null,
-     "place": "1",
+     "place": "26",
      "points": 0
     },
     {
@@ -1706240,10 +1710497,47 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
+     "timeStr": "DNS",
      "seconds": null,
-     "place": "1",
+     "place": "31",
      "points": 0
+    }
+   ],
+   "future": []
+  },
+  "2014|אקופיאן·אריאל": {
+   "id": "2014|אקופיאן·אריאל",
+   "displayName": "אריאל אקופיאן",
+   "birthYear": 2014,
+   "clubs": [
+    "מכבי ראשון לציון SEALS"
+   ],
+   "past": [
+    {
+     "date": "2026-10-16",
+     "competition": "תחרות ליגה 1 - ראשון לציון - 16/10/2026",
+     "compId": 15739,
+     "event": "100 גב",
+     "category": "בנות 11-18",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "timeStr": "01:23.03",
+     "seconds": 83.03,
+     "place": "14",
+     "points": 275
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "תחרות ליגה 1 - ראשון לציון - 16/10/2026",
+     "compId": 15739,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-18",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "timeStr": "01:24.58",
+     "seconds": 84.58,
+     "place": "26",
+     "points": 276
     }
    ],
    "future": []
@@ -1706810,6 +1711104,56 @@ window.SWIM_DATA = {
      "seconds": 68.25,
      "place": "5",
      "points": 376
+    }
+   ],
+   "future": []
+  },
+  "2012|דותן·ליאור": {
+   "id": "2012|דותן·ליאור",
+   "displayName": "ליאור דותן",
+   "birthYear": 2012,
+   "clubs": [
+    "מכבי קרית אונו"
+   ],
+   "past": [
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "100 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "58",
+     "points": 0
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "02:27.63",
+     "seconds": 147.63,
+     "place": "45",
+     "points": 298
+    },
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "51",
+     "points": 0
     }
    ],
    "future": []
@@ -1708615,25 +1712959,63 @@ window.SWIM_DATA = {
     }
    ],
    "future": []
+  },
+  "2009|דניאל·ראובן": {
+   "id": "2009|דניאל·ראובן",
+   "displayName": "דניאל ראובן",
+   "birthYear": 2009,
+   "clubs": [
+    "מכבי קרית אונו"
+   ],
+   "past": [
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "timeStr": "00:30.20",
+     "seconds": 30.2,
+     "place": "47",
+     "points": 286
+    }
+   ],
+   "future": []
+  },
+  "2002|זיו·תמיר": {
+   "id": "2002|זיו·תמיר",
+   "displayName": "זיו תמיר",
+   "birthYear": 2002,
+   "clubs": [
+    "מכבי מרום רמת גן"
+   ],
+   "past": [
+    {
+     "date": "2026-10-16",
+     "competition": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
+     "compId": 15887,
+     "event": "50 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "timeStr": "00:31.36",
+     "seconds": 31.36,
+     "place": "4",
+     "points": 503
+    }
+   ],
+   "future": []
   }
  },
- "lastChecked": "2026-10-17 20:17",
- "newThisRun": 1049,
+ "lastChecked": "2026-10-18 20:17",
+ "newThisRun": 333,
  "newComps": [
   {
-   "name": "ליגה מס 1 קרית ביאליק - חורף 26 - 09/10/2026",
+   "name": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
    "date": "2026-10-16",
-   "count": 242
-  },
-  {
-   "name": "ליגה 1 שוהם - 16/10/2026",
-   "date": "2026-10-16",
-   "count": 368
-  },
-  {
-   "name": "תחרות ליגה 1 - ראשון לציון - 16/10/2026",
-   "date": "2026-10-16",
-   "count": 439
+   "count": 327
   }
  ]
 };
