@@ -1,6 +1,6 @@
 // Auto-generated from swim.db
 window.SWIM_DATA = {
- "generated": "2026-10-18",
+ "generated": "2026-10-19",
  "source": "isr.org.il  →  loglig.com  (SQLite backend)",
  "isSeedSample": false,
  "swimmerCount": 6436,
@@ -80555,7 +80555,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "timeStr": "02:36.18",
      "seconds": 156.18,
-     "place": "1",
+     "place": "6",
      "points": 455
     }
    ],
@@ -115794,10 +115794,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "8",
-     "points": 0
+     "timeStr": "02:20.56",
+     "seconds": 140.56,
+     "place": "1",
+     "points": 624
     }
    ],
    "future": []
@@ -119150,10 +119150,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "8",
-     "points": 0
+     "timeStr": "02:21.78",
+     "seconds": 141.78,
+     "place": "2",
+     "points": 608
     }
    ],
    "future": []
@@ -119993,10 +119993,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "8",
-     "points": 0
+     "timeStr": "02:31.46",
+     "seconds": 151.46,
+     "place": "3",
+     "points": 499
     }
    ],
    "future": []
@@ -121964,10 +121964,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "8",
-     "points": 0
+     "timeStr": "02:34.32",
+     "seconds": 154.32,
+     "place": "5",
+     "points": 472
     }
    ],
    "future": []
@@ -133310,10 +133310,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "8",
-     "points": 0
+     "timeStr": "02:49.73",
+     "seconds": 169.73,
+     "place": "10",
+     "points": 354
     }
    ],
    "future": []
@@ -373947,6 +373947,19 @@ window.SWIM_DATA = {
      "seconds": 76.2,
      "place": "12",
      "points": 421
+    },
+    {
+     "date": "2026-10-09",
+     "competition": "ליגה אזורית וייסגל - 09/10/2026",
+     "compId": 15738,
+     "event": "100 גב",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל דולפין נתניה",
+     "timeStr": "01:15.09",
+     "seconds": 75.09,
+     "place": "6",
+     "points": 372
     }
    ],
    "future": []
@@ -375071,7 +375084,7 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "timeStr": "01:26.72",
      "seconds": 86.72,
-     "place": "11",
+     "place": "12",
      "points": 241
     },
     {
@@ -572455,7 +572468,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "timeStr": "02:55.51",
      "seconds": 175.51,
-     "place": "4",
+     "place": "12",
      "points": 320
     }
    ],
@@ -604112,7 +604125,7 @@ window.SWIM_DATA = {
      "club": "הפועל ירושלים",
      "timeStr": "01:17.33",
      "seconds": 77.33,
-     "place": "7",
+     "place": "8",
      "points": 340
     },
     {
@@ -633556,10 +633569,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
+     "timeStr": "02:47.41",
+     "seconds": 167.41,
      "place": "8",
-     "points": 0
+     "points": 369
     }
    ],
    "future": []
@@ -653019,7 +653032,7 @@ window.SWIM_DATA = {
      "club": "מכבי וייסגל רחובות",
      "timeStr": "01:20.36",
      "seconds": 80.36,
-     "place": "8",
+     "place": "9",
      "points": 303
     },
     {
@@ -826796,7 +826809,7 @@ window.SWIM_DATA = {
      "club": "הפועל ירושלים",
      "timeStr": "01:21.42",
      "seconds": 81.42,
-     "place": "9",
+     "place": "10",
      "points": 292
     },
     {
@@ -843344,10 +843357,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "הפועל קרית טבעון",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "8",
-     "points": 0
+     "timeStr": "02:44.38",
+     "seconds": 164.38,
+     "place": "7",
+     "points": 390
     }
    ],
    "future": []
@@ -884336,10 +884349,10 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "8",
-     "points": 0
+     "timeStr": "02:32.22",
+     "seconds": 152.22,
+     "place": "4",
+     "points": 491
     }
    ],
    "future": []
@@ -1161259,7 +1161272,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "timeStr": "03:06.50",
      "seconds": 186.5,
-     "place": "6",
+     "place": "14",
      "points": 267
     },
     {
@@ -1161920,7 +1161933,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "timeStr": "03:15.86",
      "seconds": 195.86,
-     "place": "7",
+     "place": "15",
      "points": 230
     },
     {
@@ -1164577,7 +1164590,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "timeStr": "02:59.70",
      "seconds": 179.7,
-     "place": "5",
+     "place": "13",
      "points": 298
     }
    ],
@@ -1301477,7 +1301490,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "timeStr": "02:48.63",
      "seconds": 168.63,
-     "place": "2",
+     "place": "9",
      "points": 361
     }
    ],
@@ -1489203,7 +1489216,7 @@ window.SWIM_DATA = {
      "club": "הפועל ירושלים",
      "timeStr": "01:23.96",
      "seconds": 83.96,
-     "place": "10",
+     "place": "11",
      "points": 266
     },
     {
@@ -1686880,7 +1686893,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "timeStr": "02:55.30",
      "seconds": 175.3,
-     "place": "3",
+     "place": "11",
      "points": 322
     }
    ],
@@ -1708857,7 +1708870,7 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "timeStr": "01:17.02",
      "seconds": 77.02,
-     "place": "6",
+     "place": "7",
      "points": 345
     },
     {
@@ -1713009,13 +1713022,7 @@ window.SWIM_DATA = {
    "future": []
   }
  },
- "lastChecked": "2026-10-18 20:17",
- "newThisRun": 333,
- "newComps": [
-  {
-   "name": "ליגה נוער ובוגרים 1 פ\"ת - 16/10/2026",
-   "date": "2026-10-16",
-   "count": 327
-  }
- ]
+ "lastChecked": "2026-10-19 22:15",
+ "newThisRun": 1,
+ "newComps": []
 };
