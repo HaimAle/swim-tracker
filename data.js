@@ -1,9 +1,9 @@
 // Auto-generated from swim.db
 window.SWIM_DATA = {
- "generated": "2026-10-25",
+ "generated": "2026-10-26",
  "source": "isr.org.il  →  loglig.com  (SQLite backend)",
  "isSeedSample": false,
- "swimmerCount": 6445,
+ "swimmerCount": 6508,
  "swimmers": {
   "2006|יבגניה·קליימן": {
    "id": "2006|יבגניה·קליימן",
@@ -285756,7 +285756,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "timeStr": "02:06.10",
      "seconds": 126.1,
-     "place": "5",
+     "place": "4",
      "points": 669
     },
     {
@@ -286921,7 +286921,7 @@ window.SWIM_DATA = {
      "club": "מכבי א.ס. רמת השרון",
      "timeStr": "00:29.11",
      "seconds": 29.11,
-     "place": "53",
+     "place": "54",
      "points": 319
     }
    ],
@@ -287608,7 +287608,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:28.05",
      "seconds": 28.05,
-     "place": "45",
+     "place": "46",
      "points": 357
     },
     {
@@ -306440,7 +306440,8 @@ window.SWIM_DATA = {
    "clubs": [
     "מכבי כוכב יאיר - צור יגאל",
     "הפועל עירוני הוד השרון",
-    "אלומה עירוני הוד השרון"
+    "אלומה עירוני הוד השרון",
+    "ע.ל.ה עצמה רעננה"
    ],
    "past": [
     {
@@ -306704,7 +306705,22 @@ window.SWIM_DATA = {
      "points": 264
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "ע.ל.ה עצמה רעננה",
+     "startTime": "00:00",
+     "heat": "15",
+     "lane": "5",
+     "seedStr": "00:35.92",
+     "seedSeconds": 35.92
+    }
+   ]
   },
   "2010|מחמוד·עתאמנה": {
    "id": "2010|מחמוד·עתאמנה",
@@ -314747,7 +314763,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:29.83",
      "seconds": 29.83,
-     "place": "59",
+     "place": "60",
      "points": 296
     },
     {
@@ -318078,7 +318094,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:28.71",
      "seconds": 28.71,
-     "place": "50",
+     "place": "51",
      "points": 333
     },
     {
@@ -322789,7 +322805,7 @@ window.SWIM_DATA = {
      "club": "מכבי כוכב יאיר - צור יגאל",
      "timeStr": "00:28.58",
      "seconds": 28.58,
-     "place": "49",
+     "place": "50",
      "points": 337
     }
    ],
@@ -392621,7 +392637,7 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "timeStr": "00:27.85",
      "seconds": 27.85,
-     "place": "43",
+     "place": "44",
      "points": 364
     },
     {
@@ -455902,7 +455918,22 @@ window.SWIM_DATA = {
      "points": 323
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "startTime": "00:00",
+     "heat": "17",
+     "lane": "3",
+     "seedStr": "00:28.98",
+     "seedSeconds": 28.98
+    }
+   ]
   },
   "2013|בארי·לרר": {
    "id": "2013|בארי·לרר",
@@ -460151,7 +460182,22 @@ window.SWIM_DATA = {
      "points": 224
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "startTime": "00:00",
+     "heat": "19",
+     "lane": "6",
+     "seedStr": "00:34.07",
+     "seedSeconds": 34.07
+    }
+   ]
   },
   "2014|דניאל·חבקין": {
    "id": "2014|דניאל·חבקין",
@@ -461601,7 +461647,22 @@ window.SWIM_DATA = {
      "points": 202
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "startTime": "00:00",
+     "heat": "17",
+     "lane": "1",
+     "seedStr": "00:33.88",
+     "seedSeconds": 33.88
+    }
+   ]
   },
   "2012|איתמר·לוי": {
    "id": "2012|איתמר·לוי",
@@ -462712,7 +462773,22 @@ window.SWIM_DATA = {
      "points": 174
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "startTime": "00:00",
+     "heat": "15",
+     "lane": "1",
+     "seedStr": "00:36.12",
+     "seedSeconds": 36.12
+    }
+   ]
   },
   "2015|בויצ'וק·ניר": {
    "id": "2015|בויצ'וק·ניר",
@@ -464759,7 +464835,22 @@ window.SWIM_DATA = {
      "points": 180
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "startTime": "00:00",
+     "heat": "15",
+     "lane": "3",
+     "seedStr": "00:35.20",
+     "seedSeconds": 35.2
+    }
+   ]
   },
   "2015|אלמוג·דן": {
    "id": "2015|אלמוג·דן",
@@ -466546,7 +466637,22 @@ window.SWIM_DATA = {
      "points": 141
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "startTime": "00:00",
+     "heat": "10",
+     "lane": "4",
+     "seedStr": "00:42.11",
+     "seedSeconds": 42.11
+    }
+   ]
   },
   "2015|אדם·דניאל·ויזן": {
    "id": "2015|אדם·דניאל·ויזן",
@@ -467840,7 +467946,22 @@ window.SWIM_DATA = {
      "points": 169
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "startTime": "00:00",
+     "heat": "14",
+     "lane": "5",
+     "seedStr": "00:36.64",
+     "seedSeconds": 36.64
+    }
+   ]
   },
   "2015|הירשטיין·עמית": {
    "id": "2015|הירשטיין·עמית",
@@ -468915,7 +469036,22 @@ window.SWIM_DATA = {
      "points": 137
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "startTime": "00:00",
+     "heat": "11",
+     "lane": "4",
+     "seedStr": "00:40.63",
+     "seedSeconds": 40.63
+    }
+   ]
   },
   "2015|איתמר·וייל·שפירר": {
    "id": "2015|איתמר·וייל·שפירר",
@@ -470727,7 +470863,22 @@ window.SWIM_DATA = {
      "points": 249
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "startTime": "00:00",
+     "heat": "18",
+     "lane": "5",
+     "seedStr": "00:31.62",
+     "seedSeconds": 31.62
+    }
+   ]
   },
   "2012|דידזיאוקאס·דניאל": {
    "id": "2012|דידזיאוקאס·דניאל",
@@ -487052,7 +487203,7 @@ window.SWIM_DATA = {
      "club": "הפועל אולימפ נתניה",
      "timeStr": "02:15.16",
      "seconds": 135.16,
-     "place": "10",
+     "place": "9",
      "points": 543
     },
     {
@@ -521175,7 +521326,22 @@ window.SWIM_DATA = {
      "points": 310
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "startTime": "00:00",
+     "heat": "18",
+     "lane": "4",
+     "seedStr": "00:29.38",
+     "seedSeconds": 29.38
+    }
+   ]
   },
   "2013|גלעד·ישראל": {
    "id": "2013|גלעד·ישראל",
@@ -522092,7 +522258,22 @@ window.SWIM_DATA = {
      "points": 294
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "startTime": "00:00",
+     "heat": "19",
+     "lane": "2",
+     "seedStr": "00:29.90",
+     "seedSeconds": 29.9
+    }
+   ]
   },
   "2013|אופיר·יואב": {
    "id": "2013|אופיר·יואב",
@@ -522959,7 +523140,22 @@ window.SWIM_DATA = {
      "points": 326
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "startTime": "00:00",
+     "heat": "18",
+     "lane": "3",
+     "seedStr": "00:28.90",
+     "seedSeconds": 28.9
+    }
+   ]
   },
   "2013|איל·פורת": {
    "id": "2013|איל·פורת",
@@ -524993,7 +525189,22 @@ window.SWIM_DATA = {
      "points": 193
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "startTime": "00:00",
+     "heat": "19",
+     "lane": "4",
+     "seedStr": "00:29.20",
+     "seedSeconds": 29.2
+    }
+   ]
   },
   "2013|רואי·שחר": {
    "id": "2013|רואי·שחר",
@@ -526405,7 +526616,22 @@ window.SWIM_DATA = {
      "points": 197
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "startTime": "00:00",
+     "heat": "17",
+     "lane": "6",
+     "seedStr": "00:34.20",
+     "seedSeconds": 34.2
+    }
+   ]
   },
   "2014|דרי·יואב": {
    "id": "2014|דרי·יואב",
@@ -534250,7 +534476,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "startTime": "00:00",
+     "heat": "15",
+     "lane": "2",
+     "seedStr": "00:35.84",
+     "seedSeconds": 35.84
+    }
+   ]
   },
   "2013|דניס·ירמנקו": {
    "id": "2013|דניס·ירמנקו",
@@ -535012,7 +535253,22 @@ window.SWIM_DATA = {
      "points": 143
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "startTime": "00:00",
+     "heat": "13",
+     "lane": "1",
+     "seedStr": "00:37.97",
+     "seedSeconds": 37.97
+    }
+   ]
   },
   "2013|יותם·מישר": {
    "id": "2013|יותם·מישר",
@@ -536710,7 +536966,22 @@ window.SWIM_DATA = {
      "points": 195
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "startTime": "00:00",
+     "heat": "16",
+     "lane": "4",
+     "seedStr": "00:34.29",
+     "seedSeconds": 34.29
+    }
+   ]
   },
   "2013|אורון·שירה": {
    "id": "2013|אורון·שירה",
@@ -543411,7 +543682,7 @@ window.SWIM_DATA = {
      "club": "מתנ\"ס רמת הנגב",
      "timeStr": "NS",
      "seconds": null,
-     "place": "66",
+     "place": "67",
      "points": 0
     },
     {
@@ -549045,10 +549316,10 @@ window.SWIM_DATA = {
      "category": "בנים 15-16",
      "poolLength": 25,
      "club": "הפועל עומר",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "66",
-     "points": 0
+     "timeStr": "00:27.84",
+     "seconds": 27.84,
+     "place": "42",
+     "points": 365
     },
     {
      "date": "2026-10-23",
@@ -559817,7 +560088,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "timeStr": "02:07.10",
      "seconds": 127.1,
-     "place": "6",
+     "place": "5",
      "points": 653
     }
    ],
@@ -562092,7 +562363,36 @@ window.SWIM_DATA = {
      "points": 400
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 פרפר",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "01:16.46",
+     "seedSeconds": 76.46
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "4",
+     "seedStr": "01:18.32",
+     "seedSeconds": 78.32
+    }
+   ]
   },
   "2010|גלי·פרנקל": {
    "id": "2010|גלי·פרנקל",
@@ -564043,7 +564343,36 @@ window.SWIM_DATA = {
      "points": 314
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "01:26.14",
+     "seedSeconds": 86.14
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "1",
+     "seedStr": "01:23.20",
+     "seedSeconds": 83.2
+    }
+   ]
   },
   "2011|כהן·רוני·שחר": {
    "id": "2011|כהן·רוני·שחר",
@@ -564403,7 +564732,36 @@ window.SWIM_DATA = {
      "points": 304
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "5",
+     "seedStr": "01:24.92",
+     "seedSeconds": 84.92
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "4",
+     "seedStr": "01:30.75",
+     "seedSeconds": 90.75
+    }
+   ]
   },
   "2008|דראושה·למיס": {
    "id": "2008|דראושה·למיס",
@@ -573382,7 +573740,36 @@ window.SWIM_DATA = {
      "points": 285
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "10",
+     "lane": "4",
+     "seedStr": "00:35.10",
+     "seedSeconds": 35.1
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "5",
+     "seedStr": "01:36.85",
+     "seedSeconds": 96.85
+    }
+   ]
   },
   "2013|בר·נינה·ניר": {
    "id": "2013|בר·נינה·ניר",
@@ -575465,7 +575852,36 @@ window.SWIM_DATA = {
      "points": 209
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "1",
+     "seedStr": "00:39.07",
+     "seedSeconds": 39.07
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "01:39.76",
+     "seedSeconds": 99.76
+    }
+   ]
   },
   "2014|אלירון·הודיה·יהב": {
    "id": "2014|אלירון·הודיה·יהב",
@@ -576083,7 +576499,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "1",
+     "seedStr": "00:40.03",
+     "seedSeconds": 40.03
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|כרמון·מאיה": {
    "id": "2014|כרמון·מאיה",
@@ -577775,7 +578220,36 @@ window.SWIM_DATA = {
      "points": 298
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "10",
+     "lane": "3",
+     "seedStr": "00:34.74",
+     "seedSeconds": 34.74
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "5",
+     "seedStr": "01:32.62",
+     "seedSeconds": 92.62
+    }
+   ]
   },
   "2015|אבו·אסיל·ליל": {
    "id": "2015|אבו·אסיל·ליל",
@@ -578163,7 +578637,36 @@ window.SWIM_DATA = {
      "points": 244
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "5",
+     "seedStr": "00:39.88",
+     "seedSeconds": 39.88
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 פרפר",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2012|רגד·שתייוי": {
    "id": "2012|רגד·שתייוי",
@@ -578239,7 +578742,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "00:50.57",
+     "seedSeconds": 50.57
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|ג'השאן·לארא": {
    "id": "2015|ג'השאן·לארא",
@@ -582079,7 +582611,36 @@ window.SWIM_DATA = {
      "points": 403
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "3",
+     "seedStr": "01:06.03",
+     "seedSeconds": 66.03
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "00:00",
+     "heat": "10",
+     "lane": "3",
+     "seedStr": "01:07.28",
+     "seedSeconds": 67.28
+    }
+   ]
   },
   "2012|בן·שלו": {
    "id": "2012|בן·שלו",
@@ -585226,7 +585787,36 @@ window.SWIM_DATA = {
      "points": 337
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "5",
+     "seedStr": "01:14.78",
+     "seedSeconds": 74.78
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "10",
+     "lane": "5",
+     "seedStr": "01:20.54",
+     "seedSeconds": 80.54
+    }
+   ]
   },
   "2011|גלינר·קורן": {
    "id": "2011|גלינר·קורן",
@@ -589142,7 +589732,36 @@ window.SWIM_DATA = {
      "points": 400
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "4",
+     "seedStr": "01:09.92",
+     "seedSeconds": 69.92
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "3",
+     "seedStr": "01:28.73",
+     "seedSeconds": 88.73
+    }
+   ]
   },
   "2013|אפרטין·דניאל": {
    "id": "2013|אפרטין·דניאל",
@@ -593263,7 +593882,36 @@ window.SWIM_DATA = {
      "points": 249
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל בית איל",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "3",
+     "seedStr": "01:21.05",
+     "seedSeconds": 81.05
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל בית איל",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "4",
+     "seedStr": "01:24.45",
+     "seedSeconds": 84.45
+    }
+   ]
   },
   "2010|אמיר·פאר": {
    "id": "2010|אמיר·פאר",
@@ -597602,7 +598250,36 @@ window.SWIM_DATA = {
      "points": 259
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "4",
+     "seedStr": "01:23.40",
+     "seedSeconds": 83.4
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "1",
+     "seedStr": "01:42.71",
+     "seedSeconds": 102.71
+    }
+   ]
   },
   "2013|נטרוב·פיודור": {
    "id": "2013|נטרוב·פיודור",
@@ -602218,7 +602895,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "16",
+     "lane": "2",
+     "seedStr": "00:33.93",
+     "seedSeconds": 33.93
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|אידלסון·דניאל": {
    "id": "2013|אידלסון·דניאל",
@@ -609769,7 +610475,36 @@ window.SWIM_DATA = {
      "points": 130
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל גליל עליון",
+     "startTime": "00:00",
+     "heat": "10",
+     "lane": "5",
+     "seedStr": "00:43.31",
+     "seedSeconds": 43.31
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל גליל עליון",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "5",
+     "seedStr": "01:41.26",
+     "seedSeconds": 101.26
+    }
+   ]
   },
   "2015|אסף·אשכנזי·בלוך": {
    "id": "2015|אסף·אשכנזי·בלוך",
@@ -622212,7 +622947,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל גליל עליון",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "01:23.03",
+     "seedSeconds": 83.03
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 פרפר",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל גליל עליון",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "01:18.05",
+     "seedSeconds": 78.05
+    }
+   ]
   },
   "2012|אמה·ברנשטיין": {
    "id": "2012|אמה·ברנשטיין",
@@ -626240,7 +627004,36 @@ window.SWIM_DATA = {
      "points": 408
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "12",
+     "lane": "4",
+     "seedStr": "00:30.81",
+     "seedSeconds": 30.81
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "2",
+     "seedStr": "01:36.08",
+     "seedSeconds": 96.08
+    }
+   ]
   },
   "2013|ניבה·קוט": {
    "id": "2013|ניבה·קוט",
@@ -627040,7 +627833,36 @@ window.SWIM_DATA = {
      "points": 414
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "11",
+     "lane": "3",
+     "seedStr": "00:32.71",
+     "seedSeconds": 32.71
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|לין·סלימאן": {
    "id": "2013|לין·סלימאן",
@@ -628707,7 +629529,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "timeStr": "02:17.95",
      "seconds": 137.95,
-     "place": "16",
+     "place": "15",
      "points": 511
     },
     {
@@ -632471,7 +633293,36 @@ window.SWIM_DATA = {
      "points": 245
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "3",
+     "seedStr": "00:36.05",
+     "seedSeconds": 36.05
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "5",
+     "seedStr": "01:29.19",
+     "seedSeconds": 89.19
+    }
+   ]
   },
   "2013|דראושה·קנאר·שריף": {
    "id": "2013|דראושה·קנאר·שריף",
@@ -632794,7 +633645,36 @@ window.SWIM_DATA = {
      "points": 314
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "01:25.82",
+     "seedSeconds": 85.82
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "3",
+     "seedStr": "01:35.25",
+     "seedSeconds": 95.25
+    }
+   ]
   },
   "2015|איילה·קרמר": {
    "id": "2015|איילה·קרמר",
@@ -634190,7 +635070,36 @@ window.SWIM_DATA = {
      "points": 263
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 פרפר",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "01:27.90",
+     "seedSeconds": 87.9
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "1",
+     "seedStr": "01:29.21",
+     "seedSeconds": 89.21
+    }
+   ]
   },
   "2013|יעקובוביץ·מאיה": {
    "id": "2013|יעקובוביץ·מאיה",
@@ -644223,7 +645132,36 @@ window.SWIM_DATA = {
      "points": 278
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "10",
+     "lane": "4",
+     "seedStr": "01:16.51",
+     "seedSeconds": 76.51
+    }
+   ]
   },
   "2012|גל·שרעבי": {
    "id": "2012|גל·שרעבי",
@@ -650297,7 +651235,36 @@ window.SWIM_DATA = {
      "points": 227
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "00:00",
+     "heat": "16",
+     "lane": "4",
+     "seedStr": "00:33.44",
+     "seedSeconds": 33.44
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "4",
+     "seedStr": "01:29.40",
+     "seedSeconds": 89.4
+    }
+   ]
   },
   "2014|אור·בן·קינן": {
    "id": "2014|אור·בן·קינן",
@@ -652329,7 +653296,36 @@ window.SWIM_DATA = {
      "points": 176
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל בית איל",
+     "startTime": "00:00",
+     "heat": "13",
+     "lane": "4",
+     "seedStr": "00:38.19",
+     "seedSeconds": 38.19
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל בית איל",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|אבן·אמיתי·דנן": {
    "id": "2015|אבן·אמיתי·דנן",
@@ -652613,7 +653609,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל גליל עליון",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "2",
+     "seedStr": "00:56.61",
+     "seedSeconds": 56.61
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל גליל עליון",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "3",
+     "seedStr": "01:42.82",
+     "seedSeconds": 102.82
+    }
+   ]
   },
   "2013|אבו·נזיה·ניל·ריא": {
    "id": "2013|אבו·נזיה·ניל·ריא",
@@ -662579,7 +663604,7 @@ window.SWIM_DATA = {
      "club": "מכבי וייסגל רחובות",
      "timeStr": "02:13.87",
      "seconds": 133.87,
-     "place": "8",
+     "place": "7",
      "points": 559
     },
     {
@@ -688538,7 +689563,7 @@ window.SWIM_DATA = {
      "club": "מכבי וייסגל רחובות",
      "timeStr": "00:27.95",
      "seconds": 27.95,
-     "place": "44",
+     "place": "45",
      "points": 360
     }
    ],
@@ -694843,7 +695868,22 @@ window.SWIM_DATA = {
      "points": 297
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "startTime": "00:00",
+     "heat": "17",
+     "lane": "5",
+     "seedStr": "00:31.69",
+     "seedSeconds": 31.69
+    }
+   ]
   },
   "2014|אסף·ליבוביץ": {
    "id": "2014|אסף·ליבוביץ",
@@ -714436,7 +715476,36 @@ window.SWIM_DATA = {
      "points": 307
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל בית איל",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "01:24.76",
+     "seedSeconds": 84.76
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל בית איל",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "4",
+     "seedStr": "01:25.80",
+     "seedSeconds": 85.8
+    }
+   ]
   },
   "2012|אור·גפן": {
    "id": "2012|אור·גפן",
@@ -714967,7 +716036,36 @@ window.SWIM_DATA = {
      "points": 281
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל בית איל",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "2",
+     "seedStr": "00:36.64",
+     "seedSeconds": 36.64
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 פרפר",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל בית איל",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "01:28.75",
+     "seedSeconds": 88.75
+    }
+   ]
   },
   "2011|חוסין·עלאא·תולין": {
    "id": "2011|חוסין·עלאא·תולין",
@@ -716401,7 +717499,36 @@ window.SWIM_DATA = {
      "points": 443
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "17",
+     "lane": "3",
+     "seedStr": "00:28.70",
+     "seedSeconds": 28.7
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "2",
+     "seedStr": "01:14.53",
+     "seedSeconds": 74.53
+    }
+   ]
   },
   "2009|חליל·כמאל·עלי": {
    "id": "2009|חליל·כמאל·עלי",
@@ -734671,7 +735798,36 @@ window.SWIM_DATA = {
      "points": 470
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 פרפר",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "01:09.39",
+     "seedSeconds": 69.39
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "5",
+     "seedStr": "01:25.45",
+     "seedSeconds": 85.45
+    }
+   ]
   },
   "2011|איתן·חורץ·לוינסון": {
    "id": "2011|איתן·חורץ·לוינסון",
@@ -767125,7 +768281,36 @@ window.SWIM_DATA = {
      "points": 261
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי רמת הגולן",
+     "startTime": "00:00",
+     "heat": "10",
+     "lane": "5",
+     "seedStr": "00:35.20",
+     "seedSeconds": 35.2
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי רמת הגולן",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2011|עואד·תוליב": {
    "id": "2011|עואד·תוליב",
@@ -767383,7 +768568,36 @@ window.SWIM_DATA = {
      "points": 266
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי רמת הגולן",
+     "startTime": "00:00",
+     "heat": "10",
+     "lane": "1",
+     "seedStr": "00:35.25",
+     "seedSeconds": 35.25
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי רמת הגולן",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2011|אבו·סאלח·סירין": {
    "id": "2011|אבו·סאלח·סירין",
@@ -767641,7 +768855,36 @@ window.SWIM_DATA = {
      "points": 283
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי רמת הגולן",
+     "startTime": "00:00",
+     "heat": "11",
+     "lane": "1",
+     "seedStr": "00:34.72",
+     "seedSeconds": 34.72
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי רמת הגולן",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2012|משאש·עמליה": {
    "id": "2012|משאש·עמליה",
@@ -768291,7 +769534,36 @@ window.SWIM_DATA = {
      "points": 183
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי רמת הגולן",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "3",
+     "seedStr": "00:40.20",
+     "seedSeconds": 40.2
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי רמת הגולן",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "01:41.54",
+     "seedSeconds": 101.54
+    }
+   ]
   },
   "2015|וייסהאוט·ליהיא": {
    "id": "2015|וייסהאוט·ליהיא",
@@ -768690,7 +769962,22 @@ window.SWIM_DATA = {
      "points": 182
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי רמת הגולן",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "5",
+     "seedStr": "00:38.19",
+     "seedSeconds": 38.19
+    }
+   ]
   },
   "1978|דיקלה·לגיסמו": {
    "id": "1978|דיקלה·לגיסמו",
@@ -768881,7 +770168,22 @@ window.SWIM_DATA = {
      "points": 160
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי רמת הגולן",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "1",
+     "seedStr": "00:42.01",
+     "seedSeconds": 42.01
+    }
+   ]
   },
   "2015|אל·ולי·טליה·עבד": {
    "id": "2015|אל·ולי·טליה·עבד",
@@ -769161,7 +770463,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי רמת הגולן",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "2",
+     "seedStr": "00:41.04",
+     "seedSeconds": 41.04
+    }
+   ]
   },
   "2015|בטחיש·ריטה": {
    "id": "2015|בטחיש·ריטה",
@@ -770196,7 +771513,22 @@ window.SWIM_DATA = {
      "points": 171
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי רמת הגולן",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "5",
+     "seedStr": "00:41.09",
+     "seedSeconds": 41.09
+    }
+   ]
   },
   "2010|אבינעם·גבאי·יצחק": {
    "id": "2010|אבינעם·גבאי·יצחק",
@@ -772774,7 +774106,36 @@ window.SWIM_DATA = {
      "points": 227
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "15",
+     "lane": "4",
+     "seedStr": "00:35.50",
+     "seedSeconds": 35.5
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "4",
+     "seedStr": "01:37.56",
+     "seedSeconds": 97.56
+    }
+   ]
   },
   "2010|אבו·אמיר·עראר": {
    "id": "2010|אבו·אמיר·עראר",
@@ -773028,7 +774389,22 @@ window.SWIM_DATA = {
      "points": 130
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי רמת הגולן",
+     "startTime": "00:00",
+     "heat": "12",
+     "lane": "4",
+     "seedStr": "00:39.28",
+     "seedSeconds": 39.28
+    }
+   ]
   },
   "2014|אליס·דניאל": {
    "id": "2014|אליס·דניאל",
@@ -773376,7 +774752,22 @@ window.SWIM_DATA = {
      "points": 135
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי רמת הגולן",
+     "startTime": "00:00",
+     "heat": "12",
+     "lane": "3",
+     "seedStr": "00:38.70",
+     "seedSeconds": 38.7
+    }
+   ]
   },
   "2015|בורוליה·דניאל": {
    "id": "2015|בורוליה·דניאל",
@@ -774764,7 +776155,22 @@ window.SWIM_DATA = {
      "points": 72
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי רמת הגולן",
+     "startTime": "00:00",
+     "heat": "10",
+     "lane": "3",
+     "seedStr": "00:41.77",
+     "seedSeconds": 41.77
+    }
+   ]
   },
   "2013|אלולי·מארסיל": {
    "id": "2013|אלולי·מארסיל",
@@ -774879,7 +776285,22 @@ window.SWIM_DATA = {
      "points": 142
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי רמת הגולן",
+     "startTime": "00:00",
+     "heat": "14",
+     "lane": "1",
+     "seedStr": "00:38.14",
+     "seedSeconds": 38.14
+    }
+   ]
   },
   "2013|מסעוד·קוסאי": {
    "id": "2013|מסעוד·קוסאי",
@@ -782400,10 +783821,10 @@ window.SWIM_DATA = {
      "category": "בנות 14-15",
      "poolLength": 25,
      "club": "הפועל עירוני מודיעין",
-     "timeStr": "01:57.16",
-     "seconds": 117.16,
-     "place": "3",
-     "points": 834
+     "timeStr": "02:18.78",
+     "seconds": 138.78,
+     "place": "17",
+     "points": 502
     },
     {
      "date": "2026-10-23",
@@ -790097,7 +791518,7 @@ window.SWIM_DATA = {
      "club": "מכבי א.ס. רמת השרון",
      "timeStr": "00:30.30",
      "seconds": 30.3,
-     "place": "61",
+     "place": "62",
      "points": 283
     }
    ],
@@ -816597,7 +818018,22 @@ window.SWIM_DATA = {
      "points": 446
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "ע.ל.ה עצמה רעננה",
+     "startTime": "00:00",
+     "heat": "17",
+     "lane": "4",
+     "seedStr": "00:29.58",
+     "seedSeconds": 29.58
+    }
+   ]
   },
   "2012|אוטוננקו·ניקיטה": {
    "id": "2012|אוטוננקו·ניקיטה",
@@ -817137,7 +818573,7 @@ window.SWIM_DATA = {
      "club": "מכבי ראשון לציון SEALS",
      "timeStr": "00:29.33",
      "seconds": 29.33,
-     "place": "55",
+     "place": "56",
      "points": 312
     }
    ],
@@ -830443,7 +831879,22 @@ window.SWIM_DATA = {
      "points": 212
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "ע.ל.ה עצמה רעננה",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "4",
+     "seedStr": "00:48.59",
+     "seedSeconds": 48.59
+    }
+   ]
   },
   "2015|איליי·גיא·קופרשטיין": {
    "id": "2015|איליי·גיא·קופרשטיין",
@@ -832088,7 +833539,22 @@ window.SWIM_DATA = {
      "points": 187
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "ע.ל.ה עצמה רעננה",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "1",
+     "seedStr": "00:46.82",
+     "seedSeconds": 46.82
+    }
+   ]
   },
   "2015|לביא·עמר": {
    "id": "2015|לביא·עמר",
@@ -843192,7 +844658,7 @@ window.SWIM_DATA = {
      "club": "הפועל ירושלים",
      "timeStr": "02:17.61",
      "seconds": 137.61,
-     "place": "15",
+     "place": "14",
      "points": 515
     }
    ],
@@ -877930,7 +879396,7 @@ window.SWIM_DATA = {
      "club": "מכבי פ.מ. רעות",
      "timeStr": "02:13.86",
      "seconds": 133.86,
-     "place": "7",
+     "place": "6",
      "points": 559
     }
    ],
@@ -879943,6 +881409,19 @@ window.SWIM_DATA = {
      "points": 308
     },
     {
+     "date": "2026-10-22",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "100 מעורב אישי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "1",
+     "points": 0
+    },
+    {
      "date": "2026-10-23",
      "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
      "compId": 15875,
@@ -881122,6 +882601,19 @@ window.SWIM_DATA = {
      "points": 0
     },
     {
+     "date": "2026-10-22",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "100 מעורב אישי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "1",
+     "points": 0
+    },
+    {
      "date": "2026-10-23",
      "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
      "compId": 15875,
@@ -881937,6 +883429,19 @@ window.SWIM_DATA = {
      "seconds": 34.46,
      "place": "12",
      "points": 290
+    },
+    {
+     "date": "2026-10-22",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "100 מעורב אישי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "1",
+     "points": 0
     }
    ],
    "future": []
@@ -883179,9 +884684,37 @@ window.SWIM_DATA = {
      "seconds": 34.91,
      "place": "13",
      "points": 279
+    },
+    {
+     "date": "2026-10-22",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "100 מעורב אישי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "1",
+     "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חזה",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "16:42",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "00:41.70",
+     "seedSeconds": 41.7
+    }
+   ]
   },
   "2013|מושקוביץ·רננה": {
    "id": "2013|מושקוביץ·רננה",
@@ -883955,9 +885488,37 @@ window.SWIM_DATA = {
      "seconds": 38.84,
      "place": "20",
      "points": 203
+    },
+    {
+     "date": "2026-10-22",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "100 מעורב אישי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "1",
+     "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חזה",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "16:42",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "00:52.73",
+     "seedSeconds": 52.73
+    }
+   ]
   },
   "2013|אבן-חן·נויבואר·עדי": {
    "id": "2013|אבן-חן·נויבואר·עדי",
@@ -884590,9 +886151,37 @@ window.SWIM_DATA = {
      "seconds": 35.94,
      "place": "16",
      "points": 256
+    },
+    {
+     "date": "2026-10-22",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "100 מעורב אישי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "1",
+     "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "16:33",
+     "heat": "4",
+     "lane": "6",
+     "seedStr": "00:35.28",
+     "seedSeconds": 35.28
+    }
+   ]
   },
   "2007|גולדשמיד·קטי": {
    "id": "2007|גולדשמיד·קטי",
@@ -885420,7 +887009,22 @@ window.SWIM_DATA = {
      "points": 360
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:33",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "00:32.08",
+     "seedSeconds": 32.08
+    }
+   ]
   },
   "2008|ביבי·ישי": {
    "id": "2008|ביבי·ישי",
@@ -892321,6 +893925,19 @@ window.SWIM_DATA = {
      "points": 340
     },
     {
+     "date": "2026-10-22",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "100 מעורב אישי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "1",
+     "points": 0
+    },
+    {
      "date": "2026-10-23",
      "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
      "compId": 15875,
@@ -893223,6 +894840,19 @@ window.SWIM_DATA = {
      "seconds": 30.64,
      "place": "8",
      "points": 273
+    },
+    {
+     "date": "2026-10-22",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "100 מעורב אישי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "1",
+     "points": 0
     }
    ],
    "future": []
@@ -893676,9 +895306,37 @@ window.SWIM_DATA = {
      "seconds": 38.64,
      "place": "22",
      "points": 136
+    },
+    {
+     "date": "2026-10-22",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "100 מעורב אישי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "1",
+     "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חזה",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "16:43",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "00:52.02",
+     "seedSeconds": 52.02
+    }
+   ]
   },
   "2015|בנימין·פיליפ·רוייטמן": {
    "id": "2015|בנימין·פיליפ·רוייטמן",
@@ -895126,9 +896784,37 @@ window.SWIM_DATA = {
      "seconds": 35.25,
      "place": "16",
      "points": 179
+    },
+    {
+     "date": "2026-10-22",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "100 מעורב אישי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "1",
+     "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "16:38",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "00:35.25",
+     "seedSeconds": 35.25
+    }
+   ]
   },
   "2015|נריה·סמרלי": {
    "id": "2015|נריה·סמרלי",
@@ -895529,7 +897215,22 @@ window.SWIM_DATA = {
      "points": 125
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "16:38",
+     "heat": "4",
+     "lane": "6",
+     "seedStr": "00:39.78",
+     "seedSeconds": 39.78
+    }
+   ]
   },
   "2009|ויינברג·מתתיהו": {
    "id": "2009|ויינברג·מתתיהו",
@@ -917601,7 +919302,7 @@ window.SWIM_DATA = {
      "club": "מכבי ראשון לציון SEALS",
      "timeStr": "00:29.64",
      "seconds": 29.64,
-     "place": "57",
+     "place": "58",
      "points": 302
     }
    ],
@@ -932855,7 +934556,22 @@ window.SWIM_DATA = {
      "points": 330
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "ע.ל.ה עצמה רעננה",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2010|אליסה·גורודצקי": {
    "id": "2010|אליסה·גורודצקי",
@@ -934395,7 +936111,7 @@ window.SWIM_DATA = {
      "club": "מכבי פ.מ. רעות",
      "timeStr": "02:17.49",
      "seconds": 137.49,
-     "place": "14",
+     "place": "13",
      "points": 516
     },
     {
@@ -936834,7 +938550,7 @@ window.SWIM_DATA = {
      "club": "מכבי פ.מ. רעות",
      "timeStr": "02:16.27",
      "seconds": 136.27,
-     "place": "12",
+     "place": "11",
      "points": 530
     },
     {
@@ -937655,6 +939371,19 @@ window.SWIM_DATA = {
      "points": 278
     },
     {
+     "date": "2026-10-22",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "100 מעורב אישי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "1",
+     "points": 0
+    },
+    {
      "date": "2026-10-23",
      "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
      "compId": 15875,
@@ -937681,7 +939410,22 @@ window.SWIM_DATA = {
      "points": 351
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "16:33",
+     "heat": "4",
+     "lane": "5",
+     "seedStr": "00:33.56",
+     "seedSeconds": 33.56
+    }
+   ]
   },
   "2014|בואי·דינה·נטלי": {
    "id": "2014|בואי·דינה·נטלי",
@@ -938236,9 +939980,37 @@ window.SWIM_DATA = {
      "seconds": 33.91,
      "place": "11",
      "points": 305
+    },
+    {
+     "date": "2026-10-22",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "100 מעורב אישי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "1",
+     "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "16:33",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "00:33.91",
+     "seedSeconds": 33.91
+    }
+   ]
   },
   "2015|אביגיל·לוי": {
    "id": "2015|אביגיל·לוי",
@@ -945565,7 +947337,7 @@ window.SWIM_DATA = {
      "club": "מכבי פ.מ. רעות",
      "timeStr": "00:29.18",
      "seconds": 29.18,
-     "place": "54",
+     "place": "55",
      "points": 317
     },
     {
@@ -967789,9 +969561,51 @@ window.SWIM_DATA = {
      "seconds": 36.99,
      "place": "19",
      "points": 235
+    },
+    {
+     "date": "2026-10-22",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "100 מעורב אישי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "1",
+     "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "16:32",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "00:36.57",
+     "seedSeconds": 36.57
+    },
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חזה",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "16:41",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "00:56.34",
+     "seedSeconds": 56.34
+    }
+   ]
   },
   "2015|חודורוב·נויה": {
    "id": "2015|חודורוב·נויה",
@@ -968406,9 +970220,37 @@ window.SWIM_DATA = {
      "seconds": 40.31,
      "place": "23",
      "points": 181
+    },
+    {
+     "date": "2026-10-22",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "100 מעורב אישי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "1",
+     "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חזה",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "16:41",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "00:55.94",
+     "seedSeconds": 55.94
+    }
+   ]
   },
   "2015|מאי·קוקנוב": {
    "id": "2015|מאי·קוקנוב",
@@ -985909,7 +987751,36 @@ window.SWIM_DATA = {
      "points": 368
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "16:33",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "00:31.58",
+     "seedSeconds": 31.58
+    },
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חזה",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "16:42",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "00:51.94",
+     "seedSeconds": 51.94
+    }
+   ]
   },
   "2012|בן·חיים·רוני": {
    "id": "2012|בן·חיים·רוני",
@@ -986606,7 +988477,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "timeStr": "02:18.63",
      "seconds": 138.63,
-     "place": "17",
+     "place": "16",
      "points": 503
     },
     {
@@ -1003132,7 +1005003,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "timeStr": "00:30.65",
      "seconds": 30.65,
-     "place": "64",
+     "place": "65",
      "points": 273
     }
    ],
@@ -1008857,7 +1010728,22 @@ window.SWIM_DATA = {
      "points": 739
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:34",
+     "heat": "5",
+     "lane": "2",
+     "seedStr": "00:25.70",
+     "seedSeconds": 25.7
+    }
+   ]
   },
   "2008|גרטופסקי·צוף": {
    "id": "2008|גרטופסקי·צוף",
@@ -1017579,7 +1019465,22 @@ window.SWIM_DATA = {
      "points": 380
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:34",
+     "heat": "5",
+     "lane": "6",
+     "seedStr": "00:29.75",
+     "seedSeconds": 29.75
+    }
+   ]
   },
   "2009|אדלמן·ניצן": {
    "id": "2009|אדלמן·ניצן",
@@ -1024982,7 +1026883,22 @@ window.SWIM_DATA = {
      "points": 778
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:40",
+     "heat": "6",
+     "lane": "3",
+     "seedStr": "00:22.32",
+     "seedSeconds": 22.32
+    }
+   ]
   },
   "2007|ארז·דרור": {
    "id": "2007|ארז·דרור",
@@ -1034200,7 +1036116,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:40",
+     "heat": "6",
+     "lane": "2",
+     "seedStr": "00:25.78",
+     "seedSeconds": 25.78
+    }
+   ]
   },
   "2009|גוטנר-הוך·נועם": {
    "id": "2009|גוטנר-הוך·נועם",
@@ -1044786,7 +1046717,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "timeStr": "00:28.84",
      "seconds": 28.84,
-     "place": "51",
+     "place": "52",
      "points": 328
     },
     {
@@ -1047154,7 +1049085,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "timeStr": "00:28.35",
      "seconds": 28.35,
-     "place": "46",
+     "place": "47",
      "points": 345
     },
     {
@@ -1056296,7 +1058227,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "timeStr": "02:15.30",
      "seconds": 135.3,
-     "place": "11",
+     "place": "10",
      "points": 541
     },
     {
@@ -1067141,7 +1069072,22 @@ window.SWIM_DATA = {
      "points": 407
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:40",
+     "heat": "6",
+     "lane": "1",
+     "seedStr": "00:26.84",
+     "seedSeconds": 26.84
+    }
+   ]
   },
   "2011|חיזגילוב·ניסון": {
    "id": "2011|חיזגילוב·ניסון",
@@ -1073941,7 +1075887,22 @@ window.SWIM_DATA = {
      "points": 512
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:40",
+     "heat": "6",
+     "lane": "4",
+     "seedStr": "00:24.69",
+     "seedSeconds": 24.69
+    }
+   ]
   },
   "2007|אלטרמן·זיו": {
    "id": "2007|אלטרמן·זיו",
@@ -1099831,7 +1101792,7 @@ window.SWIM_DATA = {
      "club": "מכבי תל אביב",
      "timeStr": "02:00.10",
      "seconds": 120.1,
-     "place": "4",
+     "place": "3",
      "points": 774
     }
    ],
@@ -1106749,7 +1108710,7 @@ window.SWIM_DATA = {
      "club": "מכבי א.ס. רמת השרון",
      "timeStr": "00:29.79",
      "seconds": 29.79,
-     "place": "58",
+     "place": "59",
      "points": 298
     },
     {
@@ -1107177,7 +1109138,7 @@ window.SWIM_DATA = {
      "club": "מכבי א.ס. רמת השרון",
      "timeStr": "00:29.10",
      "seconds": 29.1,
-     "place": "52",
+     "place": "53",
      "points": 319
     },
     {
@@ -1167710,7 +1169671,7 @@ window.SWIM_DATA = {
      "club": "מכבי תל אביב",
      "timeStr": "00:30.57",
      "seconds": 30.57,
-     "place": "63",
+     "place": "64",
      "points": 275
     },
     {
@@ -1169639,7 +1171600,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "timeStr": "00:28.35",
      "seconds": 28.35,
-     "place": "46",
+     "place": "47",
      "points": 345
     }
    ],
@@ -1171089,7 +1173050,7 @@ window.SWIM_DATA = {
      "club": "מכבי תל אביב",
      "timeStr": "02:17.24",
      "seconds": 137.24,
-     "place": "13",
+     "place": "12",
      "points": 519
     }
    ],
@@ -1184749,7 +1186710,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "timeStr": "NS",
      "seconds": null,
-     "place": "66",
+     "place": "67",
      "points": 0
     }
    ],
@@ -1200026,7 +1201987,7 @@ window.SWIM_DATA = {
      "club": "הפועל קרית אתא",
      "timeStr": "00:29.92",
      "seconds": 29.92,
-     "place": "60",
+     "place": "61",
      "points": 294
     },
     {
@@ -1207538,7 +1209499,7 @@ window.SWIM_DATA = {
      "club": "הפועל קרית אתא",
      "timeStr": "NS",
      "seconds": null,
-     "place": "66",
+     "place": "67",
      "points": 0
     },
     {
@@ -1210748,7 +1212709,7 @@ window.SWIM_DATA = {
      "club": "הפועל קרית אתא",
      "timeStr": "NS",
      "seconds": null,
-     "place": "66",
+     "place": "67",
      "points": 0
     },
     {
@@ -1212139,7 +1214100,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "12",
+     "lane": "5",
+     "seedStr": "00:32.06",
+     "seedSeconds": 32.06
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2012|בוגוסלבסקי·דניאל": {
    "id": "2012|בוגוסלבסקי·דניאל",
@@ -1227496,7 +1229486,22 @@ window.SWIM_DATA = {
      "points": 462
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:34",
+     "heat": "5",
+     "lane": "5",
+     "seedStr": "00:29.10",
+     "seedSeconds": 29.1
+    }
+   ]
   },
   "2013|גוטמן·יובל": {
    "id": "2013|גוטמן·יובל",
@@ -1231512,7 +1233517,8 @@ window.SWIM_DATA = {
    "displayName": "ליאור איליאגויב",
    "birthYear": 2013,
    "clubs": [
-    "הפועל דולפין נתניה"
+    "הפועל דולפין נתניה",
+    "ע.ל.ה עצמה רעננה"
    ],
    "past": [
     {
@@ -1232114,7 +1234120,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "ע.ל.ה עצמה רעננה",
+     "startTime": "00:00",
+     "heat": "19",
+     "lane": "3",
+     "seedStr": "00:28.14",
+     "seedSeconds": 28.14
+    }
+   ]
   },
   "2011|אדם·חלוואני": {
    "id": "2011|אדם·חלוואני",
@@ -1233473,7 +1235494,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:39",
+     "heat": "5",
+     "lane": "5",
+     "seedStr": "00:32.69",
+     "seedSeconds": 32.69
+    }
+   ]
   },
   "2013|יואב·לוי": {
    "id": "2013|יואב·לוי",
@@ -1235274,7 +1237310,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:39",
+     "heat": "5",
+     "lane": "6",
+     "seedStr": "00:33.79",
+     "seedSeconds": 33.79
+    }
+   ]
   },
   "2012|אלעטאונה·עואד": {
    "id": "2012|אלעטאונה·עואד",
@@ -1240686,7 +1242737,8 @@ window.SWIM_DATA = {
    "displayName": "יונתן לדרמן לינדנפלד",
    "birthYear": 2014,
    "clubs": [
-    "הפועל כפר סבא ב. ב."
+    "הפועל כפר סבא ב. ב.",
+    "ע.ל.ה עצמה רעננה"
    ],
    "past": [
     {
@@ -1241028,7 +1243080,22 @@ window.SWIM_DATA = {
      "points": 211
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "ע.ל.ה עצמה רעננה",
+     "startTime": "00:00",
+     "heat": "14",
+     "lane": "4",
+     "seedStr": "00:36.40",
+     "seedSeconds": 36.4
+    }
+   ]
   },
   "2014|גולן·מלאכי": {
    "id": "2014|גולן·מלאכי",
@@ -1243863,7 +1245930,22 @@ window.SWIM_DATA = {
      "points": 423
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:33",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "00:30.40",
+     "seedSeconds": 30.4
+    }
+   ]
   },
   "2013|אביגדורי·רומי": {
    "id": "2013|אביגדורי·רומי",
@@ -1245315,7 +1247397,22 @@ window.SWIM_DATA = {
      "points": 255
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:32",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "00:35.99",
+     "seedSeconds": 35.99
+    }
+   ]
   },
   "2012|טרויאק·ליאור": {
    "id": "2012|טרויאק·ליאור",
@@ -1246949,7 +1249046,22 @@ window.SWIM_DATA = {
      "points": 409
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:40",
+     "heat": "6",
+     "lane": "5",
+     "seedStr": "00:26.80",
+     "seedSeconds": 26.8
+    }
+   ]
   },
   "2013|אומנסקי·שון": {
    "id": "2013|אומנסקי·שון",
@@ -1248933,7 +1251045,22 @@ window.SWIM_DATA = {
      "points": 295
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:39",
+     "heat": "5",
+     "lane": "4",
+     "seedStr": "00:29.89",
+     "seedSeconds": 29.89
+    }
+   ]
   },
   "2014|עידו·קורבטוב": {
    "id": "2014|עידו·קורבטוב",
@@ -1249490,7 +1251617,22 @@ window.SWIM_DATA = {
      "points": 257
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:38",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "00:33.84",
+     "seedSeconds": 33.84
+    }
+   ]
   },
   "2014|יאן·קרסלידזה": {
    "id": "2014|יאן·קרסלידזה",
@@ -1250034,7 +1252176,22 @@ window.SWIM_DATA = {
      "points": 212
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:39",
+     "heat": "5",
+     "lane": "1",
+     "seedStr": "00:33.34",
+     "seedSeconds": 33.34
+    }
+   ]
   },
   "2015|איתי·נסים": {
    "id": "2015|איתי·נסים",
@@ -1258966,7 +1261123,8 @@ window.SWIM_DATA = {
    "displayName": "נדב ברדיצבסקי",
    "birthYear": 2013,
    "clubs": [
-    "הפועל כפר סבא ב. ב."
+    "הפועל כפר סבא ב. ב.",
+    "ע.ל.ה עצמה רעננה"
    ],
    "past": [
     {
@@ -1259295,7 +1261453,22 @@ window.SWIM_DATA = {
      "points": 224
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "ע.ל.ה עצמה רעננה",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "4",
+     "seedStr": "00:52.87",
+     "seedSeconds": 52.87
+    }
+   ]
   },
   "2011|אורי·טישלר": {
    "id": "2011|אורי·טישלר",
@@ -1259562,7 +1261735,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "timeStr": "00:30.67",
      "seconds": 30.67,
-     "place": "65",
+     "place": "66",
      "points": 273
     }
    ],
@@ -1265415,7 +1267588,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "timeStr": "02:14.63",
      "seconds": 134.63,
-     "place": "9",
+     "place": "8",
      "points": 550
     },
     {
@@ -1268846,7 +1271019,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל דולפין נתניה",
+     "startTime": "00:00",
+     "heat": "18",
+     "lane": "2",
+     "seedStr": "00:30.96",
+     "seedSeconds": 30.96
+    }
+   ]
   },
   "2012|בר·זיו·עידו": {
    "id": "2012|בר·זיו·עידו",
@@ -1301480,7 +1303668,8 @@ window.SWIM_DATA = {
    "displayName": "טימופיי מורוזוב",
    "birthYear": 2015,
    "clubs": [
-    "הפועל דולפין נתניה"
+    "הפועל דולפין נתניה",
+    "ע.ל.ה עצמה רעננה"
    ],
    "past": [
     {
@@ -1301796,7 +1303985,22 @@ window.SWIM_DATA = {
      "points": 146
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "ע.ל.ה עצמה רעננה",
+     "startTime": "00:00",
+     "heat": "13",
+     "lane": "3",
+     "seedStr": "00:36.80",
+     "seedSeconds": 36.8
+    }
+   ]
   },
   "2014|טימופיי·קרושינסקי": {
    "id": "2014|טימופיי·קרושינסקי",
@@ -1329677,7 +1331881,36 @@ window.SWIM_DATA = {
      "points": 344
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "00:00",
+     "heat": "17",
+     "lane": "1",
+     "seedStr": "00:31.38",
+     "seedSeconds": 31.38
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "3",
+     "seedStr": "01:59.72",
+     "seedSeconds": 119.72
+    }
+   ]
   },
   "2004|וייס·שירלי": {
    "id": "2004|וייס·שירלי",
@@ -1376825,7 +1379058,22 @@ window.SWIM_DATA = {
      "points": 244
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:32",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "00:36.28",
+     "seedSeconds": 36.28
+    }
+   ]
   },
   "2008|חלואני·רים": {
    "id": "2008|חלואני·רים",
@@ -1377349,7 +1379597,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:37",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "00:44.78",
+     "seedSeconds": 44.78
+    }
+   ]
   },
   "2015|גילי·רוטנשטיין": {
    "id": "2015|גילי·רוטנשטיין",
@@ -1387285,7 +1389548,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "2",
+     "seedStr": "01:20.61",
+     "seedSeconds": 80.61
+    }
+   ]
   },
   "2013|אבירזר·עלמה": {
    "id": "2013|אבירזר·עלמה",
@@ -1388877,7 +1391169,36 @@ window.SWIM_DATA = {
      "points": 348
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "11",
+     "lane": "5",
+     "seedStr": "00:34.44",
+     "seedSeconds": 34.44
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|דימא·סנעללה": {
    "id": "2013|דימא·סנעללה",
@@ -1390687,7 +1393008,36 @@ window.SWIM_DATA = {
      "points": 217
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "17",
+     "lane": "2",
+     "seedStr": "00:30.89",
+     "seedSeconds": 30.89
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "3",
+     "seedStr": "01:24.24",
+     "seedSeconds": 84.24
+    }
+   ]
   },
   "2013|גרינולד·להב": {
    "id": "2013|גרינולד·להב",
@@ -1391759,7 +1394109,36 @@ window.SWIM_DATA = {
      "points": 331
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "17",
+     "lane": "5",
+     "seedStr": "00:31.27",
+     "seedSeconds": 31.27
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2012|נדאף·סאנדרא": {
    "id": "2012|נדאף·סאנדרא",
@@ -1395132,7 +1397511,36 @@ window.SWIM_DATA = {
      "points": 372
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "12",
+     "lane": "1",
+     "seedStr": "00:32.06",
+     "seedSeconds": 32.06
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "3",
+     "seedStr": "01:25.59",
+     "seedSeconds": 85.59
+    }
+   ]
   },
   "2013|ליה·רזניק": {
    "id": "2013|ליה·רזניק",
@@ -1396764,7 +1399172,36 @@ window.SWIM_DATA = {
      "points": 328
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "11",
+     "lane": "4",
+     "seedStr": "00:33.47",
+     "seedSeconds": 33.47
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "3",
+     "seedStr": "01:30.33",
+     "seedSeconds": 90.33
+    }
+   ]
   },
   "2013|אביגיל·פלסנר": {
    "id": "2013|אביגיל·פלסנר",
@@ -1397447,7 +1399884,36 @@ window.SWIM_DATA = {
      "points": 213
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל קרית טבעון",
+     "startTime": "00:00",
+     "heat": "10",
+     "lane": "2",
+     "seedStr": "00:35.19",
+     "seedSeconds": 35.19
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל קרית טבעון",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "2",
+     "seedStr": "01:32.25",
+     "seedSeconds": 92.25
+    }
+   ]
   },
   "2013|דמבינסקי·עומר": {
    "id": "2013|דמבינסקי·עומר",
@@ -1400967,7 +1403433,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "timeStr": "00:29.42",
      "seconds": 29.42,
-     "place": "56",
+     "place": "57",
      "points": 309
     }
    ],
@@ -1401356,7 +1403822,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "timeStr": "00:28.48",
      "seconds": 28.48,
-     "place": "48",
+     "place": "49",
      "points": 341
     }
    ],
@@ -1401618,7 +1404084,36 @@ window.SWIM_DATA = {
      "points": 376
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "17",
+     "lane": "4",
+     "seedStr": "00:29.52",
+     "seedSeconds": 29.52
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 פרפר",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2011|דולגונוב·מקסים": {
    "id": "2011|דולגונוב·מקסים",
@@ -1406497,7 +1408992,22 @@ window.SWIM_DATA = {
      "points": 144
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "4",
+     "seedStr": "00:43.86",
+     "seedSeconds": 43.86
+    }
+   ]
   },
   "2012|לין·סח'ניני": {
    "id": "2012|לין·סח'ניני",
@@ -1418327,9 +1420837,37 @@ window.SWIM_DATA = {
      "seconds": 29.77,
      "place": "6",
      "points": 298
+    },
+    {
+     "date": "2026-10-22",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "100 מעורב אישי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "1",
+     "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "16:39",
+     "heat": "5",
+     "lane": "3",
+     "seedStr": "00:29.77",
+     "seedSeconds": 29.77
+    }
+   ]
   },
   "2013|גבריאל·גריג": {
    "id": "2013|גבריאל·גריג",
@@ -1419808,7 +1422346,22 @@ window.SWIM_DATA = {
      "points": 260
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "startTime": "00:00",
+     "heat": "17",
+     "lane": "2",
+     "seedStr": "00:31.09",
+     "seedSeconds": 31.09
+    }
+   ]
   },
   "2011|דר·נמרוד": {
    "id": "2011|דר·נמרוד",
@@ -1424254,7 +1426807,22 @@ window.SWIM_DATA = {
      "points": 141
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי רמת הגולן",
+     "startTime": "00:00",
+     "heat": "13",
+     "lane": "3",
+     "seedStr": "00:38.16",
+     "seedSeconds": 38.16
+    }
+   ]
   },
   "2003|חאלד·חטיב": {
    "id": "2003|חאלד·חטיב",
@@ -1431327,7 +1433895,36 @@ window.SWIM_DATA = {
      "points": 183
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "02:12.83",
+     "seedSeconds": 132.83
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|יעלה·סטרול": {
    "id": "2015|יעלה·סטרול",
@@ -1431598,7 +1434195,36 @@ window.SWIM_DATA = {
      "points": 189
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "01:46.75",
+     "seedSeconds": 106.75
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|חסקל·עמוס": {
    "id": "2015|חסקל·עמוס",
@@ -1432372,7 +1434998,36 @@ window.SWIM_DATA = {
      "points": 209
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל בית איל",
+     "startTime": "00:00",
+     "heat": "14",
+     "lane": "4",
+     "seedStr": "00:36.38",
+     "seedSeconds": 36.38
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל בית איל",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "2",
+     "seedStr": "01:24.56",
+     "seedSeconds": 84.56
+    }
+   ]
   },
   "2015|אבו·ג'אד·חבלה": {
    "id": "2015|אבו·ג'אד·חבלה",
@@ -1432888,7 +1435543,36 @@ window.SWIM_DATA = {
      "points": 101
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "1",
+     "seedStr": "00:46.95",
+     "seedSeconds": 46.95
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "5",
+     "seedStr": "01:56.04",
+     "seedSeconds": 116.04
+    }
+   ]
   },
   "2014|דפנה·זוהר·לוסטיג": {
    "id": "2014|דפנה·זוהר·לוסטיג",
@@ -1433469,7 +1436153,36 @@ window.SWIM_DATA = {
      "points": 296
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "01:28.36",
+     "seedSeconds": 88.36
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "4",
+     "seedStr": "01:35.31",
+     "seedSeconds": 95.31
+    }
+   ]
   },
   "2014|כרמל·לפיד": {
    "id": "2014|כרמל·לפיד",
@@ -1434243,7 +1436956,36 @@ window.SWIM_DATA = {
      "points": 335
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "11",
+     "lane": "2",
+     "seedStr": "00:34.19",
+     "seedSeconds": 34.19
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "4",
+     "seedStr": "01:41.48",
+     "seedSeconds": 101.48
+    }
+   ]
   },
   "2014|מאלק·עזב": {
    "id": "2014|מאלק·עזב",
@@ -1434759,7 +1437501,36 @@ window.SWIM_DATA = {
      "points": 292
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "16",
+     "lane": "3",
+     "seedStr": "00:32.81",
+     "seedSeconds": 32.81
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|אסף·שומר": {
    "id": "2014|אסף·שומר",
@@ -1435030,7 +1437801,36 @@ window.SWIM_DATA = {
      "points": 165
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל בית איל",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "3",
+     "seedStr": "01:37.06",
+     "seedSeconds": 97.06
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל בית איל",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "1",
+     "seedStr": "01:34.12",
+     "seedSeconds": 94.12
+    }
+   ]
   },
   "2014|ווארד·עיראקי": {
    "id": "2014|ווארד·עיראקי",
@@ -1435442,7 +1438242,36 @@ window.SWIM_DATA = {
      "points": 158
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "13",
+     "lane": "1",
+     "seedStr": "00:38.57",
+     "seedSeconds": 38.57
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "1",
+     "seedStr": "01:41.39",
+     "seedSeconds": 101.39
+    }
+   ]
   },
   "2014|אלגני·דעייף·עבד": {
    "id": "2014|אלגני·דעייף·עבד",
@@ -1436891,7 +1439720,36 @@ window.SWIM_DATA = {
      "points": 130
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "4",
+     "seedStr": "00:39.67",
+     "seedSeconds": 39.67
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|איה·מסארווה": {
    "id": "2015|איה·מסארווה",
@@ -1439028,7 +1441886,36 @@ window.SWIM_DATA = {
      "points": 134
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "14",
+     "lane": "2",
+     "seedStr": "00:37.50",
+     "seedSeconds": 37.5
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 פרפר",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|אביעד·לוקה": {
    "id": "2015|אביעד·לוקה",
@@ -1439313,7 +1442200,22 @@ window.SWIM_DATA = {
      "points": 203
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל דולפין נתניה",
+     "startTime": "00:00",
+     "heat": "19",
+     "lane": "1",
+     "seedStr": "00:32.73",
+     "seedSeconds": 32.73
+    }
+   ]
   },
   "2015|אדם·לאלזר": {
    "id": "2015|אדם·לאלזר",
@@ -1440333,7 +1443235,36 @@ window.SWIM_DATA = {
      "points": 64
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "2",
+     "seedStr": "00:45.45",
+     "seedSeconds": 45.45
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "01:48.57",
+     "seedSeconds": 108.57
+    }
+   ]
   },
   "2015|וישנפולסקי·נועם": {
    "id": "2015|וישנפולסקי·נועם",
@@ -1441229,7 +1444160,36 @@ window.SWIM_DATA = {
      "points": 174
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "2",
+     "seedStr": "00:39.70",
+     "seedSeconds": 39.7
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "2",
+     "seedStr": "01:54.98",
+     "seedSeconds": 114.98
+    }
+   ]
   },
   "2014|אוריה·ברר·כהן": {
    "id": "2014|אוריה·ברר·כהן",
@@ -1444558,7 +1447518,36 @@ window.SWIM_DATA = {
      "points": 204
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "14",
+     "lane": "3",
+     "seedStr": "00:36.32",
+     "seedSeconds": 36.32
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|אדם·גיזונטרמן": {
    "id": "2014|אדם·גיזונטרמן",
@@ -1445114,7 +1448103,36 @@ window.SWIM_DATA = {
      "points": 231
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 פרפר",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "5",
+     "seedStr": "01:30.18",
+     "seedSeconds": 90.18
+    }
+   ]
   },
   "2014|נדאף·רפיק": {
    "id": "2014|נדאף·רפיק",
@@ -1445769,7 +1448787,36 @@ window.SWIM_DATA = {
      "points": 184
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "15",
+     "lane": "1",
+     "seedStr": "00:36.12",
+     "seedSeconds": 36.12
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "2",
+     "seedStr": "01:45.21",
+     "seedSeconds": 105.21
+    }
+   ]
   },
   "2014|עלי·עמארנה": {
    "id": "2014|עלי·עמארנה",
@@ -1447923,7 +1450970,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "4",
+     "seedStr": "00:44.98",
+     "seedSeconds": 44.98
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|גבריאל·סטרין": {
    "id": "2015|גבריאל·סטרין",
@@ -1448179,7 +1451255,36 @@ window.SWIM_DATA = {
      "points": 150
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "12",
+     "lane": "5",
+     "seedStr": "00:39.49",
+     "seedSeconds": 39.49
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|ג'וזיף·כסאברי": {
    "id": "2015|ג'וזיף·כסאברי",
@@ -1448372,7 +1451477,36 @@ window.SWIM_DATA = {
      "points": 125
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "11",
+     "lane": "1",
+     "seedStr": "00:41.61",
+     "seedSeconds": 41.61
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|נור·רבאח": {
    "id": "2014|נור·רבאח",
@@ -1448669,7 +1451803,36 @@ window.SWIM_DATA = {
      "points": 249
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "4",
+     "seedStr": "00:37.67",
+     "seedSeconds": 37.67
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "1",
+     "seedStr": "01:34.37",
+     "seedSeconds": 94.37
+    }
+   ]
   },
   "2014|אבו·חלא·סיף": {
    "id": "2014|אבו·חלא·סיף",
@@ -1449256,7 +1452419,8 @@ window.SWIM_DATA = {
    "displayName": "אחמד סראחנה",
    "birthYear": 2014,
    "clubs": [
-    "הפועל קרית טבעון"
+    "הפועל קרית טבעון",
+    "הפועל אקווה נוף הגליל"
    ],
    "past": [
     {
@@ -1449598,7 +1452762,36 @@ window.SWIM_DATA = {
      "points": 208
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "15",
+     "lane": "5",
+     "seedStr": "00:36.10",
+     "seedSeconds": 36.1
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 פרפר",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "01:33.46",
+     "seedSeconds": 93.46
+    }
+   ]
   },
   "2014|אבו·איבאן·סיני": {
    "id": "2014|אבו·איבאן·סיני",
@@ -1449700,7 +1452893,22 @@ window.SWIM_DATA = {
      "points": 165
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|ווליד·שחברי": {
    "id": "2014|ווליד·שחברי",
@@ -1450086,7 +1453294,36 @@ window.SWIM_DATA = {
      "points": 206
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "16",
+     "lane": "1",
+     "seedStr": "00:34.43",
+     "seedSeconds": 34.43
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "1",
+     "seedStr": "01:59.33",
+     "seedSeconds": 119.33
+    }
+   ]
   },
   "2014|מנהיים·נבו": {
    "id": "2014|מנהיים·נבו",
@@ -1450279,7 +1453516,36 @@ window.SWIM_DATA = {
      "points": 111
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "4",
+     "seedStr": "02:17.11",
+     "seedSeconds": 137.11
+    }
+   ]
   },
   "2014|בארי·דניאל·טוחן": {
    "id": "2014|בארי·דניאל·טוחן",
@@ -1453129,7 +1456395,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "startTime": "00:00",
+     "heat": "14",
+     "lane": "6",
+     "seedStr": "00:36.69",
+     "seedSeconds": 36.69
+    }
+   ]
   },
   "2015|הראל·יפרח": {
    "id": "2015|הראל·יפרח",
@@ -1453749,7 +1457030,22 @@ window.SWIM_DATA = {
      "points": 149
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "startTime": "00:00",
+     "heat": "13",
+     "lane": "2",
+     "seedStr": "00:37.51",
+     "seedSeconds": 37.51
+    }
+   ]
   },
   "2015|איתי·פורגלין": {
    "id": "2015|איתי·פורגלין",
@@ -1457236,7 +1460532,22 @@ window.SWIM_DATA = {
      "points": 167
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "startTime": "00:00",
+     "heat": "15",
+     "lane": "4",
+     "seedStr": "00:35.50",
+     "seedSeconds": 35.5
+    }
+   ]
   },
   "2015|איתן·בן·שמחון": {
    "id": "2015|איתן·בן·שמחון",
@@ -1457906,7 +1461217,22 @@ window.SWIM_DATA = {
      "points": 163
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "startTime": "00:00",
+     "heat": "14",
+     "lane": "3",
+     "seedStr": "00:36.39",
+     "seedSeconds": 36.39
+    }
+   ]
   },
   "2015|אוריה·כהן": {
    "id": "2015|אוריה·כהן",
@@ -1476801,7 +1480127,22 @@ window.SWIM_DATA = {
      "points": 261
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "startTime": "00:00",
+     "heat": "19",
+     "lane": "5",
+     "seedStr": "00:31.10",
+     "seedSeconds": 31.1
+    }
+   ]
   },
   "2013|אוריה·נחום": {
    "id": "2013|אוריה·נחום",
@@ -1476979,7 +1480320,22 @@ window.SWIM_DATA = {
      "points": 221
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "startTime": "00:00",
+     "heat": "18",
+     "lane": "1",
+     "seedStr": "00:32.90",
+     "seedSeconds": 32.9
+    }
+   ]
   },
   "2012|איל·כהן": {
    "id": "2012|איל·כהן",
@@ -1496842,7 +1500198,36 @@ window.SWIM_DATA = {
      "points": 80
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "00:00",
+     "heat": "12",
+     "lane": "1",
+     "seedStr": "00:39.70",
+     "seedSeconds": 39.7
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|איליה·צרקשין": {
    "id": "2015|איליה·צרקשין",
@@ -1498127,7 +1501512,22 @@ window.SWIM_DATA = {
      "points": 454
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:34",
+     "heat": "5",
+     "lane": "1",
+     "seedStr": "00:29.69",
+     "seedSeconds": 29.69
+    }
+   ]
   },
   "2011|ברמן·עידן": {
    "id": "2011|ברמן·עידן",
@@ -1498831,7 +1502231,8 @@ window.SWIM_DATA = {
    "birthYear": 2012,
    "clubs": [
     "הפועל עירוני הוד השרון",
-    "אלומה עירוני הוד השרון"
+    "אלומה עירוני הוד השרון",
+    "ע.ל.ה עצמה רעננה"
    ],
    "past": [
     {
@@ -1499004,7 +1502405,22 @@ window.SWIM_DATA = {
      "points": 232
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "ע.ל.ה עצמה רעננה",
+     "startTime": "00:00",
+     "heat": "16",
+     "lane": "3",
+     "seedStr": "00:34.28",
+     "seedSeconds": 34.28
+    }
+   ]
   },
   "2014|יונתן·ינאי": {
    "id": "2014|יונתן·ינאי",
@@ -1504170,7 +1507586,36 @@ window.SWIM_DATA = {
      "points": 199
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל גליל עליון",
+     "startTime": "00:00",
+     "heat": "15",
+     "lane": "3",
+     "seedStr": "00:35.40",
+     "seedSeconds": 35.4
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל גליל עליון",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "3",
+     "seedStr": "01:35.94",
+     "seedSeconds": 95.94
+    }
+   ]
   },
   "2011|יהונתן·פרייברג": {
    "id": "2011|יהונתן·פרייברג",
@@ -1504632,7 +1508077,36 @@ window.SWIM_DATA = {
      "points": 245
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל גליל עליון",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "3",
+     "seedStr": "00:39.26",
+     "seedSeconds": 39.26
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל גליל עליון",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "2",
+     "seedStr": "01:28.00",
+     "seedSeconds": 88.0
+    }
+   ]
   },
   "2011|אריאל·שיינפלד": {
    "id": "2011|אריאל·שיינפלד",
@@ -1505937,7 +1509411,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל גליל עליון",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "5",
+     "seedStr": "01:33.87",
+     "seedSeconds": 93.87
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 פרפר",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל גליל עליון",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "01:16.81",
+     "seedSeconds": 76.81
+    }
+   ]
   },
   "2011|ויילר·יונתן": {
    "id": "2011|ויילר·יונתן",
@@ -1516226,7 +1519729,8 @@ window.SWIM_DATA = {
    "displayName": "חלא  סנעלה",
    "birthYear": 2011,
    "clubs": [
-    "קאנטרי כפר ורדים"
+    "קאנטרי כפר ורדים",
+    "הפועל מ.א משגב"
    ],
    "past": [
     {
@@ -1516360,7 +1519864,36 @@ window.SWIM_DATA = {
      "points": 509
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "12",
+     "lane": "3",
+     "seedStr": "00:29.65",
+     "seedSeconds": 29.65
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "5",
+     "seedStr": "01:21.40",
+     "seedSeconds": 81.4
+    }
+   ]
   },
   "2014|בארי·רייכל": {
    "id": "2014|בארי·רייכל",
@@ -1521903,7 +1525436,36 @@ window.SWIM_DATA = {
      "points": 98
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "10",
+     "lane": "4",
+     "seedStr": "00:41.98",
+     "seedSeconds": 41.98
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 פרפר",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2012|אן·סודאי": {
    "id": "2012|אן·סודאי",
@@ -1523383,7 +1526945,36 @@ window.SWIM_DATA = {
      "points": 239
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 פרפר",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל גליל עליון",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל גליל עליון",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "2",
+     "seedStr": "01:30.00",
+     "seedSeconds": 90.0
+    }
+   ]
   },
   "2012|היכל·יוסף": {
    "id": "2012|היכל·יוסף",
@@ -1538247,7 +1541838,36 @@ window.SWIM_DATA = {
      "points": 200
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל בית איל",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "2",
+     "seedStr": "01:30.82",
+     "seedSeconds": 90.82
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 פרפר",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל בית איל",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "01:32.07",
+     "seedSeconds": 92.07
+    }
+   ]
   },
   "2016|וושין·לוי": {
    "id": "2016|וושין·לוי",
@@ -1540932,7 +1544552,22 @@ window.SWIM_DATA = {
      "points": 198
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל דולפין נתניה",
+     "startTime": "00:00",
+     "heat": "16",
+     "lane": "2",
+     "seedStr": "00:34.39",
+     "seedSeconds": 34.39
+    }
+   ]
   },
   "2016|מקסים·קומיסרוב": {
    "id": "2016|מקסים·קומיסרוב",
@@ -1541371,7 +1545006,36 @@ window.SWIM_DATA = {
      "points": 169
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל בית איל",
+     "startTime": "00:00",
+     "heat": "12",
+     "lane": "2",
+     "seedStr": "00:39.42",
+     "seedSeconds": 39.42
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל בית איל",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|בן·דוד·דויד·עמרם": {
    "id": "2016|בן·דוד·דויד·עמרם",
@@ -1541564,7 +1545228,22 @@ window.SWIM_DATA = {
      "points": 172
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל דולפין נתניה",
+     "startTime": "00:00",
+     "heat": "15",
+     "lane": "6",
+     "seedStr": "00:36.28",
+     "seedSeconds": 36.28
+    }
+   ]
   },
   "2016|יונתן·פושקריוב": {
    "id": "2016|יונתן·פושקריוב",
@@ -1542789,7 +1546468,22 @@ window.SWIM_DATA = {
      "points": 76
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל דולפין נתניה",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "2",
+     "seedStr": "00:46.09",
+     "seedSeconds": 46.09
+    }
+   ]
   },
   "2014|אביאל·זבדובסקי": {
    "id": "2014|אביאל·זבדובסקי",
@@ -1543099,7 +1546793,36 @@ window.SWIM_DATA = {
      "points": 252
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 פרפר",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל בית איל",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "01:29.19",
+     "seedSeconds": 89.19
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל בית איל",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "1",
+     "seedStr": "01:25.87",
+     "seedSeconds": 85.87
+    }
+   ]
   },
   "2014|איוושנקו·ניקיטה": {
    "id": "2014|איוושנקו·ניקיטה",
@@ -1545055,7 +1548778,36 @@ window.SWIM_DATA = {
      "points": 142
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "11",
+     "lane": "2",
+     "seedStr": "00:40.19",
+     "seedSeconds": 40.19
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "2",
+     "seedStr": "01:41.11",
+     "seedSeconds": 101.11
+    }
+   ]
   },
   "2016|אברהם·תומר": {
    "id": "2016|אברהם·תומר",
@@ -1545222,7 +1548974,36 @@ window.SWIM_DATA = {
      "points": 158
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "4",
+     "seedStr": "01:37.25",
+     "seedSeconds": 97.25
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "5",
+     "seedStr": "01:41.56",
+     "seedSeconds": 101.56
+    }
+   ]
   },
   "2016|דוד·ציציוטקין": {
    "id": "2016|דוד·ציציוטקין",
@@ -1546043,7 +1549824,36 @@ window.SWIM_DATA = {
      "points": 158
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "5",
+     "seedStr": "01:51.91",
+     "seedSeconds": 111.91
+    }
+   ]
   },
   "2016|זיאד·עזבה": {
    "id": "2016|זיאד·עזבה",
@@ -1547926,7 +1551736,22 @@ window.SWIM_DATA = {
      "points": 136
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל דולפין נתניה",
+     "startTime": "00:00",
+     "heat": "12",
+     "lane": "1",
+     "seedStr": "00:39.50",
+     "seedSeconds": 39.5
+    }
+   ]
   },
   "2016|אמיטון·שון": {
    "id": "2016|אמיטון·שון",
@@ -1548080,7 +1551905,22 @@ window.SWIM_DATA = {
      "points": 114
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל דולפין נתניה",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "3",
+     "seedStr": "00:48.38",
+     "seedSeconds": 48.38
+    }
+   ]
   },
   "2016|אליעד·שמואל": {
    "id": "2016|אליעד·שמואל",
@@ -1556569,7 +1560409,22 @@ window.SWIM_DATA = {
      "points": 154
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "startTime": "00:00",
+     "heat": "16",
+     "lane": "5",
+     "seedStr": "00:34.43",
+     "seedSeconds": 34.43
+    }
+   ]
   },
   "2015|אריאל·בנדר·זנדר": {
    "id": "2015|אריאל·בנדר·זנדר",
@@ -1568365,7 +1572220,36 @@ window.SWIM_DATA = {
      "points": 315
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "1",
+     "seedStr": "01:19.78",
+     "seedSeconds": 79.78
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "00:00",
+     "heat": "10",
+     "lane": "2",
+     "seedStr": "01:18.15",
+     "seedSeconds": 78.15
+    }
+   ]
   },
   "2016|אליאור·צ'בוטר": {
    "id": "2016|אליאור·צ'בוטר",
@@ -1570423,7 +1574307,22 @@ window.SWIM_DATA = {
      "points": 100
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "00:00",
+     "heat": "10",
+     "lane": "3",
+     "seedStr": "00:41.80",
+     "seedSeconds": 41.8
+    }
+   ]
   },
   "2016|טבר·יונתן": {
    "id": "2016|טבר·יונתן",
@@ -1570616,7 +1574515,22 @@ window.SWIM_DATA = {
      "points": 93
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "6",
+     "seedStr": "00:48.01",
+     "seedSeconds": 48.01
+    }
+   ]
   },
   "2016|אריאל·שוסטר": {
    "id": "2016|אריאל·שוסטר",
@@ -1571104,7 +1575018,36 @@ window.SWIM_DATA = {
      "points": 147
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "00:00",
+     "heat": "14",
+     "lane": "5",
+     "seedStr": "00:37.78",
+     "seedSeconds": 37.78
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|גפן·עידו": {
    "id": "2013|גפן·עידו",
@@ -1572479,7 +1576422,22 @@ window.SWIM_DATA = {
      "points": 223
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "startTime": "00:00",
+     "heat": "18",
+     "lane": "6",
+     "seedStr": "00:34.20",
+     "seedSeconds": 34.2
+    }
+   ]
   },
   "2015|יואב·רותם": {
    "id": "2015|יואב·רותם",
@@ -1573008,7 +1576966,22 @@ window.SWIM_DATA = {
      "points": 158
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "startTime": "00:00",
+     "heat": "12",
+     "lane": "4",
+     "seedStr": "00:38.60",
+     "seedSeconds": 38.6
+    }
+   ]
   },
   "2014|אייל·קובלסקי": {
    "id": "2014|אייל·קובלסקי",
@@ -1573175,7 +1577148,22 @@ window.SWIM_DATA = {
      "points": 160
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "startTime": "00:00",
+     "heat": "14",
+     "lane": "2",
+     "seedStr": "00:36.59",
+     "seedSeconds": 36.59
+    }
+   ]
   },
   "2015|אילן·ברלדיאן": {
    "id": "2015|אילן·ברלדיאן",
@@ -1573459,7 +1577447,22 @@ window.SWIM_DATA = {
      "points": 154
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "startTime": "00:00",
+     "heat": "10",
+     "lane": "5",
+     "seedStr": "00:43.02",
+     "seedSeconds": 43.02
+    }
+   ]
   },
   "2014|אופק·כהן": {
    "id": "2014|אופק·כהן",
@@ -1573910,7 +1577913,36 @@ window.SWIM_DATA = {
      "points": 269
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "00:00",
+     "heat": "10",
+     "lane": "1",
+     "seedStr": "01:22.56",
+     "seedSeconds": 82.56
+    }
+   ]
   },
   "2017|אן·כהן": {
    "id": "2017|אן·כהן",
@@ -1575656,7 +1579688,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "00:00",
+     "heat": "11",
+     "lane": "3",
+     "seedStr": "00:40.25",
+     "seedSeconds": 40.25
+    }
+   ]
   },
   "2017|ארז·יהודה·סנדלר": {
    "id": "2017|ארז·יהודה·סנדלר",
@@ -1576181,7 +1580228,22 @@ window.SWIM_DATA = {
      "points": 183
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "00:00",
+     "heat": "16",
+     "lane": "6",
+     "seedStr": "00:35.02",
+     "seedSeconds": 35.02
+    }
+   ]
   },
   "2017|בוכניק·יהונתן": {
    "id": "2017|בוכניק·יהונתן",
@@ -1576502,7 +1580564,22 @@ window.SWIM_DATA = {
      "points": 136
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "00:00",
+     "heat": "13",
+     "lane": "4",
+     "seedStr": "00:37.40",
+     "seedSeconds": 37.4
+    }
+   ]
   },
   "2017|איתי·חיבטוב": {
    "id": "2017|איתי·חיבטוב",
@@ -1576643,7 +1580720,22 @@ window.SWIM_DATA = {
      "points": 103
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "3",
+     "seedStr": "00:50.50",
+     "seedSeconds": 50.5
+    }
+   ]
   },
   "2016|סואן·סעיד·עלי": {
    "id": "2016|סואן·סעיד·עלי",
@@ -1576823,7 +1580915,36 @@ window.SWIM_DATA = {
      "points": 163
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "01:45.72",
+     "seedSeconds": 105.72
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "2",
+     "seedStr": "01:41.00",
+     "seedSeconds": 101.0
+    }
+   ]
   },
   "2016|גבליצ'נקו·סטפאן": {
    "id": "2016|גבליצ'נקו·סטפאן",
@@ -1577029,7 +1581150,22 @@ window.SWIM_DATA = {
      "points": 116
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "00:00",
+     "heat": "12",
+     "lane": "6",
+     "seedStr": "00:39.68",
+     "seedSeconds": 39.68
+    }
+   ]
   },
   "2016|אריאל·זיסליס": {
    "id": "2016|אריאל·זיסליס",
@@ -1584868,7 +1589004,22 @@ window.SWIM_DATA = {
      "points": 116
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "startTime": "00:00",
+     "heat": "11",
+     "lane": "2",
+     "seedStr": "00:40.69",
+     "seedSeconds": 40.69
+    }
+   ]
   },
   "2014|עילי·רוט": {
    "id": "2014|עילי·רוט",
@@ -1586219,7 +1590370,22 @@ window.SWIM_DATA = {
      "points": 112
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "2",
+     "seedStr": "00:53.13",
+     "seedSeconds": 53.13
+    }
+   ]
   },
   "2014|גבריאל·טומשובר": {
    "id": "2014|גבריאל·טומשובר",
@@ -1589582,7 +1593748,22 @@ window.SWIM_DATA = {
      "points": 195
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "ע.ל.ה עצמה רעננה",
+     "startTime": "00:00",
+     "heat": "14",
+     "lane": "1",
+     "seedStr": "00:36.66",
+     "seedSeconds": 36.66
+    }
+   ]
   },
   "2015|יואב·קובלנקו": {
    "id": "2015|יואב·קובלנקו",
@@ -1592133,7 +1596314,22 @@ window.SWIM_DATA = {
      "points": 97
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "ע.ל.ה עצמה רעננה",
+     "startTime": "00:00",
+     "heat": "12",
+     "lane": "3",
+     "seedStr": "00:38.40",
+     "seedSeconds": 38.4
+    }
+   ]
   },
   "2015|נועה·שפרלינג": {
    "id": "2015|נועה·שפרלינג",
@@ -1594013,7 +1598209,22 @@ window.SWIM_DATA = {
      "points": 182
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "ע.ל.ה עצמה רעננה",
+     "startTime": "00:00",
+     "heat": "13",
+     "lane": "5",
+     "seedStr": "00:37.89",
+     "seedSeconds": 37.89
+    }
+   ]
   },
   "2015|יאנה·רפאל": {
    "id": "2015|יאנה·רפאל",
@@ -1594720,7 +1598931,22 @@ window.SWIM_DATA = {
      "points": 133
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "ע.ל.ה עצמה רעננה",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|דניאל·ווינאר": {
    "id": "2015|דניאל·ווינאר",
@@ -1598285,9 +1602511,37 @@ window.SWIM_DATA = {
      "seconds": 37.11,
      "place": "19",
      "points": 154
+    },
+    {
+     "date": "2026-10-22",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "100 מעורב אישי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "1",
+     "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חזה",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "16:43",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|אמיתי·דדוש": {
    "id": "2017|אמיתי·דדוש",
@@ -1598571,7 +1602825,22 @@ window.SWIM_DATA = {
      "points": 112
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:38",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "00:39.63",
+     "seedSeconds": 39.63
+    }
+   ]
   },
   "2017|וילמיזר·צורי": {
    "id": "2017|וילמיזר·צורי",
@@ -1599840,7 +1604109,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חזה",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "16:42",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "00:54.44",
+     "seedSeconds": 54.44
+    }
+   ]
   },
   "2016|לייבסקי·מרק": {
    "id": "2016|לייבסקי·מרק",
@@ -1600201,7 +1604485,22 @@ window.SWIM_DATA = {
      "points": 80
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:34",
+     "heat": "5",
+     "lane": "4",
+     "seedStr": "00:05.66",
+     "seedSeconds": 5.66
+    }
+   ]
   },
   "2016|אילנה·גסל": {
    "id": "2016|אילנה·גסל",
@@ -1600669,7 +1604968,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:34",
+     "heat": "5",
+     "lane": "3",
+     "seedStr": "00:05.59",
+     "seedSeconds": 5.59
+    }
+   ]
   },
   "2013|ליאל·שלם": {
    "id": "2013|ליאל·שלם",
@@ -1600808,7 +1605122,22 @@ window.SWIM_DATA = {
      "points": 118
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:32",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "00:44.03",
+     "seedSeconds": 44.03
+    }
+   ]
   },
   "2012|יחזאל·רומי": {
    "id": "2012|יחזאל·רומי",
@@ -1600934,7 +1605263,22 @@ window.SWIM_DATA = {
      "points": 118
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:32",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "00:40.09",
+     "seedSeconds": 40.09
+    }
+   ]
   },
   "2014|אביגייל·שטיצר": {
    "id": "2014|אביגייל·שטיצר",
@@ -1600997,7 +1605341,22 @@ window.SWIM_DATA = {
      "points": 124
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:32",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "00:45.78",
+     "seedSeconds": 45.78
+    }
+   ]
   },
   "2013|שמיס·שקד": {
    "id": "2013|שמיס·שקד",
@@ -1601084,7 +1605443,22 @@ window.SWIM_DATA = {
      "points": 115
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:31",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "00:46.70",
+     "seedSeconds": 46.7
+    }
+   ]
   },
   "2013|בירקן·מילי": {
    "id": "2013|בירקן·מילי",
@@ -1601171,7 +1605545,22 @@ window.SWIM_DATA = {
      "points": 93
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:31",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "00:50.32",
+     "seedSeconds": 50.32
+    }
+   ]
   },
   "2016|ברק·ים·מזרחי": {
    "id": "2016|ברק·ים·מזרחי",
@@ -1601364,7 +1605753,22 @@ window.SWIM_DATA = {
      "points": 91
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חזה",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "16:41",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "01:04.86",
+     "seedSeconds": 64.86
+    }
+   ]
   },
   "2013|אלי·עפרי": {
    "id": "2013|אלי·עפרי",
@@ -1602092,7 +1606496,22 @@ window.SWIM_DATA = {
      "points": 20
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:31",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "01:23.58",
+     "seedSeconds": 83.58
+    }
+   ]
   },
   "2015|זוהר·סהר": {
    "id": "2015|זוהר·סהר",
@@ -1602407,7 +1606826,22 @@ window.SWIM_DATA = {
      "points": 24
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:31",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "01:19.00",
+     "seedSeconds": 79.0
+    }
+   ]
   },
   "2016|אל·בת·טיגאבו": {
    "id": "2016|אל·בת·טיגאבו",
@@ -1602483,7 +1606917,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:31",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "01:10.51",
+     "seedSeconds": 70.51
+    }
+   ]
   },
   "2015|זיו·מלכה": {
    "id": "2015|זיו·מלכה",
@@ -1602748,7 +1607197,22 @@ window.SWIM_DATA = {
      "points": 61
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:37",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "00:50.38",
+     "seedSeconds": 50.38
+    }
+   ]
   },
   "2015|אביאל·מקונן": {
    "id": "2015|אביאל·מקונן",
@@ -1602920,7 +1607384,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:40",
+     "heat": "6",
+     "lane": "6",
+     "seedStr": "00:28.80",
+     "seedSeconds": 28.8
+    }
+   ]
   },
   "2009|אריאל·חליבה": {
    "id": "2009|אריאל·חליבה",
@@ -1603198,7 +1607677,22 @@ window.SWIM_DATA = {
      "points": 256
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:39",
+     "heat": "5",
+     "lane": "2",
+     "seedStr": "00:31.30",
+     "seedSeconds": 31.3
+    }
+   ]
   },
   "2011|נבוטובסקי·עמית": {
    "id": "2011|נבוטובסקי·עמית",
@@ -1603696,7 +1608190,22 @@ window.SWIM_DATA = {
      "points": 129
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:38",
+     "heat": "4",
+     "lane": "5",
+     "seedStr": "00:39.35",
+     "seedSeconds": 39.35
+    }
+   ]
   },
   "2011|דוידס·נתנאל": {
    "id": "2011|דוידס·נתנאל",
@@ -1603972,7 +1608481,22 @@ window.SWIM_DATA = {
      "points": 65
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:37",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "00:47.84",
+     "seedSeconds": 47.84
+    }
+   ]
   },
   "2015|איתי·קביטניצקי": {
    "id": "2015|איתי·קביטניצקי",
@@ -1604683,7 +1609207,22 @@ window.SWIM_DATA = {
      "points": 37
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:36",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "00:59.59",
+     "seedSeconds": 59.59
+    }
+   ]
   },
   "2013|איסקוב·צבי": {
    "id": "2013|איסקוב·צבי",
@@ -1604707,7 +1609246,22 @@ window.SWIM_DATA = {
      "points": 21
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:36",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "01:04.15",
+     "seedSeconds": 64.15
+    }
+   ]
   },
   "2016|ארמייב·עילאי": {
    "id": "2016|ארמייב·עילאי",
@@ -1605083,7 +1609637,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:36",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "01:19.28",
+     "seedSeconds": 79.28
+    }
+   ]
   },
   "2012|אמויאל·מיכאל": {
    "id": "2012|אמויאל·מיכאל",
@@ -1605257,7 +1609826,22 @@ window.SWIM_DATA = {
      "points": 42
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:36",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "00:56.22",
+     "seedSeconds": 56.22
+    }
+   ]
   },
   "2012|דניאל·חוברי": {
    "id": "2012|דניאל·חוברי",
@@ -1625763,7 +1630347,22 @@ window.SWIM_DATA = {
      "points": 138
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי תל אביב",
+     "startTime": "00:00",
+     "heat": "11",
+     "lane": "5",
+     "seedStr": "00:40.71",
+     "seedSeconds": 40.71
+    }
+   ]
   },
   "2016|ארי·שפיצר": {
    "id": "2016|ארי·שפיצר",
@@ -1629157,7 +1633756,36 @@ window.SWIM_DATA = {
      "points": 136
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "1",
+     "seedStr": "00:37.30",
+     "seedSeconds": 37.3
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|חוסיין·מוחמד": {
    "id": "2015|חוסיין·מוחמד",
@@ -1635764,7 +1640392,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:37",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "00:56.03",
+     "seedSeconds": 56.03
+    }
+   ]
   },
   "2016|מארק·שבצוב": {
    "id": "2016|מארק·שבצוב",
@@ -1636840,7 +1641483,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "timeStr": "00:30.37",
      "seconds": 30.37,
-     "place": "62",
+     "place": "63",
      "points": 281
     }
    ],
@@ -1656345,7 +1660988,8 @@ window.SWIM_DATA = {
    "displayName": "דן נוח",
    "birthYear": 2016,
    "clubs": [
-    "מכבי אושן חדרה"
+    "מכבי אושן חדרה",
+    "הפועל דולפין נתניה"
    ],
    "past": [
     {
@@ -1656492,7 +1661136,22 @@ window.SWIM_DATA = {
      "points": 86
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל דולפין נתניה",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "1",
+     "seedStr": "00:50.07",
+     "seedSeconds": 50.07
+    }
+   ]
   },
   "2018|אילון·ארוך·יאיר": {
    "id": "2018|אילון·ארוך·יאיר",
@@ -1664560,7 +1669219,36 @@ window.SWIM_DATA = {
      "points": 138
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "5",
+     "seedStr": "00:46.08",
+     "seedSeconds": 46.08
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|יהונתן·עשהאל": {
    "id": "2016|יהונתן·עשהאל",
@@ -1664662,7 +1669350,36 @@ window.SWIM_DATA = {
      "points": 92
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "3",
+     "seedStr": "00:43.83",
+     "seedSeconds": 43.83
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|בליאבין·רון": {
    "id": "2016|בליאבין·רון",
@@ -1664777,7 +1669494,36 @@ window.SWIM_DATA = {
      "points": 70
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "4",
+     "seedStr": "00:48.09",
+     "seedSeconds": 48.09
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 פרפר",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|גבריאל·עיטם": {
    "id": "2015|גבריאל·עיטם",
@@ -1664866,7 +1669612,22 @@ window.SWIM_DATA = {
      "points": 112
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|דניס·מקייב": {
    "id": "2015|דניס·מקייב",
@@ -1665443,7 +1670204,36 @@ window.SWIM_DATA = {
      "points": 193
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "5",
+     "seedStr": "00:36.84",
+     "seedSeconds": 36.84
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 פרפר",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|ניל·עבסאוי": {
    "id": "2017|ניל·עבסאוי",
@@ -1665608,7 +1670398,36 @@ window.SWIM_DATA = {
      "points": 180
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "2",
+     "seedStr": "00:43.59",
+     "seedSeconds": 43.59
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|ג'באלי·מישלין": {
    "id": "2016|ג'באלי·מישלין",
@@ -1665723,7 +1670542,36 @@ window.SWIM_DATA = {
      "points": 163
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "5",
+     "seedStr": "00:44.97",
+     "seedSeconds": 44.97
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "01:50.94",
+     "seedSeconds": 110.94
+    }
+   ]
   },
   "2013|אמארה·הייא": {
    "id": "2013|אמארה·הייא",
@@ -1665812,7 +1670660,22 @@ window.SWIM_DATA = {
      "points": 251
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "2",
+     "seedStr": "00:37.96",
+     "seedSeconds": 37.96
+    }
+   ]
   },
   "2016|נח'אש·ריתאל": {
    "id": "2016|נח'אש·ריתאל",
@@ -1665966,7 +1670829,36 @@ window.SWIM_DATA = {
      "points": 185
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "3",
+     "seedStr": "00:42.33",
+     "seedSeconds": 42.33
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|מרג'יה·קאתיה": {
    "id": "2017|מרג'יה·קאתיה",
@@ -1666695,7 +1671587,22 @@ window.SWIM_DATA = {
      "points": 120
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "00:52.56",
+     "seedSeconds": 52.56
+    }
+   ]
   },
   "2017|ליאן·קנאזע": {
    "id": "2017|ליאן·קנאזע",
@@ -1666938,7 +1671845,36 @@ window.SWIM_DATA = {
      "points": 200
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|אבו·ג'וד·ראס": {
    "id": "2015|אבו·ג'וד·ראס",
@@ -1667565,7 +1672501,36 @@ window.SWIM_DATA = {
      "points": 141
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "00:48.61",
+     "seedSeconds": 48.61
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|עואטף·קאסם": {
    "id": "2014|עואטף·קאסם",
@@ -1667667,7 +1672632,36 @@ window.SWIM_DATA = {
      "points": 189
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "1",
+     "seedStr": "00:45.76",
+     "seedSeconds": 45.76
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|ח'לייף·פאדיה": {
    "id": "2017|ח'לייף·פאדיה",
@@ -1668650,7 +1673644,22 @@ window.SWIM_DATA = {
      "points": 160
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|וסיליסה·קארזה": {
    "id": "2016|וסיליסה·קארזה",
@@ -1669561,7 +1674570,36 @@ window.SWIM_DATA = {
      "points": 129
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "15",
+     "lane": "2",
+     "seedStr": "00:35.89",
+     "seedSeconds": 35.89
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "1",
+     "seedStr": "01:34.11",
+     "seedSeconds": 94.11
+    }
+   ]
   },
   "2012|ויסאם·חטיב": {
    "id": "2012|ויסאם·חטיב",
@@ -1669854,7 +1674892,36 @@ window.SWIM_DATA = {
      "points": 70
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "10",
+     "lane": "2",
+     "seedStr": "00:42.03",
+     "seedSeconds": 42.03
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|לובוביץ·ליאור": {
    "id": "2016|לובוביץ·ליאור",
@@ -1670123,7 +1675190,36 @@ window.SWIM_DATA = {
      "points": 81
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "11",
+     "lane": "3",
+     "seedStr": "00:40.05",
+     "seedSeconds": 40.05
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "4",
+     "seedStr": "01:42.96",
+     "seedSeconds": 102.96
+    }
+   ]
   },
   "2013|דוד·משצ'נקו": {
    "id": "2013|דוד·משצ'נקו",
@@ -1671219,7 +1676315,36 @@ window.SWIM_DATA = {
      "points": 114
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "11",
+     "lane": "4",
+     "seedStr": "00:40.08",
+     "seedSeconds": 40.08
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|אבו·ג'ואד·ראס": {
    "id": "2016|אבו·ג'ואד·ראס",
@@ -1671436,7 +1676561,36 @@ window.SWIM_DATA = {
      "points": 102
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "3",
+     "seedStr": "00:47.06",
+     "seedSeconds": 47.06
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|זידנר·עמית": {
    "id": "2015|זידנר·עמית",
@@ -1671525,7 +1676679,36 @@ window.SWIM_DATA = {
      "points": 99
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "2",
+     "seedStr": "00:43.87",
+     "seedSeconds": 43.87
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 פרפר",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|יארוסלב·מסלניקוב": {
    "id": "2016|יארוסלב·מסלניקוב",
@@ -1671666,7 +1676849,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "1",
+     "seedStr": "00:52.57",
+     "seedSeconds": 52.57
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "01:48.17",
+     "seedSeconds": 108.17
+    }
+   ]
   },
   "2017|בורוליה·מייק": {
    "id": "2017|בורוליה·מייק",
@@ -1672282,7 +1677494,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "5",
+     "seedStr": "00:43.93",
+     "seedSeconds": 43.93
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|סולטאן·עבדאללה": {
    "id": "2017|סולטאן·עבדאללה",
@@ -1672961,7 +1678202,36 @@ window.SWIM_DATA = {
      "points": 126
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "10",
+     "lane": "1",
+     "seedStr": "00:43.50",
+     "seedSeconds": 43.5
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|מונדר·קסים": {
    "id": "2017|מונדר·קסים",
@@ -1673740,7 +1679010,36 @@ window.SWIM_DATA = {
      "points": 131
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|אבו·אמין·ראס": {
    "id": "2015|אבו·אמין·ראס",
@@ -1674367,7 +1679666,22 @@ window.SWIM_DATA = {
      "points": 61
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "5",
+     "seedStr": "00:50.63",
+     "seedSeconds": 50.63
+    }
+   ]
   },
   "2017|ג'ורג'·ח'ורי": {
    "id": "2017|ג'ורג'·ח'ורי",
@@ -1675777,7 +1681091,36 @@ window.SWIM_DATA = {
      "points": 64
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "5",
+     "seedStr": "1:1.55",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|ירין·מחמוד": {
    "id": "2017|ירין·מחמוד",
@@ -1675955,7 +1681298,22 @@ window.SWIM_DATA = {
      "points": 122
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי רמת הגולן",
+     "startTime": "00:00",
+     "heat": "13",
+     "lane": "5",
+     "seedStr": "00:38.50",
+     "seedSeconds": 38.5
+    }
+   ]
   },
   "2013|אחמד·סייד·עומרי": {
    "id": "2013|אחמד·סייד·עומרי",
@@ -1676068,7 +1681426,22 @@ window.SWIM_DATA = {
      "points": 140
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי רמת הגולן",
+     "startTime": "00:00",
+     "heat": "13",
+     "lane": "2",
+     "seedStr": "00:38.26",
+     "seedSeconds": 38.26
+    }
+   ]
   },
   "2016|נחלה·קינאן": {
    "id": "2016|נחלה·קינאן",
@@ -1676157,7 +1681530,22 @@ window.SWIM_DATA = {
      "points": 79
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי רמת הגולן",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "3",
+     "seedStr": "00:44.43",
+     "seedSeconds": 44.43
+    }
+   ]
   },
   "2017|זואי·נויקס": {
    "id": "2017|זואי·נויקס",
@@ -1677589,7 +1682977,36 @@ window.SWIM_DATA = {
      "points": 226
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל בית איל",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "01:36.80",
+     "seedSeconds": 96.8
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל בית איל",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "3",
+     "seedStr": "01:40.75",
+     "seedSeconds": 100.75
+    }
+   ]
   },
   "2014|אגמי·בן": {
    "id": "2014|אגמי·בן",
@@ -1678186,7 +1683603,36 @@ window.SWIM_DATA = {
      "points": 232
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל בית איל",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "3",
+     "seedStr": "00:37.55",
+     "seedSeconds": 37.55
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל בית איל",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "1",
+     "seedStr": "01:40.00",
+     "seedSeconds": 100.0
+    }
+   ]
   },
   "2015|נטע·צרור": {
    "id": "2015|נטע·צרור",
@@ -1678507,7 +1683953,36 @@ window.SWIM_DATA = {
      "points": 298
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל בית איל",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "4",
+     "seedStr": "00:36.49",
+     "seedSeconds": 36.49
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 פרפר",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל בית איל",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "01:36.95",
+     "seedSeconds": 96.95
+    }
+   ]
   },
   "2015|אפשטיין·גאיה": {
    "id": "2015|אפשטיין·גאיה",
@@ -1679995,7 +1685470,22 @@ window.SWIM_DATA = {
      "points": 62
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "2",
+     "seedStr": "00:58.43",
+     "seedSeconds": 58.43
+    }
+   ]
   },
   "2017|לב·קביטצינקי": {
    "id": "2017|לב·קביטצינקי",
@@ -1680121,7 +1685611,22 @@ window.SWIM_DATA = {
      "points": 64
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי רמת הגולן",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "2",
+     "seedStr": "00:49.06",
+     "seedSeconds": 49.06
+    }
+   ]
   },
   "2016|איאס·אסמאעיל": {
    "id": "2016|איאס·אסמאעיל",
@@ -1680197,7 +1685702,22 @@ window.SWIM_DATA = {
      "points": 63
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "3",
+     "seedStr": "00:52.64",
+     "seedSeconds": 52.64
+    }
+   ]
   },
   "2015|דאניאל·ורד": {
    "id": "2015|דאניאל·ורד",
@@ -1687212,7 +1692732,22 @@ window.SWIM_DATA = {
      "points": 77
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "5",
+     "seedStr": "00:53.26",
+     "seedSeconds": 53.26
+    }
+   ]
   },
   "2017|יוסיפוב·ינון": {
    "id": "2017|יוסיפוב·ינון",
@@ -1687455,7 +1692990,22 @@ window.SWIM_DATA = {
      "points": 74
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "3",
+     "seedStr": "00:55.34",
+     "seedSeconds": 55.34
+    }
+   ]
   },
   "2017|יובל·ניצני": {
    "id": "2017|יובל·ניצני",
@@ -1687570,7 +1693120,22 @@ window.SWIM_DATA = {
      "points": 55
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "4",
+     "seedStr": "00:56.50",
+     "seedSeconds": 56.5
+    }
+   ]
   },
   "2013|איתן·מיישלוס": {
    "id": "2013|איתן·מיישלוס",
@@ -1690150,7 +1695715,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל דולפין נתניה",
+     "startTime": "00:00",
+     "heat": "12",
+     "lane": "2",
+     "seedStr": "00:38.85",
+     "seedSeconds": 38.85
+    }
+   ]
   },
   "2017|יהונתן·רביעי": {
    "id": "2017|יהונתן·רביעי",
@@ -1690458,7 +1696038,22 @@ window.SWIM_DATA = {
      "points": 151
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל דולפין נתניה",
+     "startTime": "00:00",
+     "heat": "10",
+     "lane": "6",
+     "seedStr": "00:43.16",
+     "seedSeconds": 43.16
+    }
+   ]
   },
   "2017|נדב·סמוזיץ'": {
    "id": "2017|נדב·סמוזיץ'",
@@ -1690727,7 +1696322,22 @@ window.SWIM_DATA = {
      "points": 52
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל דולפין נתניה",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "5",
+     "seedStr": "00:46.63",
+     "seedSeconds": 46.63
+    }
+   ]
   },
   "2017|קרבקוב·שון": {
    "id": "2017|קרבקוב·שון",
@@ -1690868,7 +1696478,22 @@ window.SWIM_DATA = {
      "points": 122
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל דולפין נתניה",
+     "startTime": "00:00",
+     "heat": "10",
+     "lane": "1",
+     "seedStr": "00:43.04",
+     "seedSeconds": 43.04
+    }
+   ]
   },
   "2017|אדם·מיז'יריצקי": {
    "id": "2017|אדם·מיז'יריצקי",
@@ -1691009,7 +1696634,22 @@ window.SWIM_DATA = {
      "points": 66
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל דולפין נתניה",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "5",
+     "seedStr": "00:49.08",
+     "seedSeconds": 49.08
+    }
+   ]
   },
   "2017|דריה·שר": {
    "id": "2017|דריה·שר",
@@ -1691946,7 +1697586,22 @@ window.SWIM_DATA = {
      "points": 94
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל דולפין נתניה",
+     "startTime": "00:00",
+     "heat": "13",
+     "lane": "6",
+     "seedStr": "00:38.23",
+     "seedSeconds": 38.23
+    }
+   ]
   },
   "2016|מנדיוק·נועם": {
    "id": "2016|מנדיוק·נועם",
@@ -1692363,7 +1698018,8 @@ window.SWIM_DATA = {
    "displayName": "אוריאל יוסף כהן",
    "birthYear": 2016,
    "clubs": [
-    "הפועל דולפין נתניה"
+    "הפועל דולפין נתניה",
+    "ע.ל.ה עצמה רעננה"
    ],
    "past": [
     {
@@ -1692510,7 +1698166,22 @@ window.SWIM_DATA = {
      "points": 72
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "ע.ל.ה עצמה רעננה",
+     "startTime": "00:00",
+     "heat": "10",
+     "lane": "2",
+     "seedStr": "00:42.99",
+     "seedSeconds": 42.99
+    }
+   ]
   },
   "2016|סנדרו·שלומי": {
    "id": "2016|סנדרו·שלומי",
@@ -1692818,7 +1698489,22 @@ window.SWIM_DATA = {
      "points": 100
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל דולפין נתניה",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "5",
+     "seedStr": "00:58.94",
+     "seedSeconds": 58.94
+    }
+   ]
   },
   "2016|איתמר·בן·צבי": {
    "id": "2016|איתמר·בן·צבי",
@@ -1693098,7 +1698784,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל דולפין נתניה",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "6",
+     "seedStr": "00:50.07",
+     "seedSeconds": 50.07
+    }
+   ]
   },
   "2010|סברדליק·רון": {
    "id": "2010|סברדליק·רון",
@@ -1697041,7 +1702742,22 @@ window.SWIM_DATA = {
      "points": 100
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "16:37",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "00:42.87",
+     "seedSeconds": 42.87
+    }
+   ]
   },
   "2016|הודייה·פרדה": {
    "id": "2016|הודייה·פרדה",
@@ -1707053,7 +1712769,22 @@ window.SWIM_DATA = {
      "points": 150
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "startTime": "00:00",
+     "heat": "12",
+     "lane": "5",
+     "seedStr": "00:39.40",
+     "seedSeconds": 39.4
+    }
+   ]
   },
   "2017|ברכה·עתי": {
    "id": "2017|ברכה·עתי",
@@ -1707448,7 +1713179,22 @@ window.SWIM_DATA = {
      "points": 109
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל דולפין נתניה",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "4",
+     "seedStr": "00:45.07",
+     "seedSeconds": 45.07
+    }
+   ]
   },
   "2017|מיכל·ממוט": {
    "id": "2017|מיכל·ממוט",
@@ -1708217,7 +1713963,22 @@ window.SWIM_DATA = {
      "points": 67
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי תל אביב",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|אנגל·נועם·שמוטה": {
    "id": "2015|אנגל·נועם·שמוטה",
@@ -1708510,7 +1714271,22 @@ window.SWIM_DATA = {
      "points": 9
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי תל אביב",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "1",
+     "seedStr": "01:33.50",
+     "seedSeconds": 93.5
+    }
+   ]
   },
   "2016|מסרי·נביל": {
    "id": "2016|מסרי·נביל",
@@ -1709344,7 +1715120,22 @@ window.SWIM_DATA = {
      "points": 96
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "6",
+     "seedStr": "00:55.05",
+     "seedSeconds": 55.05
+    }
+   ]
   },
   "2016|ליאור·סגל": {
    "id": "2016|ליאור·סגל",
@@ -1712167,7 +1717958,22 @@ window.SWIM_DATA = {
      "points": 114
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "5",
+     "seedStr": "00:52.09",
+     "seedSeconds": 52.09
+    }
+   ]
   },
   "2015|אגבאריה·ליאן·תאמר": {
    "id": "2015|אגבאריה·ליאן·תאמר",
@@ -1712543,7 +1718349,22 @@ window.SWIM_DATA = {
      "points": 155
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי רמת הגולן",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "4",
+     "seedStr": "00:40.59",
+     "seedSeconds": 40.59
+    }
+   ]
   },
   "2016|אבו·ראפע·תיאם": {
    "id": "2016|אבו·ראפע·תיאם",
@@ -1712619,7 +1718440,22 @@ window.SWIM_DATA = {
      "points": 81
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי רמת הגולן",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "1",
+     "seedStr": "00:44.38",
+     "seedSeconds": 44.38
+    }
+   ]
   },
   "2016|אחמד·מישיל·סייד": {
    "id": "2016|אחמד·מישיל·סייד",
@@ -1712745,7 +1718581,22 @@ window.SWIM_DATA = {
      "points": 99
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי רמת הגולן",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "4",
+     "seedStr": "00:43.29",
+     "seedSeconds": 43.29
+    }
+   ]
   },
   "2015|אחמד·וורד·סייד": {
    "id": "2015|אחמד·וורד·סייד",
@@ -1713867,7 +1719718,22 @@ window.SWIM_DATA = {
      "points": 141
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "3",
+     "seedStr": "00:43.28",
+     "seedSeconds": 43.28
+    }
+   ]
   },
   "2016|איתן·דודוביץ·פוגל": {
    "id": "2016|איתן·דודוביץ·פוגל",
@@ -1718051,7 +1723917,8 @@ window.SWIM_DATA = {
    "displayName": "אלון קפלן",
    "birthYear": 2017,
    "clubs": [
-    "מכבי מרום רמת גן"
+    "מכבי מרום רמת גן",
+    "מכבי קרית אונו"
    ],
    "past": [
     {
@@ -1718133,7 +1724000,22 @@ window.SWIM_DATA = {
      "points": 59
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "1",
+     "seedStr": "00:54.13",
+     "seedSeconds": 54.13
+    }
+   ]
   },
   "2018|דיה·שרעבי": {
    "id": "2018|דיה·שרעבי",
@@ -1723336,7 +1729218,22 @@ window.SWIM_DATA = {
      "points": 73
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי תל אביב",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|יולי·פרבר": {
    "id": "2016|יולי·פרבר",
@@ -1723942,7 +1729839,36 @@ window.SWIM_DATA = {
      "points": 364
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|בדינטר·שי": {
    "id": "2014|בדינטר·שי",
@@ -1724031,7 +1729957,36 @@ window.SWIM_DATA = {
      "points": 229
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "16",
+     "lane": "5",
+     "seedStr": "00:34.42",
+     "seedSeconds": 34.42
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 פרפר",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|טליה·מיכל": {
    "id": "2014|טליה·מיכל",
@@ -1724924,7 +1730879,22 @@ window.SWIM_DATA = {
      "points": 52
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "startTime": "00:00",
+     "heat": "11",
+     "lane": "6",
+     "seedStr": "00:41.09",
+     "seedSeconds": 41.09
+    }
+   ]
   },
   "2014|ברק·ג'ולי": {
    "id": "2014|ברק·ג'ולי",
@@ -1724948,7 +1730918,22 @@ window.SWIM_DATA = {
      "points": 104
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי רמת הגולן",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "00:48.46",
+     "seedSeconds": 48.46
+    }
+   ]
   },
   "2012|אדוארד·אלולי·עבד": {
    "id": "2012|אדוארד·אלולי·עבד",
@@ -1725059,7 +1731044,22 @@ window.SWIM_DATA = {
      "points": 179
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:38",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "00:35.30",
+     "seedSeconds": 35.3
+    }
+   ]
   },
   "2014|רובינסקי·רותם": {
    "id": "2014|רובינסקי·רותם",
@@ -1725320,7 +1731320,36 @@ window.SWIM_DATA = {
      "points": 328
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל בית איל",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל בית איל",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "01:24.16",
+     "seedSeconds": 84.16
+    }
+   ]
   },
   "2017|הבר·רוני": {
    "id": "2017|הבר·רוני",
@@ -1741223,7 +1747252,22 @@ window.SWIM_DATA = {
      "points": 50
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|מורגנשטרן·רז": {
    "id": "2016|מורגנשטרן·רז",
@@ -1741343,7 +1747387,8 @@ window.SWIM_DATA = {
    "displayName": "אוסאמה חסן",
    "birthYear": 2015,
    "clubs": [
-    "הפועל כפר סבא ב. ב."
+    "הפועל כפר סבא ב. ב.",
+    "הפועל דולפין נתניה"
    ],
    "past": [
     {
@@ -1741373,7 +1747418,22 @@ window.SWIM_DATA = {
      "points": 65
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל דולפין נתניה",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|בן·קרבצנקו": {
    "id": "2017|בן·קרבצנקו",
@@ -1743009,7 +1749069,22 @@ window.SWIM_DATA = {
      "points": 115
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "startTime": "00:00",
+     "heat": "11",
+     "lane": "1",
+     "seedStr": "00:40.88",
+     "seedSeconds": 40.88
+    }
+   ]
   },
   "2014|אסף·רמר": {
    "id": "2014|אסף·רמר",
@@ -1743411,7 +1749486,22 @@ window.SWIM_DATA = {
      "points": 137
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "startTime": "00:00",
+     "heat": "16",
+     "lane": "1",
+     "seedStr": "00:34.63",
+     "seedSeconds": 34.63
+    }
+   ]
   },
   "2014|נועם·נתנוב": {
    "id": "2014|נועם·נתנוב",
@@ -1743731,7 +1749821,22 @@ window.SWIM_DATA = {
      "points": 71
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "2",
+     "seedStr": "00:48.95",
+     "seedSeconds": 48.95
+    }
+   ]
   },
   "2015|זכות·יהונתן": {
    "id": "2015|זכות·יהונתן",
@@ -1743866,7 +1749971,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2018|אמיליה·פיינברג": {
    "id": "2018|אמיליה·פיינברג",
@@ -1743962,7 +1750082,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:30",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2004|מיכל·פריבורקין": {
    "id": "2004|מיכל·פריבורקין",
@@ -1744370,7 +1750505,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:35",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|איתן·מוצניק": {
    "id": "2013|איתן·מוצניק",
@@ -1747866,15 +1754016,1842 @@ window.SWIM_DATA = {
     }
    ],
    "future": []
+  },
+  "2018|טיגאבו·עדיאל": {
+   "id": "2018|טיגאבו·עדיאל",
+   "displayName": "עדיאל טיגאבו",
+   "birthYear": 2018,
+   "clubs": [
+    "הפועל בית שמש"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:30",
+     "heat": "1",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2016|אסיף·גבריאלוף": {
+   "id": "2016|אסיף·גבריאלוף",
+   "displayName": "אסיף גבריאלוף",
+   "birthYear": 2016,
+   "clubs": [
+    "הפועל בית שמש"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:30",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2016|יעל·מושקוביץ": {
+   "id": "2016|יעל·מושקוביץ",
+   "displayName": "יעל מושקוביץ",
+   "birthYear": 2016,
+   "clubs": [
+    "הפועל בית שמש"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:30",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2016|אנה·נליס": {
+   "id": "2016|אנה·נליס",
+   "displayName": "אנה נליס",
+   "birthYear": 2016,
+   "clubs": [
+    "הפועל בית שמש"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:30",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2014|חזי·יהלי": {
+   "id": "2014|חזי·יהלי",
+   "displayName": "יהלי חזי",
+   "birthYear": 2014,
+   "clubs": [
+    "הפועל בית שמש"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:31",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "00:59.43",
+     "seedSeconds": 59.43
+    }
+   ]
+  },
+  "2016|דוד·פרולוטובסקי": {
+   "id": "2016|דוד·פרולוטובסקי",
+   "displayName": "דוד פרולוטובסקי",
+   "birthYear": 2016,
+   "clubs": [
+    "הפועל בית שמש"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:35",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2014|עומר·רוזנבלט": {
+   "id": "2014|עומר·רוזנבלט",
+   "displayName": "עומר רוזנבלט",
+   "birthYear": 2014,
+   "clubs": [
+    "הפועל בית שמש"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:35",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2010|אהרונוביץ·איתמר": {
+   "id": "2010|אהרונוביץ·איתמר",
+   "displayName": "איתמר אהרונוביץ",
+   "birthYear": 2010,
+   "clubs": [
+    "הפועל בית שמש"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:36",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2015|אילן·קטוק": {
+   "id": "2015|אילן·קטוק",
+   "displayName": "אילן קטוק",
+   "birthYear": 2015,
+   "clubs": [
+    "הפועל בית שמש"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "16:37",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "00:55.49",
+     "seedSeconds": 55.49
+    }
+   ]
+  },
+  "2016|דוח'אן·מינא": {
+   "id": "2016|דוח'אן·מינא",
+   "displayName": "מינא דוח'אן",
+   "birthYear": 2016,
+   "clubs": [
+    "מכבי נצרת"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2015|טליה·מזאוי": {
+   "id": "2015|טליה·מזאוי",
+   "displayName": "טליה מזאוי",
+   "birthYear": 2015,
+   "clubs": [
+    "מכבי נצרת"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2016|דנה·לולו": {
+   "id": "2016|דנה·לולו",
+   "displayName": "דנה לולו",
+   "birthYear": 2016,
+   "clubs": [
+    "מכבי נצרת"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2015|כוך·נויה": {
+   "id": "2015|כוך·נויה",
+   "displayName": "נויה כוך",
+   "birthYear": 2015,
+   "clubs": [
+    "הפועל אקווה נוף הגליל"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2015|נדאף·סלמה": {
+   "id": "2015|נדאף·סלמה",
+   "displayName": "סלמה נדאף",
+   "birthYear": 2015,
+   "clubs": [
+    "הפועל אקווה נוף הגליל"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2014|בבנוב·מאיה·פעולה": {
+   "id": "2014|בבנוב·מאיה·פעולה",
+   "displayName": "מאיה פעולה בבנוב",
+   "birthYear": 2014,
+   "clubs": [
+    "הפועל אקווה נוף הגליל"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2014|אסתר·אפטובסקי": {
+   "id": "2014|אסתר·אפטובסקי",
+   "displayName": "אסתר אפטובסקי",
+   "birthYear": 2014,
+   "clubs": [
+    "הפועל מ.א משגב"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2015|כנאנה·סארה": {
+   "id": "2015|כנאנה·סארה",
+   "displayName": "סארה כנאנה",
+   "birthYear": 2015,
+   "clubs": [
+    "הפועל אקווה נוף הגליל"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2014|דוח'אן·לורין": {
+   "id": "2014|דוח'אן·לורין",
+   "displayName": "לורין דוח'אן",
+   "birthYear": 2014,
+   "clubs": [
+    "מכבי נצרת"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2014|אטרש·טיבה": {
+   "id": "2014|אטרש·טיבה",
+   "displayName": "טיבה אטרש",
+   "birthYear": 2014,
+   "clubs": [
+    "הפועל אקווה נוף הגליל"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2012|גנאים·הלה·יזיד": {
+   "id": "2012|גנאים·הלה·יזיד",
+   "displayName": "הלה יזיד גנאים",
+   "birthYear": 2012,
+   "clubs": [
+    "הפועל מ.א משגב"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "12",
+     "lane": "2",
+     "seedStr": "00:30.93",
+     "seedSeconds": 30.93
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנות 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "3",
+     "seedStr": "01:16.50",
+     "seedSeconds": 76.5
+    }
+   ]
+  },
+  "2016|ג'וד·דרע": {
+   "id": "2016|ג'וד·דרע",
+   "displayName": "ג'וד דרע",
+   "birthYear": 2016,
+   "clubs": [
+    "מכבי נצרת"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2016|יוסף·פאהום": {
+   "id": "2016|יוסף·פאהום",
+   "displayName": "יוסף פאהום",
+   "birthYear": 2016,
+   "clubs": [
+    "מכבי נצרת"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2016|ריסין·תומר": {
+   "id": "2016|ריסין·תומר",
+   "displayName": "תומר ריסין",
+   "birthYear": 2016,
+   "clubs": [
+    "הפועל מ.א משגב"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2016|מוגרבי·מקסים": {
+   "id": "2016|מוגרבי·מקסים",
+   "displayName": "מקסים מוגרבי",
+   "birthYear": 2016,
+   "clubs": [
+    "מכבי רמת הגולן"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי רמת הגולן",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2015|אנס·חוסיני": {
+   "id": "2015|אנס·חוסיני",
+   "displayName": "אנס חוסיני",
+   "birthYear": 2015,
+   "clubs": [
+    "מכבי נצרת"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2015|ג'יקו·חמדאן": {
+   "id": "2015|ג'יקו·חמדאן",
+   "displayName": "ג'יקו חמדאן",
+   "birthYear": 2015,
+   "clubs": [
+    "מכבי נצרת"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2015|איאן·עוידאת": {
+   "id": "2015|איאן·עוידאת",
+   "displayName": "איאן עוידאת",
+   "birthYear": 2015,
+   "clubs": [
+    "מכבי רמת הגולן"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי רמת הגולן",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2015|סאחורי·עאמר": {
+   "id": "2015|סאחורי·עאמר",
+   "displayName": "עאמר סאחורי",
+   "birthYear": 2015,
+   "clubs": [
+    "מכבי נצרת"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2014|ג'רוס·סרי": {
+   "id": "2014|ג'רוס·סרי",
+   "displayName": "סרי ג'רוס",
+   "birthYear": 2014,
+   "clubs": [
+    "הפועל אקווה נוף הגליל"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2014|דניאל·טסלנקו": {
+   "id": "2014|דניאל·טסלנקו",
+   "displayName": "דניאל טסלנקו",
+   "birthYear": 2014,
+   "clubs": [
+    "מכבי נצרת"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2014|סלים·פאהום": {
+   "id": "2014|סלים·פאהום",
+   "displayName": "סלים פאהום",
+   "birthYear": 2014,
+   "clubs": [
+    "מכבי נצרת"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2014|סעדי·סראג'": {
+   "id": "2014|סעדי·סראג'",
+   "displayName": "סראג' סעדי",
+   "birthYear": 2014,
+   "clubs": [
+    "הפועל אקווה נוף הגליל"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2013|טנוס·ראוי": {
+   "id": "2013|טנוס·ראוי",
+   "displayName": "ראוי טנוס",
+   "birthYear": 2013,
+   "clubs": [
+    "מכבי נצרת"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2013|ח'ליליה·מהדי": {
+   "id": "2013|ח'ליליה·מהדי",
+   "displayName": "מהדי ח'ליליה",
+   "birthYear": 2013,
+   "clubs": [
+    "מכבי נצרת"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2014|אלברט·זהוה": {
+   "id": "2014|אלברט·זהוה",
+   "displayName": "אלברט זהוה",
+   "birthYear": 2014,
+   "clubs": [
+    "מכבי רמת הגולן"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי רמת הגולן",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2013|אחמד·חוסיני": {
+   "id": "2013|אחמד·חוסיני",
+   "displayName": "אחמד חוסיני",
+   "birthYear": 2013,
+   "clubs": [
+    "מכבי נצרת"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2013|ג'מיל·מרג'יה": {
+   "id": "2013|ג'מיל·מרג'יה",
+   "displayName": "ג'מיל מרג'יה",
+   "birthYear": 2013,
+   "clubs": [
+    "מכבי נצרת"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2013|אליאס·שלופה": {
+   "id": "2013|אליאס·שלופה",
+   "displayName": "אליאס שלופה",
+   "birthYear": 2013,
+   "clubs": [
+    "הפועל אקווה נוף הגליל"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2013|ג'אן·מרג'יה": {
+   "id": "2013|ג'אן·מרג'יה",
+   "displayName": "ג'אן מרג'יה",
+   "birthYear": 2013,
+   "clubs": [
+    "מכבי נצרת"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 מעורב אישי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2012|חסן·מוסא": {
+   "id": "2012|חסן·מוסא",
+   "displayName": "מוסא חסן",
+   "birthYear": 2012,
+   "clubs": [
+    "מכבי נצרת"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "100 גב",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי נצרת",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2015|באסם·מועמר": {
+   "id": "2015|באסם·מועמר",
+   "displayName": "באסם מועמר",
+   "birthYear": 2015,
+   "clubs": [
+    "הפועל אקווה נוף הגליל"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "הפועל אקווה נוף הגליל",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "4",
+     "seedStr": "00:54.85",
+     "seedSeconds": 54.85
+    }
+   ]
+  },
+  "2012|אוס·עמאשה": {
+   "id": "2012|אוס·עמאשה",
+   "displayName": "אוס עמאשה",
+   "birthYear": 2012,
+   "clubs": [
+    "מכבי רמת הגולן"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צפון ועמקים - 1 - 30/10/2026",
+     "compId": 15741,
+     "event": "50 חופשי",
+     "category": "בנים 11-15",
+     "poolLength": 25,
+     "club": "מכבי רמת הגולן",
+     "startTime": "00:00",
+     "heat": "11",
+     "lane": "5",
+     "seedStr": "00:41.35",
+     "seedSeconds": 41.35
+    }
+   ]
+  },
+  "2018|עומר·פורטנוי": {
+   "id": "2018|עומר·פורטנוי",
+   "displayName": "עומר פורטנוי",
+   "birthYear": 2018,
+   "clubs": [
+    "מכבי קרית אונו"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2018|נחשוני·רון": {
+   "id": "2018|נחשוני·רון",
+   "displayName": "רון נחשוני",
+   "birthYear": 2018,
+   "clubs": [
+    "מכבי קרית ביאליק"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2018|בארי·שייכט": {
+   "id": "2018|בארי·שייכט",
+   "displayName": "בארי שייכט",
+   "birthYear": 2018,
+   "clubs": [
+    "הפועל דולפין נתניה"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל דולפין נתניה",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2018|מרכוס·עמרי": {
+   "id": "2018|מרכוס·עמרי",
+   "displayName": "עמרי מרכוס",
+   "birthYear": 2018,
+   "clubs": [
+    "ע.ל.ה עצמה רעננה"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "ע.ל.ה עצמה רעננה",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2018|סטיבן·צומיק": {
+   "id": "2018|סטיבן·צומיק",
+   "displayName": "סטיבן צומיק",
+   "birthYear": 2018,
+   "clubs": [
+    "מכבי קרית ביאליק"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2017|אלכסיי·נובוזילוב": {
+   "id": "2017|אלכסיי·נובוזילוב",
+   "displayName": "אלכסיי נובוזילוב",
+   "birthYear": 2017,
+   "clubs": [
+    "מכבי תל אביב"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי תל אביב",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2017|אורי·לוי": {
+   "id": "2017|אורי·לוי",
+   "displayName": "אורי לוי",
+   "birthYear": 2017,
+   "clubs": [
+    "מכבי קרית ביאליק"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2018|ינאי·מש": {
+   "id": "2018|ינאי·מש",
+   "displayName": "ינאי מש",
+   "birthYear": 2018,
+   "clubs": [
+    "הפועל פתח תקווה"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2017|max·גנקין·מקס": {
+   "id": "2017|max·גנקין·מקס",
+   "displayName": "מקס max גנקין",
+   "birthYear": 2017,
+   "clubs": [
+    "מכבי קרית ביאליק"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2017|מאור·פינטו": {
+   "id": "2017|מאור·פינטו",
+   "displayName": "מאור פינטו",
+   "birthYear": 2017,
+   "clubs": [
+    "מכבי קרית ביאליק"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2017|איסטומין·טמיר": {
+   "id": "2017|איסטומין·טמיר",
+   "displayName": "טמיר איסטומין",
+   "birthYear": 2017,
+   "clubs": [
+    "מכבי תל אביב"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי תל אביב",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2017|חליפר·עילאי": {
+   "id": "2017|חליפר·עילאי",
+   "displayName": "עילאי חליפר",
+   "birthYear": 2017,
+   "clubs": [
+    "מכבי קרית ביאליק"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2017|אייל·מרדכי": {
+   "id": "2017|אייל·מרדכי",
+   "displayName": "אייל מרדכי",
+   "birthYear": 2017,
+   "clubs": [
+    "הפועל פתח תקווה"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2017|גנקין·דן": {
+   "id": "2017|גנקין·דן",
+   "displayName": "דן גנקין",
+   "birthYear": 2017,
+   "clubs": [
+    "מכבי קרית ביאליק"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2017|אדם·ארטיומוב": {
+   "id": "2017|אדם·ארטיומוב",
+   "displayName": "אדם ארטיומוב",
+   "birthYear": 2017,
+   "clubs": [
+    "הפועל פתח תקווה"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2017|אופיר·מנגל": {
+   "id": "2017|אופיר·מנגל",
+   "displayName": "אופיר מנגל",
+   "birthYear": 2017,
+   "clubs": [
+    "הפועל פתח תקווה"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2016|אדם·קוקוייב": {
+   "id": "2016|אדם·קוקוייב",
+   "displayName": "אדם קוקוייב",
+   "birthYear": 2016,
+   "clubs": [
+    "הפועל פתח תקווה"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2017|אובציניקוב·לוקה": {
+   "id": "2017|אובציניקוב·לוקה",
+   "displayName": "לוקה אובציניקוב",
+   "birthYear": 2017,
+   "clubs": [
+    "מכבי קרית ביאליק"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2016|אדם·כצמן": {
+   "id": "2016|אדם·כצמן",
+   "displayName": "אדם כצמן",
+   "birthYear": 2016,
+   "clubs": [
+    "הפועל פתח תקווה"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2015|אילן·קוגן": {
+   "id": "2015|אילן·קוגן",
+   "displayName": "אילן קוגן",
+   "birthYear": 2015,
+   "clubs": [
+    "הפועל פתח תקווה"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2014|איסייב·בן·ציון": {
+   "id": "2014|איסייב·בן·ציון",
+   "displayName": "בן ציון איסייב",
+   "birthYear": 2014,
+   "clubs": [
+    "הפועל פתח תקווה"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   }
  },
- "lastChecked": "2026-10-25 20:36",
- "newThisRun": 2606,
+ "lastChecked": "2026-10-26 22:31",
+ "newThisRun": 16,
  "newComps": [
   {
-   "name": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
-   "date": "2026-10-23",
-   "count": 2606
+   "name": "ליגה הפועל בית שמש - 22/10/2026",
+   "date": "2026-10-22",
+   "count": 16
   }
  ]
 };
