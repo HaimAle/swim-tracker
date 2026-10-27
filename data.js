@@ -1755845,13 +1755845,7 @@ window.SWIM_DATA = {
    ]
   }
  },
- "lastChecked": "2026-10-26 22:31",
- "newThisRun": 16,
- "newComps": [
-  {
-   "name": "ליגה הפועל בית שמש - 22/10/2026",
-   "date": "2026-10-22",
-   "count": 16
-  }
- ]
+ "lastChecked": "2026-10-27 22:01",
+ "newThisRun": 0,
+ "newComps": []
 };
