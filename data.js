@@ -1,6 +1,6 @@
 // Auto-generated from swim.db
 window.SWIM_DATA = {
- "generated": "2026-10-26",
+ "generated": "2026-10-30",
  "source": "isr.org.il  →  loglig.com  (SQLite backend)",
  "isSeedSample": false,
  "swimmerCount": 6712,
@@ -883964,19 +883964,6 @@ window.SWIM_DATA = {
      "points": 308
     },
     {
-     "date": "2026-10-22",
-     "competition": "ליגה הפועל בית שמש - 22/10/2026",
-     "compId": 15748,
-     "event": "100 מעורב אישי",
-     "category": "נשים 9-99",
-     "poolLength": 25,
-     "club": "הפועל ירושלים",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
-    },
-    {
      "date": "2026-10-23",
      "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
      "compId": 15875,
@@ -884001,9 +883988,7 @@ window.SWIM_DATA = {
      "seconds": 159.47,
      "place": "15",
      "points": 405
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -884012,13 +883997,13 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "16:49",
-     "heat": "3",
-     "lane": "2",
-     "seedStr": "01:20.99",
-     "seedSeconds": 80.99
+     "timeStr": "01:21.70",
+     "seconds": 81.7,
+     "place": "4",
+     "points": 306
     }
-   ]
+   ],
+   "future": []
   },
   "2012|חדד·תהל": {
    "id": "2012|חדד·תהל",
@@ -885171,19 +885156,6 @@ window.SWIM_DATA = {
      "points": 0
     },
     {
-     "date": "2026-10-22",
-     "competition": "ליגה הפועל בית שמש - 22/10/2026",
-     "compId": 15748,
-     "event": "100 מעורב אישי",
-     "category": "נשים 9-99",
-     "poolLength": 25,
-     "club": "הפועל ירושלים",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
-    },
-    {
      "date": "2026-10-23",
      "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
      "compId": 15875,
@@ -885208,9 +885180,7 @@ window.SWIM_DATA = {
      "seconds": 36.17,
      "place": "46",
      "points": 289
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -885219,13 +885189,13 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "16:49",
-     "heat": "3",
-     "lane": "6",
-     "seedStr": "01:24.97",
-     "seedSeconds": 84.97
+     "timeStr": "01:25.76",
+     "seconds": 85.76,
+     "place": "8",
+     "points": 265
     }
-   ]
+   ],
+   "future": []
   },
   "2013|יעל·רפלסקי": {
    "id": "2013|יעל·רפלסקי",
@@ -886016,21 +885986,6 @@ window.SWIM_DATA = {
      "points": 290
     },
     {
-     "date": "2026-10-22",
-     "competition": "ליגה הפועל בית שמש - 22/10/2026",
-     "compId": 15748,
-     "event": "100 מעורב אישי",
-     "category": "נשים 9-99",
-     "poolLength": 25,
-     "club": "הפועל ירושלים",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
-    }
-   ],
-   "future": [
-    {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
      "compId": 15748,
@@ -886038,13 +885993,13 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "16:47",
-     "heat": "2",
-     "lane": "3",
-     "seedStr": "01:25.57",
-     "seedSeconds": 85.57
+     "timeStr": "01:24.30",
+     "seconds": 84.3,
+     "place": "7",
+     "points": 279
     }
-   ]
+   ],
+   "future": []
   },
   "2013|גולדשטיין·הלל": {
    "id": "2013|גולדשטיין·הלל",
@@ -887302,20 +887257,18 @@ window.SWIM_DATA = {
      "points": 279
     },
     {
-     "date": "2026-10-22",
+     "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
      "compId": 15748,
      "event": "100 מעורב אישי",
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
-    }
-   ],
-   "future": [
+     "timeStr": "01:28.67",
+     "seconds": 88.67,
+     "place": "10",
+     "points": 240
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -887324,27 +887277,13 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "16:42",
-     "heat": "2",
-     "lane": "5",
-     "seedStr": "00:41.70",
-     "seedSeconds": 41.7
-    },
-    {
-     "date": "2026-10-29",
-     "competition": "ליגה הפועל בית שמש - 22/10/2026",
-     "compId": 15748,
-     "event": "100 מעורב אישי",
-     "category": "נשים 9-99",
-     "poolLength": 25,
-     "club": "הפועל ירושלים",
-     "startTime": "16:47",
-     "heat": "2",
-     "lane": "5",
-     "seedStr": "01:30.49",
-     "seedSeconds": 90.49
+     "timeStr": "00:43.79",
+     "seconds": 43.79,
+     "place": "4",
+     "points": 271
     }
-   ]
+   ],
+   "future": []
   },
   "2013|מושקוביץ·רננה": {
    "id": "2013|מושקוביץ·רננה",
@@ -888120,20 +888059,18 @@ window.SWIM_DATA = {
      "points": 203
     },
     {
-     "date": "2026-10-22",
+     "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
      "compId": 15748,
      "event": "100 מעורב אישי",
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
-    }
-   ],
-   "future": [
+     "timeStr": "01:36.62",
+     "seconds": 96.62,
+     "place": "13",
+     "points": 185
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -888142,27 +888079,13 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "16:42",
-     "heat": "2",
-     "lane": "6",
-     "seedStr": "00:52.73",
-     "seedSeconds": 52.73
-    },
-    {
-     "date": "2026-10-29",
-     "competition": "ליגה הפועל בית שמש - 22/10/2026",
-     "compId": 15748,
-     "event": "100 מעורב אישי",
-     "category": "נשים 9-99",
-     "poolLength": 25,
-     "club": "הפועל ירושלים",
-     "startTime": "16:45",
-     "heat": "1",
-     "lane": "3",
-     "seedStr": "01:36.66",
-     "seedSeconds": 96.66
+     "timeStr": "00:54.12",
+     "seconds": 54.12,
+     "place": "9",
+     "points": 144
     }
-   ]
+   ],
+   "future": []
   },
   "2013|אבן-חן·נויבואר·עדי": {
    "id": "2013|אבן-חן·נויבואר·עדי",
@@ -888797,20 +888720,18 @@ window.SWIM_DATA = {
      "points": 256
     },
     {
-     "date": "2026-10-22",
+     "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
      "compId": 15748,
      "event": "100 מעורב אישי",
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
-    }
-   ],
-   "future": [
+     "timeStr": "01:31.27",
+     "seconds": 91.27,
+     "place": "11",
+     "points": 220
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -888819,27 +888740,13 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "16:33",
-     "heat": "4",
-     "lane": "6",
-     "seedStr": "00:35.28",
-     "seedSeconds": 35.28
-    },
-    {
-     "date": "2026-10-29",
-     "competition": "ליגה הפועל בית שמש - 22/10/2026",
-     "compId": 15748,
-     "event": "100 מעורב אישי",
-     "category": "נשים 9-99",
-     "poolLength": 25,
-     "club": "הפועל ירושלים",
-     "startTime": "16:47",
-     "heat": "2",
-     "lane": "2",
-     "seedStr": "01:28.97",
-     "seedSeconds": 88.97
+     "timeStr": "00:36.56",
+     "seconds": 36.56,
+     "place": "11",
+     "points": 243
     }
-   ]
+   ],
+   "future": []
   },
   "2007|גולדשמיד·קטי": {
    "id": "2007|גולדשמיד·קטי",
@@ -889665,36 +889572,6 @@ window.SWIM_DATA = {
      "seconds": 32.08,
      "place": "7",
      "points": 360
-    }
-   ],
-   "future": [
-    {
-     "date": "2026-10-29",
-     "competition": "ליגה הפועל בית שמש - 22/10/2026",
-     "compId": 15748,
-     "event": "50 חופשי",
-     "category": "נשים 9-99",
-     "poolLength": 25,
-     "club": "הפועל בית שמש",
-     "startTime": "16:33",
-     "heat": "4",
-     "lane": "2",
-     "seedStr": "00:32.08",
-     "seedSeconds": 32.08
-    },
-    {
-     "date": "2026-10-29",
-     "competition": "ליגה הפועל בית שמש - 22/10/2026",
-     "compId": 15748,
-     "event": "50 חזה",
-     "category": "נשים 9-99",
-     "poolLength": 25,
-     "club": "הפועל בית שמש",
-     "startTime": "16:42",
-     "heat": "2",
-     "lane": "2",
-     "seedStr": "00:40.84",
-     "seedSeconds": 40.84
     },
     {
      "date": "2026-10-29",
@@ -889704,13 +889581,39 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:49",
-     "heat": "3",
-     "lane": "1",
-     "seedStr": "01:21.66",
-     "seedSeconds": 81.66
+     "timeStr": "01:24.00",
+     "seconds": 84.0,
+     "place": "6",
+     "points": 282
+    },
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "21",
+     "points": 0
+    },
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חזה",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "00:41.70",
+     "seconds": 41.7,
+     "place": "3",
+     "points": 314
     }
-   ]
+   ],
+   "future": []
   },
   "2008|ביבי·ישי": {
    "id": "2008|ביבי·ישי",
@@ -896641,19 +896544,6 @@ window.SWIM_DATA = {
      "points": 340
     },
     {
-     "date": "2026-10-22",
-     "competition": "ליגה הפועל בית שמש - 22/10/2026",
-     "compId": 15748,
-     "event": "100 מעורב אישי",
-     "category": "גברים 9-99",
-     "poolLength": 25,
-     "club": "הפועל ירושלים",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
-    },
-    {
      "date": "2026-10-23",
      "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
      "compId": 15875,
@@ -896665,9 +896555,7 @@ window.SWIM_DATA = {
      "seconds": 70.59,
      "place": "36",
      "points": 320
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -896676,13 +896564,13 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "16:53",
-     "heat": "2",
-     "lane": "4",
-     "seedStr": "01:10.00",
-     "seedSeconds": 70.0
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "10",
+     "points": 0
     }
-   ]
+   ],
+   "future": []
   },
   "2012|אדם·נוסיקובסקי": {
    "id": "2012|אדם·נוסיקובסקי",
@@ -897573,21 +897461,6 @@ window.SWIM_DATA = {
      "points": 273
     },
     {
-     "date": "2026-10-22",
-     "competition": "ליגה הפועל בית שמש - 22/10/2026",
-     "compId": 15748,
-     "event": "100 מעורב אישי",
-     "category": "גברים 9-99",
-     "poolLength": 25,
-     "club": "הפועל ירושלים",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
-    }
-   ],
-   "future": [
-    {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
      "compId": 15748,
@@ -897595,13 +897468,13 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "16:53",
-     "heat": "2",
-     "lane": "5",
-     "seedStr": "01:16.27",
-     "seedSeconds": 76.27
+     "timeStr": "01:16.72",
+     "seconds": 76.72,
+     "place": "3",
+     "points": 265
     }
-   ]
+   ],
+   "future": []
   },
   "2015|ירין·פרסי": {
    "id": "2015|ירין·פרסי",
@@ -898054,20 +897927,18 @@ window.SWIM_DATA = {
      "points": 136
     },
     {
-     "date": "2026-10-22",
+     "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
      "compId": 15748,
      "event": "100 מעורב אישי",
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
-    }
-   ],
-   "future": [
+     "timeStr": "01:36.14",
+     "seconds": 96.14,
+     "place": "8",
+     "points": 134
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -898076,27 +897947,13 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "16:44",
-     "heat": "2",
-     "lane": "5",
-     "seedStr": "00:52.02",
-     "seedSeconds": 52.02
-    },
-    {
-     "date": "2026-10-29",
-     "competition": "ליגה הפועל בית שמש - 22/10/2026",
-     "compId": 15748,
-     "event": "100 מעורב אישי",
-     "category": "גברים 9-99",
-     "poolLength": 25,
-     "club": "הפועל ירושלים",
-     "startTime": "16:51",
-     "heat": "1",
-     "lane": "5",
-     "seedStr": "01:39.30",
-     "seedSeconds": 99.3
+     "timeStr": "00:49.79",
+     "seconds": 49.79,
+     "place": "3",
+     "points": 125
     }
-   ]
+   ],
+   "future": []
   },
   "2015|בנימין·פיליפ·רוייטמן": {
    "id": "2015|בנימין·פיליפ·רוייטמן",
@@ -899546,20 +899403,18 @@ window.SWIM_DATA = {
      "points": 179
     },
     {
-     "date": "2026-10-22",
+     "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
      "compId": 15748,
      "event": "100 מעורב אישי",
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
-    }
-   ],
-   "future": [
+     "timeStr": "01:30.47",
+     "seconds": 90.47,
+     "place": "7",
+     "points": 161
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -899568,27 +899423,13 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "16:38",
-     "heat": "4",
-     "lane": "4",
-     "seedStr": "00:35.25",
-     "seedSeconds": 35.25
-    },
-    {
-     "date": "2026-10-29",
-     "competition": "ליגה הפועל בית שמש - 22/10/2026",
-     "compId": 15748,
-     "event": "100 מעורב אישי",
-     "category": "גברים 9-99",
-     "poolLength": 25,
-     "club": "הפועל ירושלים",
-     "startTime": "16:51",
-     "heat": "1",
-     "lane": "3",
-     "seedStr": "01:29.50",
-     "seedSeconds": 89.5
+     "timeStr": "00:35.60",
+     "seconds": 35.6,
+     "place": "10",
+     "points": 174
     }
-   ]
+   ],
+   "future": []
   },
   "2015|נריה·סמרלי": {
    "id": "2015|נריה·סמרלי",
@@ -899987,9 +899828,7 @@ window.SWIM_DATA = {
      "seconds": 39.78,
      "place": "24",
      "points": 125
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -899998,13 +899837,13 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "16:37",
-     "heat": "3",
-     "lane": "3",
-     "seedStr": "00:39.78",
-     "seedSeconds": 39.78
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "20",
+     "points": 0
     }
-   ]
+   ],
+   "future": []
   },
   "2009|ויינברג·מתתיהו": {
    "id": "2009|ויינברג·מתתיהו",
@@ -942277,19 +942116,6 @@ window.SWIM_DATA = {
      "points": 278
     },
     {
-     "date": "2026-10-22",
-     "competition": "ליגה הפועל בית שמש - 22/10/2026",
-     "compId": 15748,
-     "event": "100 מעורב אישי",
-     "category": "נשים 9-99",
-     "poolLength": 25,
-     "club": "הפועל ירושלים",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
-    },
-    {
      "date": "2026-10-23",
      "competition": "תחרות השחייה הארצית ע\"ש גל רודובסקי ועדן נימרי - 23/10/2026",
      "compId": 15875,
@@ -942314,22 +942140,6 @@ window.SWIM_DATA = {
      "seconds": 33.92,
      "place": "29",
      "points": 351
-    }
-   ],
-   "future": [
-    {
-     "date": "2026-10-29",
-     "competition": "ליגה הפועל בית שמש - 22/10/2026",
-     "compId": 15748,
-     "event": "50 חופשי",
-     "category": "נשים 9-99",
-     "poolLength": 25,
-     "club": "הפועל ירושלים",
-     "startTime": "16:33",
-     "heat": "4",
-     "lane": "5",
-     "seedStr": "00:33.56",
-     "seedSeconds": 33.56
     },
     {
      "date": "2026-10-29",
@@ -942339,13 +942149,26 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "16:45",
-     "heat": "1",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
+     "timeStr": "01:23.00",
+     "seconds": 83.0,
+     "place": "5",
+     "points": 292
+    },
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "00:34.94",
+     "seconds": 34.94,
+     "place": "8",
+     "points": 278
     }
-   ]
+   ],
+   "future": []
   },
   "2014|בואי·דינה·נטלי": {
    "id": "2014|בואי·דינה·נטלי",
@@ -942902,20 +942725,18 @@ window.SWIM_DATA = {
      "points": 305
     },
     {
-     "date": "2026-10-22",
+     "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
      "compId": 15748,
      "event": "100 מעורב אישי",
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
-    }
-   ],
-   "future": [
+     "timeStr": "01:27.26",
+     "seconds": 87.26,
+     "place": "9",
+     "points": 251
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -942924,27 +942745,13 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "16:33",
-     "heat": "4",
-     "lane": "1",
-     "seedStr": "00:33.91",
-     "seedSeconds": 33.91
-    },
-    {
-     "date": "2026-10-29",
-     "competition": "ליגה הפועל בית שמש - 22/10/2026",
-     "compId": 15748,
-     "event": "100 מעורב אישי",
-     "category": "נשים 9-99",
-     "poolLength": 25,
-     "club": "הפועל ירושלים",
-     "startTime": "16:47",
-     "heat": "2",
-     "lane": "4",
-     "seedStr": "01:27.87",
-     "seedSeconds": 87.87
+     "timeStr": "00:33.39",
+     "seconds": 33.39,
+     "place": "7",
+     "points": 319
     }
-   ]
+   ],
+   "future": []
   },
   "2015|אביגיל·לוי": {
    "id": "2015|אביגיל·לוי",
@@ -972700,20 +972507,18 @@ window.SWIM_DATA = {
      "points": 235
     },
     {
-     "date": "2026-10-22",
+     "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
      "compId": 15748,
      "event": "100 מעורב אישי",
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
-    }
-   ],
-   "future": [
+     "timeStr": "01:38.44",
+     "seconds": 98.44,
+     "place": "14",
+     "points": 175
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -972722,11 +972527,10 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "16:32",
-     "heat": "3",
-     "lane": "2",
-     "seedStr": "00:36.57",
-     "seedSeconds": 36.57
+     "timeStr": "00:37.00",
+     "seconds": 37.0,
+     "place": "12",
+     "points": 234
     },
     {
      "date": "2026-10-29",
@@ -972736,27 +972540,13 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "16:41",
-     "heat": "1",
-     "lane": "5",
-     "seedStr": "00:56.34",
-     "seedSeconds": 56.34
-    },
-    {
-     "date": "2026-10-29",
-     "competition": "ליגה הפועל בית שמש - 22/10/2026",
-     "compId": 15748,
-     "event": "100 מעורב אישי",
-     "category": "נשים 9-99",
-     "poolLength": 25,
-     "club": "הפועל ירושלים",
-     "startTime": "16:47",
-     "heat": "2",
-     "lane": "6",
-     "seedStr": "01:35.35",
-     "seedSeconds": 95.35
+     "timeStr": "00:53.19",
+     "seconds": 53.19,
+     "place": "8",
+     "points": 151
     }
-   ]
+   ],
+   "future": []
   },
   "2015|חודורוב·נויה": {
    "id": "2015|חודורוב·נויה",
@@ -973373,20 +973163,18 @@ window.SWIM_DATA = {
      "points": 181
     },
     {
-     "date": "2026-10-22",
+     "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
      "compId": 15748,
      "event": "100 מעורב אישי",
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
-    }
-   ],
-   "future": [
+     "timeStr": "01:47.90",
+     "seconds": 107.9,
+     "place": "15",
+     "points": 133
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -973395,27 +973183,13 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "16:41",
-     "heat": "1",
-     "lane": "2",
-     "seedStr": "00:55.94",
-     "seedSeconds": 55.94
-    },
-    {
-     "date": "2026-10-29",
-     "competition": "ליגה הפועל בית שמש - 22/10/2026",
-     "compId": 15748,
-     "event": "100 מעורב אישי",
-     "category": "נשים 9-99",
-     "poolLength": 25,
-     "club": "הפועל ירושלים",
-     "startTime": "16:45",
-     "heat": "1",
-     "lane": "4",
-     "seedStr": "01:47.90",
-     "seedSeconds": 107.9
+     "timeStr": "00:51.85",
+     "seconds": 51.85,
+     "place": "6",
+     "points": 163
     }
-   ]
+   ],
+   "future": []
   },
   "2015|מאי·קוקנוב": {
    "id": "2015|מאי·קוקנוב",
@@ -990972,9 +990746,7 @@ window.SWIM_DATA = {
      "seconds": 31.83,
      "place": "5",
      "points": 368
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -990983,11 +990755,10 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "16:33",
-     "heat": "4",
-     "lane": "4",
-     "seedStr": "00:31.58",
-     "seedSeconds": 31.58
+     "timeStr": "00:32.61",
+     "seconds": 32.61,
+     "place": "6",
+     "points": 343
     },
     {
      "date": "2026-10-29",
@@ -990997,13 +990768,13 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "16:42",
-     "heat": "2",
-     "lane": "1",
-     "seedStr": "00:51.94",
-     "seedSeconds": 51.94
+     "timeStr": "00:48.00",
+     "seconds": 48.0,
+     "place": "5",
+     "points": 206
     }
-   ]
+   ],
+   "future": []
   },
   "2012|בן·חיים·רוני": {
    "id": "2012|בן·חיים·רוני",
@@ -1013978,22 +1013749,6 @@ window.SWIM_DATA = {
      "seconds": 124.12,
      "place": "2",
      "points": 739
-    }
-   ],
-   "future": [
-    {
-     "date": "2026-10-29",
-     "competition": "ליגה הפועל בית שמש - 22/10/2026",
-     "compId": 15748,
-     "event": "50 חופשי",
-     "category": "נשים 9-99",
-     "poolLength": 25,
-     "club": "הפועל בית שמש",
-     "startTime": "16:34",
-     "heat": "5",
-     "lane": "2",
-     "seedStr": "00:25.70",
-     "seedSeconds": 25.7
     },
     {
      "date": "2026-10-29",
@@ -1014003,13 +1013758,26 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:49",
-     "heat": "3",
-     "lane": "3",
-     "seedStr": "01:10.60",
-     "seedSeconds": 70.6
+     "timeStr": "01:09.28",
+     "seconds": 69.28,
+     "place": "1",
+     "points": 503
+    },
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "00:27.00",
+     "seconds": 27.0,
+     "place": "1",
+     "points": 604
     }
-   ]
+   ],
+   "future": []
   },
   "2008|גרטופסקי·צוף": {
    "id": "2008|גרטופסקי·צוף",
@@ -1022729,22 +1022497,6 @@ window.SWIM_DATA = {
      "seconds": 31.51,
      "place": "4",
      "points": 380
-    }
-   ],
-   "future": [
-    {
-     "date": "2026-10-29",
-     "competition": "ליגה הפועל בית שמש - 22/10/2026",
-     "compId": 15748,
-     "event": "50 חופשי",
-     "category": "נשים 9-99",
-     "poolLength": 25,
-     "club": "הפועל בית שמש",
-     "startTime": "16:34",
-     "heat": "5",
-     "lane": "6",
-     "seedStr": "00:29.75",
-     "seedSeconds": 29.75
     },
     {
      "date": "2026-10-29",
@@ -1022754,13 +1022506,26 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:49",
-     "heat": "3",
-     "lane": "5",
-     "seedStr": "01:21.31",
-     "seedSeconds": 81.31
+     "timeStr": "01:20.70",
+     "seconds": 80.7,
+     "place": "3",
+     "points": 318
+    },
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "00:32.10",
+     "seconds": 32.1,
+     "place": "5",
+     "points": 359
     }
-   ]
+   ],
+   "future": []
   },
   "2009|אדלמן·ניצן": {
    "id": "2009|אדלמן·ניצן",
@@ -1030190,9 +1029955,7 @@ window.SWIM_DATA = {
      "seconds": 50.44,
      "place": "3",
      "points": 778
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1030201,13 +1029964,13 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:40",
-     "heat": "6",
-     "lane": "3",
-     "seedStr": "00:22.32",
-     "seedSeconds": 22.32
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "20",
+     "points": 0
     }
-   ]
+   ],
+   "future": []
   },
   "2007|ארז·דרור": {
    "id": "2007|ארז·דרור",
@@ -1039423,22 +1039186,6 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "44",
      "points": 0
-    }
-   ],
-   "future": [
-    {
-     "date": "2026-10-29",
-     "competition": "ליגה הפועל בית שמש - 22/10/2026",
-     "compId": 15748,
-     "event": "50 חופשי",
-     "category": "גברים 9-99",
-     "poolLength": 25,
-     "club": "הפועל בית שמש",
-     "startTime": "16:40",
-     "heat": "6",
-     "lane": "2",
-     "seedStr": "00:25.78",
-     "seedSeconds": 25.78
     },
     {
      "date": "2026-10-29",
@@ -1039448,13 +1039195,26 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:53",
-     "heat": "2",
-     "lane": "3",
-     "seedStr": "01:06.98",
-     "seedSeconds": 66.98
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "10",
+     "points": 0
+    },
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "20",
+     "points": 0
     }
-   ]
+   ],
+   "future": []
   },
   "2009|גוטנר-הוך·נועם": {
    "id": "2009|גוטנר-הוך·נועם",
@@ -1072393,9 +1072153,7 @@ window.SWIM_DATA = {
      "seconds": 26.84,
      "place": "3",
      "points": 407
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1072404,11 +1072162,10 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:40",
-     "heat": "6",
-     "lane": "1",
-     "seedStr": "00:26.84",
-     "seedSeconds": 26.84
+     "timeStr": "00:28.00",
+     "seconds": 28.0,
+     "place": "2",
+     "points": 358
     },
     {
      "date": "2026-10-29",
@@ -1072418,13 +1072175,13 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:44",
-     "heat": "2",
-     "lane": "3",
-     "seedStr": "00:34.78",
-     "seedSeconds": 34.78
+     "timeStr": "00:56.41",
+     "seconds": 56.41,
+     "place": "6",
+     "points": 86
     }
-   ]
+   ],
+   "future": []
   },
   "2011|חיזגילוב·ניסון": {
    "id": "2011|חיזגילוב·ניסון",
@@ -1079222,9 +1078979,7 @@ window.SWIM_DATA = {
      "seconds": 24.87,
      "place": "1",
      "points": 512
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1079233,11 +1078988,10 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:40",
-     "heat": "6",
-     "lane": "4",
-     "seedStr": "00:24.69",
-     "seedSeconds": 24.69
+     "timeStr": "00:25.06",
+     "seconds": 25.06,
+     "place": "1",
+     "points": 500
     },
     {
      "date": "2026-10-29",
@@ -1079247,13 +1079001,13 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:44",
-     "heat": "2",
-     "lane": "4",
-     "seedStr": "00:35.23",
-     "seedSeconds": 35.23
+     "timeStr": "00:34.72",
+     "seconds": 34.72,
+     "place": "1",
+     "points": 371
     }
-   ]
+   ],
+   "future": []
   },
   "2007|אלטרמן·זיו": {
    "id": "2007|אלטרמן·זיו",
@@ -1214607,7 +1214361,36 @@ window.SWIM_DATA = {
      "points": 331
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צעירים מספר 1 - מכבי חיפה",
+     "compId": 15897,
+     "event": "100 חזה",
+     "category": "בנים 10-14",
+     "poolLength": 25,
+     "club": "מכבי נהריה",
+     "startTime": "14:33",
+     "heat": "1",
+     "lane": "8",
+     "seedStr": "01:32.44",
+     "seedSeconds": 92.44
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צעירים מספר 1 - מכבי חיפה",
+     "compId": 15897,
+     "event": "200 חופשי",
+     "category": "בנים 10-14",
+     "poolLength": 25,
+     "club": "מכבי נהריה",
+     "startTime": "15:11",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "02:30.62",
+     "seedSeconds": 150.62
+    }
+   ]
   },
   "2014|דור·שניר": {
    "id": "2014|דור·שניר",
@@ -1234432,22 +1234215,6 @@ window.SWIM_DATA = {
      "seconds": 29.53,
      "place": "1",
      "points": 462
-    }
-   ],
-   "future": [
-    {
-     "date": "2026-10-29",
-     "competition": "ליגה הפועל בית שמש - 22/10/2026",
-     "compId": 15748,
-     "event": "50 חופשי",
-     "category": "נשים 9-99",
-     "poolLength": 25,
-     "club": "הפועל בית שמש",
-     "startTime": "16:34",
-     "heat": "5",
-     "lane": "5",
-     "seedStr": "00:29.10",
-     "seedSeconds": 29.1
     },
     {
      "date": "2026-10-29",
@@ -1234457,13 +1234224,26 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:49",
-     "heat": "3",
-     "lane": "4",
-     "seedStr": "01:14.31",
-     "seedSeconds": 74.31
+     "timeStr": "01:15.20",
+     "seconds": 75.2,
+     "place": "2",
+     "points": 393
+    },
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "00:29.13",
+     "seconds": 29.13,
+     "place": "2",
+     "points": 481
     }
-   ]
+   ],
+   "future": []
   },
   "2013|גוטמן·יובל": {
    "id": "2013|גוטמן·יובל",
@@ -1240483,22 +1240263,6 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "43",
      "points": 0
-    }
-   ],
-   "future": [
-    {
-     "date": "2026-10-29",
-     "competition": "ליגה הפועל בית שמש - 22/10/2026",
-     "compId": 15748,
-     "event": "50 חופשי",
-     "category": "גברים 9-99",
-     "poolLength": 25,
-     "club": "הפועל בית שמש",
-     "startTime": "16:39",
-     "heat": "5",
-     "lane": "5",
-     "seedStr": "00:32.69",
-     "seedSeconds": 32.69
     },
     {
      "date": "2026-10-29",
@@ -1240508,13 +1240272,26 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:53",
-     "heat": "2",
-     "lane": "6",
-     "seedStr": "01:20.28",
-     "seedSeconds": 80.28
+     "timeStr": "01:18.74",
+     "seconds": 78.74,
+     "place": "4",
+     "points": 245
+    },
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "00:34.00",
+     "seconds": 34.0,
+     "place": "8",
+     "points": 200
     }
-   ]
+   ],
+   "future": []
   },
   "2013|יואב·לוי": {
    "id": "2013|יואב·לוי",
@@ -1242343,22 +1242120,6 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "44",
      "points": 0
-    }
-   ],
-   "future": [
-    {
-     "date": "2026-10-29",
-     "competition": "ליגה הפועל בית שמש - 22/10/2026",
-     "compId": 15748,
-     "event": "50 חופשי",
-     "category": "גברים 9-99",
-     "poolLength": 25,
-     "club": "הפועל בית שמש",
-     "startTime": "16:39",
-     "heat": "5",
-     "lane": "6",
-     "seedStr": "00:33.79",
-     "seedSeconds": 33.79
     },
     {
      "date": "2026-10-29",
@@ -1242368,13 +1242129,26 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:51",
-     "heat": "1",
-     "lane": "4",
-     "seedStr": "01:36.78",
-     "seedSeconds": 96.78
+     "timeStr": "01:28.93",
+     "seconds": 88.93,
+     "place": "6",
+     "points": 170
+    },
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "00:33.97",
+     "seconds": 33.97,
+     "place": "7",
+     "points": 201
     }
-   ]
+   ],
+   "future": []
   },
   "2012|אלעטאונה·עואד": {
    "id": "2012|אלעטאונה·עואד",
@@ -1251080,9 +1250854,7 @@ window.SWIM_DATA = {
      "seconds": 30.4,
      "place": "3",
      "points": 423
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1251091,11 +1250863,10 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:33",
-     "heat": "4",
-     "lane": "3",
-     "seedStr": "00:30.40",
-     "seedSeconds": 30.4
+     "timeStr": "00:30.28",
+     "seconds": 30.28,
+     "place": "3",
+     "points": 428
     },
     {
      "date": "2026-10-29",
@@ -1251105,13 +1250876,13 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:42",
-     "heat": "2",
-     "lane": "4",
-     "seedStr": "00:40.81",
-     "seedSeconds": 40.81
+     "timeStr": "00:41.66",
+     "seconds": 41.66,
+     "place": "2",
+     "points": 315
     }
-   ]
+   ],
+   "future": []
   },
   "2013|אביגדורי·רומי": {
    "id": "2013|אביגדורי·רומי",
@@ -1252561,22 +1252332,6 @@ window.SWIM_DATA = {
      "seconds": 35.99,
      "place": "17",
      "points": 255
-    }
-   ],
-   "future": [
-    {
-     "date": "2026-10-29",
-     "competition": "ליגה הפועל בית שמש - 22/10/2026",
-     "compId": 15748,
-     "event": "50 חופשי",
-     "category": "נשים 9-99",
-     "poolLength": 25,
-     "club": "הפועל בית שמש",
-     "startTime": "16:32",
-     "heat": "3",
-     "lane": "3",
-     "seedStr": "00:35.99",
-     "seedSeconds": 35.99
     },
     {
      "date": "2026-10-29",
@@ -1252586,13 +1252341,26 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:47",
-     "heat": "2",
-     "lane": "1",
-     "seedStr": "01:32.91",
-     "seedSeconds": 92.91
+     "timeStr": "01:35.09",
+     "seconds": 95.09,
+     "place": "12",
+     "points": 194
+    },
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "00:35.15",
+     "seconds": 35.15,
+     "place": "9",
+     "points": 273
     }
-   ]
+   ],
+   "future": []
   },
   "2012|טרויאק·ליאור": {
    "id": "2012|טרויאק·ליאור",
@@ -1254224,22 +1253992,6 @@ window.SWIM_DATA = {
      "seconds": 26.8,
      "place": "2",
      "points": 409
-    }
-   ],
-   "future": [
-    {
-     "date": "2026-10-29",
-     "competition": "ליגה הפועל בית שמש - 22/10/2026",
-     "compId": 15748,
-     "event": "50 חופשי",
-     "category": "גברים 9-99",
-     "poolLength": 25,
-     "club": "הפועל בית שמש",
-     "startTime": "16:40",
-     "heat": "6",
-     "lane": "5",
-     "seedStr": "00:26.80",
-     "seedSeconds": 26.8
     },
     {
      "date": "2026-10-29",
@@ -1254249,13 +1254001,26 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:53",
-     "heat": "2",
-     "lane": "2",
-     "seedStr": "01:12.25",
-     "seedSeconds": 72.25
+     "timeStr": "01:15.67",
+     "seconds": 75.67,
+     "place": "1",
+     "points": 276
+    },
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "00:28.12",
+     "seconds": 28.12,
+     "place": "3",
+     "points": 354
     }
-   ]
+   ],
+   "future": []
   },
   "2013|אומנסקי·שון": {
    "id": "2013|אומנסקי·שון",
@@ -1256237,22 +1256002,6 @@ window.SWIM_DATA = {
      "seconds": 29.89,
      "place": "7",
      "points": 295
-    }
-   ],
-   "future": [
-    {
-     "date": "2026-10-29",
-     "competition": "ליגה הפועל בית שמש - 22/10/2026",
-     "compId": 15748,
-     "event": "50 חופשי",
-     "category": "גברים 9-99",
-     "poolLength": 25,
-     "club": "הפועל בית שמש",
-     "startTime": "16:39",
-     "heat": "5",
-     "lane": "4",
-     "seedStr": "00:29.89",
-     "seedSeconds": 29.89
     },
     {
      "date": "2026-10-29",
@@ -1256262,13 +1256011,26 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:53",
-     "heat": "2",
-     "lane": "1",
-     "seedStr": "01:16.69",
-     "seedSeconds": 76.69
+     "timeStr": "01:16.48",
+     "seconds": 76.48,
+     "place": "2",
+     "points": 267
+    },
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "00:36.39",
+     "seconds": 36.39,
+     "place": "11",
+     "points": 163
     }
-   ]
+   ],
+   "future": []
   },
   "2014|עידו·קורבטוב": {
    "id": "2014|עידו·קורבטוב",
@@ -1256823,22 +1256585,6 @@ window.SWIM_DATA = {
      "seconds": 175.89,
      "place": "21",
      "points": 257
-    }
-   ],
-   "future": [
-    {
-     "date": "2026-10-29",
-     "competition": "ליגה הפועל בית שמש - 22/10/2026",
-     "compId": 15748,
-     "event": "50 חופשי",
-     "category": "גברים 9-99",
-     "poolLength": 25,
-     "club": "הפועל בית שמש",
-     "startTime": "16:38",
-     "heat": "4",
-     "lane": "3",
-     "seedStr": "00:33.84",
-     "seedSeconds": 33.84
     },
     {
      "date": "2026-10-29",
@@ -1256848,13 +1256594,26 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:51",
-     "heat": "1",
-     "lane": "6",
-     "seedStr": "NT",
-     "seedSeconds": null
+     "timeStr": "01:27.77",
+     "seconds": 87.77,
+     "place": "5",
+     "points": 177
+    },
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "00:34.08",
+     "seconds": 34.08,
+     "place": "9",
+     "points": 199
     }
-   ]
+   ],
+   "future": []
   },
   "2014|יאן·קרסלידזה": {
    "id": "2014|יאן·קרסלידזה",
@@ -1257396,9 +1257155,7 @@ window.SWIM_DATA = {
      "seconds": 33.34,
      "place": "12",
      "points": 212
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1257407,11 +1257164,10 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:39",
-     "heat": "5",
-     "lane": "1",
-     "seedStr": "00:33.34",
-     "seedSeconds": 33.34
+     "timeStr": "00:33.50",
+     "seconds": 33.5,
+     "place": "6",
+     "points": 209
     },
     {
      "date": "2026-10-29",
@@ -1257421,13 +1257177,13 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:44",
-     "heat": "2",
-     "lane": "2",
-     "seedStr": "00:51.76",
-     "seedSeconds": 51.76
+     "timeStr": "00:42.90",
+     "seconds": 42.9,
+     "place": "2",
+     "points": 196
     }
-   ]
+   ],
+   "future": []
   },
   "2015|איתי·נסים": {
    "id": "2015|איתי·נסים",
@@ -1385583,9 +1385339,7 @@ window.SWIM_DATA = {
      "seconds": 36.53,
      "place": "18",
      "points": 244
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1385594,11 +1385348,10 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:32",
-     "heat": "3",
-     "lane": "4",
-     "seedStr": "00:36.28",
-     "seedSeconds": 36.28
+     "timeStr": "00:35.90",
+     "seconds": 35.9,
+     "place": "10",
+     "points": 257
     },
     {
      "date": "2026-10-29",
@@ -1385608,13 +1385361,13 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:41",
-     "heat": "1",
-     "lane": "3",
-     "seedStr": "00:53.92",
-     "seedSeconds": 53.92
+     "timeStr": "00:53.00",
+     "seconds": 53.0,
+     "place": "7",
+     "points": 153
     }
-   ]
+   ],
+   "future": []
   },
   "2008|חלואני·רים": {
    "id": "2008|חלואני·רים",
@@ -1386136,9 +1385889,7 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "18",
      "points": 0
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1386147,13 +1385898,13 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:37",
-     "heat": "3",
-     "lane": "2",
-     "seedStr": "00:44.78",
-     "seedSeconds": 44.78
+     "timeStr": "00:46.36",
+     "seconds": 46.36,
+     "place": "16",
+     "points": 79
     }
-   ]
+   ],
+   "future": []
   },
   "2015|גילי·רוטנשטיין": {
    "id": "2015|גילי·רוטנשטיין",
@@ -1427786,7 +1427537,7 @@ window.SWIM_DATA = {
      "points": 298
     },
     {
-     "date": "2026-10-22",
+     "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
      "compId": 15748,
      "event": "100 מעורב אישי",
@@ -1427795,11 +1427546,9 @@ window.SWIM_DATA = {
      "club": "הפועל ירושלים",
      "timeStr": "NS",
      "seconds": null,
-     "place": "1",
+     "place": "10",
      "points": 0
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1427808,27 +1427557,13 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "16:39",
-     "heat": "5",
-     "lane": "3",
-     "seedStr": "00:29.77",
-     "seedSeconds": 29.77
-    },
-    {
-     "date": "2026-10-29",
-     "competition": "ליגה הפועל בית שמש - 22/10/2026",
-     "compId": 15748,
-     "event": "100 מעורב אישי",
-     "category": "גברים 9-99",
-     "poolLength": 25,
-     "club": "הפועל ירושלים",
-     "startTime": "16:51",
-     "heat": "1",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "20",
+     "points": 0
     }
-   ]
+   ],
+   "future": []
   },
   "2013|גבריאל·גריג": {
    "id": "2013|גבריאל·גריג",
@@ -1454056,7 +1453791,36 @@ window.SWIM_DATA = {
      "points": 212
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צעירים מספר 1 - מכבי חיפה",
+     "compId": 15897,
+     "event": "100 מעורב אישי",
+     "category": "בנים 10-14",
+     "poolLength": 25,
+     "club": "מכבי נהריה",
+     "startTime": "13:02",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "01:28.47",
+     "seedSeconds": 88.47
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צעירים מספר 1 - מכבי חיפה",
+     "compId": 15897,
+     "event": "100 חזה",
+     "category": "בנים 10-14",
+     "poolLength": 25,
+     "club": "מכבי נהריה",
+     "startTime": "14:33",
+     "heat": "1",
+     "lane": "1",
+     "seedStr": "01:43.52",
+     "seedSeconds": 103.52
+    }
+   ]
   },
   "2014|אבו·עטא·ראדי": {
    "id": "2014|אבו·עטא·ראדי",
@@ -1509345,9 +1509109,7 @@ window.SWIM_DATA = {
      "seconds": 29.69,
      "place": "2",
      "points": 454
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1509356,11 +1509118,10 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:34",
-     "heat": "5",
-     "lane": "1",
-     "seedStr": "00:29.69",
-     "seedSeconds": 29.69
+     "timeStr": "00:30.69",
+     "seconds": 30.69,
+     "place": "4",
+     "points": 411
     },
     {
      "date": "2026-10-29",
@@ -1509370,13 +1509131,13 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:42",
-     "heat": "2",
-     "lane": "3",
-     "seedStr": "00:37.23",
-     "seedSeconds": 37.23
+     "timeStr": "00:38.36",
+     "seconds": 38.36,
+     "place": "1",
+     "points": 404
     }
-   ]
+   ],
+   "future": []
   },
   "2011|ברמן·עידן": {
    "id": "2011|ברמן·עידן",
@@ -1552994,6 +1552755,20 @@ window.SWIM_DATA = {
      "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צעירים מספר 1 - מכבי חיפה",
+     "compId": 15897,
+     "event": "200 גב",
+     "category": "בנות 10-13",
+     "poolLength": 25,
+     "club": "מכבי חיפה",
+     "startTime": "13:42",
+     "heat": "1",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
     }
    ]
   },
@@ -1558149,6 +1557924,20 @@ window.SWIM_DATA = {
      "startTime": "13:09",
      "heat": "4",
      "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צעירים מספר 1 - מכבי חיפה",
+     "compId": 15897,
+     "event": "100 פרפר",
+     "category": "בנים 10-14",
+     "poolLength": 25,
+     "club": "מכבי חיפה",
+     "startTime": "13:32",
+     "heat": "1",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1592593,8 +1592382,8 @@ window.SWIM_DATA = {
      "startTime": "13:23",
      "heat": "3",
      "lane": "4",
-     "seedStr": "00:48.79",
-     "seedSeconds": 48.79
+     "seedStr": "00:46.54",
+     "seedSeconds": 46.54
     }
    ]
   },
@@ -1595400,8 +1595189,8 @@ window.SWIM_DATA = {
      "startTime": "13:30",
      "heat": "4",
      "lane": "3",
-     "seedStr": "00:44.66",
-     "seedSeconds": 44.66
+     "seedStr": "00:43.35",
+     "seedSeconds": 43.35
     }
    ]
   },
@@ -1596299,8 +1596088,8 @@ window.SWIM_DATA = {
      "startTime": "13:29",
      "heat": "3",
      "lane": "5",
-     "seedStr": "00:49.70",
-     "seedSeconds": 49.7
+     "seedStr": "00:44.61",
+     "seedSeconds": 44.61
     }
    ]
   },
@@ -1596547,8 +1596336,8 @@ window.SWIM_DATA = {
      "startTime": "13:29",
      "heat": "3",
      "lane": "6",
-     "seedStr": "00:51.46",
-     "seedSeconds": 51.46
+     "seedStr": "00:41.67",
+     "seedSeconds": 41.67
     }
    ]
   },
@@ -1613604,20 +1613393,18 @@ window.SWIM_DATA = {
      "points": 154
     },
     {
-     "date": "2026-10-22",
+     "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
      "compId": 15748,
      "event": "100 מעורב אישי",
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
-    }
-   ],
-   "future": [
+     "timeStr": "01:36.74",
+     "seconds": 96.74,
+     "place": "9",
+     "points": 132
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1613626,27 +1613413,13 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "16:43",
-     "heat": "1",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-10-29",
-     "competition": "ליגה הפועל בית שמש - 22/10/2026",
-     "compId": 15748,
-     "event": "100 מעורב אישי",
-     "category": "גברים 9-99",
-     "poolLength": 25,
-     "club": "הפועל ירושלים",
-     "startTime": "16:51",
-     "heat": "1",
-     "lane": "2",
-     "seedStr": "01:39.06",
-     "seedSeconds": 99.06
+     "timeStr": "00:50.70",
+     "seconds": 50.7,
+     "place": "4",
+     "points": 119
     }
-   ]
+   ],
+   "future": []
   },
   "2017|אמיתי·דדוש": {
    "id": "2017|אמיתי·דדוש",
@@ -1613928,9 +1613701,7 @@ window.SWIM_DATA = {
      "seconds": 53.7,
      "place": "8",
      "points": 112
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1613939,11 +1613710,10 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:38",
-     "heat": "4",
-     "lane": "6",
-     "seedStr": "00:39.63",
-     "seedSeconds": 39.63
+     "timeStr": "00:38.45",
+     "seconds": 38.45,
+     "place": "13",
+     "points": 138
     },
     {
      "date": "2026-10-29",
@@ -1613953,13 +1613723,13 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:43",
-     "heat": "1",
-     "lane": "3",
-     "seedStr": "00:55.45",
-     "seedSeconds": 55.45
+     "timeStr": "00:52.41",
+     "seconds": 52.41,
+     "place": "5",
+     "points": 107
     }
-   ]
+   ],
+   "future": []
   },
   "2017|וילמיזר·צורי": {
    "id": "2017|וילמיזר·צורי",
@@ -1615226,9 +1614996,7 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "43",
      "points": 0
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1615237,13 +1615005,13 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "16:41",
-     "heat": "1",
-     "lane": "4",
-     "seedStr": "00:54.44",
-     "seedSeconds": 54.44
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "10",
+     "points": 0
     }
-   ]
+   ],
+   "future": []
   },
   "2016|לייבסקי·מרק": {
    "id": "2016|לייבסקי·מרק",
@@ -1615631,9 +1615399,7 @@ window.SWIM_DATA = {
      "seconds": 52.96,
      "place": "23",
      "points": 80
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1615642,13 +1615408,13 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:34",
-     "heat": "5",
-     "lane": "4",
-     "seedStr": "00:05.66",
-     "seedSeconds": 5.66
+     "timeStr": "00:44.61",
+     "seconds": 44.61,
+     "place": "15",
+     "points": 134
     }
-   ]
+   ],
+   "future": []
   },
   "2016|אילנה·גסל": {
    "id": "2016|אילנה·גסל",
@@ -1616114,9 +1615880,7 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "48",
      "points": 0
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1616125,13 +1615889,13 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:34",
-     "heat": "5",
-     "lane": "3",
-     "seedStr": "00:05.59",
-     "seedSeconds": 5.59
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "21",
+     "points": 0
     }
-   ]
+   ],
+   "future": []
   },
   "2013|ליאל·שלם": {
    "id": "2013|ליאל·שלם",
@@ -1616268,9 +1616032,7 @@ window.SWIM_DATA = {
      "seconds": 46.5,
      "place": "16",
      "points": 118
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1616279,13 +1616041,13 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:32",
-     "heat": "3",
-     "lane": "1",
-     "seedStr": "00:44.03",
-     "seedSeconds": 44.03
+     "timeStr": "00:43.57",
+     "seconds": 43.57,
+     "place": "14",
+     "points": 143
     }
-   ]
+   ],
+   "future": []
   },
   "2012|יחזאל·רומי": {
    "id": "2012|יחזאל·רומי",
@@ -1616409,9 +1616171,7 @@ window.SWIM_DATA = {
      "seconds": 46.46,
      "place": "15",
      "points": 118
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1616420,13 +1616180,13 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:32",
-     "heat": "3",
-     "lane": "5",
-     "seedStr": "00:40.09",
-     "seedSeconds": 40.09
+     "timeStr": "00:42.46",
+     "seconds": 42.46,
+     "place": "13",
+     "points": 155
     }
-   ]
+   ],
+   "future": []
   },
   "2014|אביגייל·שטיצר": {
    "id": "2014|אביגייל·שטיצר",
@@ -1616487,9 +1616247,7 @@ window.SWIM_DATA = {
      "seconds": 45.78,
      "place": "14",
      "points": 124
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1616498,13 +1616256,13 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:32",
-     "heat": "3",
-     "lane": "6",
-     "seedStr": "00:45.78",
-     "seedSeconds": 45.78
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "21",
+     "points": 0
     }
-   ]
+   ],
+   "future": []
   },
   "2013|שמיס·שקד": {
    "id": "2013|שמיס·שקד",
@@ -1616589,9 +1616347,7 @@ window.SWIM_DATA = {
      "seconds": 46.91,
      "place": "17",
      "points": 115
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1616600,13 +1616356,13 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:31",
-     "heat": "2",
-     "lane": "3",
-     "seedStr": "00:46.70",
-     "seedSeconds": 46.7
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "21",
+     "points": 0
     }
-   ]
+   ],
+   "future": []
   },
   "2013|בירקן·מילי": {
    "id": "2013|בירקן·מילי",
@@ -1616691,9 +1616447,7 @@ window.SWIM_DATA = {
      "seconds": 50.32,
      "place": "37",
      "points": 93
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1616702,13 +1616456,13 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:31",
-     "heat": "2",
-     "lane": "4",
-     "seedStr": "00:50.32",
-     "seedSeconds": 50.32
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "21",
+     "points": 0
     }
-   ]
+   ],
+   "future": []
   },
   "2016|ברק·ים·מזרחי": {
    "id": "2016|ברק·ים·מזרחי",
@@ -1616899,9 +1616653,7 @@ window.SWIM_DATA = {
      "seconds": 50.61,
      "place": "30",
      "points": 91
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1616910,13 +1616662,13 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "16:41",
-     "heat": "1",
-     "lane": "1",
-     "seedStr": "01:04.86",
-     "seedSeconds": 64.86
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "10",
+     "points": 0
     }
-   ]
+   ],
+   "future": []
   },
   "2013|אלי·עפרי": {
    "id": "2013|אלי·עפרי",
@@ -1617642,9 +1617394,7 @@ window.SWIM_DATA = {
      "seconds": 83.58,
      "place": "38",
      "points": 20
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1617653,13 +1617403,13 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:31",
-     "heat": "2",
-     "lane": "6",
-     "seedStr": "01:23.58",
-     "seedSeconds": 83.58
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "21",
+     "points": 0
     }
-   ]
+   ],
+   "future": []
   },
   "2015|זוהר·סהר": {
    "id": "2015|זוהר·סהר",
@@ -1617972,9 +1617722,7 @@ window.SWIM_DATA = {
      "seconds": 79.0,
      "place": "33",
      "points": 24
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1617983,13 +1617731,13 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:31",
-     "heat": "2",
-     "lane": "1",
-     "seedStr": "01:19.00",
-     "seedSeconds": 79.0
+     "timeStr": "01:17.22",
+     "seconds": 77.22,
+     "place": "20",
+     "points": 25
     }
-   ]
+   ],
+   "future": []
   },
   "2016|אל·בת·טיגאבו": {
    "id": "2016|אל·בת·טיגאבו",
@@ -1618063,9 +1617811,7 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "43",
      "points": 0
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1618074,13 +1617820,13 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:31",
-     "heat": "2",
-     "lane": "5",
-     "seedStr": "01:10.51",
-     "seedSeconds": 70.51
+     "timeStr": "00:59.31",
+     "seconds": 59.31,
+     "place": "17",
+     "points": 57
     }
-   ]
+   ],
+   "future": []
   },
   "2015|זיו·מלכה": {
    "id": "2015|זיו·מלכה",
@@ -1618343,9 +1618089,7 @@ window.SWIM_DATA = {
      "seconds": 50.38,
      "place": "22",
      "points": 61
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1618354,13 +1618098,13 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:37",
-     "heat": "3",
-     "lane": "1",
-     "seedStr": "00:50.38",
-     "seedSeconds": 50.38
+     "timeStr": "00:42.00",
+     "seconds": 42.0,
+     "place": "15",
+     "points": 106
     }
-   ]
+   ],
+   "future": []
   },
   "2015|אביאל·מקונן": {
    "id": "2015|אביאל·מקונן",
@@ -1618530,9 +1618274,7 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "37",
      "points": 0
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1618541,13 +1618283,13 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:40",
-     "heat": "6",
-     "lane": "6",
-     "seedStr": "00:28.80",
-     "seedSeconds": 28.8
+     "timeStr": "00:29.71",
+     "seconds": 29.71,
+     "place": "4",
+     "points": 300
     }
-   ]
+   ],
+   "future": []
   },
   "2009|אריאל·חליבה": {
    "id": "2009|אריאל·חליבה",
@@ -1618823,9 +1618565,7 @@ window.SWIM_DATA = {
      "seconds": 31.3,
      "place": "7",
      "points": 256
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1618834,13 +1618574,13 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:39",
-     "heat": "5",
-     "lane": "2",
-     "seedStr": "00:31.30",
-     "seedSeconds": 31.3
+     "timeStr": "00:31.40",
+     "seconds": 31.4,
+     "place": "5",
+     "points": 254
     }
-   ]
+   ],
+   "future": []
   },
   "2011|נבוטובסקי·עמית": {
    "id": "2011|נבוטובסקי·עמית",
@@ -1619365,9 +1619105,7 @@ window.SWIM_DATA = {
      "seconds": 39.35,
      "place": "15",
      "points": 129
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1619376,13 +1619114,13 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:38",
-     "heat": "4",
-     "lane": "1",
-     "seedStr": "00:39.35",
-     "seedSeconds": 39.35
+     "timeStr": "00:38.81",
+     "seconds": 38.81,
+     "place": "14",
+     "points": 134
     }
-   ]
+   ],
+   "future": []
   },
   "2011|דוידס·נתנאל": {
    "id": "2011|דוידס·נתנאל",
@@ -1619593,9 +1619331,7 @@ window.SWIM_DATA = {
      "seconds": 36.25,
      "place": "14",
      "points": 165
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1619604,13 +1619340,13 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:38",
-     "heat": "4",
-     "lane": "5",
-     "seedStr": "00:36.25",
-     "seedSeconds": 36.25
+     "timeStr": "00:37.10",
+     "seconds": 37.1,
+     "place": "12",
+     "points": 154
     }
-   ]
+   ],
+   "future": []
   },
   "2015|בצר·מתן": {
    "id": "2015|בצר·מתן",
@@ -1619671,9 +1619407,7 @@ window.SWIM_DATA = {
      "seconds": 49.33,
      "place": "21",
      "points": 65
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1619682,13 +1619416,13 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:37",
-     "heat": "3",
-     "lane": "5",
-     "seedStr": "00:47.84",
-     "seedSeconds": 47.84
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "20",
+     "points": 0
     }
-   ]
+   ],
+   "future": []
   },
   "2015|איתי·קביטניצקי": {
    "id": "2015|איתי·קביטניצקי",
@@ -1620397,9 +1620131,7 @@ window.SWIM_DATA = {
      "seconds": 59.59,
      "place": "29",
      "points": 37
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1620408,13 +1620140,13 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:36",
-     "heat": "2",
-     "lane": "2",
-     "seedStr": "00:59.59",
-     "seedSeconds": 59.59
+     "timeStr": "00:55.20",
+     "seconds": 55.2,
+     "place": "18",
+     "points": 46
     }
-   ]
+   ],
+   "future": []
   },
   "2013|איסקוב·צבי": {
    "id": "2013|איסקוב·צבי",
@@ -1620436,9 +1620168,7 @@ window.SWIM_DATA = {
      "seconds": 71.53,
      "place": "64",
      "points": 21
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1620447,13 +1620177,13 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:36",
-     "heat": "2",
-     "lane": "1",
-     "seedStr": "01:04.15",
-     "seedSeconds": 64.15
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "20",
+     "points": 0
     }
-   ]
+   ],
+   "future": []
   },
   "2016|ארמייב·עילאי": {
    "id": "2016|ארמייב·עילאי",
@@ -1620577,9 +1620307,7 @@ window.SWIM_DATA = {
      "seconds": 72.81,
      "place": "34",
      "points": 20
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1620588,13 +1620316,13 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:36",
-     "heat": "2",
-     "lane": "5",
-     "seedStr": "01:01.61",
-     "seedSeconds": 61.61
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "20",
+     "points": 0
     }
-   ]
+   ],
+   "future": []
   },
   "2013|ירין·פרץ": {
    "id": "2013|ירין·פרץ",
@@ -1620842,9 +1620570,7 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "44",
      "points": 0
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1620853,13 +1620579,13 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:36",
-     "heat": "2",
-     "lane": "6",
-     "seedStr": "01:19.28",
-     "seedSeconds": 79.28
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "20",
+     "points": 0
     }
-   ]
+   ],
+   "future": []
   },
   "2012|אמויאל·מיכאל": {
    "id": "2012|אמויאל·מיכאל",
@@ -1621031,9 +1620757,7 @@ window.SWIM_DATA = {
      "seconds": 56.98,
      "place": "25",
      "points": 42
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1621042,13 +1620766,13 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:36",
-     "heat": "2",
-     "lane": "4",
-     "seedStr": "00:56.22",
-     "seedSeconds": 56.22
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "20",
+     "points": 0
     }
-   ]
+   ],
+   "future": []
   },
   "2012|דניאל·חוברי": {
    "id": "2012|דניאל·חוברי",
@@ -1642590,8 +1642314,8 @@ window.SWIM_DATA = {
      "startTime": "00:00",
      "heat": "11",
      "lane": "5",
-     "seedStr": "00:40.71",
-     "seedSeconds": 40.71
+     "seedStr": "00:35.52",
+     "seedSeconds": 35.52
     }
    ]
   },
@@ -1653447,9 +1653171,7 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "32",
      "points": 0
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1653458,11 +1653180,10 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:36",
-     "heat": "2",
-     "lane": "3",
-     "seedStr": "00:56.03",
-     "seedSeconds": 56.03
+     "timeStr": "00:49.60",
+     "seconds": 49.6,
+     "place": "17",
+     "points": 64
     },
     {
      "date": "2026-10-29",
@@ -1653472,13 +1653193,13 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:43",
-     "heat": "1",
-     "lane": "4",
-     "seedStr": "01:03.42",
-     "seedSeconds": 63.42
+     "timeStr": "01:10.14",
+     "seconds": 70.14,
+     "place": "7",
+     "points": 45
     }
-   ]
+   ],
+   "future": []
   },
   "2016|מארק·שבצוב": {
    "id": "2016|מארק·שבצוב",
@@ -1677187,7 +1676908,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צעירים מספר 1 - מכבי חיפה",
+     "compId": 15897,
+     "event": "100 מעורב אישי",
+     "category": "בנות 10-13",
+     "poolLength": 25,
+     "club": "מכבי חיפה",
+     "startTime": "12:45",
+     "heat": "1",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צעירים מספר 1 - מכבי חיפה",
+     "compId": 15897,
+     "event": "200 גב",
+     "category": "בנות 10-13",
+     "poolLength": 25,
+     "club": "מכבי חיפה",
+     "startTime": "13:42",
+     "heat": "1",
+     "lane": "8",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|מיקה·ספיר": {
    "id": "2016|מיקה·ספיר",
@@ -1678151,6 +1677901,20 @@ window.SWIM_DATA = {
      "date": "2026-10-30",
      "competition": "ליגה צעירים מספר 1 - מכבי חיפה",
      "compId": 15897,
+     "event": "100 מעורב אישי",
+     "category": "בנות 10-13",
+     "poolLength": 25,
+     "club": "מכבי חיפה",
+     "startTime": "12:45",
+     "heat": "1",
+     "lane": "8",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צעירים מספר 1 - מכבי חיפה",
+     "compId": 15897,
      "event": "200 גב",
      "category": "בנות 10-13",
      "poolLength": 25,
@@ -1678417,7 +1678181,36 @@ window.SWIM_DATA = {
      "points": 144
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צעירים מספר 1 - מכבי חיפה",
+     "compId": 15897,
+     "event": "100 מעורב אישי",
+     "category": "בנים 10-14",
+     "poolLength": 25,
+     "club": "מכבי נהריה",
+     "startTime": "13:02",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-10-30",
+     "competition": "ליגה צעירים מספר 1 - מכבי חיפה",
+     "compId": 15897,
+     "event": "200 חופשי",
+     "category": "בנים 10-14",
+     "poolLength": 25,
+     "club": "מכבי נהריה",
+     "startTime": "15:11",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "02:57.90",
+     "seedSeconds": 177.9
+    }
+   ]
   },
   "2016|דוד·שוסטר": {
    "id": "2016|דוד·שוסטר",
@@ -1703320,8 +1703113,8 @@ window.SWIM_DATA = {
      "startTime": "13:23",
      "heat": "3",
      "lane": "3",
-     "seedStr": "00:51.96",
-     "seedSeconds": 51.96
+     "seedStr": "00:49.47",
+     "seedSeconds": 49.47
     }
    ]
   },
@@ -1716740,8 +1716533,8 @@ window.SWIM_DATA = {
      "startTime": "13:24",
      "heat": "4",
      "lane": "2",
-     "seedStr": "00:40.58",
-     "seedSeconds": 40.58
+     "seedStr": "00:40.07",
+     "seedSeconds": 40.07
     }
    ]
   },
@@ -1718412,9 +1718205,7 @@ window.SWIM_DATA = {
      "seconds": 42.87,
      "place": "29",
      "points": 100
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1718423,13 +1718214,13 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "16:37",
-     "heat": "3",
-     "lane": "4",
-     "seedStr": "00:42.87",
-     "seedSeconds": 42.87
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "20",
+     "points": 0
     }
-   ]
+   ],
+   "future": []
   },
   "2016|הודייה·פרדה": {
    "id": "2016|הודייה·פרדה",
@@ -1748413,9 +1748204,7 @@ window.SWIM_DATA = {
      "seconds": 35.3,
      "place": "13",
      "points": 179
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1748424,13 +1748213,13 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:38",
-     "heat": "4",
-     "lane": "2",
-     "seedStr": "00:35.30",
-     "seedSeconds": 35.3
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "20",
+     "points": 0
     }
-   ]
+   ],
+   "future": []
   },
   "2014|רובינסקי·רותם": {
    "id": "2014|רובינסקי·רותם",
@@ -1767929,9 +1767718,7 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "43",
      "points": 0
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1767940,13 +1767727,13 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:30",
-     "heat": "1",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "21",
+     "points": 0
     }
-   ]
+   ],
+   "future": []
   },
   "2004|מיכל·פריבורקין": {
    "id": "2004|מיכל·פריבורקין",
@@ -1768352,9 +1768139,7 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "44",
      "points": 0
-    }
-   ],
-   "future": [
+    },
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1768363,13 +1768148,13 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:35",
-     "heat": "1",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "20",
+     "points": 0
     }
-   ]
+   ],
+   "future": []
   },
   "2013|איתן·מוצניק": {
    "id": "2013|איתן·מוצניק",
@@ -1769844,8 +1769629,8 @@ window.SWIM_DATA = {
      "startTime": "13:27",
      "heat": "2",
      "lane": "7",
-     "seedStr": "NT",
-     "seedSeconds": null
+     "seedStr": "00:46.36",
+     "seedSeconds": 46.36
     }
    ]
   },
@@ -1769910,8 +1769695,8 @@ window.SWIM_DATA = {
      "startTime": "13:26",
      "heat": "1",
      "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
+     "seedStr": "00:54.71",
+     "seedSeconds": 54.71
     }
    ]
   },
@@ -1770028,8 +1769813,8 @@ window.SWIM_DATA = {
      "startTime": "13:27",
      "heat": "2",
      "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
+     "seedStr": "00:43.70",
+     "seedSeconds": 43.7
     }
    ]
   },
@@ -1771994,15 +1771779,14 @@ window.SWIM_DATA = {
    ],
    "future": []
   },
-  "2016|אנה·נליס": {
-   "id": "2016|אנה·נליס",
-   "displayName": "אנה נליס",
-   "birthYear": 2016,
+  "2014|חזי·יהלי": {
+   "id": "2014|חזי·יהלי",
+   "displayName": "יהלי חזי",
+   "birthYear": 2014,
    "clubs": [
     "הפועל בית שמש"
    ],
-   "past": [],
-   "future": [
+   "past": [
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1772011,38 +1771795,13 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:30",
-     "heat": "1",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
+     "timeStr": "00:47.90",
+     "seconds": 47.9,
+     "place": "16",
+     "points": 108
     }
-   ]
-  },
-  "2016|יעל·מושקוביץ": {
-   "id": "2016|יעל·מושקוביץ",
-   "displayName": "יעל מושקוביץ",
-   "birthYear": 2016,
-   "clubs": [
-    "הפועל בית שמש"
    ],
-   "past": [],
-   "future": [
-    {
-     "date": "2026-10-29",
-     "competition": "ליגה הפועל בית שמש - 22/10/2026",
-     "compId": 15748,
-     "event": "50 חופשי",
-     "category": "נשים 9-99",
-     "poolLength": 25,
-     "club": "הפועל בית שמש",
-     "startTime": "16:30",
-     "heat": "1",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    }
-   ]
+   "future": []
   },
   "2014|קבלה·רחל": {
    "id": "2014|קבלה·רחל",
@@ -1772051,8 +1771810,7 @@ window.SWIM_DATA = {
    "clubs": [
     "הפועל בית שמש"
    ],
-   "past": [],
-   "future": [
+   "past": [
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1772061,13 +1771819,61 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:30",
-     "heat": "1",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
+     "timeStr": "01:11.30",
+     "seconds": 71.3,
+     "place": "18",
+     "points": 32
     }
-   ]
+   ],
+   "future": []
+  },
+  "2016|יעל·מושקוביץ": {
+   "id": "2016|יעל·מושקוביץ",
+   "displayName": "יעל מושקוביץ",
+   "birthYear": 2016,
+   "clubs": [
+    "הפועל בית שמש"
+   ],
+   "past": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "01:13.96",
+     "seconds": 73.96,
+     "place": "19",
+     "points": 29
+    }
+   ],
+   "future": []
+  },
+  "2016|אנה·נליס": {
+   "id": "2016|אנה·נליס",
+   "displayName": "אנה נליס",
+   "birthYear": 2016,
+   "clubs": [
+    "הפועל בית שמש"
+   ],
+   "past": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "21",
+     "points": 0
+    }
+   ],
+   "future": []
   },
   "2016|אסיף·גבריאלוף": {
    "id": "2016|אסיף·גבריאלוף",
@@ -1772076,8 +1771882,7 @@ window.SWIM_DATA = {
    "clubs": [
     "הפועל בית שמש"
    ],
-   "past": [],
-   "future": [
+   "past": [
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1772086,13 +1771891,13 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:30",
-     "heat": "1",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "21",
+     "points": 0
     }
-   ]
+   ],
+   "future": []
   },
   "2018|טיגאבו·עדיאל": {
    "id": "2018|טיגאבו·עדיאל",
@@ -1772101,8 +1771906,7 @@ window.SWIM_DATA = {
    "clubs": [
     "הפועל בית שמש"
    ],
-   "past": [],
-   "future": [
+   "past": [
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1772111,113 +1771915,13 @@ window.SWIM_DATA = {
      "category": "נשים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:30",
-     "heat": "1",
-     "lane": "6",
-     "seedStr": "NT",
-     "seedSeconds": null
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "21",
+     "points": 0
     }
-   ]
-  },
-  "2014|חזי·יהלי": {
-   "id": "2014|חזי·יהלי",
-   "displayName": "יהלי חזי",
-   "birthYear": 2014,
-   "clubs": [
-    "הפועל בית שמש"
    ],
-   "past": [],
-   "future": [
-    {
-     "date": "2026-10-29",
-     "competition": "ליגה הפועל בית שמש - 22/10/2026",
-     "compId": 15748,
-     "event": "50 חופשי",
-     "category": "נשים 9-99",
-     "poolLength": 25,
-     "club": "הפועל בית שמש",
-     "startTime": "16:31",
-     "heat": "2",
-     "lane": "2",
-     "seedStr": "00:59.43",
-     "seedSeconds": 59.43
-    }
-   ]
-  },
-  "2017|וענונו·יונתן": {
-   "id": "2017|וענונו·יונתן",
-   "displayName": "יונתן וענונו",
-   "birthYear": 2017,
-   "clubs": [
-    "הפועל בית שמש"
-   ],
-   "past": [],
-   "future": [
-    {
-     "date": "2026-10-29",
-     "competition": "ליגה הפועל בית שמש - 22/10/2026",
-     "compId": 15748,
-     "event": "50 חופשי",
-     "category": "גברים 9-99",
-     "poolLength": 25,
-     "club": "הפועל בית שמש",
-     "startTime": "16:35",
-     "heat": "1",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
-    }
-   ]
-  },
-  "2014|עומר·רוזנבלט": {
-   "id": "2014|עומר·רוזנבלט",
-   "displayName": "עומר רוזנבלט",
-   "birthYear": 2014,
-   "clubs": [
-    "הפועל בית שמש"
-   ],
-   "past": [],
-   "future": [
-    {
-     "date": "2026-10-29",
-     "competition": "ליגה הפועל בית שמש - 22/10/2026",
-     "compId": 15748,
-     "event": "50 חופשי",
-     "category": "גברים 9-99",
-     "poolLength": 25,
-     "club": "הפועל בית שמש",
-     "startTime": "16:35",
-     "heat": "1",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    }
-   ]
-  },
-  "2010|אהרונוביץ·איתמר": {
-   "id": "2010|אהרונוביץ·איתמר",
-   "displayName": "איתמר אהרונוביץ",
-   "birthYear": 2010,
-   "clubs": [
-    "הפועל בית שמש"
-   ],
-   "past": [],
-   "future": [
-    {
-     "date": "2026-10-29",
-     "competition": "ליגה הפועל בית שמש - 22/10/2026",
-     "compId": 15748,
-     "event": "50 חופשי",
-     "category": "גברים 9-99",
-     "poolLength": 25,
-     "club": "הפועל בית שמש",
-     "startTime": "16:35",
-     "heat": "1",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
-    }
-   ]
+   "future": []
   },
   "2016|דוד·פרולוטובסקי": {
    "id": "2016|דוד·פרולוטובסקי",
@@ -1772226,8 +1771930,7 @@ window.SWIM_DATA = {
    "clubs": [
     "הפועל בית שמש"
    ],
-   "past": [],
-   "future": [
+   "past": [
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1772236,13 +1771939,85 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:35",
-     "heat": "1",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
+     "timeStr": "01:10.03",
+     "seconds": 70.03,
+     "place": "19",
+     "points": 22
     }
-   ]
+   ],
+   "future": []
+  },
+  "2017|וענונו·יונתן": {
+   "id": "2017|וענונו·יונתן",
+   "displayName": "יונתן וענונו",
+   "birthYear": 2017,
+   "clubs": [
+    "הפועל בית שמש"
+   ],
+   "past": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "20",
+     "points": 0
+    }
+   ],
+   "future": []
+  },
+  "2014|עומר·רוזנבלט": {
+   "id": "2014|עומר·רוזנבלט",
+   "displayName": "עומר רוזנבלט",
+   "birthYear": 2014,
+   "clubs": [
+    "הפועל בית שמש"
+   ],
+   "past": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "20",
+     "points": 0
+    }
+   ],
+   "future": []
+  },
+  "2010|אהרונוביץ·איתמר": {
+   "id": "2010|אהרונוביץ·איתמר",
+   "displayName": "איתמר אהרונוביץ",
+   "birthYear": 2010,
+   "clubs": [
+    "הפועל בית שמש"
+   ],
+   "past": [
+    {
+     "date": "2026-10-29",
+     "competition": "ליגה הפועל בית שמש - 22/10/2026",
+     "compId": 15748,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "20",
+     "points": 0
+    }
+   ],
+   "future": []
   },
   "2015|אילן·קטוק": {
    "id": "2015|אילן·קטוק",
@@ -1772251,8 +1772026,7 @@ window.SWIM_DATA = {
    "clubs": [
     "הפועל בית שמש"
    ],
-   "past": [],
-   "future": [
+   "past": [
     {
      "date": "2026-10-29",
      "competition": "ליגה הפועל בית שמש - 22/10/2026",
@@ -1772261,13 +1772035,13 @@ window.SWIM_DATA = {
      "category": "גברים 9-99",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "16:37",
-     "heat": "3",
-     "lane": "6",
-     "seedStr": "00:55.49",
-     "seedSeconds": 55.49
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "20",
+     "points": 0
     }
-   ]
+   ],
+   "future": []
   },
   "2016|דוח'אן·מינא": {
    "id": "2016|דוח'אן·מינא",
@@ -1776020,8 +1775794,8 @@ window.SWIM_DATA = {
      "startTime": "00:00",
      "heat": "2",
      "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
+     "seedStr": "01:00.46",
+     "seedSeconds": 60.46
     }
    ]
   },
@@ -1776254,8 +1776028,8 @@ window.SWIM_DATA = {
      "startTime": "00:00",
      "heat": "3",
      "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
+     "seedStr": "00:52.06",
+     "seedSeconds": 52.06
     }
    ]
   },
@@ -1781554,7 +1781328,7 @@ window.SWIM_DATA = {
    ]
   }
  },
- "lastChecked": "2026-10-29 22:39",
- "newThisRun": 0,
+ "lastChecked": "2026-10-30 22:10",
+ "newThisRun": 94,
  "newComps": []
 };
