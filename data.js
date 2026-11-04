@@ -3415,7 +3415,22 @@ window.SWIM_DATA = {
      "points": 423
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "12:35",
+     "heat": "15",
+     "lane": "1",
+     "seedStr": "00:30.91",
+     "seedSeconds": 30.91
+    }
+   ]
   },
   "2008|ביטון·נויה": {
    "id": "2008|ביטון·נויה",
@@ -5255,7 +5270,22 @@ window.SWIM_DATA = {
      "points": 413
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל עומר",
+     "startTime": "10:44",
+     "heat": "9",
+     "lane": "3",
+     "seedStr": "11:05.24",
+     "seedSeconds": 665.24
+    }
+   ]
   },
   "2010|זלויצקי·חן·פז": {
    "id": "2010|זלויצקי·חן·פז",
@@ -7940,7 +7970,22 @@ window.SWIM_DATA = {
      "points": 471
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "12:27",
+     "heat": "10",
+     "lane": "6",
+     "seedStr": "00:36.89",
+     "seedSeconds": 36.89
+    }
+   ]
   },
   "2009|עאמר·קים": {
    "id": "2009|עאמר·קים",
@@ -8445,7 +8490,22 @@ window.SWIM_DATA = {
      "points": 360
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל ג'מים אילת",
+     "startTime": "12:27",
+     "heat": "10",
+     "lane": "3",
+     "seedStr": "00:36.70",
+     "seedSeconds": 36.7
+    }
+   ]
   },
   "2011|סביץ·סופיה": {
    "id": "2011|סביץ·סופיה",
@@ -10520,7 +10580,22 @@ window.SWIM_DATA = {
      "points": 425
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל ג'מים אילת",
+     "startTime": "12:30",
+     "heat": "12",
+     "lane": "6",
+     "seedStr": "00:34.97",
+     "seedSeconds": 34.97
+    }
+   ]
   },
   "2009|ליה·קושניר": {
    "id": "2009|ליה·קושניר",
@@ -12361,7 +12436,22 @@ window.SWIM_DATA = {
      "points": 430
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל עומר",
+     "startTime": "10:44",
+     "heat": "9",
+     "lane": "0",
+     "seedStr": "11:45.42",
+     "seedSeconds": 705.42
+    }
+   ]
   },
   "2012|בולמט·ניקול": {
    "id": "2012|בולמט·ניקול",
@@ -14951,7 +15041,22 @@ window.SWIM_DATA = {
      "points": 438
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "10:57",
+     "heat": "10",
+     "lane": "8",
+     "seedStr": "10:55.73",
+     "seedSeconds": 655.73
+    }
+   ]
   },
   "2011|לינוי·קובלנקו": {
    "id": "2011|לינוי·קובלנקו",
@@ -15678,7 +15783,22 @@ window.SWIM_DATA = {
      "points": 434
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "12:32",
+     "heat": "13",
+     "lane": "8",
+     "seedStr": "00:34.06",
+     "seedSeconds": 34.06
+    }
+   ]
   },
   "2011|מיקה·פלדמן": {
    "id": "2011|מיקה·פלדמן",
@@ -16936,7 +17056,22 @@ window.SWIM_DATA = {
      "points": 380
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "10:18",
+     "heat": "7",
+     "lane": "7",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2012|אריאל·מיכאל": {
    "id": "2012|אריאל·מיכאל",
@@ -17766,7 +17901,22 @@ window.SWIM_DATA = {
      "points": 417
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל עומר",
+     "startTime": "10:44",
+     "heat": "9",
+     "lane": "9",
+     "seedStr": "12:03.07",
+     "seedSeconds": 723.07
+    }
+   ]
   },
   "2012|שמש·תמר": {
    "id": "2012|שמש·תמר",
@@ -19305,7 +19455,22 @@ window.SWIM_DATA = {
      "points": 449
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "10:31",
+     "heat": "8",
+     "lane": "8",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2012|שטריימר·תמר": {
    "id": "2012|שטריימר·תמר",
@@ -19927,7 +20092,22 @@ window.SWIM_DATA = {
      "points": 368
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "10:44",
+     "heat": "9",
+     "lane": "6",
+     "seedStr": "11:06.56",
+     "seedSeconds": 666.56
+    }
+   ]
   },
   "2005|איה·בן·ציון": {
    "id": "2005|איה·בן·ציון",
@@ -58837,7 +59017,22 @@ window.SWIM_DATA = {
      "points": 432
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "12:35",
+     "heat": "15",
+     "lane": "6",
+     "seedStr": "00:29.76",
+     "seedSeconds": 29.76
+    }
+   ]
   },
   "2008|גוטמן·רות": {
    "id": "2008|גוטמן·רות",
@@ -67155,7 +67350,22 @@ window.SWIM_DATA = {
      "points": 397
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "startTime": "11:42",
+     "heat": "14",
+     "lane": "6",
+     "seedStr": "09:48.81",
+     "seedSeconds": 588.81
+    }
+   ]
   },
   "2009|ארגז·שי": {
    "id": "2009|ארגז·שי",
@@ -68763,7 +68973,22 @@ window.SWIM_DATA = {
      "points": 383
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "11:20",
+     "heat": "12",
+     "lane": "3",
+     "seedStr": "10:08.04",
+     "seedSeconds": 608.04
+    }
+   ]
   },
   "2007|אופק·יעקובוביץ": {
    "id": "2007|אופק·יעקובוביץ",
@@ -70059,7 +70284,22 @@ window.SWIM_DATA = {
      "points": 378
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "11:31",
+     "heat": "13",
+     "lane": "6",
+     "seedStr": "09:58.41",
+     "seedSeconds": 598.41
+    }
+   ]
   },
   "2011|אלין·נחום": {
    "id": "2011|אלין·נחום",
@@ -72285,7 +72525,22 @@ window.SWIM_DATA = {
      "points": 442
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "startTime": "11:42",
+     "heat": "14",
+     "lane": "5",
+     "seedStr": "09:46.78",
+     "seedSeconds": 586.78
+    }
+   ]
   },
   "2009|אוקון·מאיה": {
    "id": "2009|אוקון·מאיה",
@@ -74771,7 +75026,22 @@ window.SWIM_DATA = {
      "points": 363
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי חיפה",
+     "startTime": "11:20",
+     "heat": "12",
+     "lane": "7",
+     "seedStr": "10:13.70",
+     "seedSeconds": 613.7
+    }
+   ]
   },
   "2011|הכהן·חיים·עמית": {
    "id": "2011|הכהן·חיים·עמית",
@@ -76002,7 +76272,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "12:30",
+     "heat": "12",
+     "lane": "4",
+     "seedStr": "00:34.47",
+     "seedSeconds": 34.47
+    }
+   ]
   },
   "2011|אמילי·קוקלינסקי": {
    "id": "2011|אמילי·קוקלינסקי",
@@ -104399,7 +104684,22 @@ window.SWIM_DATA = {
      "points": 561
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "10:18",
+     "heat": "7",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2008|יובל·פרלמן": {
    "id": "2008|יובל·פרלמן",
@@ -111826,7 +112126,22 @@ window.SWIM_DATA = {
      "points": 475
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "11:20",
+     "heat": "12",
+     "lane": "8",
+     "seedStr": "10:20.05",
+     "seedSeconds": 620.05
+    }
+   ]
   },
   "2010|הולינגר·מאיה": {
    "id": "2010|הולינגר·מאיה",
@@ -137587,7 +137902,36 @@ window.SWIM_DATA = {
      "points": 503
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "startTime": "11:20",
+     "heat": "12",
+     "lane": "5",
+     "seedStr": "10:07.78",
+     "seedSeconds": 607.78
+    },
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "startTime": "12:35",
+     "heat": "15",
+     "lane": "3",
+     "seedStr": "00:29.67",
+     "seedSeconds": 29.67
+    }
+   ]
   },
   "2009|טומי·ליטאי": {
    "id": "2009|טומי·ליטאי",
@@ -139273,7 +139617,22 @@ window.SWIM_DATA = {
      "points": 487
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "12:33",
+     "heat": "14",
+     "lane": "9",
+     "seedStr": "00:32.66",
+     "seedSeconds": 32.66
+    }
+   ]
   },
   "2008|אלה·דנקוביץ": {
    "id": "2008|אלה·דנקוביץ",
@@ -140999,7 +141358,22 @@ window.SWIM_DATA = {
      "points": 592
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "12:18",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2007|מנה·רעות": {
    "id": "2007|מנה·רעות",
@@ -143294,7 +143668,22 @@ window.SWIM_DATA = {
      "points": 479
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "startTime": "12:18",
+     "heat": "4",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2007|ברדיצ‘בסקי·דניאלה": {
    "id": "2007|ברדיצ‘בסקי·דניאלה",
@@ -147338,7 +147727,22 @@ window.SWIM_DATA = {
      "points": 448
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "startTime": "12:35",
+     "heat": "15",
+     "lane": "2",
+     "seedStr": "00:30.33",
+     "seedSeconds": 30.33
+    }
+   ]
   },
   "2009|אביה·בלומברג": {
    "id": "2009|אביה·בלומברג",
@@ -150623,7 +151027,22 @@ window.SWIM_DATA = {
      "points": 540
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "11:53",
+     "heat": "15",
+     "lane": "1",
+     "seedStr": "09:38.32",
+     "seedSeconds": 578.32
+    }
+   ]
   },
   "2010|עדן·פרוצנקו": {
    "id": "2010|עדן·פרוצנקו",
@@ -151779,7 +152198,22 @@ window.SWIM_DATA = {
      "points": 555
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "startTime": "12:04",
+     "heat": "16",
+     "lane": "9",
+     "seedStr": "09:26.41",
+     "seedSeconds": 566.41
+    }
+   ]
   },
   "2010|ליזה·קרסיוב": {
    "id": "2010|ליזה·קרסיוב",
@@ -153023,7 +153457,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "startTime": "12:32",
+     "heat": "13",
+     "lane": "4",
+     "seedStr": "00:32.72",
+     "seedSeconds": 32.72
+    }
+   ]
   },
   "2011|אביגיל·צבייק": {
    "id": "2011|אביגיל·צבייק",
@@ -153827,7 +154276,22 @@ window.SWIM_DATA = {
      "points": 373
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "startTime": "12:33",
+     "heat": "14",
+     "lane": "6",
+     "seedStr": "00:31.92",
+     "seedSeconds": 31.92
+    }
+   ]
   },
   "2011|הילי·מיטל": {
    "id": "2011|הילי·מיטל",
@@ -154371,7 +154835,22 @@ window.SWIM_DATA = {
      "points": 438
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "startTime": "10:18",
+     "heat": "7",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2009|דריה·פיודורוב": {
    "id": "2009|דריה·פיודורוב",
@@ -155188,7 +155667,22 @@ window.SWIM_DATA = {
      "points": 349
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "startTime": "11:31",
+     "heat": "13",
+     "lane": "1",
+     "seedStr": "10:01.72",
+     "seedSeconds": 601.72
+    }
+   ]
   },
   "2008|מזרחי·שחר": {
    "id": "2008|מזרחי·שחר",
@@ -157767,7 +158261,22 @@ window.SWIM_DATA = {
      "points": 657
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "startTime": "12:04",
+     "heat": "16",
+     "lane": "3",
+     "seedStr": "09:07.40",
+     "seedSeconds": 547.4
+    }
+   ]
   },
   "2010|בספיאטוב·פולינה": {
    "id": "2010|בספיאטוב·פולינה",
@@ -158610,7 +159119,22 @@ window.SWIM_DATA = {
      "points": 499
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "startTime": "12:33",
+     "heat": "14",
+     "lane": "5",
+     "seedStr": "00:31.38",
+     "seedSeconds": 31.38
+    }
+   ]
   },
   "2011|אגם·רחמים": {
    "id": "2011|אגם·רחמים",
@@ -161036,7 +161560,22 @@ window.SWIM_DATA = {
      "points": 490
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "startTime": "10:57",
+     "heat": "10",
+     "lane": "9",
+     "seedStr": "10:57.19",
+     "seedSeconds": 657.19
+    }
+   ]
   },
   "2011|אלונה·שטיינפלד": {
    "id": "2011|אלונה·שטיינפלד",
@@ -162775,7 +163314,22 @@ window.SWIM_DATA = {
      "points": 487
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "startTime": "10:57",
+     "heat": "10",
+     "lane": "6",
+     "seedStr": "10:43.12",
+     "seedSeconds": 643.12
+    }
+   ]
   },
   "2011|אדיר·שחף": {
    "id": "2011|אדיר·שחף",
@@ -163697,7 +164251,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "11:31",
+     "heat": "13",
+     "lane": "4",
+     "seedStr": "09:57.17",
+     "seedSeconds": 597.17
+    }
+   ]
   },
   "2009|מקליס·נטלי·שרה": {
    "id": "2009|מקליס·נטלי·שרה",
@@ -164528,7 +165097,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "11:53",
+     "heat": "15",
+     "lane": "7",
+     "seedStr": "09:36.07",
+     "seedSeconds": 576.07
+    }
+   ]
   },
   "2011|לאורה·ספיר": {
    "id": "2011|לאורה·ספיר",
@@ -169372,7 +169956,22 @@ window.SWIM_DATA = {
      "points": 387
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "startTime": "10:31",
+     "heat": "8",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2011|זוב·פלינה": {
    "id": "2011|זוב·פלינה",
@@ -170124,7 +170723,22 @@ window.SWIM_DATA = {
      "points": 428
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "startTime": "10:57",
+     "heat": "10",
+     "lane": "4",
+     "seedStr": "10:34.03",
+     "seedSeconds": 634.03
+    }
+   ]
   },
   "2011|אגלאוטין·רנטה": {
    "id": "2011|אגלאוטין·רנטה",
@@ -171058,7 +171672,22 @@ window.SWIM_DATA = {
      "points": 456
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "startTime": "12:04",
+     "heat": "16",
+     "lane": "1",
+     "seedStr": "09:19.01",
+     "seedSeconds": 559.01
+    }
+   ]
   },
   "2009|חשמה·פרלה": {
    "id": "2009|חשמה·פרלה",
@@ -171992,7 +172621,22 @@ window.SWIM_DATA = {
      "points": 423
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "startTime": "11:53",
+     "heat": "15",
+     "lane": "0",
+     "seedStr": "09:43.33",
+     "seedSeconds": 583.33
+    }
+   ]
   },
   "2010|ליאור·מזרחי": {
    "id": "2010|ליאור·מזרחי",
@@ -173093,7 +173737,22 @@ window.SWIM_DATA = {
      "points": 383
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "startTime": "11:42",
+     "heat": "14",
+     "lane": "1",
+     "seedStr": "09:53.85",
+     "seedSeconds": 593.85
+    }
+   ]
   },
   "1980|פרידמן·שרית": {
    "id": "1980|פרידמן·שרית",
@@ -175804,7 +176463,22 @@ window.SWIM_DATA = {
      "points": 456
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "12:04",
+     "heat": "16",
+     "lane": "2",
+     "seedStr": "09:17.29",
+     "seedSeconds": 557.29
+    }
+   ]
   },
   "2005|חי·ניר": {
    "id": "2005|חי·ניר",
@@ -212069,7 +212743,22 @@ window.SWIM_DATA = {
      "points": 454
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "11:42",
+     "heat": "14",
+     "lane": "4",
+     "seedStr": "09:45.19",
+     "seedSeconds": 585.19
+    }
+   ]
   },
   "2006|אנג‘ל·עדי": {
    "id": "2006|אנג‘ל·עדי",
@@ -213183,7 +213872,22 @@ window.SWIM_DATA = {
      "points": 518
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "12:04",
+     "heat": "16",
+     "lane": "7",
+     "seedStr": "09:17.41",
+     "seedSeconds": 557.41
+    }
+   ]
   },
   "2009|הכהן·שירה": {
    "id": "2009|הכהן·שירה",
@@ -225884,7 +226588,22 @@ window.SWIM_DATA = {
      "points": 503
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "12:18",
+     "heat": "4",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2009|הילה·לרנר": {
    "id": "2009|הילה·לרנר",
@@ -227869,7 +228588,36 @@ window.SWIM_DATA = {
      "points": 395
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "11:42",
+     "heat": "14",
+     "lane": "0",
+     "seedStr": "09:55.02",
+     "seedSeconds": 595.02
+    },
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "12:18",
+     "heat": "4",
+     "lane": "9",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2010|אליאנה·בריזגונוב": {
    "id": "2010|אליאנה·בריזגונוב",
@@ -230732,7 +231480,22 @@ window.SWIM_DATA = {
      "points": 382
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "12:04",
+     "heat": "16",
+     "lane": "6",
+     "seedStr": "09:16.30",
+     "seedSeconds": 556.3
+    }
+   ]
   },
   "2011|אמה·טייכמן": {
    "id": "2011|אמה·טייכמן",
@@ -257403,7 +258166,22 @@ window.SWIM_DATA = {
      "points": 456
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "10:31",
+     "heat": "8",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2010|אריאל·מזרחי": {
    "id": "2010|אריאל·מזרחי",
@@ -258324,7 +259102,22 @@ window.SWIM_DATA = {
      "points": 395
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "10:31",
+     "heat": "8",
+     "lane": "0",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2011|חיניץ·מאיה": {
    "id": "2011|חיניץ·מאיה",
@@ -264466,7 +265259,22 @@ window.SWIM_DATA = {
      "points": 512
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "startTime": "11:53",
+     "heat": "15",
+     "lane": "6",
+     "seedStr": "09:34.91",
+     "seedSeconds": 574.91
+    }
+   ]
   },
   "2010|אמילי·חנוכייב": {
    "id": "2010|אמילי·חנוכייב",
@@ -265400,7 +266208,22 @@ window.SWIM_DATA = {
      "points": 511
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "11:42",
+     "heat": "14",
+     "lane": "3",
+     "seedStr": "09:47.33",
+     "seedSeconds": 587.33
+    }
+   ]
   },
   "2010|הללי·פרנס": {
    "id": "2010|הללי·פרנס",
@@ -281779,7 +282602,22 @@ window.SWIM_DATA = {
      "points": 443
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "12:35",
+     "heat": "15",
+     "lane": "8",
+     "seedStr": "00:31.09",
+     "seedSeconds": 31.09
+    }
+   ]
   },
   "2011|לוי·מאי": {
    "id": "2011|לוי·מאי",
@@ -284232,7 +285070,22 @@ window.SWIM_DATA = {
      "points": 428
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "12:32",
+     "heat": "13",
+     "lane": "1",
+     "seedStr": "00:33.80",
+     "seedSeconds": 33.8
+    }
+   ]
   },
   "2011|מעיין·שניר": {
    "id": "2011|מעיין·שניר",
@@ -285786,7 +286639,36 @@ window.SWIM_DATA = {
      "points": 285
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "10:44",
+     "heat": "9",
+     "lane": "1",
+     "seedStr": "11:28.33",
+     "seedSeconds": 688.33
+    },
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "12:29",
+     "heat": "11",
+     "lane": "9",
+     "seedStr": "00:36.60",
+     "seedSeconds": 36.6
+    }
+   ]
   },
   "2012|אלה·אנקורי": {
    "id": "2012|אלה·אנקורי",
@@ -295867,7 +296749,22 @@ window.SWIM_DATA = {
      "points": 362
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "10:18",
+     "heat": "7",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2010|כרמל·תמר": {
    "id": "2010|כרמל·תמר",
@@ -305465,48 +306362,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "00:29.18",
      "seedSeconds": 29.18
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "10:46",
-     "heat": "26",
-     "lane": "6",
-     "seedStr": "01:04.97",
-     "seedSeconds": 64.97
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "12:15",
-     "heat": "7",
-     "lane": "5",
-     "seedStr": "01:35.97",
-     "seedSeconds": 95.97
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "17:44",
-     "heat": "5",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -306826,7 +307681,7 @@ window.SWIM_DATA = {
      "club": "ע.ל.ה עצמה רעננה",
      "startTime": "17:11",
      "heat": "21",
-     "lane": "2",
+     "lane": "5",
      "seedStr": "00:35.92",
      "seedSeconds": 35.92
     },
@@ -306838,25 +307693,11 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "17:42",
-     "heat": "4",
-     "lane": "3",
+     "startTime": "17:44",
+     "heat": "5",
+     "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "16:33",
-     "heat": "9",
-     "lane": "4",
-     "seedStr": "01:25.61",
-     "seedSeconds": 85.61
     }
    ]
   },
@@ -311069,7 +311910,36 @@ window.SWIM_DATA = {
      "points": 322
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "10:18",
+     "heat": "7",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "12:26",
+     "heat": "9",
+     "lane": "2",
+     "seedStr": "00:38.00",
+     "seedSeconds": 38.0
+    }
+   ]
   },
   "2012|אנטמן·יובל": {
    "id": "2012|אנטמן·יובל",
@@ -324139,7 +325009,22 @@ window.SWIM_DATA = {
      "points": 341
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "12:33",
+     "heat": "14",
+     "lane": "7",
+     "seedStr": "00:32.08",
+     "seedSeconds": 32.08
+    }
+   ]
   },
   "2011|אלמור·מורוז": {
    "id": "2011|אלמור·מורוז",
@@ -337837,7 +338722,22 @@ window.SWIM_DATA = {
      "points": 473
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "12:04",
+     "heat": "16",
+     "lane": "8",
+     "seedStr": "09:19.27",
+     "seedSeconds": 559.27
+    }
+   ]
   },
   "2009|לירי·נידם": {
    "id": "2009|לירי·נידם",
@@ -339432,7 +340332,22 @@ window.SWIM_DATA = {
      "points": 429
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "11:42",
+     "heat": "14",
+     "lane": "2",
+     "seedStr": "09:51.20",
+     "seedSeconds": 591.2
+    }
+   ]
   },
   "2011|גרונאו·נטלי": {
    "id": "2011|גרונאו·נטלי",
@@ -341287,7 +342202,22 @@ window.SWIM_DATA = {
      "points": 397
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "11:20",
+     "heat": "12",
+     "lane": "4",
+     "seedStr": "10:06.07",
+     "seedSeconds": 606.07
+    }
+   ]
   },
   "2014|אלה·מלול": {
    "id": "2014|אלה·מלול",
@@ -341909,7 +342839,36 @@ window.SWIM_DATA = {
      "points": 189
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "09:26",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "12:27",
+     "heat": "10",
+     "lane": "0",
+     "seedStr": "00:37.30",
+     "seedSeconds": 37.3
+    }
+   ]
   },
   "2013|ויסברוט·רותם": {
    "id": "2013|ויסברוט·רותם",
@@ -342724,7 +343683,36 @@ window.SWIM_DATA = {
      "points": 320
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "09:39",
+     "heat": "4",
+     "lane": "7",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "12:26",
+     "heat": "9",
+     "lane": "5",
+     "seedStr": "00:37.76",
+     "seedSeconds": 37.76
+    }
+   ]
   },
   "2013|זלינגר·נדב": {
    "id": "2013|זלינגר·נדב",
@@ -343516,48 +344504,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "00:32.19",
      "seedSeconds": 32.19
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "11:38",
-     "heat": "7",
-     "lane": "4",
-     "seedStr": "02:25.79",
-     "seedSeconds": 145.79
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "15:55",
-     "heat": "8",
-     "lane": "3",
-     "seedStr": "02:29.03",
-     "seedSeconds": 149.03
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "18:04",
-     "heat": "15",
-     "lane": "3",
-     "seedStr": "00:36.97",
-     "seedSeconds": 36.97
     }
    ]
   },
@@ -345199,20 +346145,6 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "12:52",
-     "heat": "5",
-     "lane": "3",
-     "seedStr": "02:48.10",
-     "seedSeconds": 168.1
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "50 גב",
      "category": "בנים 9-16",
      "poolLength": 25,
@@ -345224,32 +346156,18 @@ window.SWIM_DATA = {
      "seedSeconds": 39.13
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "11:33",
-     "heat": "6",
-     "lane": "2",
-     "seedStr": "02:56.87",
-     "seedSeconds": 176.87
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
+     "event": "200 חופשי",
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "16:36",
-     "heat": "10",
-     "lane": "6",
-     "seedStr": "01:24.07",
-     "seedSeconds": 84.07
+     "startTime": "19:42",
+     "heat": "5",
+     "lane": "4",
+     "seedStr": "02:48.10",
+     "seedSeconds": 168.1
     }
    ]
   },
@@ -350735,7 +351653,22 @@ window.SWIM_DATA = {
      "points": 465
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "10:31",
+     "heat": "8",
+     "lane": "9",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2010|אלה·בלאו": {
    "id": "2010|אלה·בלאו",
@@ -355884,7 +356817,22 @@ window.SWIM_DATA = {
      "points": 552
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "12:04",
+     "heat": "16",
+     "lane": "0",
+     "seedStr": "09:21.35",
+     "seedSeconds": 561.35
+    }
+   ]
   },
   "2011|מאיה·רנדלר": {
    "id": "2011|מאיה·רנדלר",
@@ -363819,7 +364767,22 @@ window.SWIM_DATA = {
      "points": 551
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "12:29",
+     "heat": "11",
+     "lane": "7",
+     "seedStr": "00:35.79",
+     "seedSeconds": 35.79
+    }
+   ]
   },
   "2008|אביגיל·פורת": {
    "id": "2008|אביגיל·פורת",
@@ -370072,7 +371035,22 @@ window.SWIM_DATA = {
      "points": 473
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "12:18",
+     "heat": "4",
+     "lane": "8",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2011|הסל·מאיה": {
    "id": "2011|הסל·מאיה",
@@ -371654,7 +372632,22 @@ window.SWIM_DATA = {
      "points": 515
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "11:53",
+     "heat": "15",
+     "lane": "5",
+     "seedStr": "09:28.77",
+     "seedSeconds": 568.77
+    }
+   ]
   },
   "2011|נטע·פרופס": {
    "id": "2011|נטע·פרופס",
@@ -373379,7 +374372,22 @@ window.SWIM_DATA = {
      "points": 584
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "12:33",
+     "heat": "14",
+     "lane": "4",
+     "seedStr": "00:31.32",
+     "seedSeconds": 31.32
+    }
+   ]
   },
   "2012|מאיה·קרבקוב": {
    "id": "2012|מאיה·קרבקוב",
@@ -378279,7 +379287,22 @@ window.SWIM_DATA = {
      "points": 461
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל דולפין נתניה",
+     "startTime": "09:39",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2011|דניאל·קופרשטיין": {
    "id": "2011|דניאל·קופרשטיין",
@@ -379081,7 +380104,22 @@ window.SWIM_DATA = {
      "points": 339
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל דולפין נתניה",
+     "startTime": "12:24",
+     "heat": "8",
+     "lane": "5",
+     "seedStr": "00:39.69",
+     "seedSeconds": 39.69
+    }
+   ]
   },
   "2012|אמה·סופיר": {
    "id": "2012|אמה·סופיר",
@@ -380466,7 +381504,22 @@ window.SWIM_DATA = {
      "points": 340
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל דולפין נתניה",
+     "startTime": "12:26",
+     "heat": "9",
+     "lane": "9",
+     "seedStr": "00:39.32",
+     "seedSeconds": 39.32
+    }
+   ]
   },
   "2013|גוזוב·יעל": {
    "id": "2013|גוזוב·יעל",
@@ -381618,7 +382671,22 @@ window.SWIM_DATA = {
      "points": 253
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל דולפין נתניה",
+     "startTime": "12:24",
+     "heat": "8",
+     "lane": "3",
+     "seedStr": "00:39.84",
+     "seedSeconds": 39.84
+    }
+   ]
   },
   "2011|ליטבינוב·לילך": {
    "id": "2011|ליטבינוב·לילך",
@@ -403318,7 +404386,22 @@ window.SWIM_DATA = {
      "points": 371
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל אולימפ נתניה",
+     "startTime": "10:44",
+     "heat": "9",
+     "lane": "4",
+     "seedStr": "10:58.68",
+     "seedSeconds": 658.68
+    }
+   ]
   },
   "2012|דניאל·יהודיאן": {
    "id": "2012|דניאל·יהודיאן",
@@ -404395,7 +405478,22 @@ window.SWIM_DATA = {
      "points": 394
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל אולימפ נתניה",
+     "startTime": "11:09",
+     "heat": "11",
+     "lane": "2",
+     "seedStr": "10:26.15",
+     "seedSeconds": 626.15
+    }
+   ]
   },
   "2012|עלמה·פלדמן": {
    "id": "2012|עלמה·פלדמן",
@@ -405951,7 +407049,22 @@ window.SWIM_DATA = {
      "points": 410
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל אולימפ נתניה",
+     "startTime": "10:44",
+     "heat": "9",
+     "lane": "5",
+     "seedStr": "10:58.87",
+     "seedSeconds": 658.87
+    }
+   ]
   },
   "2011|לוזין·מייקל": {
    "id": "2011|לוזין·מייקל",
@@ -416930,7 +418043,22 @@ window.SWIM_DATA = {
      "points": 326
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "startTime": "12:27",
+     "heat": "10",
+     "lane": "4",
+     "seedStr": "00:36.65",
+     "seedSeconds": 36.65
+    }
+   ]
   },
   "2012|אביגיל·גלי·סיני": {
    "id": "2012|אביגיל·גלי·סיני",
@@ -418356,7 +419484,22 @@ window.SWIM_DATA = {
      "points": 314
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "startTime": "09:39",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|אסף·לילה": {
    "id": "2013|אסף·לילה",
@@ -421064,7 +422207,22 @@ window.SWIM_DATA = {
      "points": 358
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "startTime": "12:23",
+     "heat": "7",
+     "lane": "9",
+     "seedStr": "00:43.35",
+     "seedSeconds": 43.35
+    }
+   ]
   },
   "2014|אור·כהנוב": {
    "id": "2014|אור·כהנוב",
@@ -422349,48 +423507,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "01:21.17",
      "seedSeconds": 81.17
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "11:58",
-     "heat": "7",
-     "lane": "5",
-     "seedStr": "01:32.57",
-     "seedSeconds": 92.57
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "15:21",
-     "heat": "6",
-     "lane": "6",
-     "seedStr": "03:04.83",
-     "seedSeconds": 184.83
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "17:34",
-     "heat": "12",
-     "lane": "4",
-     "seedStr": "00:41.01",
-     "seedSeconds": 41.01
     }
    ]
   },
@@ -424079,34 +425195,6 @@ window.SWIM_DATA = {
      "lane": "5",
      "seedStr": "00:36.06",
      "seedSeconds": 36.06
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "11:55",
-     "heat": "6",
-     "lane": "6",
-     "seedStr": "01:41.95",
-     "seedSeconds": 101.95
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "17:32",
-     "heat": "11",
-     "lane": "2",
-     "seedStr": "00:46.77",
-     "seedSeconds": 46.77
     }
    ]
   },
@@ -424431,7 +425519,22 @@ window.SWIM_DATA = {
      "points": 414
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "startTime": "12:20",
+     "heat": "5",
+     "lane": "2",
+     "seedStr": "00:49.55",
+     "seedSeconds": 49.55
+    }
+   ]
   },
   "2014|אביגיל·גורגי": {
    "id": "2014|אביגיל·גורגי",
@@ -425637,48 +426740,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "01:22.68",
      "seedSeconds": 82.68
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "11:58",
-     "heat": "7",
-     "lane": "4",
-     "seedStr": "01:28.41",
-     "seedSeconds": 88.41
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "16:11",
-     "heat": "6",
-     "lane": "4",
-     "seedStr": "01:22.26",
-     "seedSeconds": 82.26
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "17:34",
-     "heat": "12",
-     "lane": "3",
-     "seedStr": "00:40.20",
-     "seedSeconds": 40.2
     }
    ]
   },
@@ -426133,7 +427194,22 @@ window.SWIM_DATA = {
      "points": 297
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "startTime": "12:26",
+     "heat": "9",
+     "lane": "3",
+     "seedStr": "00:37.78",
+     "seedSeconds": 37.78
+    }
+   ]
   },
   "2015|דוד·מיאל": {
    "id": "2015|דוד·מיאל",
@@ -427301,48 +428377,6 @@ window.SWIM_DATA = {
      "lane": "1",
      "seedStr": "00:44.75",
      "seedSeconds": 44.75
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "11:55",
-     "heat": "6",
-     "lane": "2",
-     "seedStr": "01:40.41",
-     "seedSeconds": 100.41
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "15:17",
-     "heat": "5",
-     "lane": "2",
-     "seedStr": "03:09.03",
-     "seedSeconds": 189.03
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "16:51",
-     "heat": "4",
-     "lane": "4",
-     "seedStr": "01:28.50",
-     "seedSeconds": 88.5
     }
    ]
   },
@@ -428458,34 +429492,6 @@ window.SWIM_DATA = {
      "lane": "1",
      "seedStr": "00:45.00",
      "seedSeconds": 45.0
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "11:53",
-     "heat": "5",
-     "lane": "4",
-     "seedStr": "01:42.58",
-     "seedSeconds": 102.58
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "16:06",
-     "heat": "4",
-     "lane": "2",
-     "seedStr": "01:36.52",
-     "seedSeconds": 96.52
     }
    ]
   },
@@ -429084,48 +430090,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "01:22.50",
      "seedSeconds": 82.5
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "11:53",
-     "heat": "5",
-     "lane": "3",
-     "seedStr": "01:42.38",
-     "seedSeconds": 102.38
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "15:21",
-     "heat": "6",
-     "lane": "4",
-     "seedStr": "02:54.42",
-     "seedSeconds": 174.42
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "16:53",
-     "heat": "5",
-     "lane": "1",
-     "seedStr": "01:24.96",
-     "seedSeconds": 84.96
     }
    ]
   },
@@ -429660,34 +430624,6 @@ window.SWIM_DATA = {
      "lane": "5",
      "seedStr": "00:42.83",
      "seedSeconds": 42.83
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "15:08",
-     "heat": "3",
-     "lane": "4",
-     "seedStr": "03:30.00",
-     "seedSeconds": 210.0
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "16:48",
-     "heat": "3",
-     "lane": "2",
-     "seedStr": "01:45.17",
-     "seedSeconds": 105.17
     }
    ]
   },
@@ -430532,34 +431468,6 @@ window.SWIM_DATA = {
      "lane": "1",
      "seedStr": "00:43.21",
      "seedSeconds": 43.21
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנות 10-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "11:03",
-     "heat": "4",
-     "lane": "2",
-     "seedStr": "02:52.29",
-     "seedSeconds": 172.29
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "16:11",
-     "heat": "6",
-     "lane": "2",
-     "seedStr": "01:22.57",
-     "seedSeconds": 82.57
     }
    ]
   },
@@ -431531,34 +432439,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "00:45.25",
      "seedSeconds": 45.25
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "11:55",
-     "heat": "6",
-     "lane": "5",
-     "seedStr": "01:40.45",
-     "seedSeconds": 100.45
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "17:32",
-     "heat": "11",
-     "lane": "4",
-     "seedStr": "00:46.48",
-     "seedSeconds": 46.48
     }
    ]
   },
@@ -432387,7 +433267,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית אונו",
      "startTime": "15:09",
      "heat": "4",
-     "lane": "4",
+     "lane": "3",
      "seedStr": "01:58.13",
      "seedSeconds": 118.13
     },
@@ -432404,34 +433284,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "00:56.65",
      "seedSeconds": 56.65
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "11:48",
-     "heat": "3",
-     "lane": "5",
-     "seedStr": "02:04.13",
-     "seedSeconds": 124.13
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "17:26",
-     "heat": "8",
-     "lane": "6",
-     "seedStr": "00:56.07",
-     "seedSeconds": 56.07
     }
    ]
   },
@@ -433005,34 +433857,6 @@ window.SWIM_DATA = {
      "lane": "5",
      "seedStr": "00:47.57",
      "seedSeconds": 47.57
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "09:22",
-     "heat": "9",
-     "lane": "2",
-     "seedStr": "01:37.17",
-     "seedSeconds": 97.17
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "16:51",
-     "heat": "4",
-     "lane": "3",
-     "seedStr": "01:27.20",
-     "seedSeconds": 87.2
     }
    ]
   },
@@ -433592,48 +434416,6 @@ window.SWIM_DATA = {
      "lane": "5",
      "seedStr": "00:44.51",
      "seedSeconds": 44.51
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "11:48",
-     "heat": "3",
-     "lane": "6",
-     "seedStr": "02:09.16",
-     "seedSeconds": 129.16
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "16:04",
-     "heat": "3",
-     "lane": "4",
-     "seedStr": "01:41.74",
-     "seedSeconds": 101.74
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "17:32",
-     "heat": "11",
-     "lane": "1",
-     "seedStr": "00:47.61",
-     "seedSeconds": 47.61
     }
    ]
   },
@@ -434128,48 +434910,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "00:42.08",
      "seedSeconds": 42.08
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "09:27",
-     "heat": "11",
-     "lane": "5",
-     "seedStr": "01:30.14",
-     "seedSeconds": 90.14
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "11:48",
-     "heat": "3",
-     "lane": "1",
-     "seedStr": "02:06.17",
-     "seedSeconds": 126.17
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "17:28",
-     "heat": "9",
-     "lane": "6",
-     "seedStr": "00:53.13",
-     "seedSeconds": 53.13
     }
    ]
   },
@@ -455916,46 +456656,18 @@ window.SWIM_DATA = {
    ],
    "future": [
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
+     "event": "100 מעורב אישי",
+     "category": "בנים 9-16",
      "poolLength": 25,
      "club": "הפועל פתח תקווה",
-     "startTime": "12:18",
-     "heat": "8",
-     "lane": "1",
-     "seedStr": "01:31.85",
-     "seedSeconds": 91.85
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "15:51",
-     "heat": "7",
-     "lane": "1",
-     "seedStr": "02:58.16",
-     "seedSeconds": 178.16
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "16:33",
-     "heat": "9",
-     "lane": "3",
-     "seedStr": "01:24.58",
-     "seedSeconds": 84.58
+     "startTime": "16:12",
+     "heat": "15",
+     "lane": "5",
+     "seedStr": "01:22.65",
+     "seedSeconds": 82.65
     }
    ]
   },
@@ -456972,20 +457684,6 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "13:04",
-     "heat": "8",
-     "lane": "3",
-     "seedStr": "02:20.25",
-     "seedSeconds": 140.25
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "100 מעורב אישי",
      "category": "בנים 9-16",
      "poolLength": 25,
@@ -457011,18 +457709,18 @@ window.SWIM_DATA = {
      "seedSeconds": 28.98
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
+     "event": "200 חופשי",
+     "category": "בנים 11-16",
      "poolLength": 25,
      "club": "הפועל פתח תקווה",
-     "startTime": "10:43",
-     "heat": "25",
+     "startTime": "19:54",
+     "heat": "8",
      "lane": "3",
-     "seedStr": "01:05.89",
-     "seedSeconds": 65.89
+     "seedStr": "02:20.25",
+     "seedSeconds": 140.25
     }
    ]
   },
@@ -461282,53 +461980,11 @@ window.SWIM_DATA = {
      "category": "בנים 8-19",
      "poolLength": 25,
      "club": "הפועל פתח תקווה",
-     "startTime": "17:16",
-     "heat": "24",
-     "lane": "6",
+     "startTime": "17:14",
+     "heat": "23",
+     "lane": "3",
      "seedStr": "00:34.07",
      "seedSeconds": 34.07
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "10:21",
-     "heat": "17",
-     "lane": "2",
-     "seedStr": "01:24.44",
-     "seedSeconds": 84.44
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "12:18",
-     "heat": "8",
-     "lane": "6",
-     "seedStr": "01:33.59",
-     "seedSeconds": 93.59
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "18:04",
-     "heat": "15",
-     "lane": "5",
-     "seedStr": "00:41.07",
-     "seedSeconds": 41.07
     }
    ]
   },
@@ -461940,48 +462596,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "01:28.05",
      "seedSeconds": 88.05
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "10:24",
-     "heat": "18",
-     "lane": "4",
-     "seedStr": "01:21.73",
-     "seedSeconds": 81.73
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "12:15",
-     "heat": "7",
-     "lane": "3",
-     "seedStr": "01:33.70",
-     "seedSeconds": 93.7
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "18:04",
-     "heat": "15",
-     "lane": "1",
-     "seedStr": "00:41.58",
-     "seedSeconds": 41.58
     }
    ]
   },
@@ -462865,34 +463479,6 @@ window.SWIM_DATA = {
      "lane": "5",
      "seedStr": "00:33.88",
      "seedSeconds": 33.88
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "10:24",
-     "heat": "18",
-     "lane": "6",
-     "seedStr": "01:23.64",
-     "seedSeconds": 83.64
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "17:03",
-     "heat": "4",
-     "lane": "5",
-     "seedStr": "01:49.54",
-     "seedSeconds": 109.54
     }
    ]
   },
@@ -464016,51 +464602,9 @@ window.SWIM_DATA = {
      "club": "מכבי קרית אונו",
      "startTime": "17:11",
      "heat": "21",
-     "lane": "5",
+     "lane": "1",
      "seedStr": "00:36.12",
      "seedSeconds": 36.12
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "10:35",
-     "heat": "22",
-     "lane": "4",
-     "seedStr": "01:14.95",
-     "seedSeconds": 74.95
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "12:13",
-     "heat": "6",
-     "lane": "1",
-     "seedStr": "01:40.90",
-     "seedSeconds": 100.9
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "18:02",
-     "heat": "14",
-     "lane": "1",
-     "seedStr": "00:44.64",
-     "seedSeconds": 44.64
     }
    ]
   },
@@ -464517,34 +465061,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "00:39.25",
      "seedSeconds": 39.25
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "10:21",
-     "heat": "17",
-     "lane": "3",
-     "seedStr": "01:24.20",
-     "seedSeconds": 84.2
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "17:03",
-     "heat": "4",
-     "lane": "6",
-     "seedStr": "01:56.87",
-     "seedSeconds": 116.87
     }
    ]
   },
@@ -465433,20 +465949,6 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "12:44",
-     "heat": "3",
-     "lane": "3",
-     "seedStr": "03:00.52",
-     "seedSeconds": 180.52
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "100 מעורב אישי",
      "category": "בנים 9-16",
      "poolLength": 25,
@@ -465458,32 +465960,18 @@ window.SWIM_DATA = {
      "seedSeconds": 100.84
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "10:24",
-     "heat": "18",
-     "lane": "5",
-     "seedStr": "01:22.67",
-     "seedSeconds": 82.67
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
+     "event": "200 חופשי",
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "16:26",
-     "heat": "6",
-     "lane": "6",
-     "seedStr": "01:39.11",
-     "seedSeconds": 99.11
+     "startTime": "19:34",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "03:00.52",
+     "seedSeconds": 180.52
     }
    ]
   },
@@ -466234,7 +466722,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית אונו",
      "startTime": "15:42",
      "heat": "5",
-     "lane": "1",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -466248,37 +466736,9 @@ window.SWIM_DATA = {
      "club": "מכבי קרית אונו",
      "startTime": "17:13",
      "heat": "22",
-     "lane": "1",
+     "lane": "6",
      "seedStr": "00:35.20",
      "seedSeconds": 35.2
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "10:27",
-     "heat": "19",
-     "lane": "4",
-     "seedStr": "01:20.23",
-     "seedSeconds": 80.23
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "16:21",
-     "heat": "4",
-     "lane": "1",
-     "seedStr": "01:49.81",
-     "seedSeconds": 109.81
     }
    ]
   },
@@ -466738,20 +467198,6 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "12:48",
-     "heat": "4",
-     "lane": "4",
-     "seedStr": "02:54.00",
-     "seedSeconds": 174.0
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "50 פרפר",
      "category": "בנים 9-19",
      "poolLength": 25,
@@ -466763,32 +467209,18 @@ window.SWIM_DATA = {
      "seedSeconds": 44.36
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "10:13",
-     "heat": "14",
-     "lane": "3",
-     "seedStr": "01:31.63",
-     "seedSeconds": 91.63
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
+     "event": "200 חופשי",
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "16:23",
-     "heat": "5",
-     "lane": "4",
-     "seedStr": "01:40.31",
-     "seedSeconds": 100.31
+     "startTime": "19:38",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "02:54.00",
+     "seedSeconds": 174.0
     }
    ]
   },
@@ -467307,37 +467739,9 @@ window.SWIM_DATA = {
      "club": "מכבי קרית אונו",
      "startTime": "17:57",
      "heat": "13",
-     "lane": "6",
+     "lane": "1",
      "seedStr": "00:44.46",
      "seedSeconds": 44.46
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "11:18",
-     "heat": "3",
-     "lane": "2",
-     "seedStr": "04:07.00",
-     "seedSeconds": 247.0
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "15:42",
-     "heat": "5",
-     "lane": "1",
-     "seedStr": "03:19.91",
-     "seedSeconds": 199.91
     }
    ]
   },
@@ -467843,51 +468247,9 @@ window.SWIM_DATA = {
      "club": "הפועל פתח תקווה",
      "startTime": "17:51",
      "heat": "9",
-     "lane": "5",
+     "lane": "4",
      "seedStr": "00:53.13",
      "seedSeconds": 53.13
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "10:19",
-     "heat": "16",
-     "lane": "1",
-     "seedStr": "01:27.12",
-     "seedSeconds": 87.12
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "12:08",
-     "heat": "4",
-     "lane": "1",
-     "seedStr": "02:04.90",
-     "seedSeconds": 124.9
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "16:26",
-     "heat": "6",
-     "lane": "1",
-     "seedStr": "01:38.85",
-     "seedSeconds": 98.85
     }
    ]
   },
@@ -468266,34 +468628,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "00:42.11",
      "seedSeconds": 42.11
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "12:10",
-     "heat": "5",
-     "lane": "2",
-     "seedStr": "01:50.50",
-     "seedSeconds": 110.5
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "18:00",
-     "heat": "13",
-     "lane": "5",
-     "seedStr": "00:47.92",
-     "seedSeconds": 47.92
     }
    ]
   },
@@ -469213,37 +469547,9 @@ window.SWIM_DATA = {
      "club": "מכבי קרית אונו",
      "startTime": "17:56",
      "heat": "12",
-     "lane": "6",
+     "lane": "5",
      "seedStr": "00:46.17",
      "seedSeconds": 46.17
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "12:05",
-     "heat": "3",
-     "lane": "4",
-     "seedStr": "02:12.19",
-     "seedSeconds": 132.19
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "17:52",
-     "heat": "9",
-     "lane": "2",
-     "seedStr": "01:00.54",
-     "seedSeconds": 60.54
     }
    ]
   },
@@ -469671,37 +469977,9 @@ window.SWIM_DATA = {
      "club": "מכבי מרום רמת גן",
      "startTime": "17:10",
      "heat": "20",
-     "lane": "2",
+     "lane": "5",
      "seedStr": "00:36.64",
      "seedSeconds": 36.64
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "11:23",
-     "heat": "4",
-     "lane": "1",
-     "seedStr": "03:23.34",
-     "seedSeconds": 203.34
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "16:26",
-     "heat": "6",
-     "lane": "4",
-     "seedStr": "01:36.57",
-     "seedSeconds": 96.57
     }
    ]
   },
@@ -470272,37 +470550,9 @@ window.SWIM_DATA = {
      "club": "מכבי קרית אונו",
      "startTime": "18:21",
      "heat": "4",
-     "lane": "3",
+     "lane": "4",
      "seedStr": "00:49.35",
      "seedSeconds": 49.35
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "10:32",
-     "heat": "21",
-     "lane": "2",
-     "seedStr": "01:17.35",
-     "seedSeconds": 77.35
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "16:21",
-     "heat": "4",
-     "lane": "2",
-     "seedStr": "01:46.78",
-     "seedSeconds": 106.78
     }
    ]
   },
@@ -470863,34 +471113,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "00:40.63",
      "seedSeconds": 40.63
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "10:19",
-     "heat": "16",
-     "lane": "4",
-     "seedStr": "01:26.24",
-     "seedSeconds": 86.24
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "15:29",
-     "heat": "2",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -472732,20 +472954,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "00:35.87",
      "seedSeconds": 35.87
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "17:10",
-     "heat": "7",
-     "lane": "6",
-     "seedStr": "01:19.53",
-     "seedSeconds": 79.53
     }
    ]
   },
@@ -473731,7 +473939,36 @@ window.SWIM_DATA = {
      "points": 203
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "09:13",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "12:23",
+     "heat": "7",
+     "lane": "2",
+     "seedStr": "00:42.27",
+     "seedSeconds": 42.27
+    }
+   ]
   },
   "2014|סיני·תבור": {
    "id": "2014|סיני·תבור",
@@ -480285,20 +480522,6 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "12:48",
-     "heat": "4",
-     "lane": "3",
-     "seedStr": "02:53.00",
-     "seedSeconds": 173.0
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "50 גב",
      "category": "בנים 9-16",
      "poolLength": 25,
@@ -480310,32 +480533,18 @@ window.SWIM_DATA = {
      "seedSeconds": 41.13
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "11:18",
-     "heat": "3",
-     "lane": "4",
-     "seedStr": "03:51.02",
-     "seedSeconds": 231.02
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
+     "event": "200 חופשי",
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "הפועל דולפין נתניה",
-     "startTime": "16:31",
-     "heat": "8",
-     "lane": "2",
-     "seedStr": "01:29.07",
-     "seedSeconds": 89.07
+     "startTime": "19:38",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "02:53.00",
+     "seedSeconds": 173.0
     }
    ]
   },
@@ -483250,7 +483459,36 @@ window.SWIM_DATA = {
      "points": 399
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "09:26",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "12:24",
+     "heat": "8",
+     "lane": "0",
+     "seedStr": "00:41.37",
+     "seedSeconds": 41.37
+    }
+   ]
   },
   "2015|דניאל·קרפ": {
    "id": "2015|דניאל·קרפ",
@@ -488043,7 +488281,22 @@ window.SWIM_DATA = {
      "points": 479
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל אולימפ נתניה",
+     "startTime": "12:30",
+     "heat": "12",
+     "lane": "3",
+     "seedStr": "00:34.79",
+     "seedSeconds": 34.79
+    }
+   ]
   },
   "2012|מרי·פלייטמן": {
    "id": "2012|מרי·פלייטמן",
@@ -489172,7 +489425,22 @@ window.SWIM_DATA = {
      "points": 529
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל אולימפ נתניה",
+     "startTime": "11:53",
+     "heat": "15",
+     "lane": "2",
+     "seedStr": "09:35.22",
+     "seedSeconds": 575.22
+    }
+   ]
   },
   "2010|אמיליה·מרצ'נקו": {
    "id": "2010|אמיליה·מרצ'נקו",
@@ -494488,7 +494756,22 @@ window.SWIM_DATA = {
      "points": 463
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "12:33",
+     "heat": "14",
+     "lane": "1",
+     "seedStr": "00:32.09",
+     "seedSeconds": 32.09
+    }
+   ]
   },
   "2011|דמלין·תהל": {
    "id": "2011|דמלין·תהל",
@@ -495448,7 +495731,36 @@ window.SWIM_DATA = {
      "points": 556
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "10:18",
+     "heat": "7",
+     "lane": "8",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "12:35",
+     "heat": "15",
+     "lane": "0",
+     "seedStr": "00:31.25",
+     "seedSeconds": 31.25
+    }
+   ]
   },
   "2011|קרן·רומם": {
    "id": "2011|קרן·רומם",
@@ -500173,7 +500485,22 @@ window.SWIM_DATA = {
      "points": 164
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "12:21",
+     "heat": "6",
+     "lane": "4",
+     "seedStr": "00:44.06",
+     "seedSeconds": 44.06
+    }
+   ]
   },
   "2014|בליינס·דניאל": {
    "id": "2014|בליינס·דניאל",
@@ -503451,20 +503778,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "00:46.01",
      "seedSeconds": 46.01
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "09:33",
-     "heat": "13",
-     "lane": "5",
-     "seedStr": "01:20.07",
-     "seedSeconds": 80.07
     }
    ]
   },
@@ -504491,34 +504804,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "00:40.75",
      "seedSeconds": 40.75
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "09:22",
-     "heat": "9",
-     "lane": "6",
-     "seedStr": "01:40.18",
-     "seedSeconds": 100.18
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "16:11",
-     "heat": "6",
-     "lane": "6",
-     "seedStr": "01:26.55",
-     "seedSeconds": 86.55
     }
    ]
   },
@@ -506071,39 +506356,11 @@ window.SWIM_DATA = {
      "category": "בנות 11-16",
      "poolLength": 25,
      "club": "הפועל פתח תקווה",
-     "startTime": "19:05",
+     "startTime": "19:10",
      "heat": "2",
      "lane": "4",
      "seedStr": "02:54.70",
      "seedSeconds": 174.7
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנות 10-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "10:53",
-     "heat": "2",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "16:06",
-     "heat": "4",
-     "lane": "3",
-     "seedStr": "01:34.79",
-     "seedSeconds": 94.79
     }
    ]
   },
@@ -506781,34 +507038,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "00:41.41",
      "seedSeconds": 41.41
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "09:35",
-     "heat": "14",
-     "lane": "2",
-     "seedStr": "01:09.05",
-     "seedSeconds": 69.05
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "16:11",
-     "heat": "6",
-     "lane": "1",
-     "seedStr": "01:26.19",
-     "seedSeconds": 86.19
     }
    ]
   },
@@ -523511,20 +523740,6 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "13:08",
-     "heat": "9",
-     "lane": "1",
-     "seedStr": "02:19.76",
-     "seedSeconds": 139.76
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "50 חופשי",
      "category": "בנים 8-19",
      "poolLength": 25,
@@ -523550,18 +523765,18 @@ window.SWIM_DATA = {
      "seedSeconds": 35.34
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנים 9-16",
+     "event": "200 חופשי",
+     "category": "בנים 11-16",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "17:10",
-     "heat": "7",
-     "lane": "2",
-     "seedStr": "01:14.35",
-     "seedSeconds": 74.35
+     "startTime": "19:58",
+     "heat": "9",
+     "lane": "1",
+     "seedStr": "02:19.76",
+     "seedSeconds": 139.76
     }
    ]
   },
@@ -524494,48 +524709,6 @@ window.SWIM_DATA = {
      "lane": "1",
      "seedStr": "00:29.90",
      "seedSeconds": 29.9
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "10:38",
-     "heat": "23",
-     "lane": "2",
-     "seedStr": "01:12.33",
-     "seedSeconds": 72.33
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "16:38",
-     "heat": "11",
-     "lane": "6",
-     "seedStr": "01:22.66",
-     "seedSeconds": 82.66
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "17:00",
-     "heat": "3",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -525418,48 +525591,6 @@ window.SWIM_DATA = {
      "lane": "5",
      "seedStr": "00:28.90",
      "seedSeconds": 28.9
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "10:43",
-     "heat": "25",
-     "lane": "4",
-     "seedStr": "01:06.44",
-     "seedSeconds": 66.44
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "11:38",
-     "heat": "7",
-     "lane": "2",
-     "seedStr": "02:34.94",
-     "seedSeconds": 154.94
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "16:41",
-     "heat": "12",
-     "lane": "2",
-     "seedStr": "01:12.96",
-     "seedSeconds": 72.96
     }
    ]
   },
@@ -526448,34 +526579,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "00:40.95",
      "seedSeconds": 40.95
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "15:51",
-     "heat": "7",
-     "lane": "6",
-     "seedStr": "02:59.07",
-     "seedSeconds": 179.07
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "17:08",
-     "heat": "6",
-     "lane": "2",
-     "seedStr": "01:21.88",
-     "seedSeconds": 81.88
     }
    ]
   },
@@ -527074,48 +527177,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "01:24.86",
      "seedSeconds": 84.86
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "11:23",
-     "heat": "4",
-     "lane": "2",
-     "seedStr": "03:19.50",
-     "seedSeconds": 199.5
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "15:47",
-     "heat": "6",
-     "lane": "4",
-     "seedStr": "03:02.66",
-     "seedSeconds": 182.66
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "17:08",
-     "heat": "6",
-     "lane": "5",
-     "seedStr": "01:23.72",
-     "seedSeconds": 83.72
     }
    ]
   },
@@ -527637,34 +527698,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "00:29.20",
      "seedSeconds": 29.2
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "10:35",
-     "heat": "22",
-     "lane": "5",
-     "seedStr": "01:16.18",
-     "seedSeconds": 76.18
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "16:36",
-     "heat": "10",
-     "lane": "3",
-     "seedStr": "01:22.79",
-     "seedSeconds": 82.79
     }
    ]
   },
@@ -528795,48 +528828,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "01:38.31",
      "seedSeconds": 98.31
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "12:15",
-     "heat": "7",
-     "lane": "1",
-     "seedStr": "01:36.57",
-     "seedSeconds": 96.57
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "15:47",
-     "heat": "6",
-     "lane": "3",
-     "seedStr": "03:01.04",
-     "seedSeconds": 181.04
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "16:36",
-     "heat": "10",
-     "lane": "2",
-     "seedStr": "01:23.65",
-     "seedSeconds": 83.65
     }
    ]
   },
@@ -529140,57 +529131,29 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "12:56",
-     "heat": "6",
-     "lane": "6",
-     "seedStr": "02:48.00",
-     "seedSeconds": 168.0
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "50 חופשי",
      "category": "בנים 8-19",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
      "startTime": "17:14",
      "heat": "23",
-     "lane": "4",
+     "lane": "2",
      "seedStr": "00:34.20",
      "seedSeconds": 34.2
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "10:30",
-     "heat": "20",
-     "lane": "3",
-     "seedStr": "01:18.88",
-     "seedSeconds": 78.88
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
+     "event": "200 חופשי",
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "16:16",
-     "heat": "2",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
+     "startTime": "19:42",
+     "heat": "5",
+     "lane": "3",
+     "seedStr": "02:48.00",
+     "seedSeconds": 168.0
     }
    ]
   },
@@ -529739,34 +529702,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "00:40.09",
      "seedSeconds": 40.09
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "11:18",
-     "heat": "3",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "16:26",
-     "heat": "6",
-     "lane": "3",
-     "seedStr": "01:33.91",
-     "seedSeconds": 93.91
     }
    ]
   },
@@ -534562,7 +534497,22 @@ window.SWIM_DATA = {
      "points": 264
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "startTime": "12:23",
+     "heat": "7",
+     "lane": "6",
+     "seedStr": "00:41.95",
+     "seedSeconds": 41.95
+    }
+   ]
   },
   "2014|לב·שני": {
    "id": "2014|לב·שני",
@@ -535522,34 +535472,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "00:45.72",
      "seedSeconds": 45.72
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "09:30",
-     "heat": "12",
-     "lane": "6",
-     "seedStr": "01:26.91",
-     "seedSeconds": 86.91
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "16:06",
-     "heat": "4",
-     "lane": "6",
-     "seedStr": "01:38.53",
-     "seedSeconds": 98.53
     }
    ]
   },
@@ -536778,34 +536700,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "01:18.16",
      "seedSeconds": 78.16
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "11:50",
-     "heat": "4",
-     "lane": "2",
-     "seedStr": "01:52.31",
-     "seedSeconds": 112.31
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "16:01",
-     "heat": "2",
-     "lane": "3",
-     "seedStr": "02:04.77",
-     "seedSeconds": 124.77
     }
    ]
   },
@@ -537219,7 +537113,7 @@ window.SWIM_DATA = {
      "club": "הפועל פתח תקווה",
      "startTime": "17:11",
      "heat": "21",
-     "lane": "4",
+     "lane": "2",
      "seedStr": "00:35.84",
      "seedSeconds": 35.84
     },
@@ -537231,39 +537125,11 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "הפועל פתח תקווה",
-     "startTime": "17:54",
-     "heat": "11",
-     "lane": "3",
+     "startTime": "17:56",
+     "heat": "12",
+     "lane": "1",
      "seedStr": "00:46.19",
      "seedSeconds": 46.19
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "10:30",
-     "heat": "20",
-     "lane": "2",
-     "seedStr": "01:18.99",
-     "seedSeconds": 78.99
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "16:31",
-     "heat": "8",
-     "lane": "6",
-     "seedStr": "01:30.07",
-     "seedSeconds": 90.07
     }
    ]
   },
@@ -538032,43 +537898,29 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
+     "event": "50 גב",
+     "category": "בנים 9-16",
      "poolLength": 25,
      "club": "הפועל פתח תקווה",
-     "startTime": "12:44",
-     "heat": "3",
-     "lane": "6",
-     "seedStr": "03:11.70",
-     "seedSeconds": 191.7
+     "startTime": "17:52",
+     "heat": "10",
+     "lane": "1",
+     "seedStr": "00:51.20",
+     "seedSeconds": 51.2
     },
     {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "50 גב",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "17:51",
-     "heat": "9",
-     "lane": "3",
-     "seedStr": "00:51.20",
-     "seedSeconds": 51.2
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
+     "event": "200 חופשי",
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "הפועל פתח תקווה",
-     "startTime": "16:23",
-     "heat": "5",
-     "lane": "6",
-     "seedStr": "01:42.11",
-     "seedSeconds": 102.11
+     "startTime": "19:30",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "03:11.70",
+     "seedSeconds": 191.7
     }
    ]
   },
@@ -538557,37 +538409,9 @@ window.SWIM_DATA = {
      "club": "מכבי מרום רמת גן",
      "startTime": "18:19",
      "heat": "3",
-     "lane": "5",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "12:08",
-     "heat": "4",
-     "lane": "4",
-     "seedStr": "01:59.49",
-     "seedSeconds": 119.49
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "17:56",
-     "heat": "11",
-     "lane": "4",
-     "seedStr": "00:53.59",
-     "seedSeconds": 53.59
     }
    ]
   },
@@ -539836,51 +539660,9 @@ window.SWIM_DATA = {
      "club": "הפועל פתח תקווה",
      "startTime": "17:14",
      "heat": "23",
-     "lane": "5",
+     "lane": "1",
      "seedStr": "00:34.29",
      "seedSeconds": 34.29
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "12:10",
-     "heat": "5",
-     "lane": "6",
-     "seedStr": "01:57.35",
-     "seedSeconds": 117.35
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "16:33",
-     "heat": "9",
-     "lane": "6",
-     "seedStr": "01:27.18",
-     "seedSeconds": 87.18
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "17:03",
-     "heat": "4",
-     "lane": "1",
-     "seedStr": "01:53.75",
-     "seedSeconds": 113.75
     }
    ]
   },
@@ -540738,7 +540520,22 @@ window.SWIM_DATA = {
      "points": 443
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל עומר",
+     "startTime": "12:30",
+     "heat": "12",
+     "lane": "5",
+     "seedStr": "00:34.71",
+     "seedSeconds": 34.71
+    }
+   ]
   },
   "2014|מונטאנו·מיכל": {
    "id": "2014|מונטאנו·מיכל",
@@ -541885,7 +541682,36 @@ window.SWIM_DATA = {
      "points": 208
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "09:00",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "12:20",
+     "heat": "5",
+     "lane": "7",
+     "seedStr": "00:50.00",
+     "seedSeconds": 50.0
+    }
+   ]
   },
   "2015|אברהם·יערה": {
    "id": "2015|אברהם·יערה",
@@ -547040,7 +546866,22 @@ window.SWIM_DATA = {
      "points": 302
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל ג'מים אילת",
+     "startTime": "12:23",
+     "heat": "7",
+     "lane": "7",
+     "seedStr": "00:42.37",
+     "seedSeconds": 42.37
+    }
+   ]
   },
   "2014|כובס·מעיין": {
    "id": "2014|כובס·מעיין",
@@ -547714,7 +547555,36 @@ window.SWIM_DATA = {
      "points": 334
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "09:13",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "12:24",
+     "heat": "8",
+     "lane": "6",
+     "seedStr": "00:40.03",
+     "seedSeconds": 40.03
+    }
+   ]
   },
   "2015|זזון·יובל": {
    "id": "2015|זזון·יובל",
@@ -550114,7 +549984,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל עומר",
+     "startTime": "10:31",
+     "heat": "8",
+     "lane": "4",
+     "seedStr": "13:57.09",
+     "seedSeconds": 837.09
+    }
+   ]
   },
   "2014|בן·נועה·ציון": {
    "id": "2014|בן·נועה·ציון",
@@ -558504,7 +558389,36 @@ window.SWIM_DATA = {
      "points": 366
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "09:26",
+     "heat": "3",
+     "lane": "0",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "12:24",
+     "heat": "8",
+     "lane": "2",
+     "seedStr": "00:40.27",
+     "seedSeconds": 40.27
+    }
+   ]
   },
   "2012|טודורוס·מתן": {
    "id": "2012|טודורוס·מתן",
@@ -564486,7 +564400,22 @@ window.SWIM_DATA = {
      "points": 549
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מועדון שחייה כפר תבור",
+     "startTime": "10:05",
+     "heat": "6",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2012|אבו·איהאב·סילין·ריא": {
    "id": "2012|אבו·איהאב·סילין·ריא",
@@ -565316,7 +565245,22 @@ window.SWIM_DATA = {
      "points": 308
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "12:29",
+     "heat": "11",
+     "lane": "8",
+     "seedStr": "00:35.89",
+     "seedSeconds": 35.89
+    }
+   ]
   },
   "2010|גלי·פרנקל": {
    "id": "2010|גלי·פרנקל",
@@ -566272,7 +566216,22 @@ window.SWIM_DATA = {
      "points": 377
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "09:26",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|שיר·שפיגל": {
    "id": "2013|שיר·שפיגל",
@@ -567293,7 +567252,22 @@ window.SWIM_DATA = {
      "points": 294
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "12:24",
+     "heat": "8",
+     "lane": "4",
+     "seedStr": "00:39.59",
+     "seedSeconds": 39.59
+    }
+   ]
   },
   "2011|כהן·רוני·שחר": {
    "id": "2011|כהן·רוני·שחר",
@@ -567679,7 +567653,22 @@ window.SWIM_DATA = {
      "points": 267
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "12:30",
+     "heat": "12",
+     "lane": "7",
+     "seedStr": "00:35.01",
+     "seedSeconds": 35.01
+    }
+   ]
   },
   "2008|דראושה·למיס": {
    "id": "2008|דראושה·למיס",
@@ -573126,7 +573115,22 @@ window.SWIM_DATA = {
      "points": 359
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "09:00",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|גוני·צפדיה": {
    "id": "2013|גוני·צפדיה",
@@ -577345,7 +577349,22 @@ window.SWIM_DATA = {
      "points": 382
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי חיפה",
+     "startTime": "09:52",
+     "heat": "5",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|אביגייל·ממדוב": {
    "id": "2015|אביגייל·ממדוב",
@@ -578949,7 +578968,22 @@ window.SWIM_DATA = {
      "points": 236
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "12:21",
+     "heat": "6",
+     "lane": "7",
+     "seedStr": "00:45.61",
+     "seedSeconds": 45.61
+    }
+   ]
   },
   "2014|אלירון·הודיה·יהב": {
    "id": "2014|אלירון·הודיה·יהב",
@@ -581063,39 +581097,11 @@ window.SWIM_DATA = {
      "category": "בנות 11-16",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "19:05",
+     "startTime": "19:10",
      "heat": "2",
      "lane": "1",
      "seedStr": "03:10.53",
      "seedSeconds": 190.53
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "15:04",
-     "heat": "2",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "16:48",
-     "heat": "3",
-     "lane": "4",
-     "seedStr": "01:44.56",
-     "seedSeconds": 104.56
     }
    ]
   },
@@ -588997,7 +589003,7 @@ window.SWIM_DATA = {
      "club": "הפועל מ.א משגב",
      "timeStr": "01:17.81",
      "seconds": 77.81,
-     "place": "8",
+     "place": "7",
      "points": 254
     }
    ],
@@ -606366,7 +606372,7 @@ window.SWIM_DATA = {
      "club": "הפועל אקווה נוף הגליל",
      "timeStr": "01:19.47",
      "seconds": 79.47,
-     "place": "10",
+     "place": "9",
      "points": 238
     },
     {
@@ -617476,7 +617482,36 @@ window.SWIM_DATA = {
      "points": 514
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "startTime": "10:31",
+     "heat": "8",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "startTime": "12:35",
+     "heat": "15",
+     "lane": "5",
+     "seedStr": "00:29.42",
+     "seedSeconds": 29.42
+    }
+   ]
   },
   "2008|גורלסקי·דוריה": {
    "id": "2008|גורלסקי·דוריה",
@@ -619394,7 +619429,22 @@ window.SWIM_DATA = {
      "points": 336
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "12:29",
+     "heat": "11",
+     "lane": "6",
+     "seedStr": "00:35.72",
+     "seedSeconds": 35.72
+    }
+   ]
   },
   "2005|אומלצ'נקו·סטפן": {
    "id": "2005|אומלצ'נקו·סטפן",
@@ -621806,7 +621856,22 @@ window.SWIM_DATA = {
      "points": 523
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "12:35",
+     "heat": "15",
+     "lane": "7",
+     "seedStr": "00:30.50",
+     "seedSeconds": 30.5
+    }
+   ]
   },
   "2008|כהן·שגיא": {
    "id": "2008|כהן·שגיא",
@@ -635618,48 +635683,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "01:32.47",
      "seedSeconds": 92.47
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "11:55",
-     "heat": "6",
-     "lane": "4",
-     "seedStr": "01:37.24",
-     "seedSeconds": 97.24
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "15:13",
-     "heat": "4",
-     "lane": "3",
-     "seedStr": "03:16.30",
-     "seedSeconds": 196.3
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "17:34",
-     "heat": "12",
-     "lane": "6",
-     "seedStr": "00:45.90",
-     "seedSeconds": 45.9
     }
    ]
   },
@@ -637445,7 +637468,22 @@ window.SWIM_DATA = {
      "points": 275
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "12:27",
+     "heat": "10",
+     "lane": "9",
+     "seedStr": "00:37.67",
+     "seedSeconds": 37.67
+    }
+   ]
   },
   "2015|איילה·קרמר": {
    "id": "2015|איילה·קרמר",
@@ -638867,7 +638905,22 @@ window.SWIM_DATA = {
      "points": 238
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "09:26",
+     "heat": "3",
+     "lane": "8",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|יעקובוביץ·מאיה": {
    "id": "2013|יעקובוביץ·מאיה",
@@ -649026,7 +649079,7 @@ window.SWIM_DATA = {
      "club": "הפועל מ.א משגב",
      "timeStr": "01:14.36",
      "seconds": 74.36,
-     "place": "5",
+     "place": "4",
      "points": 291
     }
    ],
@@ -657650,7 +657703,7 @@ window.SWIM_DATA = {
      "club": "הפועל גליל עליון",
      "timeStr": "00:43.01",
      "seconds": 43.01,
-     "place": "62",
+     "place": "63",
      "points": 99
     }
    ],
@@ -662397,7 +662450,22 @@ window.SWIM_DATA = {
      "points": 418
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "12:32",
+     "heat": "13",
+     "lane": "9",
+     "seedStr": "00:34.28",
+     "seedSeconds": 34.28
+    }
+   ]
   },
   "2012|עומר·שני": {
    "id": "2012|עומר·שני",
@@ -664265,7 +664333,22 @@ window.SWIM_DATA = {
      "points": 386
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "12:29",
+     "heat": "11",
+     "lane": "1",
+     "seedStr": "00:35.86",
+     "seedSeconds": 35.86
+    }
+   ]
   },
   "2012|מרגוליס·קארין": {
    "id": "2012|מרגוליס·קארין",
@@ -666081,7 +666164,22 @@ window.SWIM_DATA = {
      "points": 376
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "12:17",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2012|גורליק·ליאה": {
    "id": "2012|גורליק·ליאה",
@@ -669154,7 +669252,22 @@ window.SWIM_DATA = {
      "points": 361
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "12:23",
+     "heat": "7",
+     "lane": "4",
+     "seedStr": "00:41.56",
+     "seedSeconds": 41.56
+    }
+   ]
   },
   "2013|אודל·בנממן": {
    "id": "2013|אודל·בנממן",
@@ -669906,7 +670019,22 @@ window.SWIM_DATA = {
      "points": 312
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "09:52",
+     "heat": "5",
+     "lane": "7",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|קחן·רוני": {
    "id": "2013|קחן·רוני",
@@ -672095,7 +672223,22 @@ window.SWIM_DATA = {
      "points": 235
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "12:24",
+     "heat": "8",
+     "lane": "1",
+     "seedStr": "00:40.83",
+     "seedSeconds": 40.83
+    }
+   ]
   },
   "2014|אקופין·אריאל": {
    "id": "2014|אקופין·אריאל",
@@ -673418,7 +673561,22 @@ window.SWIM_DATA = {
      "points": 404
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "12:17",
+     "heat": "3",
+     "lane": "8",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|יליזבטה·שטוחינה": {
    "id": "2015|יליזבטה·שטוחינה",
@@ -675849,7 +676007,22 @@ window.SWIM_DATA = {
      "points": 277
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "12:15",
+     "heat": "2",
+     "lane": "8",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|ליה·תמים": {
    "id": "2015|ליה·תמים",
@@ -676835,7 +677008,22 @@ window.SWIM_DATA = {
      "points": 327
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "12:21",
+     "heat": "6",
+     "lane": "9",
+     "seedStr": "00:47.50",
+     "seedSeconds": 47.5
+    }
+   ]
   },
   "2014|מירה·פרבר": {
    "id": "2014|מירה·פרבר",
@@ -678157,7 +678345,22 @@ window.SWIM_DATA = {
      "points": 193
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "12:14",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|בן·דוב·ליה": {
    "id": "2015|בן·דוב·ליה",
@@ -678766,7 +678969,22 @@ window.SWIM_DATA = {
      "points": 141
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "12:15",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|בלה·ספייב": {
    "id": "2014|בלה·ספייב",
@@ -679893,7 +680111,22 @@ window.SWIM_DATA = {
      "points": 376
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "12:15",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|זוהר·נוגה": {
    "id": "2015|זוהר·נוגה",
@@ -680593,7 +680826,22 @@ window.SWIM_DATA = {
      "points": 250
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "12:21",
+     "heat": "6",
+     "lane": "6",
+     "seedStr": "00:44.87",
+     "seedSeconds": 44.87
+    }
+   ]
   },
   "2013|מטילדה·פרבר": {
    "id": "2013|מטילדה·פרבר",
@@ -681991,7 +682239,22 @@ window.SWIM_DATA = {
      "points": 311
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "09:39",
+     "heat": "4",
+     "lane": "8",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2012|בכר·הדר": {
    "id": "2012|בכר·הדר",
@@ -700094,34 +700357,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "00:31.69",
      "seedSeconds": 31.69
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "11:33",
-     "heat": "6",
-     "lane": "5",
-     "seedStr": "02:57.91",
-     "seedSeconds": 177.91
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "16:38",
-     "heat": "11",
-     "lane": "2",
-     "seedStr": "01:17.26",
-     "seedSeconds": 77.26
     }
    ]
   },
@@ -718905,7 +719140,22 @@ window.SWIM_DATA = {
      "points": 411
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל לב הגליל סחנין",
+     "startTime": "12:18",
+     "heat": "4",
+     "lane": "7",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2010|אבו·איהאב·מרים·ריא": {
    "id": "2010|אבו·איהאב·מרים·ריא",
@@ -735116,7 +735366,36 @@ window.SWIM_DATA = {
      "points": 544
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "12:04",
+     "heat": "16",
+     "lane": "4",
+     "seedStr": "08:55.23",
+     "seedSeconds": 535.23
+    },
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "12:18",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2010|אביב·רכאח": {
    "id": "2010|אביב·רכאח",
@@ -735803,7 +736082,22 @@ window.SWIM_DATA = {
      "points": 495
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "11:31",
+     "heat": "13",
+     "lane": "7",
+     "seedStr": "10:00.46",
+     "seedSeconds": 600.46
+    }
+   ]
   },
   "2004|ירון·מנטין": {
    "id": "2004|ירון·מנטין",
@@ -740129,7 +740423,7 @@ window.SWIM_DATA = {
      "club": "הפועל מ.א משגב",
      "timeStr": "01:13.94",
      "seconds": 73.94,
-     "place": "4",
+     "place": "3",
      "points": 296
     },
     {
@@ -752392,7 +752686,22 @@ window.SWIM_DATA = {
      "points": 288
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "12:14",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|מיה·נובוטני": {
    "id": "2013|מיה·נובוטני",
@@ -753206,7 +753515,22 @@ window.SWIM_DATA = {
      "points": 167
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "12:15",
+     "heat": "2",
+     "lane": "7",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|אלבק·עמית": {
    "id": "2014|אלבק·עמית",
@@ -754071,7 +754395,22 @@ window.SWIM_DATA = {
      "points": 205
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "12:14",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|אביגיל·פסמניק": {
    "id": "2015|אביגיל·פסמניק",
@@ -755973,51 +756312,9 @@ window.SWIM_DATA = {
      "club": "מכבי קרית אונו",
      "startTime": "16:28",
      "heat": "8",
-     "lane": "2",
+     "lane": "5",
      "seedStr": "00:47.50",
      "seedSeconds": 47.5
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "09:16",
-     "heat": "7",
-     "lane": "1",
-     "seedStr": "01:54.05",
-     "seedSeconds": 114.05
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "11:48",
-     "heat": "3",
-     "lane": "2",
-     "seedStr": "02:01.24",
-     "seedSeconds": 121.24
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "17:28",
-     "heat": "9",
-     "lane": "2",
-     "seedStr": "00:52.45",
-     "seedSeconds": 52.45
     }
    ]
   },
@@ -779095,7 +779392,7 @@ window.SWIM_DATA = {
      "club": "הפועל אקווה נוף הגליל",
      "timeStr": "DNS",
      "seconds": null,
-     "place": "78",
+     "place": "79",
      "points": 0
     }
    ],
@@ -784815,7 +785112,22 @@ window.SWIM_DATA = {
      "points": 396
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי תל אביב",
+     "startTime": "12:33",
+     "heat": "14",
+     "lane": "0",
+     "seedStr": "00:32.54",
+     "seedSeconds": 32.54
+    }
+   ]
   },
   "2011|מאיה·קליינר": {
    "id": "2011|מאיה·קליינר",
@@ -787604,7 +787916,36 @@ window.SWIM_DATA = {
      "points": 438
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "11:09",
+     "heat": "11",
+     "lane": "7",
+     "seedStr": "10:26.33",
+     "seedSeconds": 626.33
+    },
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "12:29",
+     "heat": "11",
+     "lane": "0",
+     "seedStr": "00:36.04",
+     "seedSeconds": 36.04
+    }
+   ]
   },
   "2012|אדל·גלמגה": {
    "id": "2012|אדל·גלמגה",
@@ -797357,51 +797698,9 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "startTime": "17:26",
      "heat": "3",
-     "lane": "2",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "09:35",
-     "heat": "14",
-     "lane": "3",
-     "seedStr": "01:06.33",
-     "seedSeconds": 66.33
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "11:58",
-     "heat": "7",
-     "lane": "3",
-     "seedStr": "01:21.16",
-     "seedSeconds": 81.16
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "15:21",
-     "heat": "6",
-     "lane": "3",
-     "seedStr": "02:35.00",
-     "seedSeconds": 155.0
     }
    ]
   },
@@ -797973,7 +798272,22 @@ window.SWIM_DATA = {
      "points": 451
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "11:20",
+     "heat": "12",
+     "lane": "0",
+     "seedStr": "10:21.59",
+     "seedSeconds": 621.59
+    }
+   ]
   },
   "2012|דרור·ישראלי·ליה·נאוה": {
    "id": "2012|דרור·ישראלי·ליה·נאוה",
@@ -800899,39 +801213,11 @@ window.SWIM_DATA = {
      "category": "בנות 11-16",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "startTime": "19:17",
+     "startTime": "19:22",
      "heat": "5",
      "lane": "5",
      "seedStr": "02:38.42",
      "seedSeconds": 158.42
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "15:17",
-     "heat": "5",
-     "lane": "5",
-     "seedStr": "03:09.52",
-     "seedSeconds": 189.52
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "16:53",
-     "heat": "5",
-     "lane": "3",
-     "seedStr": "01:14.92",
-     "seedSeconds": 74.92
     }
    ]
   },
@@ -802834,7 +803120,22 @@ window.SWIM_DATA = {
      "points": 363
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "12:17",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2012|ברקוביץ·גפן": {
    "id": "2012|ברקוביץ·גפן",
@@ -803805,7 +804106,22 @@ window.SWIM_DATA = {
      "points": 500
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "12:17",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|יעקוביאן·ליה": {
    "id": "2014|יעקוביאן·ליה",
@@ -804437,39 +804753,11 @@ window.SWIM_DATA = {
      "category": "בנות 11-16",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "startTime": "19:13",
+     "startTime": "19:18",
      "heat": "4",
      "lane": "4",
      "seedStr": "02:43.31",
      "seedSeconds": 163.31
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "09:35",
-     "heat": "14",
-     "lane": "5",
-     "seedStr": "01:09.05",
-     "seedSeconds": 69.05
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "15:17",
-     "heat": "5",
-     "lane": "1",
-     "seedStr": "03:12.23",
-     "seedSeconds": 192.23
     }
    ]
   },
@@ -806117,7 +806405,22 @@ window.SWIM_DATA = {
      "points": 238
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "12:23",
+     "heat": "7",
+     "lane": "1",
+     "seedStr": "00:42.76",
+     "seedSeconds": 42.76
+    }
+   ]
   },
   "2014|ברברה·שטיכוב": {
    "id": "2014|ברברה·שטיכוב",
@@ -807879,7 +808182,22 @@ window.SWIM_DATA = {
      "points": 252
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "12:24",
+     "heat": "8",
+     "lane": "7",
+     "seedStr": "00:40.30",
+     "seedSeconds": 40.3
+    }
+   ]
   },
   "2013|דניאל·שנבל": {
    "id": "2013|דניאל·שנבל",
@@ -810350,7 +810668,22 @@ window.SWIM_DATA = {
      "points": 272
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "12:26",
+     "heat": "9",
+     "lane": "8",
+     "seedStr": "00:38.55",
+     "seedSeconds": 38.55
+    }
+   ]
   },
   "2014|אמי·טל": {
    "id": "2014|אמי·טל",
@@ -810917,39 +811250,11 @@ window.SWIM_DATA = {
      "category": "בנות 11-16",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "startTime": "19:09",
+     "startTime": "19:14",
      "heat": "3",
      "lane": "6",
      "seedStr": "02:53.80",
      "seedSeconds": 173.8
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "15:08",
-     "heat": "3",
-     "lane": "6",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "17:16",
-     "heat": "3",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -812904,39 +813209,11 @@ window.SWIM_DATA = {
      "category": "בנות 11-16",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "startTime": "19:13",
+     "startTime": "19:18",
      "heat": "4",
      "lane": "5",
      "seedStr": "02:45.59",
      "seedSeconds": 165.59
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "09:33",
-     "heat": "13",
-     "lane": "3",
-     "seedStr": "01:14.62",
-     "seedSeconds": 74.62
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "16:09",
-     "heat": "5",
-     "lane": "3",
-     "seedStr": "01:27.75",
-     "seedSeconds": 87.75
     }
    ]
   },
@@ -813659,39 +813936,11 @@ window.SWIM_DATA = {
      "category": "בנות 11-16",
      "poolLength": 25,
      "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "19:09",
+     "startTime": "19:14",
      "heat": "3",
      "lane": "4",
      "seedStr": "02:49.14",
      "seedSeconds": 169.14
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "11:53",
-     "heat": "5",
-     "lane": "5",
-     "seedStr": "01:43.48",
-     "seedSeconds": 103.48
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "17:30",
-     "heat": "10",
-     "lane": "2",
-     "seedStr": "00:49.48",
-     "seedSeconds": 49.48
     }
    ]
   },
@@ -814173,48 +814422,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "01:35.57",
      "seedSeconds": 95.57
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "09:30",
-     "heat": "12",
-     "lane": "5",
-     "seedStr": "01:25.36",
-     "seedSeconds": 85.36
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנות 10-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "10:58",
-     "heat": "3",
-     "lane": "1",
-     "seedStr": "03:13.60",
-     "seedSeconds": 193.6
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "16:09",
-     "heat": "5",
-     "lane": "1",
-     "seedStr": "01:34.04",
-     "seedSeconds": 94.04
     }
    ]
   },
@@ -816665,34 +816872,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "00:46.53",
      "seedSeconds": 46.53
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "09:33",
-     "heat": "13",
-     "lane": "6",
-     "seedStr": "01:22.14",
-     "seedSeconds": 82.14
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "15:04",
-     "heat": "2",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -817623,39 +817802,11 @@ window.SWIM_DATA = {
      "category": "בנות 11-16",
      "poolLength": 25,
      "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "19:05",
+     "startTime": "19:10",
      "heat": "2",
      "lane": "2",
      "seedStr": "02:56.86",
      "seedSeconds": 176.86
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "09:22",
-     "heat": "9",
-     "lane": "3",
-     "seedStr": "01:36.24",
-     "seedSeconds": 96.24
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "16:48",
-     "heat": "3",
-     "lane": "3",
-     "seedStr": "01:41.76",
-     "seedSeconds": 101.76
     }
    ]
   },
@@ -818664,39 +818815,11 @@ window.SWIM_DATA = {
      "category": "בנות 11-16",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "startTime": "19:09",
+     "startTime": "19:14",
      "heat": "3",
      "lane": "1",
      "seedStr": "02:52.85",
      "seedSeconds": 172.85
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "15:08",
-     "heat": "3",
-     "lane": "2",
-     "seedStr": "03:41.99",
-     "seedSeconds": 221.99
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "16:51",
-     "heat": "4",
-     "lane": "2",
-     "seedStr": "01:29.24",
-     "seedSeconds": 89.24
     }
    ]
   },
@@ -823758,20 +823881,6 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "13:08",
-     "heat": "9",
-     "lane": "5",
-     "seedStr": "02:19.56",
-     "seedSeconds": 139.56
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "50 חופשי",
      "category": "בנים 8-19",
      "poolLength": 25,
@@ -823783,32 +823892,18 @@ window.SWIM_DATA = {
      "seedSeconds": 29.58
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "10:46",
-     "heat": "26",
-     "lane": "1",
-     "seedStr": "01:04.70",
-     "seedSeconds": 64.7
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
+     "event": "200 חופשי",
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "15:55",
-     "heat": "8",
+     "startTime": "19:58",
+     "heat": "9",
      "lane": "5",
-     "seedStr": "02:47.03",
-     "seedSeconds": 167.03
+     "seedStr": "02:19.56",
+     "seedSeconds": 139.56
     }
    ]
   },
@@ -825487,20 +825582,6 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "12:40",
-     "heat": "2",
-     "lane": "6",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "50 גב",
      "category": "בנים 9-16",
      "poolLength": 25,
@@ -825512,32 +825593,18 @@ window.SWIM_DATA = {
      "seedSeconds": 36.52
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "11:38",
-     "heat": "7",
-     "lane": "6",
-     "seedStr": "02:55.99",
-     "seedSeconds": 175.99
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
+     "event": "200 חופשי",
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "הפועל דולפין נתניה",
-     "startTime": "16:36",
-     "heat": "10",
-     "lane": "1",
-     "seedStr": "01:24.06",
-     "seedSeconds": 84.06
+     "startTime": "19:26",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
     }
    ]
   },
@@ -825988,9 +826055,9 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "17:42",
-     "heat": "4",
-     "lane": "2",
+     "startTime": "17:44",
+     "heat": "5",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -826007,34 +826074,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "00:35.17",
      "seedSeconds": 35.17
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "16:41",
-     "heat": "12",
-     "lane": "5",
-     "seedStr": "01:14.59",
-     "seedSeconds": 74.59
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "17:10",
-     "heat": "7",
-     "lane": "4",
-     "seedStr": "01:12.88",
-     "seedSeconds": 72.88
     }
    ]
   },
@@ -830600,29 +830639,29 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-19",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "17:16",
+     "heat": "24",
+     "lane": "1",
+     "seedStr": "00:33.93",
+     "seedSeconds": 33.93
+    },
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
      "event": "200 חופשי",
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "startTime": "13:00",
+     "startTime": "19:50",
      "heat": "7",
      "lane": "2",
      "seedStr": "02:36.78",
      "seedSeconds": 156.78
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "10:41",
-     "heat": "24",
-     "lane": "6",
-     "seedStr": "01:11.65",
-     "seedSeconds": 71.65
     }
    ]
   },
@@ -831762,37 +831801,23 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "startTime": "18:19",
      "heat": "3",
-     "lane": "4",
+     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "100 חזה",
+     "event": "200 חופשי",
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "startTime": "12:20",
-     "heat": "9",
+     "startTime": "19:46",
+     "heat": "6",
      "lane": "3",
-     "seedStr": "01:22.86",
-     "seedSeconds": 82.86
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "15:34",
-     "heat": "3",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
+     "seedStr": "02:43.43",
+     "seedSeconds": 163.43
     }
    ]
   },
@@ -834745,20 +834770,6 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "12:52",
-     "heat": "5",
-     "lane": "2",
-     "seedStr": "02:50.38",
-     "seedSeconds": 170.38
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "50 חופשי",
      "category": "בנים 8-19",
      "poolLength": 25,
@@ -834770,32 +834781,18 @@ window.SWIM_DATA = {
      "seedSeconds": null
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "100 חזה",
+     "event": "200 חופשי",
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "startTime": "12:13",
-     "heat": "6",
-     "lane": "2",
-     "seedStr": "01:39.81",
-     "seedSeconds": 99.81
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "18:00",
-     "heat": "13",
-     "lane": "2",
-     "seedStr": "00:47.08",
-     "seedSeconds": 47.08
+     "startTime": "19:42",
+     "heat": "5",
+     "lane": "5",
+     "seedStr": "02:50.38",
+     "seedSeconds": 170.38
     }
    ]
   },
@@ -835650,48 +835647,6 @@ window.SWIM_DATA = {
      "lane": "5",
      "seedStr": "00:42.76",
      "seedSeconds": 42.76
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "10:24",
-     "heat": "18",
-     "lane": "3",
-     "seedStr": "01:21.35",
-     "seedSeconds": 81.35
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "12:13",
-     "heat": "6",
-     "lane": "4",
-     "seedStr": "01:39.63",
-     "seedSeconds": 99.63
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "15:42",
-     "heat": "5",
-     "lane": "5",
-     "seedStr": "03:18.30",
-     "seedSeconds": 198.3
     }
    ]
   },
@@ -837961,20 +837916,6 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "13:00",
-     "heat": "7",
-     "lane": "1",
-     "seedStr": "02:39.54",
-     "seedSeconds": 159.54
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "50 חופשי",
      "category": "בנים 8-19",
      "poolLength": 25,
@@ -837986,32 +837927,18 @@ window.SWIM_DATA = {
      "seedSeconds": 48.59
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "10:24",
-     "heat": "18",
-     "lane": "2",
-     "seedStr": "01:22.11",
-     "seedSeconds": 82.11
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
+     "event": "200 חופשי",
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "15:42",
-     "heat": "5",
-     "lane": "6",
-     "seedStr": "03:21.96",
-     "seedSeconds": 201.96
+     "startTime": "19:50",
+     "heat": "7",
+     "lane": "1",
+     "seedStr": "02:39.54",
+     "seedSeconds": 159.54
     }
    ]
   },
@@ -839686,34 +839613,6 @@ window.SWIM_DATA = {
      "lane": "1",
      "seedStr": "00:41.09",
      "seedSeconds": 41.09
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "10:16",
-     "heat": "15",
-     "lane": "6",
-     "seedStr": "01:31.63",
-     "seedSeconds": 91.63
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "17:05",
-     "heat": "5",
-     "lane": "5",
-     "seedStr": "01:28.09",
-     "seedSeconds": 88.09
     }
    ]
   },
@@ -843190,36 +843089,7 @@ window.SWIM_DATA = {
      "points": 174
     }
    ],
-   "future": [
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "11:28",
-     "heat": "5",
-     "lane": "1",
-     "seedStr": "03:07.30",
-     "seedSeconds": 187.3
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "15:29",
-     "heat": "2",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
-    }
-   ]
+   "future": []
   },
   "2015|זייף·עילאי": {
    "id": "2015|זייף·עילאי",
@@ -845791,48 +845661,6 @@ window.SWIM_DATA = {
      "lane": "5",
      "seedStr": "00:38.61",
      "seedSeconds": 38.61
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "10:27",
-     "heat": "19",
-     "lane": "3",
-     "seedStr": "01:20.06",
-     "seedSeconds": 80.06
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "11:28",
-     "heat": "5",
-     "lane": "3",
-     "seedStr": "03:02.76",
-     "seedSeconds": 182.76
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "15:34",
-     "heat": "3",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -846728,7 +846556,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "12:04",
+     "heat": "16",
+     "lane": "5",
+     "seedStr": "09:06.44",
+     "seedSeconds": 546.44
+    }
+   ]
   },
   "2007|ויינר·תמרי": {
    "id": "2007|ויינר·תמרי",
@@ -850909,7 +850752,22 @@ window.SWIM_DATA = {
      "points": 515
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "11:53",
+     "heat": "15",
+     "lane": "9",
+     "seedStr": "09:43.83",
+     "seedSeconds": 583.83
+    }
+   ]
   },
   "2011|יהלי·עברי": {
    "id": "2011|יהלי·עברי",
@@ -871602,7 +871460,22 @@ window.SWIM_DATA = {
      "points": 377
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "12:27",
+     "heat": "10",
+     "lane": "7",
+     "seedStr": "00:37.11",
+     "seedSeconds": 37.11
+    }
+   ]
   },
   "2012|דנה·ווזנסקי·נח": {
    "id": "2012|דנה·ווזנסקי·נח",
@@ -874533,7 +874406,22 @@ window.SWIM_DATA = {
      "points": 372
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "12:29",
+     "heat": "11",
+     "lane": "3",
+     "seedStr": "00:35.63",
+     "seedSeconds": 35.63
+    }
+   ]
   },
   "2013|גילי·גרינבאום": {
    "id": "2013|גילי·גרינבאום",
@@ -875579,39 +875467,11 @@ window.SWIM_DATA = {
      "category": "בנות 11-16",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "startTime": "19:13",
+     "startTime": "19:18",
      "heat": "4",
      "lane": "3",
      "seedStr": "02:43.09",
      "seedSeconds": 163.09
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "11:55",
-     "heat": "6",
-     "lane": "3",
-     "seedStr": "01:36.72",
-     "seedSeconds": 96.72
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "15:13",
-     "heat": "4",
-     "lane": "6",
-     "seedStr": "03:25.27",
-     "seedSeconds": 205.27
     }
    ]
   },
@@ -881212,20 +881072,6 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "12:56",
-     "heat": "6",
-     "lane": "1",
-     "seedStr": "02:47.69",
-     "seedSeconds": 167.69
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "50 פרפר",
      "category": "בנים 9-19",
      "poolLength": 25,
@@ -881237,32 +881083,18 @@ window.SWIM_DATA = {
      "seedSeconds": 36.76
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 מעורב אישי",
+     "event": "200 חופשי",
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "startTime": "15:51",
-     "heat": "7",
-     "lane": "4",
-     "seedStr": "02:51.11",
-     "seedSeconds": 171.11
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "17:10",
-     "heat": "7",
-     "lane": "1",
-     "seedStr": "01:16.01",
-     "seedSeconds": 76.01
+     "startTime": "19:46",
+     "heat": "6",
+     "lane": "6",
+     "seedStr": "02:47.69",
+     "seedSeconds": 167.69
     }
    ]
   },
@@ -882300,7 +882132,22 @@ window.SWIM_DATA = {
      "points": 389
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "10:57",
+     "heat": "10",
+     "lane": "5",
+     "seedStr": "10:35.39",
+     "seedSeconds": 635.39
+    }
+   ]
   },
   "2012|אודליה·אלכסנדרוב·לרנר": {
    "id": "2012|אודליה·אלכסנדרוב·לרנר",
@@ -883247,7 +883094,36 @@ window.SWIM_DATA = {
      "points": 474
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "10:57",
+     "heat": "10",
+     "lane": "0",
+     "seedStr": "10:55.91",
+     "seedSeconds": 655.91
+    },
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "12:30",
+     "heat": "12",
+     "lane": "8",
+     "seedStr": "00:35.35",
+     "seedSeconds": 35.35
+    }
+   ]
   },
   "2010|אילה·גליס": {
    "id": "2010|אילה·גליס",
@@ -885787,7 +885663,22 @@ window.SWIM_DATA = {
      "points": 559
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "11:31",
+     "heat": "13",
+     "lane": "5",
+     "seedStr": "09:57.18",
+     "seedSeconds": 597.18
+    }
+   ]
   },
   "2013|אמסלם·טוהר": {
    "id": "2013|אמסלם·טוהר",
@@ -889831,7 +889722,22 @@ window.SWIM_DATA = {
      "points": 279
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "10:57",
+     "heat": "10",
+     "lane": "2",
+     "seedStr": "10:52.77",
+     "seedSeconds": 652.77
+    }
+   ]
   },
   "2013|גולדשטיין·הלל": {
    "id": "2013|גולדשטיין·הלל",
@@ -907242,7 +907148,22 @@ window.SWIM_DATA = {
      "points": 361
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "09:52",
+     "heat": "5",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2010|אסדי·יארא": {
    "id": "2010|אסדי·יארא",
@@ -918973,7 +918894,22 @@ window.SWIM_DATA = {
      "points": 335
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "10:44",
+     "heat": "9",
+     "lane": "7",
+     "seedStr": "11:11.44",
+     "seedSeconds": 671.44
+    }
+   ]
   },
   "2014|ליכטמן·נעמה": {
    "id": "2014|ליכטמן·נעמה",
@@ -919632,7 +919568,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "startTime": "16:24",
      "heat": "5",
-     "lane": "5",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -919644,39 +919580,11 @@ window.SWIM_DATA = {
      "category": "בנות 11-16",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "startTime": "19:17",
+     "startTime": "19:22",
      "heat": "5",
      "lane": "2",
      "seedStr": "02:35.60",
      "seedSeconds": 155.6
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנות 10-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "11:03",
-     "heat": "4",
-     "lane": "6",
-     "seedStr": "03:05.36",
-     "seedSeconds": 185.36
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "15:17",
-     "heat": "5",
-     "lane": "4",
-     "seedStr": "03:08.99",
-     "seedSeconds": 188.99
     }
    ]
   },
@@ -921750,39 +921658,11 @@ window.SWIM_DATA = {
      "category": "בנות 11-16",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "startTime": "19:13",
+     "startTime": "19:18",
      "heat": "4",
      "lane": "2",
      "seedStr": "02:43.57",
      "seedSeconds": 163.57
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנות 10-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "11:03",
-     "heat": "4",
-     "lane": "5",
-     "seedStr": "02:59.86",
-     "seedSeconds": 179.86
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "15:21",
-     "heat": "6",
-     "lane": "5",
-     "seedStr": "03:00.57",
-     "seedSeconds": 180.57
     }
    ]
   },
@@ -923041,7 +922921,22 @@ window.SWIM_DATA = {
      "points": 400
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל אולימפ נתניה",
+     "startTime": "10:57",
+     "heat": "10",
+     "lane": "7",
+     "seedStr": "10:53.73",
+     "seedSeconds": 653.73
+    }
+   ]
   },
   "2013|בן·מישה·ציון": {
    "id": "2013|בן·מישה·ציון",
@@ -924261,48 +924156,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "01:20.15",
      "seedSeconds": 80.15
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "10:38",
-     "heat": "23",
-     "lane": "1",
-     "seedStr": "01:12.82",
-     "seedSeconds": 72.82
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "11:23",
-     "heat": "4",
-     "lane": "4",
-     "seedStr": "03:16.20",
-     "seedSeconds": 196.2
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "17:10",
-     "heat": "7",
-     "lane": "5",
-     "seedStr": "01:15.32",
-     "seedSeconds": 75.32
     }
    ]
   },
@@ -924970,20 +924823,6 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "13:04",
-     "heat": "8",
-     "lane": "2",
-     "seedStr": "02:23.21",
-     "seedSeconds": 143.21
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "50 פרפר",
      "category": "בנים 9-19",
      "poolLength": 25,
@@ -924995,32 +924834,18 @@ window.SWIM_DATA = {
      "seedSeconds": 33.93
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "100 חזה",
+     "event": "200 חופשי",
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "startTime": "12:05",
-     "heat": "3",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "15:51",
-     "heat": "7",
-     "lane": "5",
-     "seedStr": "02:57.32",
-     "seedSeconds": 177.32
+     "startTime": "19:54",
+     "heat": "8",
+     "lane": "2",
+     "seedStr": "02:23.21",
+     "seedSeconds": 143.21
     }
    ]
   },
@@ -925662,20 +925487,6 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "13:04",
-     "heat": "8",
-     "lane": "1",
-     "seedStr": "02:29.44",
-     "seedSeconds": 149.44
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "50 פרפר",
      "category": "בנים 9-19",
      "poolLength": 25,
@@ -925687,32 +925498,18 @@ window.SWIM_DATA = {
      "seedSeconds": 39.97
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "100 חזה",
+     "event": "200 חופשי",
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "startTime": "12:18",
-     "heat": "8",
-     "lane": "5",
-     "seedStr": "01:31.19",
-     "seedSeconds": 91.19
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "15:55",
+     "startTime": "19:54",
      "heat": "8",
      "lane": "1",
-     "seedStr": "02:49.34",
-     "seedSeconds": 169.34
+     "seedStr": "02:29.44",
+     "seedSeconds": 149.44
     }
    ]
   },
@@ -926855,48 +926652,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "12:20",
-     "heat": "9",
-     "lane": "4",
-     "seedStr": "01:24.00",
-     "seedSeconds": 84.0
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "15:55",
-     "heat": "8",
-     "lane": "6",
-     "seedStr": "02:49.73",
-     "seedSeconds": 169.73
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "17:03",
-     "heat": "4",
-     "lane": "2",
-     "seedStr": "01:47.55",
-     "seedSeconds": 107.55
     }
    ]
   },
@@ -934115,7 +933870,22 @@ window.SWIM_DATA = {
      "points": 417
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "10:57",
+     "heat": "10",
+     "lane": "3",
+     "seedStr": "10:37.51",
+     "seedSeconds": 637.51
+    }
+   ]
   },
   "2013|דניאל·מונדר": {
    "id": "2013|דניאל·מונדר",
@@ -938008,20 +937778,6 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "13:04",
-     "heat": "8",
-     "lane": "5",
-     "seedStr": "02:27.10",
-     "seedSeconds": 147.1
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "50 פרפר",
      "category": "בנים 9-19",
      "poolLength": 25,
@@ -938033,32 +937789,18 @@ window.SWIM_DATA = {
      "seedSeconds": 36.35
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "11:38",
-     "heat": "7",
-     "lane": "1",
-     "seedStr": "02:48.39",
-     "seedSeconds": 168.39
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
+     "event": "200 חופשי",
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "startTime": "15:47",
-     "heat": "6",
-     "lane": "1",
-     "seedStr": "03:06.07",
-     "seedSeconds": 186.07
+     "startTime": "19:54",
+     "heat": "8",
+     "lane": "5",
+     "seedStr": "02:27.10",
+     "seedSeconds": 147.1
     }
    ]
   },
@@ -939711,57 +939453,29 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
+     "event": "50 גב",
+     "category": "בנים 9-16",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "startTime": "13:00",
-     "heat": "7",
-     "lane": "6",
-     "seedStr": "02:41.27",
-     "seedSeconds": 161.27
+     "startTime": "17:42",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
     },
     {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "50 גב",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "17:41",
-     "heat": "3",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "11:33",
-     "heat": "6",
-     "lane": "3",
-     "seedStr": "02:56.02",
-     "seedSeconds": 176.02
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
+     "event": "200 חופשי",
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "startTime": "16:36",
-     "heat": "10",
-     "lane": "4",
-     "seedStr": "01:23.02",
-     "seedSeconds": 83.02
+     "startTime": "19:50",
+     "heat": "7",
+     "lane": "6",
+     "seedStr": "02:41.27",
+     "seedSeconds": 161.27
     }
    ]
   },
@@ -940563,7 +940277,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "startTime": "16:12",
      "heat": "15",
-     "lane": "2",
+     "lane": "4",
      "seedStr": "01:21.61",
      "seedSeconds": 81.61
     },
@@ -940580,20 +940294,6 @@ window.SWIM_DATA = {
      "lane": "1",
      "seedStr": "00:39.18",
      "seedSeconds": 39.18
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "15:38",
-     "heat": "4",
-     "lane": "4",
-     "seedStr": "03:24.00",
-     "seedSeconds": 204.0
     }
    ]
   },
@@ -941076,34 +940776,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "00:37.24",
      "seedSeconds": 37.24
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "12:18",
-     "heat": "8",
-     "lane": "4",
-     "seedStr": "01:29.16",
-     "seedSeconds": 89.16
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "17:46",
-     "heat": "6",
-     "lane": "6",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -941712,7 +941384,7 @@ window.SWIM_DATA = {
      "club": "ע.ל.ה עצמה רעננה",
      "startTime": "16:12",
      "heat": "15",
-     "lane": "5",
+     "lane": "2",
      "seedStr": "01:21.73",
      "seedSeconds": 81.73
     },
@@ -941738,25 +941410,11 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "17:42",
-     "heat": "4",
-     "lane": "4",
+     "startTime": "17:44",
+     "heat": "5",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "16:38",
-     "heat": "11",
-     "lane": "4",
-     "seedStr": "01:16.71",
-     "seedSeconds": 76.71
     }
    ]
   },
@@ -944781,7 +944439,22 @@ window.SWIM_DATA = {
      "points": 340
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "10:05",
+     "heat": "6",
+     "lane": "9",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|יובל·שרף": {
    "id": "2013|יובל·שרף",
@@ -945767,7 +945440,22 @@ window.SWIM_DATA = {
      "points": 441
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "11:42",
+     "heat": "14",
+     "lane": "9",
+     "seedStr": "09:55.58",
+     "seedSeconds": 595.58
+    }
+   ]
   },
   "2013|כהן·נעמה·רחל": {
    "id": "2013|כהן·נעמה·רחל",
@@ -947206,7 +946894,22 @@ window.SWIM_DATA = {
      "points": 319
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "09:26",
+     "heat": "3",
+     "lane": "7",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|אביגיל·לוי": {
    "id": "2015|אביגיל·לוי",
@@ -988628,7 +988331,36 @@ window.SWIM_DATA = {
      "points": 395
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "11:31",
+     "heat": "13",
+     "lane": "0",
+     "seedStr": "10:03.28",
+     "seedSeconds": 603.28
+    },
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "12:35",
+     "heat": "15",
+     "lane": "9",
+     "seedStr": "00:31.27",
+     "seedSeconds": 31.27
+    }
+   ]
   },
   "2007|אורטל·לי": {
    "id": "2007|אורטל·לי",
@@ -990313,7 +990045,22 @@ window.SWIM_DATA = {
      "points": 438
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "startTime": "10:18",
+     "heat": "7",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2010|דביר·רומי": {
    "id": "2010|דביר·רומי",
@@ -991778,7 +991525,36 @@ window.SWIM_DATA = {
      "points": 491
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "11:53",
+     "heat": "15",
+     "lane": "8",
+     "seedStr": "09:41.22",
+     "seedSeconds": 581.22
+    },
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "12:33",
+     "heat": "14",
+     "lane": "8",
+     "seedStr": "00:32.11",
+     "seedSeconds": 32.11
+    }
+   ]
   },
   "2011|וינשל·נגה": {
    "id": "2011|וינשל·נגה",
@@ -992570,7 +992346,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל אולימפ נתניה",
+     "startTime": "10:18",
+     "heat": "7",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2010|זנקביץ·מרגריטה": {
    "id": "2010|זנקביץ·מרגריטה",
@@ -993062,7 +992853,22 @@ window.SWIM_DATA = {
      "points": 414
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "12:32",
+     "heat": "13",
+     "lane": "3",
+     "seedStr": "00:33.44",
+     "seedSeconds": 33.44
+    }
+   ]
   },
   "2009|לורה·מזור": {
    "id": "2009|לורה·מזור",
@@ -994449,7 +994255,36 @@ window.SWIM_DATA = {
      "points": 438
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "11:20",
+     "heat": "12",
+     "lane": "1",
+     "seedStr": "10:17.07",
+     "seedSeconds": 617.07
+    },
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "12:32",
+     "heat": "13",
+     "lane": "0",
+     "seedStr": "00:34.11",
+     "seedSeconds": 34.11
+    }
+   ]
   },
   "2012|הודיה·מנשורי": {
    "id": "2012|הודיה·מנשורי",
@@ -995916,7 +995751,22 @@ window.SWIM_DATA = {
      "points": 468
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "startTime": "11:31",
+     "heat": "13",
+     "lane": "3",
+     "seedStr": "09:57.74",
+     "seedSeconds": 597.74
+    }
+   ]
   },
   "2012|מיקה·נגלר": {
    "id": "2012|מיקה·נגלר",
@@ -996422,7 +996272,36 @@ window.SWIM_DATA = {
      "points": 320
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "startTime": "10:05",
+     "heat": "6",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "startTime": "12:26",
+     "heat": "9",
+     "lane": "0",
+     "seedStr": "00:38.96",
+     "seedSeconds": 38.96
+    }
+   ]
   },
   "2008|אבו·אלעילה·היא": {
    "id": "2008|אבו·אלעילה·היא",
@@ -996979,7 +996858,8 @@ window.SWIM_DATA = {
    "birthYear": 2012,
    "clubs": [
     "מכבי כוכב יאיר - צור יגאל",
-    "הפועל כפר סבא ב. ב."
+    "הפועל כפר סבא ב. ב.",
+    "אלומה עירוני הוד השרון"
    ],
    "past": [
     {
@@ -997542,7 +997422,22 @@ window.SWIM_DATA = {
      "points": 384
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "startTime": "12:26",
+     "heat": "9",
+     "lane": "1",
+     "seedStr": "00:38.46",
+     "seedSeconds": 38.46
+    }
+   ]
   },
   "2007|עופרי·קמר": {
    "id": "2007|עופרי·קמר",
@@ -998476,7 +998371,22 @@ window.SWIM_DATA = {
      "points": 495
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "12:35",
+     "heat": "15",
+     "lane": "4",
+     "seedStr": "00:28.36",
+     "seedSeconds": 28.36
+    }
+   ]
   },
   "2001|אלון·עפרוני": {
    "id": "2001|אלון·עפרוני",
@@ -1017049,7 +1016959,22 @@ window.SWIM_DATA = {
      "points": 521
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "11:53",
+     "heat": "15",
+     "lane": "4",
+     "seedStr": "09:26.97",
+     "seedSeconds": 566.97
+    }
+   ]
   },
   "2000|גירלואנצה·עדן": {
    "id": "2000|גירלואנצה·עדן",
@@ -1018202,7 +1018127,22 @@ window.SWIM_DATA = {
      "points": 604
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "10:05",
+     "heat": "6",
+     "lane": "0",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2008|גרטופסקי·צוף": {
    "id": "2008|גרטופסקי·צוף",
@@ -1020705,7 +1020645,22 @@ window.SWIM_DATA = {
      "points": 448
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "11:31",
+     "heat": "13",
+     "lane": "8",
+     "seedStr": "10:01.94",
+     "seedSeconds": 601.94
+    }
+   ]
   },
   "2011|בן·חיים·עדי": {
    "id": "2011|בן·חיים·עדי",
@@ -1021484,7 +1021439,36 @@ window.SWIM_DATA = {
      "points": 504
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל אולימפ נתניה",
+     "startTime": "11:09",
+     "heat": "11",
+     "lane": "8",
+     "seedStr": "10:28.87",
+     "seedSeconds": 628.87
+    },
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל אולימפ נתניה",
+     "startTime": "12:30",
+     "heat": "12",
+     "lane": "1",
+     "seedStr": "00:35.25",
+     "seedSeconds": 35.25
+    }
+   ]
   },
   "2009|לוי·ליהי": {
    "id": "2009|לוי·ליהי",
@@ -1024967,7 +1024951,22 @@ window.SWIM_DATA = {
      "points": 351
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל דולפין נתניה",
+     "startTime": "11:20",
+     "heat": "12",
+     "lane": "9",
+     "seedStr": "10:21.69",
+     "seedSeconds": 621.69
+    }
+   ]
   },
   "2011|אהרון·תמר": {
    "id": "2011|אהרון·תמר",
@@ -1025914,7 +1025913,22 @@ window.SWIM_DATA = {
      "points": 383
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי תל אביב",
+     "startTime": "11:31",
+     "heat": "13",
+     "lane": "2",
+     "seedStr": "09:58.97",
+     "seedSeconds": 598.97
+    }
+   ]
   },
   "2010|מרום·נועה": {
    "id": "2010|מרום·נועה",
@@ -1027870,7 +1027884,22 @@ window.SWIM_DATA = {
      "points": 496
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "11:31",
+     "heat": "13",
+     "lane": "9",
+     "seedStr": "10:03.74",
+     "seedSeconds": 603.74
+    }
+   ]
   },
   "2009|ברייטנר·גילי": {
    "id": "2009|ברייטנר·גילי",
@@ -1028686,7 +1028715,22 @@ window.SWIM_DATA = {
      "points": 377
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "12:30",
+     "heat": "12",
+     "lane": "0",
+     "seedStr": "00:35.43",
+     "seedSeconds": 35.43
+    }
+   ]
   },
   "2012|אלה·רוברמן": {
    "id": "2012|אלה·רוברמן",
@@ -1031605,7 +1031649,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "11:20",
+     "heat": "12",
+     "lane": "2",
+     "seedStr": "10:12.08",
+     "seedSeconds": 612.08
+    }
+   ]
   },
   "2011|טויזר·קורן": {
    "id": "2011|טויזר·קורן",
@@ -1032419,7 +1032478,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "startTime": "10:05",
+     "heat": "6",
+     "lane": "7",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2009|אבו·למאר·מנהל": {
    "id": "2009|אבו·למאר·מנהל",
@@ -1062302,7 +1062376,36 @@ window.SWIM_DATA = {
      "points": 486
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "startTime": "10:31",
+     "heat": "8",
+     "lane": "7",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "startTime": "12:18",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2010|ורשבסקי·תמרה": {
    "id": "2010|ורשבסקי·תמרה",
@@ -1065762,7 +1065865,22 @@ window.SWIM_DATA = {
      "points": 434
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "11:42",
+     "heat": "14",
+     "lane": "8",
+     "seedStr": "09:54.83",
+     "seedSeconds": 594.83
+    }
+   ]
   },
   "2012|גל·יעקובסון": {
    "id": "2012|גל·יעקובסון",
@@ -1066385,7 +1066503,22 @@ window.SWIM_DATA = {
      "points": 373
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "startTime": "10:05",
+     "heat": "6",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2012|לוי·תמר": {
    "id": "2012|לוי·תמר",
@@ -1086526,7 +1086659,22 @@ window.SWIM_DATA = {
      "points": 350
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "startTime": "12:27",
+     "heat": "10",
+     "lane": "8",
+     "seedStr": "00:37.29",
+     "seedSeconds": 37.29
+    }
+   ]
   },
   "2007|גיא·מירונוב": {
    "id": "2007|גיא·מירונוב",
@@ -1095497,7 +1095645,22 @@ window.SWIM_DATA = {
      "points": 537
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "12:26",
+     "heat": "9",
+     "lane": "6",
+     "seedStr": "00:37.87",
+     "seedSeconds": 37.87
+    }
+   ]
   },
   "2011|יעקובוביץ·ליה": {
    "id": "2011|יעקובוביץ·ליה",
@@ -1098406,7 +1098569,22 @@ window.SWIM_DATA = {
      "points": 463
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי תל אביב",
+     "startTime": "12:32",
+     "heat": "13",
+     "lane": "5",
+     "seedStr": "00:33.05",
+     "seedSeconds": 33.05
+    }
+   ]
   },
   "2012|יעקובוביץ·תמר": {
    "id": "2012|יעקובוביץ·תמר",
@@ -1100468,7 +1100646,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "11:42",
+     "heat": "14",
+     "lane": "7",
+     "seedStr": "09:53.53",
+     "seedSeconds": 593.53
+    }
+   ]
   },
   "2013|יובל·מטילסקי": {
    "id": "2013|יובל·מטילסקי",
@@ -1101298,7 +1101491,22 @@ window.SWIM_DATA = {
      "points": 382
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי תל אביב",
+     "startTime": "12:29",
+     "heat": "11",
+     "lane": "2",
+     "seedStr": "00:35.75",
+     "seedSeconds": 35.75
+    }
+   ]
   },
   "2014|טאובר·טליה": {
    "id": "2014|טאובר·טליה",
@@ -1101920,7 +1102128,22 @@ window.SWIM_DATA = {
      "points": 464
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי תל אביב",
+     "startTime": "12:30",
+     "heat": "12",
+     "lane": "9",
+     "seedStr": "00:35.55",
+     "seedSeconds": 35.55
+    }
+   ]
   },
   "2014|הנדלר·ליבי": {
    "id": "2014|הנדלר·ליבי",
@@ -1102800,7 +1103023,22 @@ window.SWIM_DATA = {
      "points": 291
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "11:09",
+     "heat": "11",
+     "lane": "3",
+     "seedStr": "10:25.41",
+     "seedSeconds": 625.41
+    }
+   ]
   },
   "2013|סמל·תמר": {
    "id": "2013|סמל·תמר",
@@ -1104005,7 +1104243,22 @@ window.SWIM_DATA = {
      "points": 396
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי תל אביב",
+     "startTime": "12:23",
+     "heat": "7",
+     "lane": "5",
+     "seedStr": "00:41.66",
+     "seedSeconds": 41.66
+    }
+   ]
   },
   "2015|למשטיין·מיקה": {
    "id": "2015|למשטיין·מיקה",
@@ -1104380,7 +1104633,22 @@ window.SWIM_DATA = {
      "points": 245
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי תל אביב",
+     "startTime": "12:20",
+     "heat": "5",
+     "lane": "3",
+     "seedStr": "00:48.71",
+     "seedSeconds": 48.71
+    }
+   ]
   },
   "2014|אמליה·אשלגי": {
    "id": "2014|אמליה·אשלגי",
@@ -1106606,7 +1106874,22 @@ window.SWIM_DATA = {
      "points": 338
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "12:23",
+     "heat": "7",
+     "lane": "3",
+     "seedStr": "00:41.84",
+     "seedSeconds": 41.84
+    }
+   ]
   },
   "2014|לביא·תמר": {
    "id": "2014|לביא·תמר",
@@ -1109402,7 +1109685,22 @@ window.SWIM_DATA = {
      "points": 774
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי תל אביב",
+     "startTime": "12:27",
+     "heat": "10",
+     "lane": "1",
+     "seedStr": "00:37.23",
+     "seedSeconds": 37.23
+    }
+   ]
   },
   "2013|גלי·פרקש": {
    "id": "2013|גלי·פרקש",
@@ -1128703,7 +1129001,22 @@ window.SWIM_DATA = {
      "points": 419
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "09:52",
+     "heat": "5",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|גל·שגיא": {
    "id": "2013|גל·שגיא",
@@ -1129325,7 +1129638,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "09:26",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|יערה·צדיק": {
    "id": "2013|יערה·צדיק",
@@ -1129999,7 +1130327,22 @@ window.SWIM_DATA = {
      "points": 402
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "09:39",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|סברסקי·שקד": {
    "id": "2013|סברסקי·שקד",
@@ -1134092,7 +1134435,22 @@ window.SWIM_DATA = {
      "points": 314
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "12:26",
+     "heat": "9",
+     "lane": "4",
+     "seedStr": "00:37.71",
+     "seedSeconds": 37.71
+    }
+   ]
   },
   "2014|אלונה·יעקבסון": {
    "id": "2014|אלונה·יעקבסון",
@@ -1135946,7 +1136304,22 @@ window.SWIM_DATA = {
      "points": 272
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "09:13",
+     "heat": "2",
+     "lane": "7",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|בכר·הדס": {
    "id": "2014|בכר·הדס",
@@ -1136814,7 +1137187,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "12:21",
+     "heat": "6",
+     "lane": "2",
+     "seedStr": "00:45.34",
+     "seedSeconds": 45.34
+    }
+   ]
   },
   "2015|דנה·לוי": {
    "id": "2015|דנה·לוי",
@@ -1155765,7 +1156153,22 @@ window.SWIM_DATA = {
      "points": 1170
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "11:09",
+     "heat": "11",
+     "lane": "4",
+     "seedStr": "10:22.28",
+     "seedSeconds": 622.28
+    }
+   ]
   },
   "2013|מיה·מישב": {
    "id": "2013|מיה·מישב",
@@ -1156541,7 +1156944,22 @@ window.SWIM_DATA = {
      "points": 312
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "09:26",
+     "heat": "3",
+     "lane": "9",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|יערה·שביט": {
    "id": "2013|יערה·שביט",
@@ -1156994,7 +1157412,22 @@ window.SWIM_DATA = {
      "points": 249
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "09:39",
+     "heat": "4",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|בליץ·דריה": {
    "id": "2013|בליץ·דריה",
@@ -1159513,7 +1159946,22 @@ window.SWIM_DATA = {
      "points": 324
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "09:13",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|מיקה·עתיר": {
    "id": "2015|מיקה·עתיר",
@@ -1162175,7 +1162623,22 @@ window.SWIM_DATA = {
      "points": 461
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "startTime": "11:09",
+     "heat": "11",
+     "lane": "5",
+     "seedStr": "10:24.99",
+     "seedSeconds": 624.99
+    }
+   ]
   },
   "2014|זנה·תמר": {
    "id": "2014|זנה·תמר",
@@ -1163276,7 +1163739,22 @@ window.SWIM_DATA = {
      "points": 381
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "startTime": "11:09",
+     "heat": "11",
+     "lane": "1",
+     "seedStr": "10:27.00",
+     "seedSeconds": 627.0
+    }
+   ]
   },
   "2014|ניקול·פורמן": {
    "id": "2014|ניקול·פורמן",
@@ -1164390,7 +1164868,22 @@ window.SWIM_DATA = {
      "points": 245
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "startTime": "09:26",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|גולדמן·דריה": {
    "id": "2015|גולדמן·דריה",
@@ -1165038,7 +1165531,22 @@ window.SWIM_DATA = {
      "points": 290
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "startTime": "09:13",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|בליסה·דניאל": {
    "id": "2015|בליסה·דניאל",
@@ -1165712,7 +1166220,22 @@ window.SWIM_DATA = {
      "points": 342
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "startTime": "09:13",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|מרסדס·סעידנבייב": {
    "id": "2015|מרסדס·סעידנבייב",
@@ -1166425,7 +1166948,22 @@ window.SWIM_DATA = {
      "points": 249
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "startTime": "09:13",
+     "heat": "2",
+     "lane": "8",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|אנגלינה·ברוק": {
    "id": "2015|אנגלינה·ברוק",
@@ -1166995,7 +1167533,22 @@ window.SWIM_DATA = {
      "points": 257
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל בת ים",
+     "startTime": "09:13",
+     "heat": "2",
+     "lane": "0",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|דרנגר·מוריה": {
    "id": "2014|דרנגר·מוריה",
@@ -1170346,53 +1170899,11 @@ window.SWIM_DATA = {
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "מכבי תל אביב",
-     "startTime": "12:44",
+     "startTime": "19:34",
      "heat": "3",
-     "lane": "4",
+     "lane": "2",
      "seedStr": "03:02.20",
      "seedSeconds": 182.2
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "10:32",
-     "heat": "21",
-     "lane": "4",
-     "seedStr": "01:17.06",
-     "seedSeconds": 77.06
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "16:21",
-     "heat": "4",
-     "lane": "6",
-     "seedStr": "01:50.55",
-     "seedSeconds": 110.55
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "18:00",
-     "heat": "13",
-     "lane": "1",
-     "seedStr": "00:48.26",
-     "seedSeconds": 48.26
     }
    ]
   },
@@ -1173177,7 +1173688,22 @@ window.SWIM_DATA = {
      "points": 482
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי תל אביב",
+     "startTime": "11:09",
+     "heat": "11",
+     "lane": "0",
+     "seedStr": "10:31.88",
+     "seedSeconds": 631.88
+    }
+   ]
   },
   "2012|אבישי·עלמא": {
    "id": "2012|אבישי·עלמא",
@@ -1178520,7 +1179046,22 @@ window.SWIM_DATA = {
      "points": 299
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "09:52",
+     "heat": "5",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2012|מוחמד·נגידאת·עלי": {
    "id": "2012|מוחמד·נגידאת·עלי",
@@ -1181342,7 +1181883,22 @@ window.SWIM_DATA = {
      "points": 519
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי תל אביב",
+     "startTime": "11:20",
+     "heat": "12",
+     "lane": "6",
+     "seedStr": "10:09.69",
+     "seedSeconds": 609.69
+    }
+   ]
   },
   "2012|דניאל·טיסונה": {
    "id": "2012|דניאל·טיסונה",
@@ -1186800,34 +1187356,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "00:36.09",
      "seedSeconds": 36.09
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "12:15",
-     "heat": "7",
-     "lane": "4",
-     "seedStr": "01:35.33",
-     "seedSeconds": 95.33
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "17:08",
-     "heat": "6",
-     "lane": "6",
-     "seedStr": "01:25.34",
-     "seedSeconds": 85.34
     }
    ]
   },
@@ -1187913,7 +1188441,22 @@ window.SWIM_DATA = {
      "points": 253
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי תל אביב",
+     "startTime": "12:24",
+     "heat": "8",
+     "lane": "8",
+     "seedStr": "00:41.05",
+     "seedSeconds": 41.05
+    }
+   ]
   },
   "2014|זכריה·לוין·נוגה": {
    "id": "2014|זכריה·לוין·נוגה",
@@ -1193701,48 +1194244,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "00:31.14",
      "seedSeconds": 31.14
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "11:38",
-     "heat": "7",
-     "lane": "3",
-     "seedStr": "02:25.37",
-     "seedSeconds": 145.37
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "12:20",
-     "heat": "9",
-     "lane": "5",
-     "seedStr": "01:25.66",
-     "seedSeconds": 85.66
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "17:10",
-     "heat": "7",
-     "lane": "3",
-     "seedStr": "01:08.07",
-     "seedSeconds": 68.07
     }
    ]
   },
@@ -1199984,53 +1200485,11 @@ window.SWIM_DATA = {
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:00",
+     "startTime": "19:50",
      "heat": "7",
      "lane": "5",
      "seedStr": "02:39.03",
      "seedSeconds": 159.03
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "10:32",
-     "heat": "21",
-     "lane": "5",
-     "seedStr": "01:18.04",
-     "seedSeconds": 78.04
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "11:28",
-     "heat": "5",
-     "lane": "5",
-     "seedStr": "03:05.08",
-     "seedSeconds": 185.08
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "16:31",
-     "heat": "8",
-     "lane": "4",
-     "seedStr": "01:28.88",
-     "seedSeconds": 88.88
     }
    ]
   },
@@ -1202571,7 +1203030,36 @@ window.SWIM_DATA = {
      "points": 436
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "09:39",
+     "heat": "4",
+     "lane": "9",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "12:26",
+     "heat": "9",
+     "lane": "7",
+     "seedStr": "00:38.05",
+     "seedSeconds": 38.05
+    }
+   ]
   },
   "2014|ברדוגו·טליה": {
    "id": "2014|ברדוגו·טליה",
@@ -1203630,39 +1204118,11 @@ window.SWIM_DATA = {
      "category": "בנות 11-16",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "19:17",
+     "startTime": "19:22",
      "heat": "5",
      "lane": "3",
      "seedStr": "02:30.66",
      "seedSeconds": 150.66
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:35",
-     "heat": "14",
-     "lane": "4",
-     "seedStr": "01:08.36",
-     "seedSeconds": 68.36
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "16:53",
-     "heat": "5",
-     "lane": "5",
-     "seedStr": "01:24.08",
-     "seedSeconds": 84.08
     }
    ]
   },
@@ -1204275,34 +1204735,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "00:38.30",
      "seedSeconds": 38.3
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "15:13",
-     "heat": "4",
-     "lane": "4",
-     "seedStr": "03:18.40",
-     "seedSeconds": 198.4
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "16:48",
-     "heat": "3",
-     "lane": "5",
-     "seedStr": "01:48.71",
-     "seedSeconds": 108.71
     }
    ]
   },
@@ -1204862,48 +1205294,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "11:58",
-     "heat": "7",
-     "lane": "6",
-     "seedStr": "01:36.44",
-     "seedSeconds": 96.44
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "15:08",
-     "heat": "3",
-     "lane": "3",
-     "seedStr": "03:27.11",
-     "seedSeconds": 207.11
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "16:51",
-     "heat": "4",
-     "lane": "1",
-     "seedStr": "01:32.65",
-     "seedSeconds": 92.65
     }
    ]
   },
@@ -1213654,7 +1214044,22 @@ window.SWIM_DATA = {
      "points": 514
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "12:32",
+     "heat": "13",
+     "lane": "2",
+     "seedStr": "00:33.51",
+     "seedSeconds": 33.51
+    }
+   ]
   },
   "2011|אלית·ורזוב·ריבה": {
    "id": "2011|אלית·ורזוב·ריבה",
@@ -1218153,20 +1218558,6 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "13:08",
-     "heat": "9",
-     "lane": "4",
-     "seedStr": "02:16.67",
-     "seedSeconds": 136.67
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "50 חופשי",
      "category": "בנים 8-19",
      "poolLength": 25,
@@ -1218178,32 +1218569,18 @@ window.SWIM_DATA = {
      "seedSeconds": 27.16
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "10:46",
-     "heat": "26",
-     "lane": "4",
-     "seedStr": "01:00.38",
-     "seedSeconds": 60.38
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
+     "event": "200 חופשי",
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "15:55",
-     "heat": "8",
+     "startTime": "19:58",
+     "heat": "9",
      "lane": "4",
-     "seedStr": "02:29.81",
-     "seedSeconds": 149.81
+     "seedStr": "02:16.67",
+     "seedSeconds": 136.67
     }
    ]
   },
@@ -1223489,7 +1223866,22 @@ window.SWIM_DATA = {
      "points": 346
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "10:05",
+     "heat": "6",
+     "lane": "8",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2012|בוגוסלבסקי·דניאל": {
    "id": "2012|בוגוסלבסקי·דניאל",
@@ -1238950,7 +1239342,22 @@ window.SWIM_DATA = {
      "points": 481
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "09:26",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|גוטמן·יובל": {
    "id": "2013|גוטמן·יובל",
@@ -1239691,7 +1240098,22 @@ window.SWIM_DATA = {
      "points": 452
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "12:29",
+     "heat": "11",
+     "lane": "5",
+     "seedStr": "00:35.61",
+     "seedSeconds": 35.61
+    }
+   ]
   },
   "2014|אביגדורי·שירה": {
    "id": "2014|אביגדורי·שירה",
@@ -1240456,7 +1240878,22 @@ window.SWIM_DATA = {
      "points": 335
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "11:09",
+     "heat": "11",
+     "lane": "6",
+     "seedStr": "10:26.05",
+     "seedSeconds": 626.05
+    }
+   ]
   },
   "2012|בראון·מייק": {
    "id": "2012|בראון·מייק",
@@ -1243600,20 +1244037,6 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "13:08",
-     "heat": "9",
-     "lane": "3",
-     "seedStr": "02:13.88",
-     "seedSeconds": 133.88
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "50 חופשי",
      "category": "בנים 8-19",
      "poolLength": 25,
@@ -1243625,32 +1244048,18 @@ window.SWIM_DATA = {
      "seedSeconds": 28.14
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "10:46",
-     "heat": "26",
-     "lane": "3",
-     "seedStr": "00:59.95",
-     "seedSeconds": 59.95
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
+     "event": "200 חופשי",
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "16:41",
-     "heat": "12",
+     "startTime": "19:58",
+     "heat": "9",
      "lane": "3",
-     "seedStr": "01:05.50",
-     "seedSeconds": 65.5
+     "seedStr": "02:13.88",
+     "seedSeconds": 133.88
     }
    ]
   },
@@ -1245462,53 +1245871,11 @@ window.SWIM_DATA = {
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "13:08",
+     "startTime": "19:58",
      "heat": "9",
      "lane": "2",
      "seedStr": "02:17.74",
      "seedSeconds": 137.74
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "10:46",
-     "heat": "26",
-     "lane": "5",
-     "seedStr": "01:03.76",
-     "seedSeconds": 63.76
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "11:18",
-     "heat": "3",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "16:33",
-     "heat": "9",
-     "lane": "2",
-     "seedStr": "01:25.80",
-     "seedSeconds": 85.8
     }
    ]
   },
@@ -1250247,7 +1250614,22 @@ window.SWIM_DATA = {
      "points": 394
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "startTime": "09:39",
+     "heat": "4",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2012|זרנקין·נינה": {
    "id": "2012|זרנקין·נינה",
@@ -1252434,34 +1252816,6 @@ window.SWIM_DATA = {
      "lane": "1",
      "seedStr": "00:39.99",
      "seedSeconds": 39.99
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "12:13",
-     "heat": "6",
-     "lane": "3",
-     "seedStr": "01:38.43",
-     "seedSeconds": 98.43
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "15:47",
-     "heat": "6",
-     "lane": "5",
-     "seedStr": "03:02.86",
-     "seedSeconds": 182.86
     }
    ]
   },
@@ -1252818,20 +1253172,6 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "12:52",
-     "heat": "5",
-     "lane": "1",
-     "seedStr": "02:52.09",
-     "seedSeconds": 172.09
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "100 מעורב אישי",
      "category": "בנים 9-16",
      "poolLength": 25,
@@ -1252852,23 +1253192,23 @@ window.SWIM_DATA = {
      "club": "ע.ל.ה עצמה רעננה",
      "startTime": "17:10",
      "heat": "20",
-     "lane": "3",
+     "lane": "4",
      "seedStr": "00:36.40",
      "seedSeconds": 36.4
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
+     "event": "200 חופשי",
+     "category": "בנים 11-16",
      "poolLength": 25,
      "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "10:30",
-     "heat": "20",
+     "startTime": "19:42",
+     "heat": "5",
      "lane": "6",
-     "seedStr": "01:19.89",
-     "seedSeconds": 79.89
+     "seedStr": "02:52.09",
+     "seedSeconds": 172.09
     }
    ]
   },
@@ -1255771,7 +1256111,22 @@ window.SWIM_DATA = {
      "points": 315
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "startTime": "09:52",
+     "heat": "5",
+     "lane": "8",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|אביגדורי·רומי": {
    "id": "2013|אביגדורי·רומי",
@@ -1256627,7 +1256982,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "11:09",
+     "heat": "11",
+     "lane": "9",
+     "seedStr": "10:32.63",
+     "seedSeconds": 632.63
+    }
+   ]
   },
   "2014|דנה·צור": {
    "id": "2014|דנה·צור",
@@ -1265307,7 +1265677,22 @@ window.SWIM_DATA = {
      "points": 201
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "12:20",
+     "heat": "5",
+     "lane": "4",
+     "seedStr": "00:47.98",
+     "seedSeconds": 47.98
+    }
+   ]
   },
   "2015|עלמה·שלי": {
    "id": "2015|עלמה·שלי",
@@ -1265836,39 +1266221,11 @@ window.SWIM_DATA = {
      "category": "בנות 11-16",
      "poolLength": 25,
      "club": "אלומה עירוני הוד השרון",
-     "startTime": "19:09",
+     "startTime": "19:14",
      "heat": "3",
      "lane": "2",
      "seedStr": "02:50.13",
      "seedSeconds": 170.13
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "15:13",
-     "heat": "4",
-     "lane": "5",
-     "seedStr": "03:23.70",
-     "seedSeconds": 203.7
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "16:48",
-     "heat": "3",
-     "lane": "1",
-     "seedStr": "02:04.54",
-     "seedSeconds": 124.54
     }
    ]
   },
@@ -1266274,34 +1266631,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "00:37.40",
      "seedSeconds": 37.4
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "09:33",
-     "heat": "13",
-     "lane": "1",
-     "seedStr": "01:21.24",
-     "seedSeconds": 81.24
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "15:13",
-     "heat": "4",
-     "lane": "1",
-     "seedStr": "03:25.03",
-     "seedSeconds": 205.03
     }
    ]
   },
@@ -1266783,14 +1267112,30 @@ window.SWIM_DATA = {
      "points": 203
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "12:21",
+     "heat": "6",
+     "lane": "5",
+     "seedStr": "00:44.47",
+     "seedSeconds": 44.47
+    }
+   ]
   },
   "2014|סמארה·שיינא": {
    "id": "2014|סמארה·שיינא",
    "displayName": "שיינא סמארה",
    "birthYear": 2014,
    "clubs": [
-    "הפועל כפר סבא ב. ב."
+    "הפועל כפר סבא ב. ב.",
+    "מכבי א.ס. רמת השרון"
    ],
    "past": [
     {
@@ -1267379,7 +1267724,22 @@ window.SWIM_DATA = {
      "points": 487
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "12:24",
+     "heat": "8",
+     "lane": "9",
+     "seedStr": "00:41.43",
+     "seedSeconds": 41.43
+    }
+   ]
   },
   "2012|דנה·מרום": {
    "id": "2012|דנה·מרום",
@@ -1267937,7 +1268297,22 @@ window.SWIM_DATA = {
      "points": 294
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל אולימפ נתניה",
+     "startTime": "10:18",
+     "heat": "7",
+     "lane": "0",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|מורן·תמר": {
    "id": "2013|מורן·תמר",
@@ -1269648,7 +1270023,36 @@ window.SWIM_DATA = {
      "points": 323
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "09:39",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "12:17",
+     "heat": "3",
+     "lane": "0",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2012|דניאל·רחמימוב": {
    "id": "2012|דניאל·רחמימוב",
@@ -1271463,34 +1271867,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "00:52.87",
      "seedSeconds": 52.87
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "12:13",
-     "heat": "6",
-     "lane": "5",
-     "seedStr": "01:40.59",
-     "seedSeconds": 100.59
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "18:00",
-     "heat": "13",
-     "lane": "3",
-     "seedStr": "00:45.66",
-     "seedSeconds": 45.66
     }
    ]
   },
@@ -1272530,20 +1272906,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "00:37.28",
      "seedSeconds": 37.28
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "10:38",
-     "heat": "23",
-     "lane": "3",
-     "seedStr": "01:12.23",
-     "seedSeconds": 72.23
     }
    ]
   },
@@ -1273243,37 +1273605,9 @@ window.SWIM_DATA = {
      "club": "ע.ל.ה עצמה רעננה",
      "startTime": "17:57",
      "heat": "13",
-     "lane": "5",
+     "lane": "2",
      "seedStr": "00:43.84",
      "seedSeconds": 43.84
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "10:41",
-     "heat": "24",
-     "lane": "3",
-     "seedStr": "01:10.37",
-     "seedSeconds": 70.37
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "16:38",
-     "heat": "11",
-     "lane": "1",
-     "seedStr": "01:22.48",
-     "seedSeconds": 82.48
     }
    ]
   },
@@ -1275184,53 +1275518,11 @@ window.SWIM_DATA = {
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "הפועל דולפין נתניה",
-     "startTime": "13:00",
+     "startTime": "19:50",
      "heat": "7",
      "lane": "3",
      "seedStr": "02:31.71",
      "seedSeconds": 151.71
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "12:20",
-     "heat": "9",
-     "lane": "2",
-     "seedStr": "01:25.63",
-     "seedSeconds": 85.63
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "15:51",
-     "heat": "7",
-     "lane": "2",
-     "seedStr": "02:54.59",
-     "seedSeconds": 174.59
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "18:04",
-     "heat": "15",
-     "lane": "6",
-     "seedStr": "00:41.61",
-     "seedSeconds": 41.61
     }
    ]
   },
@@ -1276787,7 +1277079,22 @@ window.SWIM_DATA = {
      "points": 251
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "10:05",
+     "heat": "6",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|ארד·מיקה": {
    "id": "2013|ארד·מיקה",
@@ -1277813,7 +1278120,22 @@ window.SWIM_DATA = {
      "points": 409
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "startTime": "09:52",
+     "heat": "5",
+     "lane": "9",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|בליאק·מיה": {
    "id": "2015|בליאק·מיה",
@@ -1281359,34 +1281681,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "00:35.09",
      "seedSeconds": 35.09
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "10:43",
-     "heat": "25",
-     "lane": "6",
-     "seedStr": "01:09.10",
-     "seedSeconds": 69.1
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "17:08",
-     "heat": "6",
-     "lane": "3",
-     "seedStr": "01:20.82",
-     "seedSeconds": 80.82
     }
    ]
   },
@@ -1285270,7 +1285564,22 @@ window.SWIM_DATA = {
      "points": 469
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "12:17",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|גוטפריד·חנה·נוי": {
    "id": "2014|גוטפריד·חנה·נוי",
@@ -1285723,7 +1286032,22 @@ window.SWIM_DATA = {
      "points": 302
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "12:21",
+     "heat": "6",
+     "lane": "8",
+     "seedStr": "00:46.49",
+     "seedSeconds": 46.49
+    }
+   ]
   },
   "2013|גרינברג·שקד": {
    "id": "2013|גרינברג·שקד",
@@ -1301837,48 +1302161,6 @@ window.SWIM_DATA = {
      "lane": "1",
      "seedStr": "01:33.78",
      "seedSeconds": 93.78
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנות 10-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "11:03",
-     "heat": "4",
-     "lane": "4",
-     "seedStr": "02:49.60",
-     "seedSeconds": 169.6
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "15:13",
-     "heat": "4",
-     "lane": "2",
-     "seedStr": "03:19.81",
-     "seedSeconds": 199.81
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "16:48",
-     "heat": "3",
-     "lane": "6",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1303481,39 +1303763,11 @@ window.SWIM_DATA = {
      "category": "בנות 11-16",
      "poolLength": 25,
      "club": "הפועל דולפין נתניה",
-     "startTime": "19:13",
+     "startTime": "19:18",
      "heat": "4",
      "lane": "6",
      "seedStr": "02:46.45",
      "seedSeconds": 166.45
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנות 10-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "10:53",
-     "heat": "2",
-     "lane": "6",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "15:17",
-     "heat": "5",
-     "lane": "6",
-     "seedStr": "03:15.42",
-     "seedSeconds": 195.42
     }
    ]
   },
@@ -1303926,39 +1304180,11 @@ window.SWIM_DATA = {
      "category": "בנות 11-16",
      "poolLength": 25,
      "club": "הפועל דולפין נתניה",
-     "startTime": "19:05",
+     "startTime": "19:10",
      "heat": "2",
      "lane": "5",
      "seedStr": "03:09.47",
      "seedSeconds": 189.47
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנות 10-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "10:58",
-     "heat": "3",
-     "lane": "4",
-     "seedStr": "03:05.39",
-     "seedSeconds": 185.39
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "16:06",
-     "heat": "4",
-     "lane": "4",
-     "seedStr": "01:35.99",
-     "seedSeconds": 95.99
     }
    ]
   },
@@ -1304308,37 +1304534,9 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "17:26",
      "heat": "3",
-     "lane": "5",
+     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנות 10-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "10:53",
-     "heat": "2",
-     "lane": "3",
-     "seedStr": "03:21.06",
-     "seedSeconds": 201.06
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "16:06",
-     "heat": "4",
-     "lane": "5",
-     "seedStr": "01:36.83",
-     "seedSeconds": 96.83
     }
    ]
   },
@@ -1304712,9 +1304910,9 @@ window.SWIM_DATA = {
      "category": "בנות 9-16",
      "poolLength": 25,
      "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "15:12",
-     "heat": "5",
-     "lane": "3",
+     "startTime": "15:15",
+     "heat": "6",
+     "lane": "6",
      "seedStr": "01:53.40",
      "seedSeconds": 113.4
     },
@@ -1304731,34 +1304929,6 @@ window.SWIM_DATA = {
      "lane": "1",
      "seedStr": "00:43.06",
      "seedSeconds": 43.06
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "11:48",
-     "heat": "3",
-     "lane": "4",
-     "seedStr": "01:58.10",
-     "seedSeconds": 118.1
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "17:26",
-     "heat": "8",
-     "lane": "3",
-     "seedStr": "00:53.41",
-     "seedSeconds": 53.41
     }
    ]
   },
@@ -1305240,48 +1305410,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "01:23.18",
      "seedSeconds": 83.18
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "10:43",
-     "heat": "25",
-     "lane": "1",
-     "seedStr": "01:08.65",
-     "seedSeconds": 68.65
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "16:41",
-     "heat": "12",
-     "lane": "6",
-     "seedStr": "01:15.15",
-     "seedSeconds": 75.15
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "17:00",
-     "heat": "3",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1306147,48 +1306275,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "00:39.72",
      "seedSeconds": 39.72
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "11:23",
-     "heat": "4",
-     "lane": "3",
-     "seedStr": "03:16.11",
-     "seedSeconds": 196.11
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "15:38",
-     "heat": "4",
-     "lane": "5",
-     "seedStr": "03:46.46",
-     "seedSeconds": 226.46
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "17:00",
-     "heat": "3",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1307589,20 +1307675,6 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "12:52",
-     "heat": "5",
-     "lane": "6",
-     "seedStr": "02:52.51",
-     "seedSeconds": 172.51
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "50 גב",
      "category": "בנים 9-16",
      "poolLength": 25,
@@ -1307614,32 +1307686,18 @@ window.SWIM_DATA = {
      "seedSeconds": 37.46
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "11:23",
-     "heat": "4",
-     "lane": "5",
-     "seedStr": "03:23.15",
-     "seedSeconds": 203.15
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
+     "event": "200 חופשי",
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "הפועל דולפין נתניה",
-     "startTime": "16:36",
-     "heat": "10",
-     "lane": "5",
-     "seedStr": "01:23.77",
-     "seedSeconds": 83.77
+     "startTime": "19:38",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "02:52.51",
+     "seedSeconds": 172.51
     }
    ]
   },
@@ -1309217,64 +1309275,7 @@ window.SWIM_DATA = {
      "points": 261
     }
    ],
-   "future": [
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנות 10-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "10:58",
-     "heat": "3",
-     "lane": "3",
-     "seedStr": "03:05.38",
-     "seedSeconds": 185.38
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "11:58",
-     "heat": "7",
-     "lane": "1",
-     "seedStr": "01:36.12",
-     "seedSeconds": 96.12
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "16:09",
-     "heat": "5",
-     "lane": "4",
-     "seedStr": "01:27.95",
-     "seedSeconds": 87.95
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "17:26",
-     "heat": "8",
-     "lane": "4",
-     "seedStr": "00:53.57",
-     "seedSeconds": 53.57
-    }
-   ]
+   "future": []
   },
   "2015|הרן·ויינברגר·שיראל": {
    "id": "2015|הרן·ויינברגר·שיראל",
@@ -1310012,48 +1310013,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "00:39.12",
      "seedSeconds": 39.12
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "09:27",
-     "heat": "11",
-     "lane": "1",
-     "seedStr": "01:30.29",
-     "seedSeconds": 90.29
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "11:53",
-     "heat": "5",
-     "lane": "1",
-     "seedStr": "01:43.50",
-     "seedSeconds": 103.5
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "17:30",
-     "heat": "10",
-     "lane": "4",
-     "seedStr": "00:49.15",
-     "seedSeconds": 49.15
     }
    ]
   },
@@ -1310738,7 +1310697,7 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "15:42",
      "heat": "5",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1310755,34 +1310714,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "00:33.95",
      "seedSeconds": 33.95
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "11:28",
-     "heat": "5",
-     "lane": "2",
-     "seedStr": "03:04.44",
-     "seedSeconds": 184.44
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "17:08",
-     "heat": "6",
-     "lane": "4",
-     "seedStr": "01:21.57",
-     "seedSeconds": 81.57
     }
    ]
   },
@@ -1311456,64 +1311387,7 @@ window.SWIM_DATA = {
      "points": 200
     }
    ],
-   "future": [
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "12:18",
-     "heat": "8",
-     "lane": "2",
-     "seedStr": "01:30.97",
-     "seedSeconds": 90.97
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "15:47",
-     "heat": "6",
-     "lane": "2",
-     "seedStr": "03:02.68",
-     "seedSeconds": 182.68
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "16:31",
-     "heat": "8",
-     "lane": "1",
-     "seedStr": "01:29.74",
-     "seedSeconds": 89.74
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "17:44",
-     "heat": "5",
-     "lane": "6",
-     "seedStr": "NT",
-     "seedSeconds": null
-    }
-   ]
+   "future": []
   },
   "2014|חשצנסקי·לירן": {
    "id": "2014|חשצנסקי·לירן",
@@ -1312418,34 +1312292,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "00:39.21",
      "seedSeconds": 39.21
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "15:47",
-     "heat": "6",
-     "lane": "6",
-     "seedStr": "03:06.99",
-     "seedSeconds": 186.99
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "17:03",
-     "heat": "4",
-     "lane": "3",
-     "seedStr": "01:39.03",
-     "seedSeconds": 99.03
     }
    ]
   },
@@ -1314184,20 +1314030,6 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "12:56",
-     "heat": "6",
-     "lane": "5",
-     "seedStr": "02:47.54",
-     "seedSeconds": 167.54
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "50 גב",
      "category": "בנים 9-16",
      "poolLength": 25,
@@ -1314209,32 +1314041,18 @@ window.SWIM_DATA = {
      "seedSeconds": 41.06
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "11:13",
-     "heat": "2",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
+     "event": "200 חופשי",
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "הפועל דולפין נתניה",
-     "startTime": "16:33",
-     "heat": "9",
+     "startTime": "19:46",
+     "heat": "6",
      "lane": "1",
-     "seedStr": "01:26.66",
-     "seedSeconds": 86.66
+     "seedStr": "02:47.54",
+     "seedSeconds": 167.54
     }
    ]
   },
@@ -1315145,57 +1314963,29 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "12:48",
-     "heat": "4",
-     "lane": "6",
-     "seedStr": "03:00.08",
-     "seedSeconds": 180.08
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "50 גב",
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "הפועל דולפין נתניה",
      "startTime": "17:57",
      "heat": "13",
-     "lane": "2",
+     "lane": "4",
      "seedStr": "00:42.57",
      "seedSeconds": 42.57
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "11:13",
-     "heat": "2",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
+     "event": "200 חופשי",
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "הפועל דולפין נתניה",
-     "startTime": "16:23",
-     "heat": "5",
+     "startTime": "19:34",
+     "heat": "3",
      "lane": "3",
-     "seedStr": "01:39.69",
-     "seedSeconds": 99.69
+     "seedStr": "03:00.08",
+     "seedSeconds": 180.08
     }
    ]
   },
@@ -1315546,7 +1315336,7 @@ window.SWIM_DATA = {
      "club": "ע.ל.ה עצמה רעננה",
      "startTime": "17:08",
      "heat": "19",
-     "lane": "3",
+     "lane": "4",
      "seedStr": "00:36.80",
      "seedSeconds": 36.8
     },
@@ -1315563,20 +1315353,6 @@ window.SWIM_DATA = {
      "lane": "5",
      "seedStr": "00:41.00",
      "seedSeconds": 41.0
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "10:30",
-     "heat": "20",
-     "lane": "4",
-     "seedStr": "01:18.91",
-     "seedSeconds": 78.91
     }
    ]
   },
@@ -1316033,34 +1315809,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "00:35.11",
      "seedSeconds": 35.11
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "11:33",
-     "heat": "6",
-     "lane": "6",
-     "seedStr": "03:01.28",
-     "seedSeconds": 181.28
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "15:51",
-     "heat": "7",
-     "lane": "3",
-     "seedStr": "02:49.84",
-     "seedSeconds": 169.84
     }
    ]
   },
@@ -1317489,20 +1317237,6 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "12:48",
-     "heat": "4",
-     "lane": "5",
-     "seedStr": "02:55.50",
-     "seedSeconds": 175.5
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "50 פרפר",
      "category": "בנים 9-19",
      "poolLength": 25,
@@ -1317514,32 +1317248,18 @@ window.SWIM_DATA = {
      "seedSeconds": 33.74
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
+     "event": "200 חופשי",
+     "category": "בנים 11-16",
      "poolLength": 25,
      "club": "הפועל דולפין נתניה",
-     "startTime": "10:41",
-     "heat": "24",
+     "startTime": "19:38",
+     "heat": "4",
      "lane": "1",
-     "seedStr": "01:10.78",
-     "seedSeconds": 70.78
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "17:00",
-     "heat": "3",
-     "lane": "3",
-     "seedStr": "02:30.84",
-     "seedSeconds": 150.84
+     "seedStr": "02:55.50",
+     "seedSeconds": 175.5
     }
    ]
   },
@@ -1327395,25 +1327115,11 @@ window.SWIM_DATA = {
      "category": "בנות 11-16",
      "poolLength": 25,
      "club": "אלומה עירוני הוד השרון",
-     "startTime": "19:17",
+     "startTime": "19:22",
      "heat": "5",
      "lane": "4",
      "seedStr": "02:32.28",
      "seedSeconds": 152.28
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "16:53",
-     "heat": "5",
-     "lane": "4",
-     "seedStr": "01:18.80",
-     "seedSeconds": 78.8
     }
    ]
   },
@@ -1327961,48 +1327667,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "00:40.15",
      "seedSeconds": 40.15
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "09:35",
-     "heat": "14",
-     "lane": "1",
-     "seedStr": "01:11.93",
-     "seedSeconds": 71.93
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנות 10-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "11:03",
-     "heat": "4",
-     "lane": "3",
-     "seedStr": "02:48.09",
-     "seedSeconds": 168.09
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "16:11",
-     "heat": "6",
-     "lane": "3",
-     "seedStr": "01:20.17",
-     "seedSeconds": 80.17
     }
    ]
   },
@@ -1328498,48 +1328162,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "00:44.34",
      "seedSeconds": 44.34
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנות 10-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "10:58",
-     "heat": "3",
-     "lane": "2",
-     "seedStr": "03:05.85",
-     "seedSeconds": 185.85
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "11:55",
-     "heat": "6",
-     "lane": "1",
-     "seedStr": "01:41.24",
-     "seedSeconds": 101.24
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "17:32",
-     "heat": "11",
-     "lane": "3",
-     "seedStr": "00:45.90",
-     "seedSeconds": 45.9
     }
    ]
   },
@@ -1329160,7 +1328782,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "startTime": "15:06",
      "heat": "3",
-     "lane": "5",
+     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1329177,34 +1328799,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "00:35.86",
      "seedSeconds": 35.86
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "09:30",
-     "heat": "12",
-     "lane": "2",
-     "seedStr": "01:23.61",
-     "seedSeconds": 83.61
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "16:06",
-     "heat": "4",
-     "lane": "1",
-     "seedStr": "01:37.08",
-     "seedSeconds": 97.08
     }
    ]
   },
@@ -1330085,7 +1329679,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "startTime": "17:54",
      "heat": "11",
-     "lane": "1",
+     "lane": "2",
      "seedStr": "00:48.10",
      "seedSeconds": 48.1
     },
@@ -1330102,20 +1329696,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "00:41.30",
      "seedSeconds": 41.3
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "16:58",
-     "heat": "2",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1330477,39 +1330057,11 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "אלומה עירוני הוד השרון",
-     "startTime": "17:52",
-     "heat": "10",
-     "lane": "4",
+     "startTime": "17:54",
+     "heat": "11",
+     "lane": "6",
      "seedStr": "00:49.06",
      "seedSeconds": 49.06
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "10:13",
-     "heat": "14",
-     "lane": "4",
-     "seedStr": "01:32.67",
-     "seedSeconds": 92.67
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "16:23",
-     "heat": "5",
-     "lane": "5",
-     "seedStr": "01:41.30",
-     "seedSeconds": 101.3
     }
    ]
   },
@@ -1331303,48 +1330855,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנות 10-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "11:03",
-     "heat": "4",
-     "lane": "1",
-     "seedStr": "03:00.19",
-     "seedSeconds": 180.19
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "15:04",
-     "heat": "2",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "16:51",
-     "heat": "4",
-     "lane": "5",
-     "seedStr": "01:29.73",
-     "seedSeconds": 89.73
     }
    ]
   },
@@ -1332227,48 +1331737,6 @@ window.SWIM_DATA = {
      "lane": "5",
      "seedStr": "00:42.64",
      "seedSeconds": 42.64
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנות 10-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "10:58",
-     "heat": "3",
-     "lane": "5",
-     "seedStr": "03:08.41",
-     "seedSeconds": 188.41
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "15:04",
-     "heat": "2",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "16:09",
-     "heat": "5",
-     "lane": "5",
-     "seedStr": "01:32.50",
-     "seedSeconds": 92.5
     }
    ]
   },
@@ -1334518,48 +1333986,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "01:31.78",
      "seedSeconds": 91.78
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "11:48",
-     "heat": "3",
-     "lane": "3",
-     "seedStr": "01:55.20",
-     "seedSeconds": 115.2
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "15:04",
-     "heat": "2",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "17:34",
-     "heat": "12",
-     "lane": "5",
-     "seedStr": "00:43.72",
-     "seedSeconds": 43.72
     }
    ]
   },
@@ -1335978,57 +1335404,29 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "12:56",
-     "heat": "6",
-     "lane": "4",
-     "seedStr": "02:45.75",
-     "seedSeconds": 165.75
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "50 חופשי",
      "category": "בנים 8-19",
      "poolLength": 25,
      "club": "אלומה עירוני הוד השרון",
      "startTime": "17:13",
      "heat": "22",
-     "lane": "4",
+     "lane": "2",
      "seedStr": "00:34.54",
      "seedSeconds": 34.54
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "10:38",
-     "heat": "23",
-     "lane": "5",
-     "seedStr": "01:12.66",
-     "seedSeconds": 72.66
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
+     "event": "200 חופשי",
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "אלומה עירוני הוד השרון",
-     "startTime": "16:28",
-     "heat": "7",
-     "lane": "5",
-     "seedStr": "01:32.54",
-     "seedSeconds": 92.54
+     "startTime": "19:46",
+     "heat": "6",
+     "lane": "2",
+     "seedStr": "02:45.75",
+     "seedSeconds": 165.75
     }
    ]
   },
@@ -1336705,48 +1336103,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "00:44.70",
      "seedSeconds": 44.7
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "12:15",
-     "heat": "7",
-     "lane": "2",
-     "seedStr": "01:35.63",
-     "seedSeconds": 95.63
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "15:34",
-     "heat": "3",
-     "lane": "6",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "18:02",
-     "heat": "14",
-     "lane": "4",
-     "seedStr": "00:43.79",
-     "seedSeconds": 43.79
     }
    ]
   },
@@ -1337638,39 +1336994,11 @@ window.SWIM_DATA = {
      "category": "בנות 11-16",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "19:05",
+     "startTime": "19:10",
      "heat": "2",
      "lane": "3",
      "seedStr": "02:53.92",
      "seedSeconds": 173.92
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנות 10-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "10:53",
-     "heat": "2",
-     "lane": "4",
-     "seedStr": "03:21.70",
-     "seedSeconds": 201.7
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "16:09",
-     "heat": "5",
-     "lane": "2",
-     "seedStr": "01:32.43",
-     "seedSeconds": 92.43
     }
    ]
   },
@@ -1340533,64 +1339861,7 @@ window.SWIM_DATA = {
      "points": 191
     }
    ],
-   "future": [
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "11:28",
-     "heat": "5",
-     "lane": "4",
-     "seedStr": "03:03.36",
-     "seedSeconds": 183.36
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "12:08",
-     "heat": "4",
-     "lane": "3",
-     "seedStr": "01:58.30",
-     "seedSeconds": 118.3
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "16:33",
-     "heat": "9",
-     "lane": "5",
-     "seedStr": "01:26.27",
-     "seedSeconds": 86.27
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "18:02",
-     "heat": "14",
-     "lane": "5",
-     "seedStr": "00:44.16",
-     "seedSeconds": 44.16
-    }
-   ]
+   "future": []
   },
   "2014|בנימין·מרסיאנו": {
    "id": "2014|בנימין·מרסיאנו",
@@ -1342041,57 +1341312,29 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
+     "event": "50 פרפר",
+     "category": "בנים 9-19",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "12:40",
-     "heat": "2",
-     "lane": "5",
-     "seedStr": "03:52.71",
-     "seedSeconds": 232.71
+     "startTime": "18:19",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "01:14.69",
+     "seedSeconds": 74.69
     },
     {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "50 פרפר",
-     "category": "בנים 9-19",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "18:21",
-     "heat": "4",
-     "lane": "6",
-     "seedStr": "01:14.69",
-     "seedSeconds": 74.69
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "10:02",
-     "heat": "10",
-     "lane": "4",
-     "seedStr": "01:55.50",
-     "seedSeconds": 115.5
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
+     "event": "200 חופשי",
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "16:18",
-     "heat": "3",
-     "lane": "3",
-     "seedStr": "01:51.70",
-     "seedSeconds": 111.7
+     "startTime": "19:30",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "03:52.71",
+     "seedSeconds": 232.71
     }
    ]
   },
@@ -1344125,51 +1343368,9 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "15:12",
      "heat": "5",
-     "lane": "6",
+     "lane": "1",
      "seedStr": "01:57.95",
      "seedSeconds": 117.95
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "11:53",
-     "heat": "5",
-     "lane": "6",
-     "seedStr": "01:44.79",
-     "seedSeconds": 104.79
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "15:08",
-     "heat": "3",
-     "lane": "5",
-     "seedStr": "04:08.44",
-     "seedSeconds": 248.44
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "16:51",
-     "heat": "4",
-     "lane": "6",
-     "seedStr": "01:34.76",
-     "seedSeconds": 94.76
     }
    ]
   },
@@ -1345048,7 +1344249,7 @@ window.SWIM_DATA = {
      "club": "הפועל לב הגליל סחנין",
      "timeStr": "DNS",
      "seconds": null,
-     "place": "78",
+     "place": "79",
      "points": 0
     }
    ],
@@ -1369603,34 +1368804,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "00:40.18",
      "seedSeconds": 40.18
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "10:30",
-     "heat": "20",
-     "lane": "5",
-     "seedStr": "01:19.64",
-     "seedSeconds": 79.64
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "15:38",
-     "heat": "4",
-     "lane": "2",
-     "seedStr": "03:27.94",
-     "seedSeconds": 207.94
     }
    ]
   },
@@ -1370251,39 +1369424,11 @@ window.SWIM_DATA = {
      "category": "בנות 11-16",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "19:17",
+     "startTime": "19:22",
      "heat": "5",
      "lane": "6",
      "seedStr": "02:42.08",
      "seedSeconds": 162.08
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "15:21",
-     "heat": "6",
-     "lane": "1",
-     "seedStr": "03:03.47",
-     "seedSeconds": 183.47
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "16:53",
-     "heat": "5",
-     "lane": "2",
-     "seedStr": "01:23.18",
-     "seedSeconds": 83.18
     }
    ]
   },
@@ -1375222,53 +1374367,11 @@ window.SWIM_DATA = {
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "12:48",
+     "startTime": "19:38",
      "heat": "4",
-     "lane": "2",
+     "lane": "5",
      "seedStr": "02:54.44",
      "seedSeconds": 174.44
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "10:08",
-     "heat": "12",
-     "lane": "1",
-     "seedStr": "01:48.53",
-     "seedSeconds": 108.53
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "11:28",
-     "heat": "5",
-     "lane": "6",
-     "seedStr": "03:12.80",
-     "seedSeconds": 192.8
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "17:05",
-     "heat": "5",
-     "lane": "6",
-     "seedStr": "01:31.16",
-     "seedSeconds": 91.16
     }
    ]
   },
@@ -1389880,7 +1388983,22 @@ window.SWIM_DATA = {
      "points": 502
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי תל אביב",
+     "startTime": "12:33",
+     "heat": "14",
+     "lane": "3",
+     "seedStr": "00:31.89",
+     "seedSeconds": 31.89
+    }
+   ]
   },
   "2013|לבד·קורל": {
    "id": "2013|לבד·קורל",
@@ -1390269,7 +1389387,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "12:21",
+     "heat": "6",
+     "lane": "3",
+     "seedStr": "00:44.73",
+     "seedSeconds": 44.73
+    }
+   ]
   },
   "2015|ברוקמן·עמרמי·תמר": {
    "id": "2015|ברוקמן·עמרמי·תמר",
@@ -1394172,7 +1393305,22 @@ window.SWIM_DATA = {
      "points": 276
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "12:15",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|מיה·מנחם": {
    "id": "2014|מיה·מנחם",
@@ -1394638,7 +1393786,22 @@ window.SWIM_DATA = {
      "points": 149
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "12:20",
+     "heat": "5",
+     "lane": "0",
+     "seedStr": "00:57.27",
+     "seedSeconds": 57.27
+    }
+   ]
   },
   "2014|אדווה·אלימלח": {
    "id": "2014|אדווה·אלימלח",
@@ -1395102,7 +1394265,22 @@ window.SWIM_DATA = {
      "points": 222
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "12:20",
+     "heat": "5",
+     "lane": "8",
+     "seedStr": "00:55.53",
+     "seedSeconds": 55.53
+    }
+   ]
   },
   "2014|דניאל·לופטינסקי": {
    "id": "2014|דניאל·לופטינסקי",
@@ -1399272,7 +1398450,22 @@ window.SWIM_DATA = {
      "points": 323
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "09:00",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|אוריין·אללי": {
    "id": "2014|אוריין·אללי",
@@ -1401575,7 +1400768,22 @@ window.SWIM_DATA = {
      "points": 413
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "12:15",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|אוחיון·זהר": {
    "id": "2015|אוחיון·זהר",
@@ -1402742,7 +1401950,22 @@ window.SWIM_DATA = {
      "points": 380
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "startTime": "09:52",
+     "heat": "5",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|אבו·אלהיג'א·ג'ולין": {
    "id": "2013|אבו·אלהיג'א·ג'ולין",
@@ -1403880,7 +1403103,22 @@ window.SWIM_DATA = {
      "points": 358
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "12:27",
+     "heat": "10",
+     "lane": "2",
+     "seedStr": "00:37.03",
+     "seedSeconds": 37.03
+    }
+   ]
   },
   "2013|יובל·מזרחי": {
    "id": "2013|יובל·מזרחי",
@@ -1404490,7 +1403728,36 @@ window.SWIM_DATA = {
      "points": 407
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "startTime": "10:44",
+     "heat": "9",
+     "lane": "2",
+     "seedStr": "11:07.62",
+     "seedSeconds": 667.62
+    },
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "startTime": "12:21",
+     "heat": "6",
+     "lane": "0",
+     "seedStr": "00:46.51",
+     "seedSeconds": 46.51
+    }
+   ]
   },
   "2013|סולימאן·ספא·שיח'": {
    "id": "2013|סולימאן·ספא·שיח'",
@@ -1406489,7 +1405756,7 @@ window.SWIM_DATA = {
      "club": "מכבי נצרת",
      "timeStr": "01:18.27",
      "seconds": 78.27,
-     "place": "9",
+     "place": "8",
      "points": 249
     },
     {
@@ -1406922,48 +1406189,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "00:29.96",
      "seedSeconds": 29.96
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "12:20",
-     "heat": "9",
-     "lane": "6",
-     "seedStr": "01:28.16",
-     "seedSeconds": 88.16
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "15:38",
-     "heat": "4",
-     "lane": "6",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "18:04",
-     "heat": "15",
-     "lane": "4",
-     "seedStr": "00:37.77",
-     "seedSeconds": 37.77
     }
    ]
   },
@@ -1413479,7 +1412704,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל קרית טבעון",
+     "startTime": "12:17",
+     "heat": "3",
+     "lane": "7",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|דמבינסקי·עומר": {
    "id": "2013|דמבינסקי·עומר",
@@ -1415386,34 +1414626,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "00:31.00",
      "seedSeconds": 31.0
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "12:20",
-     "heat": "9",
-     "lane": "1",
-     "seedStr": "01:27.95",
-     "seedSeconds": 87.95
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "18:02",
-     "heat": "14",
-     "lane": "3",
-     "seedStr": "00:41.62",
-     "seedSeconds": 41.62
     }
    ]
   },
@@ -1416608,7 +1415820,22 @@ window.SWIM_DATA = {
      "points": 529
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "12:32",
+     "heat": "13",
+     "lane": "7",
+     "seedStr": "00:33.63",
+     "seedSeconds": 33.63
+    }
+   ]
   },
   "2012|ניסאן·רבאח": {
    "id": "2012|ניסאן·רבאח",
@@ -1419448,34 +1418675,6 @@ window.SWIM_DATA = {
      "lane": "1",
      "seedStr": "00:42.94",
      "seedSeconds": 42.94
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "10:38",
-     "heat": "23",
-     "lane": "6",
-     "seedStr": "01:13.82",
-     "seedSeconds": 73.82
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "17:05",
-     "heat": "5",
-     "lane": "1",
-     "seedStr": "01:30.50",
-     "seedSeconds": 90.5
     }
    ]
   },
@@ -1419884,20 +1419083,6 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "13:04",
-     "heat": "8",
-     "lane": "6",
-     "seedStr": "02:30.55",
-     "seedSeconds": 150.55
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "50 חופשי",
      "category": "בנים 8-19",
      "poolLength": 25,
@@ -1419909,32 +1419094,18 @@ window.SWIM_DATA = {
      "seedSeconds": 33.26
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "10:38",
-     "heat": "23",
-     "lane": "4",
-     "seedStr": "01:12.25",
-     "seedSeconds": 72.25
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
+     "event": "200 חופשי",
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "אלומה עירוני הוד השרון",
-     "startTime": "15:34",
-     "heat": "3",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
+     "startTime": "19:54",
+     "heat": "8",
+     "lane": "6",
+     "seedStr": "02:30.55",
+     "seedSeconds": 150.55
     }
    ]
   },
@@ -1420692,20 +1419863,6 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "13:04",
-     "heat": "8",
-     "lane": "4",
-     "seedStr": "02:22.37",
-     "seedSeconds": 142.37
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "50 חופשי",
      "category": "בנים 8-19",
      "poolLength": 25,
@@ -1420731,18 +1419888,18 @@ window.SWIM_DATA = {
      "seedSeconds": 38.71
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "100 גב",
+     "event": "200 חופשי",
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "אלומה עירוני הוד השרון",
-     "startTime": "16:41",
-     "heat": "12",
-     "lane": "1",
-     "seedStr": "01:15.06",
-     "seedSeconds": 75.06
+     "startTime": "19:54",
+     "heat": "8",
+     "lane": "4",
+     "seedStr": "02:22.37",
+     "seedSeconds": 142.37
     }
    ]
   },
@@ -1421466,53 +1420623,11 @@ window.SWIM_DATA = {
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "13:08",
+     "startTime": "19:58",
      "heat": "9",
      "lane": "6",
      "seedStr": "02:20.04",
      "seedSeconds": 140.04
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "10:46",
-     "heat": "26",
-     "lane": "2",
-     "seedStr": "01:03.72",
-     "seedSeconds": 63.72
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "15:55",
-     "heat": "8",
-     "lane": "2",
-     "seedStr": "02:45.10",
-     "seedSeconds": 165.1
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "16:41",
-     "heat": "12",
-     "lane": "4",
-     "seedStr": "01:12.67",
-     "seedSeconds": 72.67
     }
    ]
   },
@@ -1422933,51 +1422048,9 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "17:10",
      "heat": "20",
-     "lane": "1",
+     "lane": "6",
      "seedStr": "00:36.68",
      "seedSeconds": 36.68
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "11:33",
-     "heat": "6",
-     "lane": "1",
-     "seedStr": "02:59.41",
-     "seedSeconds": 179.41
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "15:34",
-     "heat": "3",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "17:03",
-     "heat": "4",
-     "lane": "4",
-     "seedStr": "01:39.70",
-     "seedSeconds": 99.7
     }
    ]
   },
@@ -1427121,7 +1426194,36 @@ window.SWIM_DATA = {
      "points": 374
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "10:44",
+     "heat": "9",
+     "lane": "8",
+     "seedStr": "11:37.29",
+     "seedSeconds": 697.29
+    },
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "12:29",
+     "heat": "11",
+     "lane": "4",
+     "seedStr": "00:35.59",
+     "seedSeconds": 35.59
+    }
+   ]
   },
   "2013|השמשוני·מיה": {
    "id": "2013|השמשוני·מיה",
@@ -1433838,7 +1432940,7 @@ window.SWIM_DATA = {
      "club": "Eilat Swimming",
      "startTime": "17:31",
      "heat": "6",
-     "lane": "5",
+     "lane": "2",
      "seedStr": "00:51.22",
      "seedSeconds": 51.22
     }
@@ -1435200,34 +1434302,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "00:42.17",
      "seedSeconds": 42.17
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "10:41",
-     "heat": "24",
-     "lane": "4",
-     "seedStr": "01:10.43",
-     "seedSeconds": 70.43
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "17:44",
-     "heat": "5",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1435797,34 +1434871,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "00:37.06",
      "seedSeconds": 37.06
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "10:43",
-     "heat": "25",
-     "lane": "2",
-     "seedStr": "01:06.91",
-     "seedSeconds": 66.91
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "17:46",
-     "heat": "6",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1436664,48 +1435710,6 @@ window.SWIM_DATA = {
      "lane": "5",
      "seedStr": "00:31.09",
      "seedSeconds": 31.09
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "10:43",
-     "heat": "25",
-     "lane": "5",
-     "seedStr": "01:08.50",
-     "seedSeconds": 68.5
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "11:38",
-     "heat": "7",
-     "lane": "5",
-     "seedStr": "02:45.78",
-     "seedSeconds": 165.78
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "16:38",
-     "heat": "11",
-     "lane": "3",
-     "seedStr": "01:16.32",
-     "seedSeconds": 76.32
     }
    ]
   },
@@ -1437313,7 +1436317,22 @@ window.SWIM_DATA = {
      "points": 299
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "startTime": "12:15",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|לין·עזב": {
    "id": "2014|לין·עזב",
@@ -1444322,7 +1443341,22 @@ window.SWIM_DATA = {
      "points": 289
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "10:05",
+     "heat": "6",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|שנון·תמר": {
    "id": "2014|שנון·תמר",
@@ -1444879,7 +1443913,22 @@ window.SWIM_DATA = {
      "points": 286
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "09:13",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|אמיליה·רום": {
    "id": "2016|אמיליה·רום",
@@ -1454947,20 +1453996,6 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "12:52",
-     "heat": "5",
-     "lane": "5",
-     "seedStr": "02:51.95",
-     "seedSeconds": 171.95
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "50 פרפר",
      "category": "בנים 9-19",
      "poolLength": 25,
@@ -1454972,32 +1454007,18 @@ window.SWIM_DATA = {
      "seedSeconds": 38.5
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
+     "event": "200 חופשי",
+     "category": "בנים 11-16",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "10:35",
-     "heat": "22",
-     "lane": "2",
-     "seedStr": "01:15.62",
-     "seedSeconds": 75.62
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "17:05",
+     "startTime": "19:42",
      "heat": "5",
-     "lane": "2",
-     "seedStr": "01:27.51",
-     "seedSeconds": 87.51
+     "lane": "1",
+     "seedStr": "02:51.95",
+     "seedSeconds": 171.95
     }
    ]
   },
@@ -1455632,34 +1454653,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "00:38.44",
      "seedSeconds": 38.44
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "12:10",
-     "heat": "5",
-     "lane": "4",
-     "seedStr": "01:48.12",
-     "seedSeconds": 108.12
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "15:42",
-     "heat": "5",
-     "lane": "3",
-     "seedStr": "03:11.50",
-     "seedSeconds": 191.5
     }
    ]
   },
@@ -1456861,34 +1455854,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "00:36.26",
      "seedSeconds": 36.26
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "10:41",
-     "heat": "24",
-     "lane": "2",
-     "seedStr": "01:10.56",
-     "seedSeconds": 70.56
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "17:00",
-     "heat": "3",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1457219,20 +1456184,6 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "12:44",
-     "heat": "3",
-     "lane": "1",
-     "seedStr": "03:08.59",
-     "seedSeconds": 188.59
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "50 חופשי",
      "category": "בנים 8-19",
      "poolLength": 25,
@@ -1457244,32 +1456195,18 @@ window.SWIM_DATA = {
      "seedSeconds": 31.12
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "10:27",
-     "heat": "19",
-     "lane": "2",
-     "seedStr": "01:20.57",
-     "seedSeconds": 80.57
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
+     "event": "200 חופשי",
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "אלומה עירוני הוד השרון",
-     "startTime": "16:16",
-     "heat": "2",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
+     "startTime": "19:34",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "03:08.59",
+     "seedSeconds": 188.59
     }
    ]
   },
@@ -1458041,7 +1456978,7 @@ window.SWIM_DATA = {
      "club": "הפועל לב הגליל סחנין",
      "timeStr": "00:44.93",
      "seconds": 44.93,
-     "place": "64",
+     "place": "65",
      "points": 86
     }
    ],
@@ -1462965,7 +1461902,7 @@ window.SWIM_DATA = {
      "club": "הפועל לב הגליל סחנין",
      "timeStr": "01:21.91",
      "seconds": 81.91,
-     "place": "11",
+     "place": "10",
      "points": 217
     },
     {
@@ -1463685,7 +1462622,7 @@ window.SWIM_DATA = {
      "club": "הפועל מ.א משגב",
      "timeStr": "DQ",
      "seconds": null,
-     "place": "82",
+     "place": "83",
      "points": 0
     }
    ],
@@ -1467698,7 +1466635,7 @@ window.SWIM_DATA = {
      "club": "הפועל אקווה נוף הגליל",
      "timeStr": "DQ",
      "seconds": null,
-     "place": "82",
+     "place": "83",
      "points": 0
     }
    ],
@@ -1469453,25 +1468390,11 @@ window.SWIM_DATA = {
      "category": "בנות 11-16",
      "poolLength": 25,
      "club": "הפועל דולפין נתניה",
-     "startTime": "19:01",
+     "startTime": "19:06",
      "heat": "1",
-     "lane": "3",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "15:21",
-     "heat": "6",
-     "lane": "2",
-     "seedStr": "02:57.99",
-     "seedSeconds": 177.99
     }
    ]
   },
@@ -1470739,34 +1469662,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "00:44.07",
      "seedSeconds": 44.07
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "09:27",
-     "heat": "11",
-     "lane": "3",
-     "seedStr": "01:28.64",
-     "seedSeconds": 88.64
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "17:30",
-     "heat": "10",
-     "lane": "5",
-     "seedStr": "00:49.52",
-     "seedSeconds": 49.52
     }
    ]
   },
@@ -1471421,9 +1470316,9 @@ window.SWIM_DATA = {
      "category": "בנים 8-19",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "17:10",
-     "heat": "20",
-     "lane": "6",
+     "startTime": "17:08",
+     "heat": "19",
+     "lane": "3",
      "seedStr": "00:36.69",
      "seedSeconds": 36.69
     },
@@ -1471435,39 +1470330,11 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "17:41",
-     "heat": "3",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "09:54",
-     "heat": "7",
+     "startTime": "17:42",
+     "heat": "4",
      "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "16:28",
-     "heat": "7",
-     "lane": "6",
-     "seedStr": "01:33.66",
-     "seedSeconds": 93.66
     }
    ]
   },
@@ -1472100,7 +1470967,7 @@ window.SWIM_DATA = {
      "club": "מכבי מרום רמת גן",
      "startTime": "17:08",
      "heat": "19",
-     "lane": "2",
+     "lane": "5",
      "seedStr": "00:37.51",
      "seedSeconds": 37.51
     },
@@ -1472114,37 +1470981,9 @@ window.SWIM_DATA = {
      "club": "מכבי מרום רמת גן",
      "startTime": "17:57",
      "heat": "13",
-     "lane": "1",
+     "lane": "5",
      "seedStr": "00:43.92",
      "seedSeconds": 43.92
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "09:54",
-     "heat": "7",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "16:26",
-     "heat": "6",
-     "lane": "5",
-     "seedStr": "01:37.84",
-     "seedSeconds": 97.84
     }
    ]
   },
@@ -1474082,7 +1472921,22 @@ window.SWIM_DATA = {
      "points": 430
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי תל אביב",
+     "startTime": "12:27",
+     "heat": "10",
+     "lane": "5",
+     "seedStr": "00:36.69",
+     "seedSeconds": 36.69
+    }
+   ]
   },
   "2014|ליאל·פוחוביצקי": {
    "id": "2014|ליאל·פוחוביצקי",
@@ -1474420,34 +1473274,6 @@ window.SWIM_DATA = {
      "lane": "1",
      "seedStr": "00:31.49",
      "seedSeconds": 31.49
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "09:27",
-     "heat": "11",
-     "lane": "2",
-     "seedStr": "01:28.83",
-     "seedSeconds": 88.83
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "17:34",
-     "heat": "12",
-     "lane": "2",
-     "seedStr": "00:42.78",
-     "seedSeconds": 42.78
     }
    ]
   },
@@ -1475721,57 +1474547,29 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
+     "event": "50 חופשי",
+     "category": "בנים 8-19",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "12:48",
-     "heat": "4",
-     "lane": "1",
-     "seedStr": "02:57.20",
-     "seedSeconds": 177.2
+     "startTime": "17:11",
+     "heat": "21",
+     "lane": "3",
+     "seedStr": "00:35.50",
+     "seedSeconds": 35.5
     },
     {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "50 חופשי",
-     "category": "בנים 8-19",
+     "event": "200 חופשי",
+     "category": "בנים 11-16",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "17:13",
-     "heat": "22",
+     "startTime": "19:38",
+     "heat": "4",
      "lane": "6",
-     "seedStr": "00:35.50",
-     "seedSeconds": 35.5
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "10:30",
-     "heat": "20",
-     "lane": "1",
-     "seedStr": "01:19.74",
-     "seedSeconds": 79.74
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "18:02",
-     "heat": "14",
-     "lane": "6",
-     "seedStr": "00:45.29",
-     "seedSeconds": 45.29
+     "seedStr": "02:57.20",
+     "seedSeconds": 177.2
     }
    ]
   },
@@ -1476478,9 +1475276,9 @@ window.SWIM_DATA = {
      "category": "בנים 8-19",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "17:11",
-     "heat": "21",
-     "lane": "6",
+     "startTime": "17:10",
+     "heat": "20",
+     "lane": "3",
      "seedStr": "00:36.39",
      "seedSeconds": 36.39
     },
@@ -1476497,34 +1475295,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "00:40.78",
      "seedSeconds": 40.78
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "10:27",
-     "heat": "19",
-     "lane": "1",
-     "seedStr": "01:20.61",
-     "seedSeconds": 80.61
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "16:16",
-     "heat": "2",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1480991,51 +1479761,9 @@ window.SWIM_DATA = {
      "club": "מכבי מרום רמת גן",
      "startTime": "16:22",
      "heat": "4",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "09:11",
-     "heat": "5",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "11:45",
-     "heat": "2",
      "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "17:28",
-     "heat": "9",
-     "lane": "1",
-     "seedStr": "00:53.07",
-     "seedSeconds": 53.07
     }
    ]
   },
@@ -1481167,48 +1479895,6 @@ window.SWIM_DATA = {
      "lane": "1",
      "seedStr": "00:36.39",
      "seedSeconds": 36.39
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 גב",
-     "category": "בנות 8-19",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "17:33",
-     "heat": "7",
-     "lane": "1",
-     "seedStr": "00:47.85",
-     "seedSeconds": 47.85
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "09:11",
-     "heat": "5",
-     "lane": "6",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "17:26",
-     "heat": "8",
-     "lane": "5",
-     "seedStr": "00:55.21",
-     "seedSeconds": 55.21
     }
    ]
   },
@@ -1481274,48 +1479960,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "00:45.03",
      "seedSeconds": 45.03
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "09:57",
-     "heat": "8",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "12:08",
-     "heat": "4",
-     "lane": "5",
-     "seedStr": "02:02.16",
-     "seedSeconds": 122.16
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "17:54",
-     "heat": "10",
-     "lane": "3",
-     "seedStr": "00:55.87",
-     "seedSeconds": 55.87
     }
    ]
   },
@@ -1488550,7 +1487194,22 @@ window.SWIM_DATA = {
      "points": 240
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "12:20",
+     "heat": "5",
+     "lane": "9",
+     "seedStr": "00:57.91",
+     "seedSeconds": 57.91
+    }
+   ]
   },
   "2014|אמילי·שלמייב": {
    "id": "2014|אמילי·שלמייב",
@@ -1490640,7 +1489299,22 @@ window.SWIM_DATA = {
      "points": 264
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל ג'מים אילת",
+     "startTime": "12:23",
+     "heat": "7",
+     "lane": "0",
+     "seedStr": "00:43.18",
+     "seedSeconds": 43.18
+    }
+   ]
   },
   "2013|אלונה·גילדוב": {
    "id": "2013|אלונה·גילדוב",
@@ -1495879,37 +1494553,9 @@ window.SWIM_DATA = {
      "club": "מכבי מרום רמת גן",
      "startTime": "18:19",
      "heat": "3",
-     "lane": "3",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "10:35",
-     "heat": "22",
-     "lane": "6",
-     "seedStr": "01:16.44",
-     "seedSeconds": 76.44
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "17:05",
-     "heat": "5",
-     "lane": "4",
-     "seedStr": "01:26.90",
-     "seedSeconds": 86.9
     }
    ]
   },
@@ -1496094,20 +1494740,6 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "12:56",
-     "heat": "6",
-     "lane": "2",
-     "seedStr": "02:47.40",
-     "seedSeconds": 167.4
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "50 חופשי",
      "category": "בנים 8-19",
      "poolLength": 25,
@@ -1496119,32 +1494751,18 @@ window.SWIM_DATA = {
      "seedSeconds": 32.9
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
+     "event": "200 חופשי",
+     "category": "בנים 11-16",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:59",
-     "heat": "9",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "17:44",
-     "heat": "5",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
+     "startTime": "19:46",
+     "heat": "6",
+     "lane": "5",
+     "seedStr": "02:47.40",
+     "seedSeconds": 167.4
     }
    ]
   },
@@ -1501542,34 +1500160,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "09:59",
-     "heat": "9",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "17:46",
-     "heat": "6",
-     "lane": "3",
-     "seedStr": "01:11.26",
-     "seedSeconds": 71.26
     }
    ]
   },
@@ -1518223,20 +1516813,6 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "13:00",
-     "heat": "7",
-     "lane": "4",
-     "seedStr": "02:35.50",
-     "seedSeconds": 155.5
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "50 חופשי",
      "category": "בנים 8-19",
      "poolLength": 25,
@@ -1518248,32 +1516824,18 @@ window.SWIM_DATA = {
      "seedSeconds": 32.56
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "10:41",
-     "heat": "24",
-     "lane": "5",
-     "seedStr": "01:10.78",
-     "seedSeconds": 70.78
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
+     "event": "200 חופשי",
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "אלומה עירוני הוד השרון",
-     "startTime": "16:18",
-     "heat": "3",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
+     "startTime": "19:50",
+     "heat": "7",
+     "lane": "4",
+     "seedStr": "02:35.50",
+     "seedSeconds": 155.5
     }
    ]
   },
@@ -1518468,7 +1517030,7 @@ window.SWIM_DATA = {
      "club": "ע.ל.ה עצמה רעננה",
      "startTime": "17:14",
      "heat": "23",
-     "lane": "2",
+     "lane": "5",
      "seedStr": "00:34.28",
      "seedSeconds": 34.28
     },
@@ -1518482,37 +1517044,9 @@ window.SWIM_DATA = {
      "club": "ע.ל.ה עצמה רעננה",
      "startTime": "17:52",
      "heat": "10",
-     "lane": "2",
+     "lane": "3",
      "seedStr": "00:49.18",
      "seedSeconds": 49.18
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "10:16",
-     "heat": "15",
-     "lane": "2",
-     "seedStr": "01:29.86",
-     "seedSeconds": 89.86
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "16:28",
-     "heat": "7",
-     "lane": "3",
-     "seedStr": "01:30.18",
-     "seedSeconds": 90.18
     }
    ]
   },
@@ -1530046,53 +1528580,11 @@ window.SWIM_DATA = {
      "category": "בנות 11-16",
      "poolLength": 25,
      "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "19:17",
+     "startTime": "19:22",
      "heat": "5",
      "lane": "1",
      "seedStr": "02:38.51",
      "seedSeconds": 158.51
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "09:33",
-     "heat": "13",
-     "lane": "4",
-     "seedStr": "01:14.68",
-     "seedSeconds": 74.68
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "11:58",
-     "heat": "7",
-     "lane": "2",
-     "seedStr": "01:31.40",
-     "seedSeconds": 91.4
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "17:34",
-     "heat": "12",
-     "lane": "1",
-     "seedStr": "00:44.09",
-     "seedSeconds": 44.09
     }
    ]
   },
@@ -1531212,39 +1529704,11 @@ window.SWIM_DATA = {
      "category": "בנות 11-16",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "startTime": "19:09",
+     "startTime": "19:14",
      "heat": "3",
      "lane": "5",
      "seedStr": "02:51.46",
      "seedSeconds": 171.46
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנות 10-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "10:58",
-     "heat": "3",
-     "lane": "6",
-     "seedStr": "03:16.63",
-     "seedSeconds": 196.63
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "15:08",
-     "heat": "3",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1531471,7 +1529935,7 @@ window.SWIM_DATA = {
      "club": "Eilat Swimming",
      "startTime": "16:21",
      "heat": "3",
-     "lane": "5",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1532168,7 +1530632,7 @@ window.SWIM_DATA = {
      "club": "Eilat Swimming",
      "startTime": "16:22",
      "heat": "4",
-     "lane": "2",
+     "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1532555,23 +1531019,9 @@ window.SWIM_DATA = {
      "club": "Eilat Swimming",
      "startTime": "17:31",
      "heat": "6",
-     "lane": "2",
+     "lane": "4",
      "seedStr": "00:51.16",
      "seedSeconds": 51.16
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "09:11",
-     "heat": "5",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1532991,9 +1531441,9 @@ window.SWIM_DATA = {
      "category": "בנות 8-19",
      "poolLength": 25,
      "club": "Eilat Swimming",
-     "startTime": "16:24",
-     "heat": "5",
-     "lane": "6",
+     "startTime": "16:22",
+     "heat": "4",
+     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1533071,37 +1531521,9 @@ window.SWIM_DATA = {
      "club": "Eilat Swimming",
      "startTime": "17:30",
      "heat": "5",
-     "lane": "1",
+     "lane": "5",
      "seedStr": "00:57.20",
      "seedSeconds": 57.2
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "09:11",
-     "heat": "5",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "17:18",
-     "heat": "4",
-     "lane": "6",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1533225,7 +1531647,7 @@ window.SWIM_DATA = {
      "club": "Eilat Swimming",
      "startTime": "17:33",
      "heat": "7",
-     "lane": "6",
+     "lane": "1",
      "seedStr": "00:48.04",
      "seedSeconds": 48.04
     }
@@ -1533265,7 +1531687,7 @@ window.SWIM_DATA = {
      "club": "Eilat Swimming",
      "startTime": "16:24",
      "heat": "5",
-     "lane": "1",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1537888,7 +1536310,36 @@ window.SWIM_DATA = {
      "points": 295
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "09:52",
+     "heat": "5",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "12:17",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|עדי·שגב": {
    "id": "2013|עדי·שגב",
@@ -1538432,7 +1536883,22 @@ window.SWIM_DATA = {
      "points": 399
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "09:39",
+     "heat": "4",
+     "lane": "0",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2010|צברי·תמר": {
    "id": "2010|צברי·תמר",
@@ -1538764,20 +1537230,6 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "12:40",
-     "heat": "2",
-     "lane": "2",
-     "seedStr": "03:26.09",
-     "seedSeconds": 206.09
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "50 פרפר",
      "category": "בנים 9-19",
      "poolLength": 25,
@@ -1538789,32 +1537241,18 @@ window.SWIM_DATA = {
      "seedSeconds": 35.58
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 מעורב אישי",
+     "event": "200 חופשי",
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "15:34",
-     "heat": "3",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "17:08",
-     "heat": "6",
-     "lane": "1",
-     "seedStr": "01:25.12",
-     "seedSeconds": 85.12
+     "startTime": "19:30",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "03:26.09",
+     "seedSeconds": 206.09
     }
    ]
   },
@@ -1539995,7 +1538433,22 @@ window.SWIM_DATA = {
      "points": 253
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "startTime": "12:20",
+     "heat": "5",
+     "lane": "1",
+     "seedStr": "00:54.31",
+     "seedSeconds": 54.31
+    }
+   ]
   },
   "2015|אלמה·נחשון": {
    "id": "2015|אלמה·נחשון",
@@ -1541172,20 +1539625,6 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "12:36",
-     "heat": "1",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "100 מעורב אישי",
      "category": "בנים 9-16",
      "poolLength": 25,
@@ -1541211,18 +1539650,18 @@ window.SWIM_DATA = {
      "seedSeconds": 33.38
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
+     "event": "200 חופשי",
+     "category": "בנים 11-16",
      "poolLength": 25,
      "club": "אלומה עירוני הוד השרון",
-     "startTime": "10:35",
-     "heat": "22",
-     "lane": "3",
-     "seedStr": "01:14.00",
-     "seedSeconds": 74.0
+     "startTime": "19:26",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
     }
    ]
   },
@@ -1542448,7 +1540887,22 @@ window.SWIM_DATA = {
      "points": 330
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "startTime": "12:18",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "01:02.56",
+     "seedSeconds": 62.56
+    }
+   ]
   },
   "2013|אמיתי·גרינבאום·רום": {
    "id": "2013|אמיתי·גרינבאום·רום",
@@ -1544793,7 +1543247,22 @@ window.SWIM_DATA = {
      "points": 205
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי תל אביב",
+     "startTime": "12:20",
+     "heat": "5",
+     "lane": "6",
+     "seedStr": "00:48.76",
+     "seedSeconds": 48.76
+    }
+   ]
   },
   "2015|גולדהירש·נועם": {
    "id": "2015|גולדהירש·נועם",
@@ -1545964,7 +1544433,22 @@ window.SWIM_DATA = {
      "points": 312
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי כוכב יאיר - צור יגאל",
+     "startTime": "12:23",
+     "heat": "7",
+     "lane": "8",
+     "seedStr": "00:43.07",
+     "seedSeconds": 43.07
+    }
+   ]
   },
   "1958|איגור·קרבקוב": {
    "id": "1958|איגור·קרבקוב",
@@ -1557453,7 +1555937,22 @@ window.SWIM_DATA = {
      "points": 269
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל גליל עליון",
+     "startTime": "10:31",
+     "heat": "8",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|מורגנשטרן·סער": {
    "id": "2013|מורגנשטרן·סער",
@@ -1559229,53 +1557728,11 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "הפועל דולפין נתניה",
-     "startTime": "17:56",
-     "heat": "12",
-     "lane": "3",
+     "startTime": "17:57",
+     "heat": "13",
+     "lane": "6",
      "seedStr": "00:44.64",
      "seedSeconds": 44.64
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "11:13",
-     "heat": "2",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "16:23",
-     "heat": "5",
-     "lane": "2",
-     "seedStr": "01:40.47",
-     "seedSeconds": 100.47
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "17:42",
-     "heat": "4",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1559990,48 +1558447,6 @@ window.SWIM_DATA = {
      "lane": "1",
      "seedStr": "00:33.87",
      "seedSeconds": 33.87
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "09:33",
-     "heat": "13",
-     "lane": "2",
-     "seedStr": "01:15.39",
-     "seedSeconds": 75.39
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "11:45",
-     "heat": "2",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "17:16",
-     "heat": "3",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1560225,7 +1558640,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "startTime": "15:09",
      "heat": "4",
-     "lane": "5",
+     "lane": "2",
      "seedStr": "02:01.39",
      "seedSeconds": 121.39
     },
@@ -1560242,34 +1558657,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "00:41.67",
      "seedSeconds": 41.67
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "09:16",
-     "heat": "7",
-     "lane": "2",
-     "seedStr": "01:51.88",
-     "seedSeconds": 111.88
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "16:01",
-     "heat": "2",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1561385,48 +1559772,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "01:29.34",
      "seedSeconds": 89.34
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "11:53",
-     "heat": "5",
-     "lane": "2",
-     "seedStr": "01:42.88",
-     "seedSeconds": 102.88
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "15:00",
-     "heat": "1",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "16:46",
-     "heat": "2",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1562018,7 +1560363,7 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "17:14",
      "heat": "23",
-     "lane": "1",
+     "lane": "6",
      "seedStr": "00:34.39",
      "seedSeconds": 34.39
     },
@@ -1562035,34 +1560380,6 @@ window.SWIM_DATA = {
      "lane": "5",
      "seedStr": "00:36.56",
      "seedSeconds": 36.56
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "10:32",
-     "heat": "21",
-     "lane": "3",
-     "seedStr": "01:16.66",
-     "seedSeconds": 76.66
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "16:58",
-     "heat": "2",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1562733,7 +1561050,7 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "17:11",
      "heat": "21",
-     "lane": "1",
+     "lane": "6",
      "seedStr": "00:36.28",
      "seedSeconds": 36.28
     },
@@ -1562747,37 +1561064,9 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "17:54",
      "heat": "11",
-     "lane": "2",
+     "lane": "3",
      "seedStr": "00:47.11",
      "seedSeconds": 47.11
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "10:24",
-     "heat": "18",
-     "lane": "1",
-     "seedStr": "01:22.75",
-     "seedSeconds": 82.75
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "16:13",
-     "heat": "1",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1563901,7 +1562190,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "startTime": "17:13",
      "heat": "22",
-     "lane": "3",
+     "lane": "4",
      "seedStr": "00:34.50",
      "seedSeconds": 34.5
     },
@@ -1563915,37 +1562204,9 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "startTime": "17:56",
      "heat": "12",
-     "lane": "4",
+     "lane": "3",
      "seedStr": "00:44.66",
      "seedSeconds": 44.66
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "10:35",
-     "heat": "22",
-     "lane": "1",
-     "seedStr": "01:16.24",
-     "seedSeconds": 76.24
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "16:28",
-     "heat": "7",
-     "lane": "2",
-     "seedStr": "01:32.16",
-     "seedSeconds": 92.16
     }
    ]
   },
@@ -1564119,20 +1562380,6 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "12:40",
-     "heat": "2",
-     "lane": "1",
-     "seedStr": "03:54.09",
-     "seedSeconds": 234.09
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "50 חופשי",
      "category": "בנים 8-19",
      "poolLength": 25,
@@ -1564153,23 +1562400,23 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "18:19",
      "heat": "3",
-     "lane": "1",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
+     "event": "200 חופשי",
+     "category": "בנים 11-16",
      "poolLength": 25,
      "club": "הפועל דולפין נתניה",
-     "startTime": "09:54",
-     "heat": "7",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
+     "startTime": "19:30",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "03:54.09",
+     "seedSeconds": 234.09
     }
    ]
   },
@@ -1564488,10 +1562735,10 @@ window.SWIM_DATA = {
      "category": "בנים 11-15",
      "poolLength": 25,
      "club": "הפועל בית איל",
-     "timeStr": "01:12.94",
-     "seconds": 72.94,
-     "place": "3",
-     "points": 308
+     "timeStr": "01:22.94",
+     "seconds": 82.94,
+     "place": "11",
+     "points": 209
     },
     {
      "date": "2026-10-30",
@@ -1564999,34 +1563246,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "00:43.27",
      "seedSeconds": 43.27
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "09:24",
-     "heat": "10",
-     "lane": "6",
-     "seedStr": "01:34.28",
-     "seedSeconds": 94.28
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "16:09",
-     "heat": "5",
-     "lane": "6",
-     "seedStr": "01:34.51",
-     "seedSeconds": 94.51
     }
    ]
   },
@@ -1565260,37 +1563479,9 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "startTime": "17:30",
      "heat": "5",
-     "lane": "6",
+     "lane": "1",
      "seedStr": "00:57.54",
      "seedSeconds": 57.54
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "09:13",
-     "heat": "6",
-     "lane": "4",
-     "seedStr": "02:03.15",
-     "seedSeconds": 123.15
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "16:04",
-     "heat": "3",
-     "lane": "2",
-     "seedStr": "01:45.23",
-     "seedSeconds": 105.23
     }
    ]
   },
@@ -1565693,34 +1563884,6 @@ window.SWIM_DATA = {
      "lane": "1",
      "seedStr": "00:47.80",
      "seedSeconds": 47.8
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "09:30",
-     "heat": "12",
-     "lane": "1",
-     "seedStr": "01:25.75",
-     "seedSeconds": 85.75
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "16:46",
-     "heat": "2",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1569657,9 +1567820,9 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "הפועל דולפין נתניה",
-     "startTime": "15:36",
-     "heat": "3",
-     "lane": "3",
+     "startTime": "15:39",
+     "heat": "4",
+     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1569676,34 +1567839,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "00:39.50",
      "seedSeconds": 39.5
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "10:21",
-     "heat": "17",
-     "lane": "4",
-     "seedStr": "01:24.36",
-     "seedSeconds": 84.36
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "17:58",
-     "heat": "12",
-     "lane": "2",
-     "seedStr": "00:49.53",
-     "seedSeconds": 49.53
     }
    ]
   },
@@ -1569873,48 +1568008,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "00:48.38",
      "seedSeconds": 48.38
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "10:05",
-     "heat": "11",
-     "lane": "6",
-     "seedStr": "01:54.78",
-     "seedSeconds": 114.78
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "12:08",
-     "heat": "4",
-     "lane": "2",
-     "seedStr": "02:01.00",
-     "seedSeconds": 121.0
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "17:58",
-     "heat": "12",
-     "lane": "6",
-     "seedStr": "00:53.05",
-     "seedSeconds": 53.05
     }
    ]
   },
@@ -1571609,34 +1569702,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "11:50",
-     "heat": "4",
-     "lane": "1",
-     "seedStr": "01:53.25",
-     "seedSeconds": 113.25
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "15:00",
-     "heat": "1",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1572955,7 +1571020,7 @@ window.SWIM_DATA = {
      "club": "מכבי מרום רמת גן",
      "startTime": "17:08",
      "heat": "19",
-     "lane": "5",
+     "lane": "1",
      "seedStr": "00:37.59",
      "seedSeconds": 37.59
     },
@@ -1572969,37 +1571034,9 @@ window.SWIM_DATA = {
      "club": "מכבי מרום רמת גן",
      "startTime": "17:56",
      "heat": "12",
-     "lane": "5",
+     "lane": "4",
      "seedStr": "00:45.24",
      "seedSeconds": 45.24
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "10:13",
-     "heat": "14",
-     "lane": "1",
-     "seedStr": "01:33.85",
-     "seedSeconds": 93.85
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "16:23",
-     "heat": "5",
-     "lane": "1",
-     "seedStr": "01:42.02",
-     "seedSeconds": 102.02
     }
    ]
   },
@@ -1573701,34 +1571738,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "00:41.73",
      "seedSeconds": 41.73
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "11:18",
-     "heat": "3",
-     "lane": "3",
-     "seedStr": "03:37.34",
-     "seedSeconds": 217.34
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "15:42",
-     "heat": "5",
-     "lane": "2",
-     "seedStr": "03:17.82",
-     "seedSeconds": 197.82
     }
    ]
   },
@@ -1575327,37 +1573336,9 @@ window.SWIM_DATA = {
      "club": "Eilat Swimming",
      "startTime": "17:31",
      "heat": "6",
-     "lane": "4",
+     "lane": "3",
      "seedStr": "00:49.84",
      "seedSeconds": 49.84
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "09:30",
-     "heat": "12",
-     "lane": "3",
-     "seedStr": "01:22.73",
-     "seedSeconds": 82.73
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "17:16",
-     "heat": "3",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1575992,34 +1573973,6 @@ window.SWIM_DATA = {
      "lane": "1",
      "seedStr": "00:52.81",
      "seedSeconds": 52.81
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "09:22",
-     "heat": "9",
-     "lane": "4",
-     "seedStr": "01:36.77",
-     "seedSeconds": 96.77
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "16:46",
-     "heat": "2",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1578398,20 +1576351,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "00:38.66",
      "seedSeconds": 38.66
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "10:16",
-     "heat": "15",
-     "lane": "5",
-     "seedStr": "01:30.24",
-     "seedSeconds": 90.24
     }
    ]
   },
@@ -1578907,43 +1576846,29 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
+     "event": "50 חופשי",
+     "category": "בנים 8-19",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "12:56",
-     "heat": "6",
+     "startTime": "17:13",
+     "heat": "22",
      "lane": "3",
-     "seedStr": "02:44.15",
-     "seedSeconds": 164.15
+     "seedStr": "00:34.43",
+     "seedSeconds": 34.43
     },
     {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "50 חופשי",
-     "category": "בנים 8-19",
+     "event": "200 חופשי",
+     "category": "בנים 11-16",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "17:14",
-     "heat": "23",
-     "lane": "6",
-     "seedStr": "00:34.43",
-     "seedSeconds": 34.43
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "10:21",
-     "heat": "17",
-     "lane": "5",
-     "seedStr": "01:24.72",
-     "seedSeconds": 84.72
+     "startTime": "19:46",
+     "heat": "6",
+     "lane": "4",
+     "seedStr": "02:44.15",
+     "seedSeconds": 164.15
     }
    ]
   },
@@ -1581562,7 +1579487,7 @@ window.SWIM_DATA = {
      "club": "מכבי מרום רמת גן",
      "startTime": "15:12",
      "heat": "5",
-     "lane": "2",
+     "lane": "4",
      "seedStr": "01:54.93",
      "seedSeconds": 114.93
     },
@@ -1581577,20 +1579502,6 @@ window.SWIM_DATA = {
      "startTime": "18:02",
      "heat": "1",
      "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "09:08",
-     "heat": "4",
-     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1583226,9 +1581137,9 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "Eilat Swimming",
-     "startTime": "17:47",
-     "heat": "7",
-     "lane": "3",
+     "startTime": "17:49",
+     "heat": "8",
+     "lane": "5",
      "seedStr": "00:57.96",
      "seedSeconds": 57.96
     },
@@ -1583240,23 +1581151,9 @@ window.SWIM_DATA = {
      "category": "בנים 9-19",
      "poolLength": 25,
      "club": "Eilat Swimming",
-     "startTime": "18:19",
-     "heat": "3",
-     "lane": "6",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "09:51",
-     "heat": "6",
-     "lane": "4",
+     "startTime": "18:17",
+     "heat": "2",
+     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1583374,37 +1581271,9 @@ window.SWIM_DATA = {
      "club": "Eilat Swimming",
      "startTime": "17:51",
      "heat": "9",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "00:55.02",
      "seedSeconds": 55.02
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "09:51",
-     "heat": "6",
-     "lane": "6",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "17:42",
-     "heat": "4",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1591219,7 +1589088,7 @@ window.SWIM_DATA = {
      "club": "הפועל לב הגליל סחנין",
      "timeStr": "01:17.75",
      "seconds": 77.75,
-     "place": "7",
+     "place": "6",
      "points": 254
     }
    ],
@@ -1591504,39 +1589373,11 @@ window.SWIM_DATA = {
      "category": "בנות 11-16",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "19:13",
+     "startTime": "19:18",
      "heat": "4",
      "lane": "1",
      "seedStr": "02:46.12",
      "seedSeconds": 166.12
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:35",
-     "heat": "14",
-     "lane": "6",
-     "seedStr": "01:14.48",
-     "seedSeconds": 74.48
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "16:11",
-     "heat": "6",
-     "lane": "5",
-     "seedStr": "01:26.02",
-     "seedSeconds": 86.02
     }
    ]
   },
@@ -1592005,32 +1589846,18 @@ window.SWIM_DATA = {
      "seedSeconds": null
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:24",
-     "heat": "10",
-     "lane": "1",
-     "seedStr": "01:34.20",
-     "seedSeconds": 94.2
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
+     "event": "200 חופשי",
      "category": "בנות 11-16",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "15:00",
-     "heat": "1",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
+     "startTime": "19:10",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "03:21.34",
+     "seedSeconds": 201.34
     }
    ]
   },
@@ -1592262,7 +1590089,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "15:12",
      "heat": "5",
-     "lane": "4",
+     "lane": "3",
      "seedStr": "01:54.86",
      "seedSeconds": 114.86
     },
@@ -1592279,34 +1590106,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "01:09.87",
      "seedSeconds": 69.87
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:08",
-     "heat": "4",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "15:59",
-     "heat": "1",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1592600,39 +1590399,11 @@ window.SWIM_DATA = {
      "category": "בנות 11-16",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "19:05",
-     "heat": "2",
-     "lane": "6",
+     "startTime": "19:06",
+     "heat": "1",
+     "lane": "3",
      "seedStr": "03:30.18",
      "seedSeconds": 210.18
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:05",
-     "heat": "3",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "16:04",
-     "heat": "3",
-     "lane": "1",
-     "seedStr": "01:50.15",
-     "seedSeconds": 110.15
     }
    ]
   },
@@ -1593046,64 +1590817,7 @@ window.SWIM_DATA = {
      "points": 239
     }
    ],
-   "future": [
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "11:13",
-     "heat": "2",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "12:18",
-     "heat": "8",
-     "lane": "3",
-     "seedStr": "01:28.88",
-     "seedSeconds": 88.88
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "15:25",
-     "heat": "1",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "16:38",
-     "heat": "11",
-     "lane": "5",
-     "seedStr": "01:22.41",
-     "seedSeconds": 82.41
-    }
-   ]
+   "future": []
   },
   "2015|מיכאלוב·שון": {
    "id": "2015|מיכאלוב·שון",
@@ -1593774,48 +1591488,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "00:41.80",
      "seedSeconds": 41.8
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "12:08",
-     "heat": "4",
-     "lane": "6",
-     "seedStr": "02:05.10",
-     "seedSeconds": 125.1
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "15:25",
-     "heat": "1",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "17:56",
-     "heat": "11",
-     "lane": "2",
-     "seedStr": "00:53.71",
-     "seedSeconds": 53.71
     }
    ]
   },
@@ -1594050,48 +1591722,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "00:48.01",
      "seedSeconds": 48.01
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:51",
-     "heat": "6",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "12:05",
-     "heat": "3",
-     "lane": "2",
-     "seedStr": "02:22.53",
-     "seedSeconds": 142.53
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "16:18",
-     "heat": "3",
-     "lane": "5",
-     "seedStr": "02:08.09",
-     "seedSeconds": 128.09
     }
    ]
   },
@@ -1594506,48 +1592136,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "00:42.34",
      "seedSeconds": 42.34
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:54",
-     "heat": "7",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "15:29",
-     "heat": "2",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "16:58",
-     "heat": "2",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1595496,39 +1593084,11 @@ window.SWIM_DATA = {
      "category": "בנות 8-19",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "17:30",
-     "heat": "5",
-     "lane": "3",
+     "startTime": "17:31",
+     "heat": "6",
+     "lane": "6",
      "seedStr": "00:53.70",
      "seedSeconds": 53.7
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "09:24",
-     "heat": "10",
-     "lane": "3",
-     "seedStr": "01:32.44",
-     "seedSeconds": 92.44
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "16:04",
-     "heat": "3",
-     "lane": "5",
-     "seedStr": "01:49.34",
-     "seedSeconds": 109.34
     }
    ]
   },
@@ -1596005,7 +1593565,7 @@ window.SWIM_DATA = {
      "club": "מכבי מרום רמת גן",
      "startTime": "17:16",
      "heat": "24",
-     "lane": "1",
+     "lane": "6",
      "seedStr": "00:34.06",
      "seedSeconds": 34.06
     },
@@ -1596022,20 +1593582,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "00:36.30",
      "seedSeconds": 36.3
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "10:32",
-     "heat": "21",
-     "lane": "1",
-     "seedStr": "01:18.04",
-     "seedSeconds": 78.04
     }
    ]
   },
@@ -1596241,37 +1593787,23 @@ window.SWIM_DATA = {
      "club": "הפועל פתח תקווה",
      "startTime": "17:14",
      "heat": "23",
-     "lane": "3",
+     "lane": "4",
      "seedStr": "00:34.20",
      "seedSeconds": 34.2
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
+     "event": "50 פרפר",
+     "category": "בנים 9-19",
      "poolLength": 25,
      "club": "הפועל פתח תקווה",
-     "startTime": "10:32",
-     "heat": "21",
-     "lane": "6",
-     "seedStr": "01:18.88",
-     "seedSeconds": 78.88
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "17:44",
+     "startTime": "18:22",
      "heat": "5",
      "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
+     "seedStr": "00:45.92",
+     "seedSeconds": 45.92
     }
    ]
   },
@@ -1596650,34 +1594182,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "00:41.03",
      "seedSeconds": 41.03
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "11:18",
-     "heat": "3",
-     "lane": "6",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "16:28",
-     "heat": "7",
-     "lane": "1",
-     "seedStr": "01:32.73",
-     "seedSeconds": 92.73
     }
    ]
   },
@@ -1596926,34 +1594430,6 @@ window.SWIM_DATA = {
      "lane": "1",
      "seedStr": "00:38.60",
      "seedSeconds": 38.6
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "11:08",
-     "heat": "1",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "16:55",
-     "heat": "1",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1597133,7 +1594609,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית אונו",
      "startTime": "15:45",
      "heat": "6",
-     "lane": "4",
+     "lane": "3",
      "seedStr": "01:59.56",
      "seedSeconds": 119.56
     },
@@ -1597147,37 +1594623,9 @@ window.SWIM_DATA = {
      "club": "מכבי קרית אונו",
      "startTime": "17:10",
      "heat": "20",
-     "lane": "4",
+     "lane": "2",
      "seedStr": "00:36.59",
      "seedSeconds": 36.59
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "10:19",
-     "heat": "16",
-     "lane": "5",
-     "seedStr": "01:26.96",
-     "seedSeconds": 86.96
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "16:21",
-     "heat": "4",
-     "lane": "4",
-     "seedStr": "01:44.10",
-     "seedSeconds": 104.1
     }
    ]
   },
@@ -1597477,48 +1594925,6 @@ window.SWIM_DATA = {
      "lane": "1",
      "seedStr": "00:43.02",
      "seedSeconds": 43.02
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "12:10",
-     "heat": "5",
-     "lane": "1",
-     "seedStr": "01:56.34",
-     "seedSeconds": 116.34
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "16:21",
-     "heat": "4",
-     "lane": "3",
-     "seedStr": "01:42.65",
-     "seedSeconds": 102.65
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "17:56",
-     "heat": "11",
-     "lane": "3",
-     "seedStr": "00:53.55",
-     "seedSeconds": 53.55
     }
    ]
   },
@@ -1598218,34 +1595624,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "00:44.95",
      "seedSeconds": 44.95
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:05",
-     "heat": "3",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "16:43",
-     "heat": "1",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1598564,9 +1595942,9 @@ window.SWIM_DATA = {
      "category": "בנות 9-16",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "15:09",
-     "heat": "4",
-     "lane": "3",
+     "startTime": "15:12",
+     "heat": "5",
+     "lane": "6",
      "seedStr": "01:58.09",
      "seedSeconds": 118.09
     },
@@ -1598580,37 +1595958,9 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "17:30",
      "heat": "5",
-     "lane": "2",
+     "lane": "4",
      "seedStr": "00:55.03",
      "seedSeconds": 55.03
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:05",
-     "heat": "3",
-     "lane": "6",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "17:18",
-     "heat": "4",
-     "lane": "5",
-     "seedStr": "01:26.37",
-     "seedSeconds": 86.37
     }
    ]
   },
@@ -1598764,7 +1596114,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "15:09",
      "heat": "4",
-     "lane": "1",
+     "lane": "5",
      "seedStr": "02:04.49",
      "seedSeconds": 124.49
     },
@@ -1598778,37 +1596128,9 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "16:27",
      "heat": "7",
-     "lane": "4",
+     "lane": "2",
      "seedStr": "00:51.06",
      "seedSeconds": 51.06
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:02",
-     "heat": "2",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "17:14",
-     "heat": "2",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1598962,7 +1596284,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "15:12",
      "heat": "5",
-     "lane": "1",
+     "lane": "5",
      "seedStr": "01:56.90",
      "seedSeconds": 116.9
     },
@@ -1598979,34 +1596301,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "00:57.44",
      "seedSeconds": 57.44
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:02",
-     "heat": "2",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "16:43",
-     "heat": "1",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1599926,57 +1597220,29 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
+     "event": "50 גב",
+     "category": "בנים 9-16",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "12:40",
-     "heat": "2",
-     "lane": "4",
-     "seedStr": "03:20.76",
-     "seedSeconds": 200.76
+     "startTime": "17:49",
+     "heat": "8",
+     "lane": "1",
+     "seedStr": "00:59.06",
+     "seedSeconds": 59.06
     },
     {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "50 גב",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "17:47",
-     "heat": "7",
-     "lane": "4",
-     "seedStr": "00:59.06",
-     "seedSeconds": 59.06
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:48",
-     "heat": "5",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
+     "event": "200 חופשי",
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "16:18",
-     "heat": "3",
-     "lane": "4",
-     "seedStr": "01:55.23",
-     "seedSeconds": 115.23
+     "startTime": "19:30",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "03:20.76",
+     "seedSeconds": 200.76
     }
    ]
   },
@@ -1600215,20 +1597481,6 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "12:44",
-     "heat": "3",
-     "lane": "5",
-     "seedStr": "03:04.00",
-     "seedSeconds": 184.0
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "50 חופשי",
      "category": "בנים 8-19",
      "poolLength": 25,
@@ -1600240,32 +1597492,18 @@ window.SWIM_DATA = {
      "seedSeconds": 40.25
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:48",
-     "heat": "5",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
+     "event": "200 חופשי",
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "16:31",
-     "heat": "8",
-     "lane": "5",
-     "seedStr": "01:29.61",
-     "seedSeconds": 89.61
+     "startTime": "19:34",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "03:04.00",
+     "seedSeconds": 184.0
     }
    ]
   },
@@ -1600482,9 +1597720,9 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "15:42",
-     "heat": "5",
-     "lane": "4",
+     "startTime": "15:45",
+     "heat": "6",
+     "lane": "1",
      "seedStr": "02:10.61",
      "seedSeconds": 130.61
     },
@@ -1600498,37 +1597736,9 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "18:17",
      "heat": "2",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:43",
-     "heat": "3",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "17:54",
-     "heat": "10",
      "lane": "6",
-     "seedStr": "00:59.35",
-     "seedSeconds": 59.35
+     "seedStr": "NT",
+     "seedSeconds": null
     }
    ]
   },
@@ -1600952,37 +1598162,9 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "17:13",
      "heat": "22",
-     "lane": "5",
+     "lane": "1",
      "seedStr": "00:35.02",
      "seedSeconds": 35.02
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:37",
-     "heat": "1",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "16:55",
-     "heat": "1",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1601382,37 +1598564,9 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "17:08",
      "heat": "19",
-     "lane": "4",
+     "lane": "2",
      "seedStr": "00:37.40",
      "seedSeconds": 37.4
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "11:08",
-     "heat": "1",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "17:58",
-     "heat": "12",
-     "lane": "3",
-     "seedStr": "00:48.43",
-     "seedSeconds": 48.43
     }
    ]
   },
@@ -1601592,7 +1598746,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "15:45",
      "heat": "6",
-     "lane": "5",
+     "lane": "4",
      "seedStr": "02:02.52",
      "seedSeconds": 122.52
     },
@@ -1601609,34 +1598763,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "00:50.50",
      "seedSeconds": 50.5
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:48",
-     "heat": "5",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "17:40",
-     "heat": "3",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1602081,20 +1599207,6 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "12:44",
-     "heat": "3",
-     "lane": "2",
-     "seedStr": "03:03.52",
-     "seedSeconds": 183.52
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "50 חופשי",
      "category": "בנים 8-19",
      "poolLength": 25,
@@ -1602106,32 +1599218,18 @@ window.SWIM_DATA = {
      "seedSeconds": 39.68
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:51",
-     "heat": "6",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
+     "event": "200 חופשי",
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "16:26",
-     "heat": "6",
-     "lane": "2",
-     "seedStr": "01:37.29",
-     "seedSeconds": 97.29
+     "startTime": "19:34",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "03:03.52",
+     "seedSeconds": 183.52
     }
    ]
   },
@@ -1609003,48 +1606101,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "00:41.59",
      "seedSeconds": 41.59
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "09:19",
-     "heat": "8",
-     "lane": "5",
-     "seedStr": "01:44.43",
-     "seedSeconds": 104.43
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "11:50",
-     "heat": "4",
-     "lane": "5",
-     "seedStr": "01:53.13",
-     "seedSeconds": 113.13
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "17:30",
-     "heat": "10",
-     "lane": "6",
-     "seedStr": "00:51.37",
-     "seedSeconds": 51.37
     }
    ]
   },
@@ -1610720,34 +1607776,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "00:40.69",
      "seedSeconds": 40.69
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "10:16",
-     "heat": "15",
-     "lane": "3",
-     "seedStr": "01:28.14",
-     "seedSeconds": 88.14
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "17:56",
-     "heat": "11",
-     "lane": "6",
-     "seedStr": "00:54.81",
-     "seedSeconds": 54.81
     }
    ]
   },
@@ -1612222,20 +1609250,6 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "12:36",
-     "heat": "1",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "50 חופשי",
      "category": "בנים 8-19",
      "poolLength": 25,
@@ -1612247,32 +1609261,18 @@ window.SWIM_DATA = {
      "seedSeconds": 53.13
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "100 חזה",
+     "event": "200 חופשי",
      "category": "בנים 11-16",
      "poolLength": 25,
      "club": "הפועל פתח תקווה",
-     "startTime": "12:03",
-     "heat": "2",
-     "lane": "3",
+     "startTime": "19:26",
+     "heat": "1",
+     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "17:58",
-     "heat": "12",
-     "lane": "4",
-     "seedStr": "00:49.42",
-     "seedSeconds": 49.42
     }
    ]
   },
@@ -1614694,7 +1611694,7 @@ window.SWIM_DATA = {
      "club": "ע.ל.ה עצמה רעננה",
      "startTime": "15:12",
      "heat": "5",
-     "lane": "5",
+     "lane": "2",
      "seedStr": "01:55.26",
      "seedSeconds": 115.26
     },
@@ -1614725,20 +1611725,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "00:53.65",
      "seedSeconds": 53.65
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "09:16",
-     "heat": "7",
-     "lane": "3",
-     "seedStr": "01:49.64",
-     "seedSeconds": 109.64
     }
    ]
   },
@@ -1615822,7 +1612808,7 @@ window.SWIM_DATA = {
      "club": "ע.ל.ה עצמה רעננה",
      "startTime": "17:10",
      "heat": "20",
-     "lane": "5",
+     "lane": "1",
      "seedStr": "00:36.66",
      "seedSeconds": 36.66
     },
@@ -1615839,34 +1612825,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "00:41.79",
      "seedSeconds": 41.79
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "11:23",
-     "heat": "4",
-     "lane": "6",
-     "seedStr": "03:26.34",
-     "seedSeconds": 206.34
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "16:28",
-     "heat": "7",
-     "lane": "4",
-     "seedStr": "01:30.73",
-     "seedSeconds": 90.73
     }
    ]
   },
@@ -1616976,9 +1613934,9 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "17:52",
-     "heat": "10",
-     "lane": "3",
+     "startTime": "17:54",
+     "heat": "11",
+     "lane": "1",
      "seedStr": "00:48.80",
      "seedSeconds": 48.8
     },
@@ -1616992,23 +1613950,9 @@ window.SWIM_DATA = {
      "club": "ע.ל.ה עצמה רעננה",
      "startTime": "18:21",
      "heat": "4",
-     "lane": "5",
+     "lane": "1",
      "seedStr": "00:53.81",
      "seedSeconds": 53.81
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "10:21",
-     "heat": "17",
-     "lane": "6",
-     "seedStr": "01:26.19",
-     "seedSeconds": 86.19
     }
    ]
   },
@@ -1618180,7 +1615124,7 @@ window.SWIM_DATA = {
      "club": "ע.ל.ה עצמה רעננה",
      "startTime": "17:31",
      "heat": "6",
-     "lane": "1",
+     "lane": "5",
      "seedStr": "00:51.35",
      "seedSeconds": 51.35
     },
@@ -1618197,20 +1615141,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנות 10-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "10:53",
-     "heat": "2",
-     "lane": "2",
-     "seedStr": "03:58.65",
-     "seedSeconds": 238.65
     }
    ]
   },
@@ -1618572,23 +1615502,9 @@ window.SWIM_DATA = {
      "club": "ע.ל.ה עצמה רעננה",
      "startTime": "18:22",
      "heat": "5",
-     "lane": "1",
+     "lane": "6",
      "seedStr": "00:46.82",
      "seedSeconds": 46.82
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "10:10",
-     "heat": "13",
-     "lane": "3",
-     "seedStr": "01:35.08",
-     "seedSeconds": 95.08
     }
    ]
   },
@@ -1618901,48 +1615817,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "00:46.20",
      "seedSeconds": 46.2
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "09:27",
-     "heat": "11",
-     "lane": "6",
-     "seedStr": "01:30.90",
-     "seedSeconds": 90.9
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "11:50",
-     "heat": "4",
-     "lane": "3",
-     "seedStr": "01:51.03",
-     "seedSeconds": 111.03
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "17:32",
-     "heat": "11",
-     "lane": "5",
-     "seedStr": "00:47.12",
-     "seedSeconds": 47.12
     }
    ]
   },
@@ -1619391,53 +1616265,11 @@ window.SWIM_DATA = {
      "category": "בנות 9-16",
      "poolLength": 25,
      "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "15:03",
-     "heat": "2",
-     "lane": "3",
+     "startTime": "15:06",
+     "heat": "3",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "09:19",
-     "heat": "8",
-     "lane": "2",
-     "seedStr": "01:41.71",
-     "seedSeconds": 101.71
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "11:50",
-     "heat": "4",
-     "lane": "6",
-     "seedStr": "01:54.09",
-     "seedSeconds": 114.09
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "17:28",
-     "heat": "9",
-     "lane": "3",
-     "seedStr": "00:51.40",
-     "seedSeconds": 51.4
     }
    ]
   },
@@ -1620609,7 +1617441,7 @@ window.SWIM_DATA = {
      "club": "ע.ל.ה עצמה רעננה",
      "startTime": "17:08",
      "heat": "19",
-     "lane": "1",
+     "lane": "6",
      "seedStr": "00:37.89",
      "seedSeconds": 37.89
     },
@@ -1620623,7 +1617455,7 @@ window.SWIM_DATA = {
      "club": "ע.ל.ה עצמה רעננה",
      "startTime": "17:54",
      "heat": "11",
-     "lane": "5",
+     "lane": "4",
      "seedStr": "00:47.13",
      "seedSeconds": 47.13
     }
@@ -1621152,7 +1617984,7 @@ window.SWIM_DATA = {
      "club": "ע.ל.ה עצמה רעננה",
      "startTime": "16:22",
      "heat": "4",
-     "lane": "1",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1621164,39 +1617996,11 @@ window.SWIM_DATA = {
      "category": "בנות 11-16",
      "poolLength": 25,
      "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "19:09",
+     "startTime": "19:14",
      "heat": "3",
      "lane": "3",
      "seedStr": "02:47.01",
      "seedSeconds": 167.01
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "11:50",
-     "heat": "4",
-     "lane": "4",
-     "seedStr": "01:51.27",
-     "seedSeconds": 111.27
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "17:30",
-     "heat": "10",
-     "lane": "1",
-     "seedStr": "00:50.29",
-     "seedSeconds": 50.29
     }
    ]
   },
@@ -1621414,9 +1618218,9 @@ window.SWIM_DATA = {
      "category": "בנים 8-19",
      "poolLength": 25,
      "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "16:46",
-     "heat": "4",
-     "lane": "3",
+     "startTime": "16:47",
+     "heat": "5",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1621430,23 +1618234,9 @@ window.SWIM_DATA = {
      "club": "ע.ל.ה עצמה רעננה",
      "startTime": "18:22",
      "heat": "5",
-     "lane": "5",
+     "lane": "1",
      "seedStr": "00:46.19",
      "seedSeconds": 46.19
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "10:21",
-     "heat": "17",
-     "lane": "1",
-     "seedStr": "01:25.40",
-     "seedSeconds": 85.4
     }
    ]
   },
@@ -1622375,39 +1619165,11 @@ window.SWIM_DATA = {
      "category": "בנות 11-16",
      "poolLength": 25,
      "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "19:01",
+     "startTime": "19:06",
      "heat": "1",
-     "lane": "5",
+     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "15:17",
-     "heat": "5",
-     "lane": "3",
-     "seedStr": "03:08.18",
-     "seedSeconds": 188.18
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "16:53",
-     "heat": "5",
-     "lane": "6",
-     "seedStr": "01:27.08",
-     "seedSeconds": 87.08
     }
    ]
   },
@@ -1643912,7 +1640674,22 @@ window.SWIM_DATA = {
      "points": 181
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "12:15",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|יואב·רבני": {
    "id": "2014|יואב·רבני",
@@ -1645704,51 +1642481,9 @@ window.SWIM_DATA = {
      "club": "מכבי תל אביב",
      "startTime": "17:26",
      "heat": "3",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "11:45",
-     "heat": "2",
      "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "16:04",
-     "heat": "3",
-     "lane": "3",
-     "seedStr": "01:41.36",
-     "seedSeconds": 101.36
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "17:28",
-     "heat": "9",
-     "lane": "5",
-     "seedStr": "00:52.98",
-     "seedSeconds": 52.98
     }
    ]
   },
@@ -1646060,7 +1642795,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "12:21",
+     "heat": "6",
+     "lane": "1",
+     "seedStr": "00:46.35",
+     "seedSeconds": 46.35
+    }
+   ]
   },
   "2013|הודיה·ששון": {
    "id": "2013|הודיה·ששון",
@@ -1646544,7 +1643294,7 @@ window.SWIM_DATA = {
      "club": "מכבי תל אביב",
      "startTime": "15:00",
      "heat": "1",
-     "lane": "4",
+     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1646575,20 +1643325,6 @@ window.SWIM_DATA = {
      "lane": "1",
      "seedStr": "01:03.02",
      "seedSeconds": 63.02
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "09:27",
-     "heat": "11",
-     "lane": "4",
-     "seedStr": "01:28.69",
-     "seedSeconds": 88.69
     }
    ]
   },
@@ -1647399,7 +1644135,7 @@ window.SWIM_DATA = {
      "club": "מכבי תל אביב",
      "startTime": "15:39",
      "heat": "4",
-     "lane": "6",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1647416,34 +1644152,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "00:40.29",
      "seedSeconds": 40.29
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "10:27",
-     "heat": "19",
-     "lane": "6",
-     "seedStr": "01:21.00",
-     "seedSeconds": 81.0
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "16:31",
-     "heat": "8",
-     "lane": "3",
-     "seedStr": "01:28.27",
-     "seedSeconds": 88.27
     }
    ]
   },
@@ -1648487,37 +1645195,9 @@ window.SWIM_DATA = {
      "club": "מכבי תל אביב",
      "startTime": "17:52",
      "heat": "10",
-     "lane": "6",
+     "lane": "5",
      "seedStr": "00:49.50",
      "seedSeconds": 49.5
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "10:16",
-     "heat": "15",
-     "lane": "4",
-     "seedStr": "01:28.84",
-     "seedSeconds": 88.84
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "16:13",
-     "heat": "1",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1648942,51 +1645622,9 @@ window.SWIM_DATA = {
      "club": "מכבי תל אביב",
      "startTime": "18:21",
      "heat": "4",
-     "lane": "2",
+     "lane": "5",
      "seedStr": "00:51.38",
      "seedSeconds": 51.38
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "10:19",
-     "heat": "16",
-     "lane": "2",
-     "seedStr": "01:26.64",
-     "seedSeconds": 86.64
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "12:05",
-     "heat": "3",
-     "lane": "3",
-     "seedStr": "02:11.68",
-     "seedSeconds": 131.68
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "15:38",
-     "heat": "4",
-     "lane": "1",
-     "seedStr": "03:51.16",
-     "seedSeconds": 231.16
     }
    ]
   },
@@ -1653026,48 +1649664,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "01:35.19",
      "seedSeconds": 95.19
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "12:10",
-     "heat": "5",
-     "lane": "5",
-     "seedStr": "01:50.54",
-     "seedSeconds": 110.54
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "15:38",
-     "heat": "4",
-     "lane": "3",
-     "seedStr": "03:22.86",
-     "seedSeconds": 202.86
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "17:00",
-     "heat": "3",
-     "lane": "6",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1654221,43 +1650817,29 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "12:40",
-     "heat": "2",
-     "lane": "3",
-     "seedStr": "03:18.62",
-     "seedSeconds": 198.62
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "50 חופשי",
      "category": "בנים 8-19",
      "poolLength": 25,
      "club": "מכבי תל אביב",
      "startTime": "17:11",
      "heat": "21",
-     "lane": "3",
+     "lane": "4",
      "seedStr": "00:35.52",
      "seedSeconds": 35.52
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
+     "event": "200 חופשי",
+     "category": "בנים 11-16",
      "poolLength": 25,
      "club": "מכבי תל אביב",
-     "startTime": "10:27",
-     "heat": "19",
-     "lane": "5",
-     "seedStr": "01:20.58",
-     "seedSeconds": 80.58
+     "startTime": "19:30",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "03:18.62",
+     "seedSeconds": 198.62
     }
    ]
   },
@@ -1664802,7 +1661384,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "12:32",
+     "heat": "13",
+     "lane": "6",
+     "seedStr": "00:33.46",
+     "seedSeconds": 33.46
+    }
+   ]
   },
   "2011|דייזי·מוש": {
    "id": "2011|דייזי·מוש",
@@ -1685938,7 +1682535,7 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "17:51",
      "heat": "9",
-     "lane": "2",
+     "lane": "3",
      "seedStr": "00:51.40",
      "seedSeconds": 51.4
     },
@@ -1685952,23 +1682549,9 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "18:17",
      "heat": "2",
-     "lane": "2",
+     "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "17:54",
-     "heat": "10",
-     "lane": "4",
-     "seedStr": "00:56.45",
-     "seedSeconds": 56.45
     }
    ]
   },
@@ -1688279,7 +1684862,22 @@ window.SWIM_DATA = {
      "points": 378
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "12:33",
+     "heat": "14",
+     "lane": "2",
+     "seedStr": "00:32.07",
+     "seedSeconds": 32.07
+    }
+   ]
   },
   "2013|מעיין·תורג'מן": {
    "id": "2013|מעיין·תורג'מן",
@@ -1689215,48 +1685813,6 @@ window.SWIM_DATA = {
      "lane": "5",
      "seedStr": "00:41.39",
      "seedSeconds": 41.39
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:05",
-     "heat": "3",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "15:00",
-     "heat": "1",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "17:16",
-     "heat": "3",
-     "lane": "6",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1691618,37 +1688174,9 @@ window.SWIM_DATA = {
      "club": "ע.ל.ה עצמה רעננה",
      "startTime": "15:06",
      "heat": "3",
-     "lane": "6",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "09:22",
-     "heat": "9",
-     "lane": "1",
-     "seedStr": "01:39.77",
-     "seedSeconds": 99.77
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "17:24",
-     "heat": "7",
-     "lane": "5",
-     "seedStr": "00:57.60",
-     "seedSeconds": 57.6
     }
    ]
   },
@@ -1694602,7 +1691130,7 @@ window.SWIM_DATA = {
      "club": "הפועל מ.א משגב",
      "timeStr": "00:44.56",
      "seconds": 44.56,
-     "place": "63",
+     "place": "64",
      "points": 89
     }
    ],
@@ -1703273,7 +1699801,7 @@ window.SWIM_DATA = {
      "club": "מכבי נצרת",
      "timeStr": "00:41.91",
      "seconds": 41.91,
-     "place": "59",
+     "place": "60",
      "points": 107
     }
    ],
@@ -1705566,7 +1702094,7 @@ window.SWIM_DATA = {
      "club": "הפועל אקווה נוף הגליל",
      "timeStr": "00:49.30",
      "seconds": 49.3,
-     "place": "69",
+     "place": "70",
      "points": 65
     }
    ],
@@ -1706688,48 +1703216,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "00:39.22",
      "seedSeconds": 39.22
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:30",
-     "heat": "12",
-     "lane": "4",
-     "seedStr": "01:23.34",
-     "seedSeconds": 83.34
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנות 10-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "10:48",
-     "heat": "1",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "15:04",
-     "heat": "2",
-     "lane": "6",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1707189,7 +1703675,7 @@ window.SWIM_DATA = {
      "club": "הפועל מ.א משגב",
      "timeStr": "00:52.96",
      "seconds": 52.96,
-     "place": "74",
+     "place": "75",
      "points": 53
     }
    ],
@@ -1707608,7 +1704094,7 @@ window.SWIM_DATA = {
      "club": "מכבי רמת הגולן",
      "timeStr": "00:42.87",
      "seconds": 42.87,
-     "place": "61",
+     "place": "62",
      "points": 100
     }
    ],
@@ -1708675,7 +1705161,22 @@ window.SWIM_DATA = {
      "points": 401
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "12:18",
+     "heat": "4",
+     "lane": "0",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2006|אבוטבול·אלמוג": {
    "id": "2006|אבוטבול·אלמוג",
@@ -1711349,37 +1707850,9 @@ window.SWIM_DATA = {
      "club": "מכבי קרית אונו",
      "startTime": "17:56",
      "heat": "12",
-     "lane": "1",
+     "lane": "2",
      "seedStr": "00:45.43",
      "seedSeconds": 45.43
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "11:13",
-     "heat": "2",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "16:21",
-     "heat": "4",
-     "lane": "5",
-     "seedStr": "01:48.70",
-     "seedSeconds": 108.7
     }
    ]
   },
@@ -1711611,51 +1708084,9 @@ window.SWIM_DATA = {
      "club": "מכבי קרית אונו",
      "startTime": "17:54",
      "heat": "11",
-     "lane": "6",
+     "lane": "5",
      "seedStr": "00:48.61",
      "seedSeconds": 48.61
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "10:10",
-     "heat": "13",
-     "lane": "5",
-     "seedStr": "01:39.98",
-     "seedSeconds": 99.98
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "12:00",
-     "heat": "1",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "17:56",
-     "heat": "11",
-     "lane": "1",
-     "seedStr": "00:54.03",
-     "seedSeconds": 54.03
     }
    ]
   },
@@ -1711825,48 +1708256,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "00:47.95",
      "seedSeconds": 47.95
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "10:05",
-     "heat": "11",
-     "lane": "2",
-     "seedStr": "01:51.80",
-     "seedSeconds": 111.8
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "12:03",
-     "heat": "2",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "17:50",
-     "heat": "8",
-     "lane": "6",
-     "seedStr": "01:03.10",
-     "seedSeconds": 63.1
     }
    ]
   },
@@ -1712092,7 +1708481,7 @@ window.SWIM_DATA = {
      "club": "הפועל אקווה נוף הגליל",
      "timeStr": "00:48.09",
      "seconds": 48.09,
-     "place": "68",
+     "place": "69",
      "points": 70
     }
    ],
@@ -1713195,7 +1709584,22 @@ window.SWIM_DATA = {
      "points": 250
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "50 גב",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "12:17",
+     "heat": "3",
+     "lane": "9",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|בלאיכר·שי": {
    "id": "2014|בלאיכר·שי",
@@ -1717077,7 +1713481,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית אונו",
      "startTime": "16:24",
      "heat": "5",
-     "lane": "3",
+     "lane": "4",
      "seedStr": "00:59.77",
      "seedSeconds": 59.77
     },
@@ -1717089,39 +1713493,11 @@ window.SWIM_DATA = {
      "category": "בנות 8-19",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "17:28",
-     "heat": "4",
-     "lane": "3",
-     "seedStr": "01:01.25",
-     "seedSeconds": 61.25
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "09:11",
-     "heat": "5",
-     "lane": "3",
-     "seedStr": "02:25.28",
-     "seedSeconds": 145.28
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "17:20",
+     "startTime": "17:30",
      "heat": "5",
      "lane": "6",
-     "seedStr": "01:10.53",
-     "seedSeconds": 70.53
+     "seedStr": "01:01.25",
+     "seedSeconds": 61.25
     }
    ]
   },
@@ -1719673,39 +1716049,11 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "17:49",
-     "heat": "8",
-     "lane": "4",
+     "startTime": "17:51",
+     "heat": "9",
+     "lane": "1",
      "seedStr": "00:55.55",
      "seedSeconds": 55.55
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:40",
-     "heat": "2",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "17:38",
-     "heat": "2",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1720013,7 +1716361,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "15:36",
      "heat": "3",
-     "lane": "6",
+     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1720041,23 +1716389,9 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "17:47",
      "heat": "7",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "01:00.23",
      "seedSeconds": 60.23
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:43",
-     "heat": "3",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1720225,23 +1716559,9 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "17:46",
      "heat": "6",
-     "lane": "1",
+     "lane": "4",
      "seedStr": "01:04.16",
      "seedSeconds": 64.16
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:43",
-     "heat": "3",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1721378,53 +1717698,11 @@ window.SWIM_DATA = {
      "category": "בנות 8-19",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "16:28",
-     "heat": "8",
-     "lane": "6",
+     "startTime": "16:27",
+     "heat": "7",
+     "lane": "3",
      "seedStr": "00:50.00",
      "seedSeconds": 50.0
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:08",
-     "heat": "4",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "16:01",
-     "heat": "2",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "17:22",
-     "heat": "6",
-     "lane": "2",
-     "seedStr": "01:00.98",
-     "seedSeconds": 60.98
     }
    ]
   },
@@ -1722780,23 +1719058,9 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "17:25",
      "heat": "2",
-     "lane": "5",
+     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "17:30",
-     "heat": "10",
-     "lane": "3",
-     "seedStr": "00:48.52",
-     "seedSeconds": 48.52
     }
    ]
   },
@@ -1723102,9 +1719366,9 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "הפועל דולפין נתניה",
-     "startTime": "15:36",
-     "heat": "3",
-     "lane": "5",
+     "startTime": "15:39",
+     "heat": "4",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1723130,25 +1719394,11 @@ window.SWIM_DATA = {
      "category": "בנים 9-19",
      "poolLength": 25,
      "club": "הפועל דולפין נתניה",
-     "startTime": "18:22",
-     "heat": "5",
-     "lane": "6",
+     "startTime": "18:21",
+     "heat": "4",
+     "lane": "3",
      "seedStr": "00:47.10",
      "seedSeconds": 47.1
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "10:13",
-     "heat": "14",
-     "lane": "6",
-     "seedStr": "01:34.73",
-     "seedSeconds": 94.73
     }
    ]
   },
@@ -1723500,20 +1719750,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "00:39.96",
      "seedSeconds": 39.96
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "16:58",
-     "heat": "2",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1723680,7 +1719916,7 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "15:33",
      "heat": "2",
-     "lane": "6",
+     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1723694,7 +1719930,7 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "17:52",
      "heat": "10",
-     "lane": "1",
+     "lane": "2",
      "seedStr": "00:49.49",
      "seedSeconds": 49.49
     },
@@ -1723708,23 +1719944,9 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "18:21",
      "heat": "4",
-     "lane": "4",
+     "lane": "2",
      "seedStr": "00:49.87",
      "seedSeconds": 49.87
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "10:08",
-     "heat": "12",
-     "lane": "3",
-     "seedStr": "01:43.60",
-     "seedSeconds": 103.6
     }
    ]
   },
@@ -1723864,9 +1720086,9 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "הפועל דולפין נתניה",
-     "startTime": "17:37",
-     "heat": "1",
-     "lane": "4",
+     "startTime": "17:39",
+     "heat": "2",
+     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1723880,23 +1720102,9 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "18:21",
      "heat": "4",
-     "lane": "1",
+     "lane": "6",
      "seedStr": "01:03.14",
      "seedSeconds": 63.14
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "10:10",
-     "heat": "13",
-     "lane": "6",
-     "seedStr": "01:42.60",
-     "seedSeconds": 102.6
     }
    ]
   },
@@ -1724048,9 +1720256,9 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "הפועל דולפין נתניה",
-     "startTime": "15:30",
-     "heat": "1",
-     "lane": "3",
+     "startTime": "15:33",
+     "heat": "2",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1724067,34 +1720275,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "00:43.04",
      "seedSeconds": 43.04
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "10:13",
-     "heat": "14",
-     "lane": "5",
-     "seedStr": "01:33.16",
-     "seedSeconds": 93.16
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "17:58",
-     "heat": "12",
-     "lane": "1",
-     "seedStr": "00:52.82",
-     "seedSeconds": 52.82
     }
    ]
   },
@@ -1724262,7 +1720442,7 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "17:47",
      "heat": "7",
-     "lane": "1",
+     "lane": "4",
      "seedStr": "00:59.81",
      "seedSeconds": 59.81
     },
@@ -1724279,20 +1720459,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "10:02",
-     "heat": "10",
-     "lane": "3",
-     "seedStr": "01:55.04",
-     "seedSeconds": 115.04
     }
    ]
   },
@@ -1724639,7 +1720805,7 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "15:03",
      "heat": "2",
-     "lane": "5",
+     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1724670,20 +1720836,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "00:46.18",
      "seedSeconds": 46.18
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "09:24",
-     "heat": "10",
-     "lane": "5",
-     "seedStr": "01:34.15",
-     "seedSeconds": 94.15
     }
    ]
   },
@@ -1724850,51 +1721002,9 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "16:28",
      "heat": "8",
-     "lane": "5",
+     "lane": "1",
      "seedStr": "00:48.31",
      "seedSeconds": 48.31
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "09:19",
-     "heat": "8",
-     "lane": "3",
-     "seedStr": "01:40.26",
-     "seedSeconds": 100.26
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "11:45",
-     "heat": "2",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "17:24",
-     "heat": "7",
-     "lane": "6",
-     "seedStr": "00:58.21",
-     "seedSeconds": 58.21
     }
    ]
   },
@@ -1725061,7 +1721171,7 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "15:03",
      "heat": "2",
-     "lane": "1",
+     "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1725075,37 +1721185,9 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "16:28",
      "heat": "8",
-     "lane": "4",
+     "lane": "2",
      "seedStr": "00:47.34",
      "seedSeconds": 47.34
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "09:16",
-     "heat": "7",
-     "lane": "4",
-     "seedStr": "01:50.23",
-     "seedSeconds": 110.23
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "17:26",
-     "heat": "8",
-     "lane": "1",
-     "seedStr": "00:55.55",
-     "seedSeconds": 55.55
     }
    ]
   },
@@ -1725259,7 +1721341,7 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "16:25",
      "heat": "6",
-     "lane": "4",
+     "lane": "2",
      "seedStr": "00:54.48",
      "seedSeconds": 54.48
     },
@@ -1725273,7 +1721355,7 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "17:28",
      "heat": "4",
-     "lane": "6",
+     "lane": "1",
      "seedStr": "01:07.67",
      "seedSeconds": 67.67
     },
@@ -1725290,20 +1721372,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "01:04.28",
      "seedSeconds": 64.28
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "09:13",
-     "heat": "6",
-     "lane": "5",
-     "seedStr": "02:04.19",
-     "seedSeconds": 124.19
     }
    ]
   },
@@ -1725494,9 +1721562,9 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "הפועל דולפין נתניה",
-     "startTime": "15:33",
-     "heat": "2",
-     "lane": "2",
+     "startTime": "15:36",
+     "heat": "3",
+     "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1725522,25 +1721590,11 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "הפועל דולפין נתניה",
-     "startTime": "17:54",
-     "heat": "11",
-     "lane": "4",
+     "startTime": "17:56",
+     "heat": "12",
+     "lane": "6",
      "seedStr": "00:46.70",
      "seedSeconds": 46.7
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "10:13",
-     "heat": "14",
-     "lane": "2",
-     "seedStr": "01:32.89",
-     "seedSeconds": 92.89
     }
    ]
   },
@@ -1726130,9 +1722184,9 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "17:49",
-     "heat": "8",
-     "lane": "3",
+     "startTime": "17:51",
+     "heat": "9",
+     "lane": "5",
      "seedStr": "00:55.11",
      "seedSeconds": 55.11
     },
@@ -1726146,23 +1722200,9 @@ window.SWIM_DATA = {
      "club": "ע.ל.ה עצמה רעננה",
      "startTime": "18:22",
      "heat": "5",
-     "lane": "2",
+     "lane": "5",
      "seedStr": "00:46.15",
      "seedSeconds": 46.15
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "10:10",
-     "heat": "13",
-     "lane": "1",
-     "seedStr": "01:40.53",
-     "seedSeconds": 100.53
     }
    ]
   },
@@ -1726495,9 +1722535,9 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "הפועל דולפין נתניה",
-     "startTime": "17:46",
-     "heat": "6",
-     "lane": "2",
+     "startTime": "17:47",
+     "heat": "7",
+     "lane": "6",
      "seedStr": "01:02.65",
      "seedSeconds": 62.65
     },
@@ -1726511,23 +1722551,9 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "18:17",
      "heat": "2",
-     "lane": "5",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "17:54",
-     "heat": "10",
-     "lane": "2",
-     "seedStr": "00:58.18",
-     "seedSeconds": 58.18
     }
    ]
   },
@@ -1726757,7 +1722783,7 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "16:27",
      "heat": "7",
-     "lane": "5",
+     "lane": "1",
      "seedStr": "00:51.77",
      "seedSeconds": 51.77
     },
@@ -1726769,39 +1722795,11 @@ window.SWIM_DATA = {
      "category": "בנות 8-19",
      "poolLength": 25,
      "club": "הפועל דולפין נתניה",
-     "startTime": "17:25",
-     "heat": "2",
-     "lane": "3",
+     "startTime": "17:26",
+     "heat": "3",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "09:16",
-     "heat": "7",
-     "lane": "6",
-     "seedStr": "01:57.75",
-     "seedSeconds": 117.75
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "17:18",
-     "heat": "4",
-     "lane": "2",
-     "seedStr": "01:14.25",
-     "seedSeconds": 74.25
     }
    ]
   },
@@ -1726917,37 +1722915,9 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "17:49",
      "heat": "8",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "00:55.90",
      "seedSeconds": 55.9
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "09:40",
-     "heat": "2",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "17:38",
-     "heat": "2",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1727472,7 +1723442,7 @@ window.SWIM_DATA = {
      "club": "מכבי מרום רמת גן",
      "startTime": "15:06",
      "heat": "3",
-     "lane": "1",
+     "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1727501,20 +1723471,6 @@ window.SWIM_DATA = {
      "startTime": "18:04",
      "heat": "2",
      "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "16:46",
-     "heat": "2",
-     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1741143,7 +1737099,7 @@ window.SWIM_DATA = {
      "club": "מכבי תל אביב",
      "startTime": "15:06",
      "heat": "3",
-     "lane": "2",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1741160,34 +1737116,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "00:37.63",
      "seedSeconds": 37.63
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "09:24",
-     "heat": "10",
-     "lane": "4",
-     "seedStr": "01:32.56",
-     "seedSeconds": 92.56
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "17:28",
-     "heat": "9",
-     "lane": "4",
-     "seedStr": "00:52.40",
-     "seedSeconds": 52.4
     }
    ]
   },
@@ -1741397,34 +1737325,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "00:38.40",
      "seedSeconds": 38.4
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "10:16",
-     "heat": "15",
-     "lane": "1",
-     "seedStr": "01:31.35",
-     "seedSeconds": 91.35
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "17:38",
-     "heat": "2",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1741898,37 +1737798,9 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "17:49",
      "heat": "8",
-     "lane": "1",
+     "lane": "4",
      "seedStr": "00:56.53",
      "seedSeconds": 56.53
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "10:08",
-     "heat": "12",
-     "lane": "6",
-     "seedStr": "01:49.70",
-     "seedSeconds": 109.7
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "17:40",
-     "heat": "3",
-     "lane": "6",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1742536,20 +1738408,6 @@ window.SWIM_DATA = {
      "lane": "5",
      "seedStr": "00:47.50",
      "seedSeconds": 47.5
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "09:22",
-     "heat": "9",
-     "lane": "5",
-     "seedStr": "01:38.32",
-     "seedSeconds": 98.32
     }
    ]
   },
@@ -1742870,7 +1738728,7 @@ window.SWIM_DATA = {
      "club": "מכבי תל אביב",
      "startTime": "15:42",
      "heat": "5",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "02:18.37",
      "seedSeconds": 138.37
     },
@@ -1742887,34 +1738745,6 @@ window.SWIM_DATA = {
      "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "10:05",
-     "heat": "11",
-     "lane": "4",
-     "seedStr": "01:50.67",
-     "seedSeconds": 110.67
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "17:52",
-     "heat": "9",
-     "lane": "5",
-     "seedStr": "01:01.03",
-     "seedSeconds": 61.03
     }
    ]
   },
@@ -1743209,7 +1739039,7 @@ window.SWIM_DATA = {
      "club": "מכבי תל אביב",
      "startTime": "15:30",
      "heat": "1",
-     "lane": "1",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1743223,37 +1739053,9 @@ window.SWIM_DATA = {
      "club": "מכבי תל אביב",
      "startTime": "17:44",
      "heat": "5",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "01:17.09",
      "seedSeconds": 77.09
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "09:37",
-     "heat": "1",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "17:48",
-     "heat": "7",
-     "lane": "6",
-     "seedStr": "01:09.60",
-     "seedSeconds": 69.6
     }
    ]
   },
@@ -1743306,34 +1739108,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "01:33.50",
      "seedSeconds": 93.5
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "09:37",
-     "heat": "1",
-     "lane": "6",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "17:36",
-     "heat": "1",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1744089,9 +1739863,9 @@ window.SWIM_DATA = {
      "category": "בנות 9-16",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "15:00",
-     "heat": "1",
-     "lane": "3",
+     "startTime": "15:03",
+     "heat": "2",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1744105,37 +1739879,9 @@ window.SWIM_DATA = {
      "club": "מכבי קרית אונו",
      "startTime": "16:27",
      "heat": "7",
-     "lane": "3",
+     "lane": "4",
      "seedStr": "00:50.66",
      "seedSeconds": 50.66
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "09:16",
-     "heat": "7",
-     "lane": "5",
-     "seedStr": "01:52.02",
-     "seedSeconds": 112.02
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "17:22",
-     "heat": "6",
-     "lane": "5",
-     "seedStr": "01:04.58",
-     "seedSeconds": 64.58
     }
    ]
   },
@@ -1744313,9 +1740059,9 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "15:33",
-     "heat": "2",
-     "lane": "5",
+     "startTime": "15:36",
+     "heat": "3",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1744332,34 +1740078,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "00:49.50",
      "seedSeconds": 49.5
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "10:08",
-     "heat": "12",
-     "lane": "5",
-     "seedStr": "01:45.94",
-     "seedSeconds": 105.94
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "17:54",
-     "heat": "10",
-     "lane": "5",
-     "seedStr": "00:58.46",
-     "seedSeconds": 58.46
     }
    ]
   },
@@ -1744595,34 +1740313,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "00:44.62",
      "seedSeconds": 44.62
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "12:03",
-     "heat": "2",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "15:25",
-     "heat": "1",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1744816,37 +1740506,9 @@ window.SWIM_DATA = {
      "club": "הפועל פתח תקווה",
      "startTime": "17:30",
      "heat": "5",
-     "lane": "5",
+     "lane": "2",
      "seedStr": "00:57.16",
      "seedSeconds": 57.16
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "09:19",
-     "heat": "8",
-     "lane": "6",
-     "seedStr": "01:49.15",
-     "seedSeconds": 109.15
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "16:01",
-     "heat": "2",
-     "lane": "4",
-     "seedStr": "02:19.84",
-     "seedSeconds": 139.84
     }
    ]
   },
@@ -1745640,53 +1741302,11 @@ window.SWIM_DATA = {
      "category": "בנות 8-19",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "17:23",
-     "heat": "1",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנות 10-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "10:48",
-     "heat": "1",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "16:43",
-     "heat": "1",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "17:32",
-     "heat": "11",
+     "startTime": "17:25",
+     "heat": "2",
      "lane": "6",
-     "seedStr": "00:47.68",
-     "seedSeconds": 47.68
+     "seedStr": "NT",
+     "seedSeconds": null
     }
    ]
   },
@@ -1748076,7 +1743696,7 @@ window.SWIM_DATA = {
      "club": "מכבי רמת הגולן",
      "timeStr": "DNF",
      "seconds": null,
-     "place": "77",
+     "place": "78",
      "points": 0
     }
    ],
@@ -1748982,37 +1744602,9 @@ window.SWIM_DATA = {
      "club": "מכבי מרום רמת גן",
      "startTime": "17:25",
      "heat": "2",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "09:05",
-     "heat": "3",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "17:24",
-     "heat": "7",
      "lane": "4",
-     "seedStr": "00:56.63",
-     "seedSeconds": 56.63
+     "seedStr": "NT",
+     "seedSeconds": null
     }
    ]
   },
@@ -1749099,9 +1744691,9 @@ window.SWIM_DATA = {
      "category": "בנות 8-19",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "16:27",
-     "heat": "7",
-     "lane": "6",
+     "startTime": "16:25",
+     "heat": "6",
+     "lane": "3",
      "seedStr": "00:53.59",
      "seedSeconds": 53.59
     },
@@ -1749115,37 +1744707,9 @@ window.SWIM_DATA = {
      "club": "מכבי מרום רמת גן",
      "startTime": "17:30",
      "heat": "5",
-     "lane": "4",
+     "lane": "3",
      "seedStr": "00:53.72",
      "seedSeconds": 53.72
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "09:08",
-     "heat": "4",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "16:04",
-     "heat": "3",
-     "lane": "6",
-     "seedStr": "01:59.77",
-     "seedSeconds": 119.77
     }
    ]
   },
@@ -1749469,48 +1745033,6 @@ window.SWIM_DATA = {
      "lane": "5",
      "seedStr": "00:43.28",
      "seedSeconds": 43.28
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "09:51",
-     "heat": "6",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "12:10",
-     "heat": "5",
-     "lane": "3",
-     "seedStr": "01:46.58",
-     "seedSeconds": 106.58
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "18:00",
-     "heat": "13",
-     "lane": "4",
-     "seedStr": "00:46.63",
-     "seedSeconds": 46.63
     }
    ]
   },
@@ -1750289,23 +1745811,9 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "17:39",
-     "heat": "2",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "09:46",
-     "heat": "4",
-     "lane": "5",
+     "startTime": "17:41",
+     "heat": "3",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1750424,20 +1745932,6 @@ window.SWIM_DATA = {
      "startTime": "18:15",
      "heat": "1",
      "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 פרפר",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "16:55",
-     "heat": "1",
-     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1750567,7 +1746061,7 @@ window.SWIM_DATA = {
      "club": "מכבי מרום רמת גן",
      "startTime": "15:09",
      "heat": "4",
-     "lane": "6",
+     "lane": "1",
      "seedStr": "02:04.68",
      "seedSeconds": 124.68
     },
@@ -1750581,34 +1746075,6 @@ window.SWIM_DATA = {
      "club": "מכבי מרום רמת גן",
      "startTime": "17:23",
      "heat": "1",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "09:02",
-     "heat": "2",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "17:14",
-     "heat": "2",
      "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
@@ -1750707,29 +1746173,29 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
+     "event": "100 מעורב אישי",
+     "category": "בנים 9-16",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "startTime": "15:45",
+     "heat": "6",
+     "lane": "5",
+     "seedStr": "02:07.15",
+     "seedSeconds": 127.15
+    },
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
      "event": "50 גב",
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "17:51",
-     "heat": "9",
-     "lane": "4",
+     "startTime": "17:52",
+     "heat": "10",
+     "lane": "6",
      "seedStr": "00:51.24",
      "seedSeconds": 51.24
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "09:48",
-     "heat": "5",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1751633,37 +1747099,9 @@ window.SWIM_DATA = {
      "club": "מכבי מרום רמת גן",
      "startTime": "16:25",
      "heat": "6",
-     "lane": "2",
+     "lane": "5",
      "seedStr": "00:55.25",
      "seedSeconds": 55.25
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "11:43",
-     "heat": "1",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "17:26",
-     "heat": "8",
-     "lane": "2",
-     "seedStr": "00:54.20",
-     "seedSeconds": 54.2
     }
    ]
   },
@@ -1753023,7 +1748461,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית אונו",
      "startTime": "15:03",
      "heat": "2",
-     "lane": "6",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1753054,20 +1748492,6 @@ window.SWIM_DATA = {
      "lane": "5",
      "seedStr": "00:52.13",
      "seedSeconds": 52.13
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "17:22",
-     "heat": "6",
-     "lane": "3",
-     "seedStr": "00:58.73",
-     "seedSeconds": 58.73
     }
    ]
   },
@@ -1753167,9 +1748591,9 @@ window.SWIM_DATA = {
      "category": "בנות 8-19",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "16:25",
-     "heat": "6",
-     "lane": "6",
+     "startTime": "16:24",
+     "heat": "5",
+     "lane": "3",
      "seedStr": "00:59.59",
      "seedSeconds": 59.59
     },
@@ -1753183,23 +1748607,9 @@ window.SWIM_DATA = {
      "club": "מכבי מרום רמת גן",
      "startTime": "17:25",
      "heat": "2",
-     "lane": "1",
+     "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "17:18",
-     "heat": "4",
-     "lane": "3",
-     "seedStr": "01:11.26",
-     "seedSeconds": 71.26
     }
    ]
   },
@@ -1753383,34 +1748793,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "00:41.17",
      "seedSeconds": 41.17
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "10:19",
-     "heat": "16",
-     "lane": "6",
-     "seedStr": "01:27.74",
-     "seedSeconds": 87.74
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "17:52",
-     "heat": "9",
-     "lane": "3",
-     "seedStr": "00:59.83",
-     "seedSeconds": 59.83
     }
    ]
   },
@@ -1753526,21 +1748908,7 @@ window.SWIM_DATA = {
      "club": "מכבי מרום רמת גן",
      "startTime": "17:39",
      "heat": "2",
-     "lane": "6",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "09:46",
-     "heat": "4",
-     "lane": "1",
+     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1753954,7 +1749322,7 @@ window.SWIM_DATA = {
      "club": "הפועל פתח תקווה",
      "startTime": "16:25",
      "heat": "6",
-     "lane": "5",
+     "lane": "1",
      "seedStr": "00:57.15",
      "seedSeconds": 57.15
     },
@@ -1753968,23 +1749336,9 @@ window.SWIM_DATA = {
      "club": "הפועל פתח תקווה",
      "startTime": "17:26",
      "heat": "3",
-     "lane": "6",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "17:24",
-     "heat": "7",
-     "lane": "1",
-     "seedStr": "00:58.06",
-     "seedSeconds": 58.06
     }
    ]
   },
@@ -1754203,7 +1749557,7 @@ window.SWIM_DATA = {
      "club": "הפועל פתח תקווה",
      "startTime": "16:25",
      "heat": "6",
-     "lane": "3",
+     "lane": "4",
      "seedStr": "00:53.84",
      "seedSeconds": 53.84
     },
@@ -1754217,23 +1749571,9 @@ window.SWIM_DATA = {
      "club": "הפועל פתח תקווה",
      "startTime": "17:26",
      "heat": "3",
-     "lane": "1",
+     "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "17:24",
-     "heat": "7",
-     "lane": "2",
-     "seedStr": "00:56.76",
-     "seedSeconds": 56.76
     }
    ]
   },
@@ -1754399,39 +1749739,11 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "17:39",
-     "heat": "2",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "09:48",
-     "heat": "5",
-     "lane": "6",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "17:48",
-     "heat": "7",
+     "startTime": "17:41",
+     "heat": "3",
      "lane": "2",
-     "seedStr": "01:07.12",
-     "seedSeconds": 67.12
+     "seedStr": "NT",
+     "seedSeconds": null
     }
    ]
   },
@@ -1754660,9 +1749972,9 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "15:33",
-     "heat": "2",
-     "lane": "1",
+     "startTime": "15:36",
+     "heat": "3",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1754679,34 +1749991,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "00:54.13",
      "seedSeconds": 54.13
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "10:05",
-     "heat": "11",
-     "lane": "1",
-     "seedStr": "01:53.70",
-     "seedSeconds": 113.7
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "17:54",
-     "heat": "10",
-     "lane": "1",
-     "seedStr": "00:59.16",
-     "seedSeconds": 59.16
     }
    ]
   },
@@ -1754832,7 +1750116,7 @@ window.SWIM_DATA = {
      "club": "מכבי מרום רמת גן",
      "startTime": "16:27",
      "heat": "7",
-     "lane": "2",
+     "lane": "5",
      "seedStr": "00:51.33",
      "seedSeconds": 51.33
     },
@@ -1754846,23 +1750130,9 @@ window.SWIM_DATA = {
      "club": "מכבי מרום רמת גן",
      "startTime": "17:25",
      "heat": "2",
-     "lane": "6",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "17:22",
-     "heat": "6",
-     "lane": "6",
-     "seedStr": "01:05.58",
-     "seedSeconds": 65.58
     }
    ]
   },
@@ -1755761,7 +1751031,7 @@ window.SWIM_DATA = {
      "club": "Eilat Swimming",
      "startTime": "15:30",
      "heat": "1",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1755792,20 +1751062,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "17:52",
-     "heat": "9",
-     "lane": "1",
-     "seedStr": "01:01.18",
-     "seedSeconds": 61.18
     }
    ]
   },
@@ -1756714,37 +1751970,9 @@ window.SWIM_DATA = {
      "club": "Eilat Swimming",
      "startTime": "17:44",
      "heat": "5",
-     "lane": "1",
+     "lane": "4",
      "seedStr": "01:24.13",
      "seedSeconds": 84.13
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "10:02",
-     "heat": "10",
-     "lane": "2",
-     "seedStr": "01:56.21",
-     "seedSeconds": 116.21
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "17:48",
-     "heat": "7",
-     "lane": "1",
-     "seedStr": "01:07.90",
-     "seedSeconds": 67.9
     }
    ]
   },
@@ -1756819,25 +1752047,11 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "Eilat Swimming",
-     "startTime": "17:44",
-     "heat": "5",
-     "lane": "3",
-     "seedStr": "01:08.14",
-     "seedSeconds": 68.14
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
      "startTime": "17:46",
      "heat": "6",
-     "lane": "2",
-     "seedStr": "01:14.17",
-     "seedSeconds": 74.17
+     "lane": "5",
+     "seedStr": "01:08.14",
+     "seedSeconds": 68.14
     }
    ]
   },
@@ -1759673,7 +1754887,22 @@ window.SWIM_DATA = {
      "points": 273
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "09:52",
+     "heat": "5",
+     "lane": "0",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|ארד·בן·משה": {
    "id": "2016|ארד·בן·משה",
@@ -1760360,7 +1755589,7 @@ window.SWIM_DATA = {
      "club": "מכבי תל אביב",
      "startTime": "15:03",
      "heat": "2",
-     "lane": "2",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1760374,35 +1755603,7 @@ window.SWIM_DATA = {
      "club": "מכבי תל אביב",
      "startTime": "16:21",
      "heat": "3",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "11:43",
-     "heat": "1",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "17:16",
-     "heat": "3",
-     "lane": "1",
+     "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1760478,9 +1755679,9 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "מכבי תל אביב",
-     "startTime": "15:36",
-     "heat": "3",
-     "lane": "4",
+     "startTime": "15:39",
+     "heat": "4",
+     "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1760495,34 +1755696,6 @@ window.SWIM_DATA = {
      "startTime": "16:47",
      "heat": "5",
      "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "12:00",
-     "heat": "1",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "17:42",
-     "heat": "4",
-     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1760676,53 +1755849,11 @@ window.SWIM_DATA = {
      "category": "בנות 8-19",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "17:31",
-     "heat": "6",
-     "lane": "3",
+     "startTime": "17:33",
+     "heat": "7",
+     "lane": "6",
      "seedStr": "00:48.32",
      "seedSeconds": 48.32
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "09:24",
-     "heat": "10",
-     "lane": "2",
-     "seedStr": "01:33.55",
-     "seedSeconds": 93.55
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "15:59",
-     "heat": "1",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "17:24",
-     "heat": "7",
-     "lane": "3",
-     "seedStr": "00:56.59",
-     "seedSeconds": 56.59
     }
    ]
   },
@@ -1761237,7 +1756368,7 @@ window.SWIM_DATA = {
      "club": "הפועל מ.א משגב",
      "timeStr": "01:17.40",
      "seconds": 77.4,
-     "place": "6",
+     "place": "5",
      "points": 258
     },
     {
@@ -1761786,7 +1756917,22 @@ window.SWIM_DATA = {
      "points": 436
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "10:18",
+     "heat": "7",
+     "lane": "9",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2003|אורבך·שחר": {
    "id": "2003|אורבך·שחר",
@@ -1762058,9 +1757204,9 @@ window.SWIM_DATA = {
      "category": "בנות 9-16",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "15:06",
-     "heat": "3",
-     "lane": "3",
+     "startTime": "15:09",
+     "heat": "4",
+     "lane": "6",
      "seedStr": "02:05.26",
      "seedSeconds": 125.26
     },
@@ -1762074,7 +1757220,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית אונו",
      "startTime": "17:31",
      "heat": "6",
-     "lane": "6",
+     "lane": "1",
      "seedStr": "00:52.13",
      "seedSeconds": 52.13
     },
@@ -1762091,20 +1757237,6 @@ window.SWIM_DATA = {
      "lane": "5",
      "seedStr": "01:02.50",
      "seedSeconds": 62.5
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנות 10-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "10:48",
-     "heat": "1",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1762347,7 +1757479,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית אונו",
      "startTime": "15:09",
      "heat": "4",
-     "lane": "2",
+     "lane": "4",
      "seedStr": "02:00.16",
      "seedSeconds": 120.16
     },
@@ -1762364,34 +1757496,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "00:44.12",
      "seedSeconds": 44.12
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "09:19",
-     "heat": "8",
-     "lane": "4",
-     "seedStr": "01:41.67",
-     "seedSeconds": 101.67
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "17:20",
-     "heat": "5",
-     "lane": "3",
-     "seedStr": "01:06.27",
-     "seedSeconds": 66.27
     }
    ]
   },
@@ -1762586,34 +1757690,6 @@ window.SWIM_DATA = {
      "lane": "5",
      "seedStr": "00:41.09",
      "seedSeconds": 41.09
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "10:10",
-     "heat": "13",
-     "lane": "4",
-     "seedStr": "01:35.95",
-     "seedSeconds": 95.95
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "16:13",
-     "heat": "1",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1762992,48 +1758068,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "09:59",
-     "heat": "9",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "12:13",
-     "heat": "6",
-     "lane": "6",
-     "seedStr": "01:44.45",
-     "seedSeconds": 104.45
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "17:42",
-     "heat": "4",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1763082,39 +1758116,11 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "Eilat Swimming",
-     "startTime": "17:47",
-     "heat": "7",
-     "lane": "2",
+     "startTime": "17:49",
+     "heat": "8",
+     "lane": "6",
      "seedStr": "00:59.31",
      "seedSeconds": 59.31
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "10:10",
-     "heat": "13",
-     "lane": "2",
-     "seedStr": "01:37.04",
-     "seedSeconds": 97.04
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "16:18",
-     "heat": "3",
-     "lane": "2",
-     "seedStr": "02:04.81",
-     "seedSeconds": 124.81
     }
    ]
   },
@@ -1779427,7 +1774433,7 @@ window.SWIM_DATA = {
      "club": "הפועל אקווה נוף הגליל",
      "timeStr": "00:42.66",
      "seconds": 42.66,
-     "place": "60",
+     "place": "61",
      "points": 101
     }
    ],
@@ -1779593,39 +1774599,11 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "אלומה עירוני הוד השרון",
-     "startTime": "17:41",
-     "heat": "3",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "12:05",
-     "heat": "3",
-     "lane": "6",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "17:58",
-     "heat": "12",
+     "startTime": "17:42",
+     "heat": "4",
      "lane": "5",
-     "seedStr": "00:52.79",
-     "seedSeconds": 52.79
+     "seedStr": "NT",
+     "seedSeconds": null
     }
    ]
   },
@@ -1779677,48 +1774655,6 @@ window.SWIM_DATA = {
      "startTime": "16:49",
      "heat": "6",
      "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "09:57",
-     "heat": "8",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "12:03",
-     "heat": "2",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "17:42",
-     "heat": "4",
-     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1780015,7 +1774951,7 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "15:00",
      "heat": "1",
-     "lane": "1",
+     "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1780029,7 +1774965,7 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "16:19",
      "heat": "2",
-     "lane": "5",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1780044,20 +1774980,6 @@ window.SWIM_DATA = {
      "startTime": "17:23",
      "heat": "1",
      "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "17:12",
-     "heat": "1",
-     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1781105,7 +1776027,22 @@ window.SWIM_DATA = {
      "points": 418
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל אולימפ נתניה",
+     "startTime": "10:57",
+     "heat": "10",
+     "lane": "1",
+     "seedStr": "10:53.97",
+     "seedSeconds": 653.97
+    }
+   ]
   },
   "2010|אנסטסיה·לוסקי": {
    "id": "2010|אנסטסיה·לוסקי",
@@ -1781208,7 +1776145,22 @@ window.SWIM_DATA = {
      "points": 394
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל דולפין נתניה",
+     "startTime": "10:31",
+     "heat": "8",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2010|הראל·למפרט": {
    "id": "2010|הראל·למפרט",
@@ -1781436,34 +1776388,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "00:40.44",
      "seedSeconds": 40.44
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "12:15",
-     "heat": "7",
-     "lane": "6",
-     "seedStr": "01:37.34",
-     "seedSeconds": 97.34
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "18:04",
-     "heat": "15",
-     "lane": "2",
-     "seedStr": "00:40.01",
-     "seedSeconds": 40.01
     }
    ]
   },
@@ -1781541,21 +1776465,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית אונו",
      "startTime": "18:19",
      "heat": "3",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "09:57",
-     "heat": "8",
-     "lane": "6",
+     "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1781649,48 +1776559,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "00:40.80",
      "seedSeconds": 40.8
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "09:57",
-     "heat": "8",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "12:05",
-     "heat": "3",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "17:56",
-     "heat": "11",
-     "lane": "5",
-     "seedStr": "00:53.97",
-     "seedSeconds": 53.97
     }
    ]
   },
@@ -1781806,34 +1776674,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "00:39.58",
      "seedSeconds": 39.58
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "09:59",
-     "heat": "9",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "17:44",
-     "heat": "5",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1781911,7 +1776751,22 @@ window.SWIM_DATA = {
      "points": 388
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "10:05",
+     "heat": "6",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|איליי·קוצקי": {
    "id": "2014|איליי·קוצקי",
@@ -1782092,43 +1776947,29 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "200 חופשי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "12:52",
-     "heat": "5",
-     "lane": "4",
-     "seedStr": "02:48.35",
-     "seedSeconds": 168.35
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "50 חופשי",
      "category": "בנים 8-19",
      "poolLength": 25,
      "club": "הפועל פתח תקווה",
      "startTime": "17:13",
      "heat": "22",
-     "lane": "2",
+     "lane": "5",
      "seedStr": "00:34.63",
      "seedSeconds": 34.63
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
+     "event": "200 חופשי",
+     "category": "בנים 11-16",
      "poolLength": 25,
      "club": "הפועל פתח תקווה",
-     "startTime": "18:00",
-     "heat": "13",
-     "lane": "6",
-     "seedStr": "00:48.38",
-     "seedSeconds": 48.38
+     "startTime": "19:42",
+     "heat": "5",
+     "lane": "2",
+     "seedStr": "02:48.35",
+     "seedSeconds": 168.35
     }
    ]
   },
@@ -1782241,7 +1777082,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית אונו",
      "startTime": "16:28",
      "heat": "8",
-     "lane": "1",
+     "lane": "6",
      "seedStr": "00:49.77",
      "seedSeconds": 49.77
     },
@@ -1782256,34 +1777097,6 @@ window.SWIM_DATA = {
      "startTime": "18:04",
      "heat": "2",
      "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "09:19",
-     "heat": "8",
-     "lane": "1",
-     "seedStr": "01:48.60",
-     "seedSeconds": 108.6
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "15:59",
-     "heat": "1",
-     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1782385,7 +1777198,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית אונו",
      "startTime": "15:03",
      "heat": "2",
-     "lane": "4",
+     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1782399,37 +1777212,9 @@ window.SWIM_DATA = {
      "club": "מכבי קרית אונו",
      "startTime": "16:27",
      "heat": "7",
-     "lane": "1",
+     "lane": "6",
      "seedStr": "00:52.26",
      "seedSeconds": 52.26
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "09:13",
-     "heat": "6",
-     "lane": "3",
-     "seedStr": "01:59.00",
-     "seedSeconds": 119.0
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "17:18",
-     "heat": "4",
-     "lane": "4",
-     "seedStr": "01:11.86",
-     "seedSeconds": 71.86
     }
    ]
   },
@@ -1782531,64 +1777316,7 @@ window.SWIM_DATA = {
      "points": 94
     }
    ],
-   "future": [
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 מעורב אישי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "15:39",
-     "heat": "4",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חופשי",
-     "category": "בנים 8-19",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "17:07",
-     "heat": "18",
-     "lane": "5",
-     "seedStr": "00:38.45",
-     "seedSeconds": 38.45
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "10:19",
-     "heat": "16",
-     "lane": "3",
-     "seedStr": "01:26.23",
-     "seedSeconds": 86.23
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "16:18",
-     "heat": "3",
-     "lane": "6",
-     "seedStr": "NT",
-     "seedSeconds": null
-    }
-   ]
+   "future": []
   },
   "2013|יפים·שבשייביץ": {
    "id": "2013|יפים·שבשייביץ",
@@ -1782685,23 +1777413,9 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "17:41",
-     "heat": "3",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "09:57",
-     "heat": "8",
-     "lane": "4",
+     "startTime": "17:42",
+     "heat": "4",
+     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1782751,9 +1777465,9 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "15:39",
-     "heat": "4",
-     "lane": "2",
+     "startTime": "15:42",
+     "heat": "5",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1782770,34 +1777484,6 @@ window.SWIM_DATA = {
      "lane": "1",
      "seedStr": "00:48.95",
      "seedSeconds": 48.95
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "09:54",
-     "heat": "7",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "17:52",
-     "heat": "9",
-     "lane": "4",
-     "seedStr": "01:00.07",
-     "seedSeconds": 60.07
     }
    ]
   },
@@ -1782957,23 +1777643,9 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "17:41",
-     "heat": "3",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "09:54",
-     "heat": "7",
-     "lane": "2",
+     "startTime": "17:42",
+     "heat": "4",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1786821,7 +1781493,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-06",
+     "competition": "תחרות ליגה מרחקים ארוכים 25 מ' צד דרומי - 06/11/2026",
+     "compId": 15924,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "11:53",
+     "heat": "15",
+     "lane": "3",
+     "seedStr": "09:33.58",
+     "seedSeconds": 573.58
+    }
+   ]
   },
   "2010|אדם·בדש": {
    "id": "2010|אדם·בדש",
@@ -1787451,10 +1782138,10 @@ window.SWIM_DATA = {
      "category": "בנים 11-15",
      "poolLength": 25,
      "club": "מכבי נצרת",
-     "timeStr": "DQ",
-     "seconds": null,
-     "place": "82",
-     "points": 0
+     "timeStr": "00:41.32",
+     "seconds": 41.32,
+     "place": "58",
+     "points": 111
     }
    ],
    "future": []
@@ -1787490,7 +1782177,7 @@ window.SWIM_DATA = {
      "club": "מכבי נצרת",
      "timeStr": "00:41.41",
      "seconds": 41.41,
-     "place": "58",
+     "place": "59",
      "points": 110
     }
    ],
@@ -1787564,7 +1782251,7 @@ window.SWIM_DATA = {
      "club": "מכבי נצרת",
      "timeStr": "DQ",
      "seconds": null,
-     "place": "82",
+     "place": "83",
      "points": 0
     }
    ],
@@ -1787601,7 +1782288,7 @@ window.SWIM_DATA = {
      "club": "מכבי נצרת",
      "timeStr": "00:50.71",
      "seconds": 50.71,
-     "place": "72",
+     "place": "73",
      "points": 60
     }
    ],
@@ -1787638,7 +1782325,7 @@ window.SWIM_DATA = {
      "club": "מכבי נצרת",
      "timeStr": "00:47.12",
      "seconds": 47.12,
-     "place": "67",
+     "place": "68",
      "points": 75
     }
    ],
@@ -1787675,7 +1782362,7 @@ window.SWIM_DATA = {
      "club": "הפועל מ.א משגב",
      "timeStr": "DNS",
      "seconds": null,
-     "place": "78",
+     "place": "79",
      "points": 0
     }
    ],
@@ -1787712,7 +1782399,7 @@ window.SWIM_DATA = {
      "club": "מכבי נצרת",
      "timeStr": "00:50.37",
      "seconds": 50.37,
-     "place": "71",
+     "place": "72",
      "points": 61
     }
    ],
@@ -1788419,7 +1783106,7 @@ window.SWIM_DATA = {
      "club": "הפועל פתח תקווה",
      "startTime": "16:19",
      "heat": "2",
-     "lane": "1",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1788433,37 +1783120,9 @@ window.SWIM_DATA = {
      "club": "הפועל פתח תקווה",
      "startTime": "17:28",
      "heat": "4",
-     "lane": "4",
+     "lane": "3",
      "seedStr": "01:01.69",
      "seedSeconds": 61.69
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "09:13",
-     "heat": "6",
-     "lane": "2",
-     "seedStr": "02:03.32",
-     "seedSeconds": 123.32
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "17:20",
-     "heat": "5",
-     "lane": "4",
-     "seedStr": "01:07.11",
-     "seedSeconds": 67.11
     }
    ]
   },
@@ -1788526,7 +1783185,7 @@ window.SWIM_DATA = {
      "club": "הפועל פתח תקווה",
      "startTime": "16:21",
      "heat": "3",
-     "lane": "3",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1788540,37 +1783199,9 @@ window.SWIM_DATA = {
      "club": "הפועל פתח תקווה",
      "startTime": "17:28",
      "heat": "4",
-     "lane": "1",
+     "lane": "5",
      "seedStr": "01:06.97",
      "seedSeconds": 66.97
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "09:13",
-     "heat": "6",
-     "lane": "1",
-     "seedStr": "02:09.59",
-     "seedSeconds": 129.59
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "17:20",
-     "heat": "5",
-     "lane": "5",
-     "seedStr": "01:09.61",
-     "seedSeconds": 69.61
     }
    ]
   },
@@ -1788633,7 +1783264,7 @@ window.SWIM_DATA = {
      "club": "הפועל פתח תקווה",
      "startTime": "16:22",
      "heat": "4",
-     "lane": "5",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1788647,37 +1783278,9 @@ window.SWIM_DATA = {
      "club": "הפועל פתח תקווה",
      "startTime": "17:28",
      "heat": "4",
-     "lane": "5",
+     "lane": "2",
      "seedStr": "01:06.43",
      "seedSeconds": 66.43
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "09:13",
-     "heat": "6",
-     "lane": "6",
-     "seedStr": "02:09.95",
-     "seedSeconds": 129.95
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "17:20",
-     "heat": "5",
-     "lane": "1",
-     "seedStr": "01:09.71",
-     "seedSeconds": 69.71
     }
    ]
   },
@@ -1788826,39 +1783429,11 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "הפועל פתח תקווה",
-     "startTime": "17:49",
-     "heat": "8",
-     "lane": "2",
+     "startTime": "17:51",
+     "heat": "9",
+     "lane": "6",
      "seedStr": "00:55.78",
      "seedSeconds": 55.78
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "10:08",
-     "heat": "12",
-     "lane": "4",
-     "seedStr": "01:43.65",
-     "seedSeconds": 103.65
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "17:48",
-     "heat": "7",
-     "lane": "5",
-     "seedStr": "01:07.48",
-     "seedSeconds": 67.48
     }
    ]
   },
@@ -1788921,7 +1783496,7 @@ window.SWIM_DATA = {
      "club": "הפועל פתח תקווה",
      "startTime": "16:46",
      "heat": "4",
-     "lane": "4",
+     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1788935,37 +1783510,9 @@ window.SWIM_DATA = {
      "club": "הפועל פתח תקווה",
      "startTime": "17:52",
      "heat": "10",
-     "lane": "5",
+     "lane": "4",
      "seedStr": "00:49.41",
      "seedSeconds": 49.41
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "10:08",
-     "heat": "12",
-     "lane": "2",
-     "seedStr": "01:45.22",
-     "seedSeconds": 105.22
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "17:50",
-     "heat": "8",
-     "lane": "2",
-     "seedStr": "01:02.76",
-     "seedSeconds": 62.76
     }
    ]
   },
@@ -1789114,25 +1783661,11 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "הפועל פתח תקווה",
-     "startTime": "17:44",
-     "heat": "5",
-     "lane": "4",
+     "startTime": "17:46",
+     "heat": "6",
+     "lane": "1",
      "seedStr": "01:15.97",
      "seedSeconds": 75.97
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "17:50",
-     "heat": "8",
-     "lane": "3",
-     "seedStr": "01:02.22",
-     "seedSeconds": 62.22
     }
    ]
   },
@@ -1789209,37 +1783742,9 @@ window.SWIM_DATA = {
      "club": "הפועל פתח תקווה",
      "startTime": "17:49",
      "heat": "8",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "00:57.09",
      "seedSeconds": 57.09
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "10:05",
-     "heat": "11",
-     "lane": "5",
-     "seedStr": "01:52.60",
-     "seedSeconds": 112.6
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "17:50",
-     "heat": "8",
-     "lane": "4",
-     "seedStr": "01:02.75",
-     "seedSeconds": 62.75
     }
    ]
   },
@@ -1789353,37 +1783858,9 @@ window.SWIM_DATA = {
      "club": "הפועל פתח תקווה",
      "startTime": "17:37",
      "heat": "1",
-     "lane": "1",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "10:02",
-     "heat": "10",
-     "lane": "5",
-     "seedStr": "01:58.85",
-     "seedSeconds": 118.85
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "17:46",
-     "heat": "6",
-     "lane": "4",
-     "seedStr": "01:13.72",
-     "seedSeconds": 73.72
     }
    ]
   },
@@ -1789446,7 +1783923,7 @@ window.SWIM_DATA = {
      "club": "הפועל פתח תקווה",
      "startTime": "16:44",
      "heat": "3",
-     "lane": "4",
+     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1789458,39 +1783935,11 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "הפועל פתח תקווה",
-     "startTime": "17:46",
-     "heat": "6",
-     "lane": "3",
+     "startTime": "17:47",
+     "heat": "7",
+     "lane": "5",
      "seedStr": "01:01.07",
      "seedSeconds": 61.07
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "10:02",
-     "heat": "10",
-     "lane": "1",
-     "seedStr": "01:59.00",
-     "seedSeconds": 119.0
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "17:48",
-     "heat": "7",
-     "lane": "4",
-     "seedStr": "01:04.78",
-     "seedSeconds": 64.78
     }
    ]
   },
@@ -1791523,7 +1785972,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "15:00",
      "heat": "1",
-     "lane": "5",
+     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1791537,35 +1785986,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "16:19",
      "heat": "2",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:02",
-     "heat": "2",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "17:14",
-     "heat": "2",
-     "lane": "5",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1791617,7 +1786038,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "15:06",
      "heat": "3",
-     "lane": "4",
+     "lane": "3",
      "seedStr": "02:24.00",
      "seedSeconds": 144.0
     },
@@ -1791631,35 +1786052,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "16:19",
      "heat": "2",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:00",
-     "heat": "1",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "17:12",
-     "heat": "1",
-     "lane": "3",
+     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1791981,7 +1786374,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "15:45",
      "heat": "6",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "02:05.91",
      "seedSeconds": 125.91
     },
@@ -1791995,35 +1786388,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "16:44",
      "heat": "3",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:40",
-     "heat": "2",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "17:38",
-     "heat": "2",
-     "lane": "1",
+     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1792195,9 +1786560,9 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "15:42",
-     "heat": "5",
-     "lane": "2",
+     "startTime": "15:45",
+     "heat": "6",
+     "lane": "6",
      "seedStr": "02:11.61",
      "seedSeconds": 131.61
     },
@@ -1792211,35 +1786576,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "16:44",
      "heat": "3",
-     "lane": "6",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:40",
-     "heat": "2",
-     "lane": "6",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "17:38",
-     "heat": "2",
-     "lane": "6",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1792291,7 +1786628,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "16:44",
      "heat": "3",
-     "lane": "2",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1792303,37 +1786640,9 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "17:37",
-     "heat": "1",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:40",
+     "startTime": "17:39",
      "heat": "2",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "17:38",
-     "heat": "2",
-     "lane": "2",
+     "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1792383,9 +1786692,9 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "15:33",
-     "heat": "2",
-     "lane": "3",
+     "startTime": "15:36",
+     "heat": "3",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1792399,34 +1786708,6 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "16:46",
      "heat": "4",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:43",
-     "heat": "3",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "17:40",
-     "heat": "3",
      "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
@@ -1792947,7 +1787228,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "16:46",
      "heat": "4",
-     "lane": "2",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1792959,36 +1787240,8 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "17:37",
-     "heat": "1",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:46",
-     "heat": "4",
-     "lane": "6",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 גב",
-     "category": "בנים 10-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "11:08",
-     "heat": "1",
+     "startTime": "17:39",
+     "heat": "2",
      "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
@@ -1793113,9 +1787366,9 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "15:33",
-     "heat": "2",
-     "lane": "4",
+     "startTime": "15:36",
+     "heat": "3",
+     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1793129,34 +1787382,6 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "16:46",
      "heat": "4",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:43",
-     "heat": "3",
-     "lane": "6",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "17:40",
-     "heat": "3",
      "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
@@ -1793246,21 +1787471,21 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "16:19",
      "heat": "2",
-     "lane": "2",
+     "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
+     "event": "50 גב",
+     "category": "בנות 8-19",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "09:00",
+     "startTime": "17:23",
      "heat": "1",
-     "lane": "4",
+     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1793582,7 +1787807,7 @@ window.SWIM_DATA = {
      "club": "הפועל פתח תקווה",
      "startTime": "16:24",
      "heat": "5",
-     "lane": "4",
+     "lane": "2",
      "seedStr": "01:04.74",
      "seedSeconds": 64.74
     },
@@ -1793596,37 +1787821,9 @@ window.SWIM_DATA = {
      "club": "הפועל פתח תקווה",
      "startTime": "17:28",
      "heat": "4",
-     "lane": "2",
+     "lane": "4",
      "seedStr": "01:06.09",
      "seedSeconds": 66.09
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "09:05",
-     "heat": "3",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "17:22",
-     "heat": "6",
-     "lane": "1",
-     "seedStr": "01:04.60",
-     "seedSeconds": 64.6
     }
    ]
   },
@@ -1793788,39 +1787985,11 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "הפועל פתח תקווה",
-     "startTime": "17:46",
-     "heat": "6",
-     "lane": "4",
+     "startTime": "17:47",
+     "heat": "7",
+     "lane": "1",
      "seedStr": "01:02.00",
      "seedSeconds": 62.0
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "09:57",
-     "heat": "8",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "17:50",
-     "heat": "8",
-     "lane": "1",
-     "seedStr": "01:02.92",
-     "seedSeconds": 62.92
     }
    ]
   },
@@ -1793897,37 +1788066,9 @@ window.SWIM_DATA = {
      "club": "הפועל פתח תקווה",
      "startTime": "17:46",
      "heat": "6",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "01:04.07",
      "seedSeconds": 64.07
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "09:46",
-     "heat": "4",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "הפועל פתח תקווה",
-     "startTime": "17:52",
-     "heat": "9",
-     "lane": "6",
-     "seedStr": "01:01.39",
-     "seedSeconds": 61.39
     }
    ]
   },
@@ -1794265,7 +1788406,7 @@ window.SWIM_DATA = {
      "club": "הפועל אקווה נוף הגליל",
      "timeStr": "00:45.90",
      "seconds": 45.9,
-     "place": "65",
+     "place": "66",
      "points": 81
     }
    ],
@@ -1794289,7 +1788430,7 @@ window.SWIM_DATA = {
      "club": "הפועל אקווה נוף הגליל",
      "timeStr": "00:46.87",
      "seconds": 46.87,
-     "place": "66",
+     "place": "67",
      "points": 76
     }
    ],
@@ -1794313,7 +1788454,7 @@ window.SWIM_DATA = {
      "club": "מכבי נצרת",
      "timeStr": "00:49.32",
      "seconds": 49.32,
-     "place": "70",
+     "place": "71",
      "points": 65
     }
    ],
@@ -1794337,7 +1788478,7 @@ window.SWIM_DATA = {
      "club": "מכבי רמת הגולן",
      "timeStr": "00:51.03",
      "seconds": 51.03,
-     "place": "73",
+     "place": "74",
      "points": 59
     }
    ],
@@ -1794361,7 +1788502,7 @@ window.SWIM_DATA = {
      "club": "מכבי רמת הגולן",
      "timeStr": "00:57.07",
      "seconds": 57.07,
-     "place": "75",
+     "place": "76",
      "points": 42
     }
    ],
@@ -1794385,7 +1788526,7 @@ window.SWIM_DATA = {
      "club": "מכבי רמת הגולן",
      "timeStr": "00:58.13",
      "seconds": 58.13,
-     "place": "76",
+     "place": "77",
      "points": 40
     }
    ],
@@ -1794409,7 +1788550,7 @@ window.SWIM_DATA = {
      "club": "מכבי נצרת",
      "timeStr": "DNS",
      "seconds": null,
-     "place": "78",
+     "place": "79",
      "points": 0
     }
    ],
@@ -1794720,37 +1788861,9 @@ window.SWIM_DATA = {
      "club": "מכבי קרית אונו",
      "startTime": "16:25",
      "heat": "6",
-     "lane": "1",
+     "lane": "6",
      "seedStr": "00:59.53",
      "seedSeconds": 59.53
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "09:02",
-     "heat": "2",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "17:20",
-     "heat": "5",
-     "lane": "2",
-     "seedStr": "01:08.70",
-     "seedSeconds": 68.7
     }
    ]
   },
@@ -1794877,34 +1788990,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "00:54.42",
      "seedSeconds": 54.42
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "09:37",
-     "heat": "1",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית אונו",
-     "startTime": "17:50",
-     "heat": "8",
-     "lane": "5",
-     "seedStr": "01:02.88",
-     "seedSeconds": 62.88
     }
    ]
   },
@@ -1795901,43 +1789986,29 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנות 8-19",
+     "poolLength": 25,
+     "club": "מכבי תל אביב",
+     "startTime": "16:28",
+     "heat": "8",
+     "lane": "4",
+     "seedStr": "00:46.60",
+     "seedSeconds": 46.6
+    },
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
      "event": "50 גב",
      "category": "בנות 8-19",
      "poolLength": 25,
      "club": "מכבי תל אביב",
      "startTime": "17:25",
      "heat": "2",
-     "lane": "4",
+     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "09:08",
-     "heat": "4",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "17:22",
-     "heat": "6",
-     "lane": "4",
-     "seedStr": "01:00.12",
-     "seedSeconds": 60.12
     }
    ]
   },
@@ -1796602,34 +1790673,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "00:52.06",
      "seedSeconds": 52.06
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "09:43",
-     "heat": "3",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "17:48",
-     "heat": "7",
-     "lane": "3",
-     "seedStr": "01:04.50",
-     "seedSeconds": 64.5
     }
    ]
   },
@@ -1797013,34 +1791056,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "01:00.46",
      "seedSeconds": 60.46
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "09:40",
-     "heat": "2",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "17:46",
-     "heat": "6",
-     "lane": "5",
-     "seedStr": "01:17.72",
-     "seedSeconds": 77.72
     }
    ]
   },
@@ -1797297,73 +1791312,6 @@ window.SWIM_DATA = {
    ],
    "future": []
   },
-  "2017|איתן·ליבי·צורף": {
-   "id": "2017|איתן·ליבי·צורף",
-   "displayName": "ליבי איתן צורף",
-   "birthYear": 2017,
-   "clubs": [
-    "ע.ל.ה עצמה רעננה"
-   ],
-   "past": [],
-   "future": [
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 מעורב אישי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "15:00",
-     "heat": "1",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חופשי",
-     "category": "בנות 8-19",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "16:21",
-     "heat": "3",
-     "lane": "6",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 גב",
-     "category": "בנות 8-19",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "17:23",
-     "heat": "1",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "17:14",
-     "heat": "2",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    }
-   ]
-  },
   "2018|סופיה·רוד": {
    "id": "2018|סופיה·רוד",
    "displayName": "סופיה רוד",
@@ -1797383,7 +1791331,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "15:00",
      "heat": "1",
-     "lane": "6",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1797395,171 +1791343,62 @@ window.SWIM_DATA = {
      "category": "בנות 8-19",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "16:19",
-     "heat": "2",
-     "lane": "6",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:00",
-     "heat": "1",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "17:12",
-     "heat": "1",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    }
-   ]
-  },
-  "2018|נחשוני·רון": {
-   "id": "2018|נחשוני·רון",
-   "displayName": "רון נחשוני",
-   "birthYear": 2018,
-   "clubs": [
-    "מכבי קרית ביאליק"
-   ],
-   "past": [],
-   "future": [
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 מעורב אישי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "15:30",
-     "heat": "1",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חופשי",
-     "category": "בנים 8-19",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "16:43",
-     "heat": "2",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:37",
-     "heat": "1",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "17:36",
-     "heat": "1",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
-    }
-   ]
-  },
-  "2018|סטיבן·צומיק": {
-   "id": "2018|סטיבן·צומיק",
-   "displayName": "סטיבן צומיק",
-   "birthYear": 2018,
-   "clubs": [
-    "מכבי קרית ביאליק"
-   ],
-   "past": [],
-   "future": [
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 מעורב אישי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "15:30",
-     "heat": "1",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חופשי",
-     "category": "בנים 8-19",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "16:43",
-     "heat": "2",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:37",
-     "heat": "1",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "17:36",
+     "startTime": "16:18",
      "heat": "1",
      "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2017|איתן·ליבי·צורף": {
+   "id": "2017|איתן·ליבי·צורף",
+   "displayName": "ליבי איתן צורף",
+   "birthYear": 2017,
+   "clubs": [
+    "ע.ל.ה עצמה רעננה"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "100 מעורב אישי",
+     "category": "בנות 9-16",
+     "poolLength": 25,
+     "club": "ע.ל.ה עצמה רעננה",
+     "startTime": "15:00",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנות 8-19",
+     "poolLength": 25,
+     "club": "ע.ל.ה עצמה רעננה",
+     "startTime": "16:19",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 גב",
+     "category": "בנות 8-19",
+     "poolLength": 25,
+     "club": "ע.ל.ה עצמה רעננה",
+     "startTime": "17:23",
+     "heat": "1",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1797584,7 +1791423,7 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "15:30",
      "heat": "1",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1797612,20 +1791451,84 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "17:37",
      "heat": "1",
-     "lane": "6",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2018|סטיבן·צומיק": {
+   "id": "2018|סטיבן·צומיק",
+   "displayName": "סטיבן צומיק",
+   "birthYear": 2018,
+   "clubs": [
+    "מכבי קרית ביאליק"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "100 מעורב אישי",
+     "category": "בנים 9-16",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "15:33",
+     "heat": "2",
+     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
     },
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "50 חזה",
+     "event": "50 חופשי",
+     "category": "בנים 8-19",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "16:43",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2018|נחשוני·רון": {
+   "id": "2018|נחשוני·רון",
+   "displayName": "רון נחשוני",
+   "birthYear": 2018,
+   "clubs": [
+    "מכבי קרית ביאליק"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "100 מעורב אישי",
      "category": "בנים 9-16",
      "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "17:36",
-     "heat": "1",
+     "club": "מכבי קרית ביאליק",
+     "startTime": "15:33",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-19",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "16:43",
+     "heat": "2",
      "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
@@ -1797649,9 +1791552,9 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "15:36",
-     "heat": "3",
-     "lane": "2",
+     "startTime": "15:39",
+     "heat": "4",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1797665,7 +1791568,7 @@ window.SWIM_DATA = {
      "club": "ע.ל.ה עצמה רעננה",
      "startTime": "16:47",
      "heat": "5",
-     "lane": "6",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1797677,23 +1791580,9 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "17:39",
-     "heat": "2",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "09:46",
-     "heat": "4",
-     "lane": "4",
+     "startTime": "17:41",
+     "heat": "3",
+     "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1797718,7 +1791607,7 @@ window.SWIM_DATA = {
      "club": "ע.ל.ה עצמה רעננה",
      "startTime": "15:39",
      "heat": "4",
-     "lane": "1",
+     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1797732,7 +1791621,7 @@ window.SWIM_DATA = {
      "club": "ע.ל.ה עצמה רעננה",
      "startTime": "17:41",
      "heat": "3",
-     "lane": "6",
+     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1797746,7 +1791635,7 @@ window.SWIM_DATA = {
      "club": "ע.ל.ה עצמה רעננה",
      "startTime": "18:17",
      "heat": "2",
-     "lane": "4",
+     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1797769,9 +1791658,9 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "15:39",
-     "heat": "4",
-     "lane": "5",
+     "startTime": "15:42",
+     "heat": "5",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1797785,44 +1791674,16 @@ window.SWIM_DATA = {
      "club": "ע.ל.ה עצמה רעננה",
      "startTime": "18:17",
      "heat": "2",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "09:51",
-     "heat": "6",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "200 מעורב אישי",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "15:29",
-     "heat": "2",
-     "lane": "5",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     }
    ]
   },
-  "2014|אוריאל·אלחזוב": {
-   "id": "2014|אוריאל·אלחזוב",
-   "displayName": "אוריאל אלחזוב",
-   "birthYear": 2014,
+  "2019|ברוסנצוב·מילנה": {
+   "id": "2019|ברוסנצוב·מילנה",
+   "displayName": "מילנה ברוסנצוב",
+   "birthYear": 2019,
    "clubs": [
     "Eilat Swimming"
    ],
@@ -1797832,63 +1791693,21 @@ window.SWIM_DATA = {
      "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "100 מעורב אישי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "15:45",
-     "heat": "6",
-     "lane": "1",
-     "seedStr": "02:04.25",
-     "seedSeconds": 124.25
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
      "event": "50 חופשי",
-     "category": "בנים 8-19",
+     "category": "בנות 8-19",
      "poolLength": 25,
      "club": "Eilat Swimming",
-     "startTime": "16:56",
-     "heat": "11",
+     "startTime": "16:18",
+     "heat": "1",
      "lane": "1",
-     "seedStr": "00:50.21",
-     "seedSeconds": 50.21
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 גב",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "17:42",
-     "heat": "4",
-     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "10:05",
-     "heat": "11",
-     "lane": "3",
-     "seedStr": "01:50.53",
-     "seedSeconds": 110.53
     }
    ]
   },
-  "2018|אריאל·ורבורג": {
-   "id": "2018|אריאל·ורבורג",
-   "displayName": "אריאל ורבורג",
+  "2018|מיאקישב·סופיה": {
+   "id": "2018|מיאקישב·סופיה",
+   "displayName": "סופיה מיאקישב",
    "birthYear": 2018,
    "clubs": [
     "Eilat Swimming"
@@ -1797930,15 +1791749,15 @@ window.SWIM_DATA = {
      "club": "Eilat Swimming",
      "startTime": "16:18",
      "heat": "1",
-     "lane": "3",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     }
    ]
   },
-  "2018|מיאקישב·סופיה": {
-   "id": "2018|מיאקישב·סופיה",
-   "displayName": "סופיה מיאקישב",
+  "2018|אריאל·ורבורג": {
+   "id": "2018|אריאל·ורבורג",
+   "displayName": "אריאל ורבורג",
    "birthYear": 2018,
    "clubs": [
     "Eilat Swimming"
@@ -1797955,57 +1791774,7 @@ window.SWIM_DATA = {
      "club": "Eilat Swimming",
      "startTime": "16:18",
      "heat": "1",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
-    }
-   ]
-  },
-  "2019|ברוסנצוב·מילנה": {
-   "id": "2019|ברוסנצוב·מילנה",
-   "displayName": "מילנה ברוסנצוב",
-   "birthYear": 2019,
-   "clubs": [
-    "Eilat Swimming"
-   ],
-   "past": [],
-   "future": [
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חופשי",
-     "category": "בנות 8-19",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "16:18",
-     "heat": "1",
      "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
-    }
-   ]
-  },
-  "2017|אריבריסטר·רוזלינה": {
-   "id": "2017|אריבריסטר·רוזלינה",
-   "displayName": "רוזלינה אריבריסטר",
-   "birthYear": 2017,
-   "clubs": [
-    "Eilat Swimming"
-   ],
-   "past": [],
-   "future": [
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חופשי",
-     "category": "בנות 8-19",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "16:21",
-     "heat": "3",
-     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1798030,7 +1791799,57 @@ window.SWIM_DATA = {
      "club": "Eilat Swimming",
      "startTime": "16:21",
      "heat": "3",
-     "lane": "4",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2016|גוטמן·מיה": {
+   "id": "2016|גוטמן·מיה",
+   "displayName": "מיה גוטמן",
+   "birthYear": 2016,
+   "clubs": [
+    "ע.ל.ה עצמה רעננה"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנות 8-19",
+     "poolLength": 25,
+     "club": "ע.ל.ה עצמה רעננה",
+     "startTime": "16:21",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2017|אריבריסטר·רוזלינה": {
+   "id": "2017|אריבריסטר·רוזלינה",
+   "displayName": "רוזלינה אריבריסטר",
+   "birthYear": 2017,
+   "clubs": [
+    "Eilat Swimming"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנות 8-19",
+     "poolLength": 25,
+     "club": "Eilat Swimming",
+     "startTime": "16:21",
+     "heat": "3",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1798055,74 +1791874,7 @@ window.SWIM_DATA = {
      "club": "Eilat Swimming",
      "startTime": "16:22",
      "heat": "4",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
-    }
-   ]
-  },
-  "2016|גוטמן·מיה": {
-   "id": "2016|גוטמן·מיה",
-   "displayName": "מיה גוטמן",
-   "birthYear": 2016,
-   "clubs": [
-    "ע.ל.ה עצמה רעננה"
-   ],
-   "past": [],
-   "future": [
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חופשי",
-     "category": "בנות 8-19",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "16:22",
-     "heat": "4",
-     "lane": "6",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "09:08",
-     "heat": "4",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנות 11-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "11:43",
-     "heat": "1",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "17:16",
-     "heat": "3",
-     "lane": "5",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1798147,7 +1791899,7 @@ window.SWIM_DATA = {
      "club": "Eilat Swimming",
      "startTime": "16:24",
      "heat": "5",
-     "lane": "2",
+     "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1798159,23 +1791911,9 @@ window.SWIM_DATA = {
      "category": "בנות 8-19",
      "poolLength": 25,
      "club": "Eilat Swimming",
-     "startTime": "17:26",
-     "heat": "3",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "09:11",
-     "heat": "5",
-     "lane": "4",
+     "startTime": "17:28",
+     "heat": "4",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1798256,20 +1791994,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנות 9-16",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "17:18",
-     "heat": "4",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1798323,45 +1792047,6 @@ window.SWIM_DATA = {
     }
    ]
   },
-  "2018|אמירם·צ’שב": {
-   "id": "2018|אמירם·צ’שב",
-   "displayName": "אמירם צ’שב",
-   "birthYear": 2018,
-   "clubs": [
-    "Eilat Swimming"
-   ],
-   "past": [],
-   "future": [
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חופשי",
-     "category": "בנים 8-19",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "16:43",
-     "heat": "2",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-05",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 גב",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "17:44",
-     "heat": "5",
-     "lane": "2",
-     "seedStr": "01:17.09",
-     "seedSeconds": 77.09
-    }
-   ]
-  },
   "2018|מרכוס·עמרי": {
    "id": "2018|מרכוס·עמרי",
    "displayName": "עמרי מרכוס",
@@ -1798381,15 +1792066,15 @@ window.SWIM_DATA = {
      "club": "ע.ל.ה עצמה רעננה",
      "startTime": "16:43",
      "heat": "2",
-     "lane": "2",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     }
    ]
   },
-  "2018|טימור·לינצקי": {
-   "id": "2018|טימור·לינצקי",
-   "displayName": "טימור לינצקי",
+  "2018|אמירם·צ’שב": {
+   "id": "2018|אמירם·צ’שב",
+   "displayName": "אמירם צ’שב",
    "birthYear": 2018,
    "clubs": [
     "Eilat Swimming"
@@ -1798406,9 +1792091,23 @@ window.SWIM_DATA = {
      "club": "Eilat Swimming",
      "startTime": "16:43",
      "heat": "2",
-     "lane": "3",
+     "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
+    },
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 גב",
+     "category": "בנים 9-16",
+     "poolLength": 25,
+     "club": "Eilat Swimming",
+     "startTime": "17:46",
+     "heat": "6",
+     "lane": "6",
+     "seedStr": "01:17.09",
+     "seedSeconds": 77.09
     }
    ]
   },
@@ -1798431,7 +1792130,7 @@ window.SWIM_DATA = {
      "club": "Eilat Swimming",
      "startTime": "16:44",
      "heat": "3",
-     "lane": "1",
+     "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1798445,16 +1792144,16 @@ window.SWIM_DATA = {
      "club": "Eilat Swimming",
      "startTime": "17:37",
      "heat": "1",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     }
    ]
   },
-  "2017|דוד·קירילוב": {
-   "id": "2017|דוד·קירילוב",
-   "displayName": "דוד קירילוב",
-   "birthYear": 2017,
+  "2018|טימור·לינצקי": {
+   "id": "2018|טימור·לינצקי",
+   "displayName": "טימור לינצקי",
+   "birthYear": 2018,
    "clubs": [
     "Eilat Swimming"
    ],
@@ -1798470,7 +1792169,32 @@ window.SWIM_DATA = {
      "club": "Eilat Swimming",
      "startTime": "16:44",
      "heat": "3",
-     "lane": "3",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2017|אלכסנדר·צ’דייב": {
+   "id": "2017|אלכסנדר·צ’דייב",
+   "displayName": "אלכסנדר צ’דייב",
+   "birthYear": 2017,
+   "clubs": [
+    "Eilat Swimming"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-05",
+     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
+     "compId": 15896,
+     "event": "50 חופשי",
+     "category": "בנים 8-19",
+     "poolLength": 25,
+     "club": "Eilat Swimming",
+     "startTime": "16:46",
+     "heat": "4",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1798482,45 +1792206,17 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "Eilat Swimming",
-     "startTime": "17:46",
-     "heat": "6",
-     "lane": "6",
-     "seedStr": "01:05.77",
-     "seedSeconds": 65.77
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "10:02",
-     "heat": "10",
-     "lane": "6",
-     "seedStr": "02:07.28",
-     "seedSeconds": 127.28
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "Eilat Swimming",
-     "startTime": "17:40",
-     "heat": "3",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
+     "startTime": "17:44",
+     "heat": "5",
+     "lane": "2",
+     "seedStr": "01:25.17",
+     "seedSeconds": 85.17
     }
    ]
   },
-  "2017|אלכסנדר·צ’דייב": {
-   "id": "2017|אלכסנדר·צ’דייב",
-   "displayName": "אלכסנדר צ’דייב",
+  "2017|דוד·קירילוב": {
+   "id": "2017|דוד·קירילוב",
+   "displayName": "דוד קירילוב",
    "birthYear": 2017,
    "clubs": [
     "Eilat Swimming"
@@ -1798549,11 +1792245,11 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "Eilat Swimming",
-     "startTime": "17:44",
-     "heat": "5",
-     "lane": "6",
-     "seedStr": "01:25.17",
-     "seedSeconds": 85.17
+     "startTime": "17:46",
+     "heat": "6",
+     "lane": "2",
+     "seedStr": "01:05.77",
+     "seedSeconds": 65.77
     }
    ]
   },
@@ -1798577,34 +1792273,6 @@ window.SWIM_DATA = {
      "startTime": "16:49",
      "heat": "6",
      "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חזה",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "12:00",
-     "heat": "1",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "17:42",
-     "heat": "4",
-     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1798641,23 +1792309,9 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "17:39",
-     "heat": "2",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "09:48",
-     "heat": "5",
-     "lane": "3",
+     "startTime": "17:41",
+     "heat": "3",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1798696,21 +1792350,7 @@ window.SWIM_DATA = {
      "club": "מכבי מרום רמת גן",
      "startTime": "17:42",
      "heat": "4",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "09:59",
-     "heat": "9",
-     "lane": "2",
+     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1798749,37 +1792389,34 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "startTime": "17:47",
      "heat": "7",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "00:59.62",
      "seedSeconds": 59.62
-    },
+    }
+   ]
+  },
+  "2014|אוריאל·אלחזוב": {
+   "id": "2014|אוריאל·אלחזוב",
+   "displayName": "אוריאל אלחזוב",
+   "birthYear": 2014,
+   "clubs": [
+    "Eilat Swimming"
+   ],
+   "past": [],
+   "future": [
     {
-     "date": "2026-11-06",
+     "date": "2026-11-05",
      "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
      "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
+     "event": "50 חופשי",
+     "category": "בנים 8-19",
      "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "09:59",
-     "heat": "9",
-     "lane": "6",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 גב",
-     "category": "בנים 11-16",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "16:16",
-     "heat": "2",
-     "lane": "3",
-     "seedStr": "NT",
-     "seedSeconds": null
+     "club": "Eilat Swimming",
+     "startTime": "16:56",
+     "heat": "11",
+     "lane": "1",
+     "seedStr": "00:50.21",
+     "seedSeconds": 50.21
     }
    ]
   },
@@ -1798800,44 +1792437,16 @@ window.SWIM_DATA = {
      "category": "בנים 9-16",
      "poolLength": 25,
      "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "17:39",
-     "heat": "2",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "100 חופשי",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "09:46",
-     "heat": "4",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-06",
-     "competition": "אליפות אילת הפתוחה 2026 - 05/11/2026",
-     "compId": 15896,
-     "event": "50 חזה",
-     "category": "בנים 9-16",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "17:40",
+     "startTime": "17:41",
      "heat": "3",
-     "lane": "4",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
     }
    ]
   }
  },
- "lastChecked": "2026-11-03 23:08",
- "newThisRun": 2,
+ "lastChecked": "2026-11-04 23:27",
+ "newThisRun": 0,
  "newComps": []
 };
