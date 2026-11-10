@@ -3,7 +3,7 @@ window.SWIM_DATA = {
  "generated": "2026-11-08",
  "source": "isr.org.il  →  loglig.com  (SQLite backend)",
  "isSeedSample": false,
- "swimmerCount": 6756,
+ "swimmerCount": 6762,
  "swimmers": {
   "2006|יבגניה·קליימן": {
    "id": "2006|יבגניה·קליימן",
@@ -15977,7 +15977,50 @@ window.SWIM_DATA = {
      "points": 432
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "18:27",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "01:05.22",
+     "seedSeconds": 65.22
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 גב",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "18:43",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "02:39.88",
+     "seedSeconds": 159.88
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 גב",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "19:20",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "01:13.47",
+     "seedSeconds": 73.47
+    }
+   ]
   },
   "2011|מיקה·פלדמן": {
    "id": "2011|מיקה·פלדמן",
@@ -17287,7 +17330,50 @@ window.SWIM_DATA = {
      "points": 490
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "18:18",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "02:43.26",
+     "seedSeconds": 163.26
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "18:39",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "01:23.03",
+     "seedSeconds": 83.03
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "19:06",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "03:07.49",
+     "seedSeconds": 187.49
+    }
+   ]
   },
   "2012|אריאל·מיכאל": {
    "id": "2012|אריאל·מיכאל",
@@ -71138,7 +71224,36 @@ window.SWIM_DATA = {
      "points": 502
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "18:50",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "02:19.42",
+     "seedSeconds": 139.42
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "400 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "19:24",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "04:49.19",
+     "seedSeconds": 289.19
+    }
+   ]
   },
   "2011|אלין·נחום": {
    "id": "2011|אלין·נחום",
@@ -77212,7 +77327,36 @@ window.SWIM_DATA = {
      "points": 494
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:50",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "02:17.81",
+     "seedSeconds": 137.81
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "400 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "19:24",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "04:51.19",
+     "seedSeconds": 291.19
+    }
+   ]
   },
   "2011|אמילי·קוקלינסקי": {
    "id": "2011|אמילי·קוקלינסקי",
@@ -81954,7 +82098,50 @@ window.SWIM_DATA = {
      "points": 628
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:30",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "00:50.85",
+     "seedSeconds": 50.85
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:57",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "01:51.93",
+     "seedSeconds": 111.93
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 פרפר",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "19:04",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "01:01.13",
+     "seedSeconds": 61.13
+    }
+   ]
   },
   "2008|אבו·חרש·ראזי": {
    "id": "2008|אבו·חרש·ראזי",
@@ -83913,7 +84100,36 @@ window.SWIM_DATA = {
      "points": 374
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 גב",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:47",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "02:09.60",
+     "seedSeconds": 129.6
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 גב",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "19:22",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "01:00.32",
+     "seedSeconds": 60.32
+    }
+   ]
   },
   "2007|הרצקה·יהלי": {
    "id": "2007|הרצקה·יהלי",
@@ -85131,7 +85347,36 @@ window.SWIM_DATA = {
      "points": 595
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:30",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "00:54.78",
+     "seedSeconds": 54.78
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "400 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "19:30",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "04:16.92",
+     "seedSeconds": 256.92
+    }
+   ]
   },
   "2007|גפי·רפאל": {
    "id": "2007|גפי·רפאל",
@@ -113582,7 +113827,36 @@ window.SWIM_DATA = {
      "points": 411
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 פרפר",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "18:32",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "02:38.77",
+     "seedSeconds": 158.77
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 פרפר",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "19:00",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "01:14.93",
+     "seedSeconds": 74.93
+    }
+   ]
   },
   "2010|הולינגר·מאיה": {
    "id": "2010|הולינגר·מאיה",
@@ -116809,7 +117083,36 @@ window.SWIM_DATA = {
      "points": 377
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:39",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "01:23.96",
+     "seedSeconds": 83.96
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "19:06",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "03:09.54",
+     "seedSeconds": 189.54
+    }
+   ]
   },
   "2011|אוקון·נוגה": {
    "id": "2011|אוקון·נוגה",
@@ -131106,7 +131409,36 @@ window.SWIM_DATA = {
      "points": 412
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:30",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "00:58.52",
+     "seedSeconds": 58.52
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 חזה",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:41",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "01:05.39",
+     "seedSeconds": 65.39
+    }
+   ]
   },
   "2006|לוינסון·עודד": {
    "id": "2006|לוינסון·עודד",
@@ -143327,7 +143659,36 @@ window.SWIM_DATA = {
      "points": 461
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 פרפר",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:32",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "02:19.64",
+     "seedSeconds": 139.64
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "19:10",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "02:47.94",
+     "seedSeconds": 167.94
+    }
+   ]
   },
   "2007|מנה·רעות": {
    "id": "2007|מנה·רעות",
@@ -166870,7 +167231,36 @@ window.SWIM_DATA = {
      "points": 577
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "15:08",
+     "heat": "5",
+     "lane": "5",
+     "seedStr": "01:04.30",
+     "seedSeconds": 64.3
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "16:01",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "04:50.27",
+     "seedSeconds": 290.27
+    }
+   ]
   },
   "2009|מקליס·נטלי·שרה": {
    "id": "2009|מקליס·נטלי·שרה",
@@ -257293,7 +257683,36 @@ window.SWIM_DATA = {
      "points": 499
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 גב",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:47",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "02:09.55",
+     "seedSeconds": 129.55
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 גב",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "19:22",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "00:58.03",
+     "seedSeconds": 58.03
+    }
+   ]
   },
   "2010|איתי·פקלר": {
    "id": "2010|איתי·פקלר",
@@ -258162,7 +258581,36 @@ window.SWIM_DATA = {
      "points": 397
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 פרפר",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:36",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "02:23.46",
+     "seedSeconds": 143.46
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 פרפר",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "19:04",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "01:06.64",
+     "seedSeconds": 66.64
+    }
+   ]
   },
   "2010|אורי·לוין": {
    "id": "2010|אורי·לוין",
@@ -263125,7 +263573,36 @@ window.SWIM_DATA = {
      "points": 519
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:27",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "01:01.36",
+     "seedSeconds": 61.36
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:50",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "02:12.07",
+     "seedSeconds": 132.07
+    }
+   ]
   },
   "2010|אריאל·מזרחי": {
    "id": "2010|אריאל·מזרחי",
@@ -264098,7 +264575,36 @@ window.SWIM_DATA = {
      "points": 528
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "19:10",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "02:44.43",
+     "seedSeconds": 164.43
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "400 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "19:24",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "06:02.60",
+     "seedSeconds": 362.6
+    }
+   ]
   },
   "2011|חיניץ·מאיה": {
    "id": "2011|חיניץ·מאיה",
@@ -293141,7 +293647,50 @@ window.SWIM_DATA = {
      "points": 449
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 גב",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "18:47",
+     "heat": "1",
+     "lane": "7",
+     "seedStr": "02:35.73",
+     "seedSeconds": 155.73
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "18:53",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "02:19.04",
+     "seedSeconds": 139.04
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 גב",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "19:22",
+     "heat": "1",
+     "lane": "7",
+     "seedStr": "01:08.82",
+     "seedSeconds": 68.82
+    }
+   ]
   },
   "2012|גלוזברג·ירדן": {
    "id": "2012|גלוזברג·ירדן",
@@ -633125,7 +633674,22 @@ window.SWIM_DATA = {
      "points": 363
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 גב",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "19:20",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "01:17.33",
+     "seedSeconds": 77.33
+    }
+   ]
   },
   "2005|אומלצ'נקו·סטפן": {
    "id": "2005|אומלצ'נקו·סטפן",
@@ -677837,7 +678401,36 @@ window.SWIM_DATA = {
      "points": 517
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:18",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "02:37.90",
+     "seedSeconds": 157.9
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "19:10",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "02:41.09",
+     "seedSeconds": 161.09
+    }
+   ]
   },
   "2013|ליאם·מרים·תורגמן": {
    "id": "2013|ליאם·מרים·תורגמן",
@@ -678732,7 +679325,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:18",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "02:41.69",
+     "seedSeconds": 161.69
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 פרפר",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "19:00",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "01:11.69",
+     "seedSeconds": 71.69
+    }
+   ]
   },
   "2012|מרגוליס·קארין": {
    "id": "2012|מרגוליס·קארין",
@@ -679887,7 +680509,36 @@ window.SWIM_DATA = {
      "points": 539
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:39",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "01:15.69",
+     "seedSeconds": 75.69
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "19:10",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "02:48.36",
+     "seedSeconds": 168.36
+    }
+   ]
   },
   "2013|אמה·מנסה": {
    "id": "2013|אמה·מנסה",
@@ -682299,7 +682950,36 @@ window.SWIM_DATA = {
      "points": 473
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:27",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "01:01.73",
+     "seedSeconds": 61.73
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:50",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "02:13.87",
+     "seedSeconds": 133.87
+    }
+   ]
   },
   "2012|חן·לי·עובדיה": {
    "id": "2012|חן·לי·עובדיה",
@@ -683285,7 +683965,36 @@ window.SWIM_DATA = {
      "points": 308
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:15",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "02:58.54",
+     "seedSeconds": 178.54
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:27",
+     "heat": "2",
+     "lane": "7",
+     "seedStr": "01:08.91",
+     "seedSeconds": 68.91
+    }
+   ]
   },
   "2014|אדל·פרבוזצ'יקוב": {
    "id": "2014|אדל·פרבוזצ'יקוב",
@@ -684672,7 +685381,36 @@ window.SWIM_DATA = {
      "points": 400
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:25",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "01:13.28",
+     "seedSeconds": 73.28
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "400 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "19:24",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "05:12.49",
+     "seedSeconds": 312.49
+    }
+   ]
   },
   "2013|קחן·רוני": {
    "id": "2013|קחן·רוני",
@@ -686163,7 +686901,36 @@ window.SWIM_DATA = {
      "points": 392
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:39",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "01:27.12",
+     "seedSeconds": 87.12
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "19:06",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "03:19.38",
+     "seedSeconds": 199.38
+    }
+   ]
   },
   "2013|אלמה·עוואד": {
    "id": "2013|אלמה·עוואד",
@@ -697277,7 +698044,36 @@ window.SWIM_DATA = {
      "points": 338
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:18",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "02:44.97",
+     "seedSeconds": 164.97
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 פרפר",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "19:00",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "01:20.30",
+     "seedSeconds": 80.3
+    }
+   ]
   },
   "2012|בכר·הדר": {
    "id": "2012|בכר·הדר",
@@ -699650,7 +700446,36 @@ window.SWIM_DATA = {
      "points": 333
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:30",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "00:55.96",
+     "seedSeconds": 55.96
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 חזה",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:41",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "01:42.80",
+     "seedSeconds": 102.8
+    }
+   ]
   },
   "2012|חוג'ה·עילאי": {
    "id": "2012|חוג'ה·עילאי",
@@ -702257,7 +703082,36 @@ window.SWIM_DATA = {
      "points": 528
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:57",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "02:05.81",
+     "seedSeconds": 125.81
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "400 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "19:30",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "04:22.52",
+     "seedSeconds": 262.52
+    }
+   ]
   },
   "2012|איתן·אפרים·ורדי": {
    "id": "2012|איתן·אפרים·ורדי",
@@ -705603,7 +706457,36 @@ window.SWIM_DATA = {
      "points": 597
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 פרפר",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:36",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "02:12.63",
+     "seedSeconds": 132.63
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 פרפר",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "19:04",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "01:00.38",
+     "seedSeconds": 60.38
+    }
+   ]
   },
   "2013|מרואני·עידו·רוברט": {
    "id": "2013|מרואני·עידו·רוברט",
@@ -706938,7 +707821,50 @@ window.SWIM_DATA = {
      "points": 387
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:30",
+     "heat": "2",
+     "lane": "7",
+     "seedStr": "01:00.04",
+     "seedSeconds": 60.04
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:57",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "02:09.81",
+     "seedSeconds": 129.81
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 גב",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "19:22",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "01:07.04",
+     "seedSeconds": 67.04
+    }
+   ]
   },
   "2011|אבני·איתי": {
    "id": "2011|אבני·איתי",
@@ -707911,7 +708837,36 @@ window.SWIM_DATA = {
      "points": 346
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 גב",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:47",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "02:26.36",
+     "seedSeconds": 146.36
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:57",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "02:11.70",
+     "seedSeconds": 131.7
+    }
+   ]
   },
   "2011|גלבר·עומר": {
    "id": "2011|גלבר·עומר",
@@ -709454,7 +710409,36 @@ window.SWIM_DATA = {
      "points": 347
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 גב",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:47",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "02:31.04",
+     "seedSeconds": 151.04
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 גב",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "19:22",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "01:08.65",
+     "seedSeconds": 68.65
+    }
+   ]
   },
   "2012|איתן·ברק": {
    "id": "2012|איתן·ברק",
@@ -710219,7 +711203,36 @@ window.SWIM_DATA = {
      "points": 499
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 גב",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:47",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "02:24.03",
+     "seedSeconds": 144.03
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "400 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "19:30",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "04:27.54",
+     "seedSeconds": 267.54
+    }
+   ]
   },
   "2011|אהרוני·איתמר": {
    "id": "2011|אהרוני·איתמר",
@@ -744793,7 +745806,36 @@ window.SWIM_DATA = {
      "points": 347
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:30",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "00:59.63",
+     "seedSeconds": 59.63
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 פרפר",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "19:02",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "01:16.08",
+     "seedSeconds": 76.08
+    }
+   ]
   },
   "2012|ליבנסון·ניקיטה": {
    "id": "2012|ליבנסון·ניקיטה",
@@ -761054,7 +762096,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 פרפר",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:36",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "02:30.23",
+     "seedSeconds": 150.23
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "400 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "19:42",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "05:05.54",
+     "seedSeconds": 305.54
+    }
+   ]
   },
   "2011|איתי·ארונוב": {
    "id": "2011|איתי·ארונוב",
@@ -805168,7 +806239,36 @@ window.SWIM_DATA = {
      "points": 447
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 גב",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:47",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "01:15.24",
+     "seedSeconds": 75.24
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "16:01",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "05:01.03",
+     "seedSeconds": 301.03
+    }
+   ]
   },
   "2012|אדל·גלמגה": {
    "id": "2012|אדל·גלמגה",
@@ -806477,7 +807577,36 @@ window.SWIM_DATA = {
      "points": 481
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "15:08",
+     "heat": "5",
+     "lane": "6",
+     "seedStr": "01:07.05",
+     "seedSeconds": 67.05
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "16:01",
+     "heat": "2",
+     "lane": "7",
+     "seedStr": "05:16.07",
+     "seedSeconds": 316.07
+    }
+   ]
   },
   "2007|אוקאן·גולדין": {
    "id": "2007|אוקאן·גולדין",
@@ -822721,7 +823850,36 @@ window.SWIM_DATA = {
      "points": 236
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "סוהו טים שחייה",
+     "startTime": "18:15",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "03:35.30",
+     "seedSeconds": 215.3
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "סוהו טים שחייה",
+     "startTime": "18:39",
+     "heat": "1",
+     "lane": "1",
+     "seedStr": "01:41.45",
+     "seedSeconds": 101.45
+    }
+   ]
   },
   "2015|יעל·מראני": {
    "id": "2015|יעל·מראני",
@@ -868959,7 +870117,50 @@ window.SWIM_DATA = {
      "points": 536
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "18:18",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "02:44.00",
+     "seedSeconds": 164.0
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 גב",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "18:43",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 גב",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "19:18",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "01:21.37",
+     "seedSeconds": 81.37
+    }
+   ]
   },
   "2011|יהלי·עברי": {
    "id": "2011|יהלי·עברי",
@@ -883299,7 +884500,50 @@ window.SWIM_DATA = {
      "points": 509
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "18:22",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "02:23.56",
+     "seedSeconds": 143.56
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 פרפר",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "18:36",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "02:28.37",
+     "seedSeconds": 148.37
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 פרפר",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "19:04",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "01:03.90",
+     "seedSeconds": 63.9
+    }
+   ]
   },
   "2011|אלכסנדר·בורין": {
    "id": "2011|אלכסנדר·בורין",
@@ -885306,7 +886550,36 @@ window.SWIM_DATA = {
      "points": 412
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "18:30",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "01:02.08",
+     "seedSeconds": 62.08
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "18:57",
+     "heat": "2",
+     "lane": "7",
+     "seedStr": "02:17.62",
+     "seedSeconds": 137.62
+    }
+   ]
   },
   "2011|אחמד·יאסין": {
    "id": "2011|אחמד·יאסין",
@@ -888551,7 +889824,36 @@ window.SWIM_DATA = {
      "points": 427
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 פרפר",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "19:04",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "01:04.46",
+     "seedSeconds": 64.46
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 גב",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "19:22",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "01:06.54",
+     "seedSeconds": 66.54
+    }
+   ]
   },
   "2013|אמילי·פטרוביץ": {
    "id": "2013|אמילי·פטרוביץ",
@@ -890069,7 +891371,64 @@ window.SWIM_DATA = {
      "points": 319
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "18:25",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "01:09.33",
+     "seedSeconds": 69.33
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 גב",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "18:43",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "03:02.86",
+     "seedSeconds": 182.86
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "18:50",
+     "heat": "1",
+     "lane": "7",
+     "seedStr": "02:31.34",
+     "seedSeconds": 151.34
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 גב",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "19:18",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "01:24.31",
+     "seedSeconds": 84.31
+    }
+   ]
   },
   "2012|דנה·ווזנסקי·נח": {
    "id": "2012|דנה·ווזנסקי·נח",
@@ -918286,7 +919645,36 @@ window.SWIM_DATA = {
      "points": 282
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חזה",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:59",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "00:37.60",
+     "seedSeconds": 37.6
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חזה",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "15:53",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "01:26.83",
+     "seedSeconds": 86.83
+    }
+   ]
   },
   "2011|אקולוב·פיליפ": {
    "id": "2011|אקולוב·פיליפ",
@@ -926141,7 +927529,36 @@ window.SWIM_DATA = {
      "points": 426
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "18:25",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "01:09.49",
+     "seedSeconds": 69.49
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "400 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "19:24",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "05:32.38",
+     "seedSeconds": 332.38
+    }
+   ]
   },
   "2010|אסדי·יארא": {
    "id": "2010|אסדי·יארא",
@@ -932173,7 +933590,36 @@ window.SWIM_DATA = {
      "points": 475
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "15:20",
+     "heat": "6",
+     "lane": "6",
+     "seedStr": "01:02.00",
+     "seedSeconds": 62.0
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "16:25",
+     "heat": "4",
+     "lane": "6",
+     "seedStr": "04:33.04",
+     "seedSeconds": 273.04
+    }
+   ]
   },
   "2005|יובל·סגל": {
    "id": "2005|יובל·סגל",
@@ -936354,7 +937800,36 @@ window.SWIM_DATA = {
      "points": 420
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 פרפר",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "19:04",
+     "heat": "2",
+     "lane": "7",
+     "seedStr": "01:08.27",
+     "seedSeconds": 68.27
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 חזה",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "19:14",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "02:44.78",
+     "seedSeconds": 164.78
+    }
+   ]
   },
   "2009|טימור·מטריצ’קו": {
    "id": "2009|טימור·מטריצ’קו",
@@ -939684,7 +941159,36 @@ window.SWIM_DATA = {
      "points": 399
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 פרפר",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "18:32",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "03:03.84",
+     "seedSeconds": 183.84
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "18:50",
+     "heat": "1",
+     "lane": "1",
+     "seedStr": "02:38.27",
+     "seedSeconds": 158.27
+    }
+   ]
   },
   "2013|יעקובי·נופר": {
    "id": "2013|יעקובי·נופר",
@@ -952799,7 +954303,36 @@ window.SWIM_DATA = {
      "points": 326
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 מעורב אישי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "סוהו טים שחייה",
+     "startTime": "18:15",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "03:01.69",
+     "seedSeconds": 181.69
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "סוהו טים שחייה",
+     "startTime": "18:39",
+     "heat": "1",
+     "lane": "7",
+     "seedStr": "01:34.90",
+     "seedSeconds": 94.9
+    }
+   ]
   },
   "2013|אלכסנדרה·גרישצ'וק": {
    "id": "2013|אלכסנדרה·גרישצ'וק",
@@ -964440,7 +965973,36 @@ window.SWIM_DATA = {
      "points": 449
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:06",
+     "heat": "4",
+     "lane": "7",
+     "seedStr": "01:11.98",
+     "seedSeconds": 71.98
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:30",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "01:17.72",
+     "seedSeconds": 77.72
+    }
+   ]
   },
   "2013|יובל·שרף": {
    "id": "2013|יובל·שרף",
@@ -973678,7 +975240,36 @@ window.SWIM_DATA = {
      "points": 249
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 גב",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:53",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "01:18.60",
+     "seedSeconds": 78.6
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "16:19",
+     "heat": "3",
+     "lane": "7",
+     "seedStr": "05:17.60",
+     "seedSeconds": 317.6
+    }
+   ]
   },
   "2012|בלוזיורצב·טום": {
    "id": "2012|בלוזיורצב·טום",
@@ -974469,7 +976060,36 @@ window.SWIM_DATA = {
      "points": 307
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:18",
+     "heat": "5",
+     "lane": "7",
+     "seedStr": "01:09.25",
+     "seedSeconds": 69.25
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "16:25",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "04:48.73",
+     "seedSeconds": 288.73
+    }
+   ]
   },
   "2013|מאיר·שחר": {
    "id": "2013|מאיר·שחר",
@@ -975338,7 +976958,36 @@ window.SWIM_DATA = {
      "points": 192
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 גב",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:53",
+     "heat": "3",
+     "lane": "7",
+     "seedStr": "01:18.02",
+     "seedSeconds": 78.02
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:38",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "01:20.26",
+     "seedSeconds": 80.26
+    }
+   ]
   },
   "2013|מיכאל·נוי": {
    "id": "2013|מיכאל·נוי",
@@ -981827,7 +983476,22 @@ window.SWIM_DATA = {
      "points": 439
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "400 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "19:30",
+     "heat": "1",
+     "lane": "7",
+     "seedStr": "04:39.23",
+     "seedSeconds": 279.23
+    }
+   ]
   },
   "2012|אריאלי·יוסף": {
    "id": "2012|אריאלי·יוסף",
@@ -983552,7 +985216,36 @@ window.SWIM_DATA = {
      "points": 265
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 גב",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:53",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "01:11.87",
+     "seedSeconds": 71.87
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "16:19",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "05:09.79",
+     "seedSeconds": 309.79
+    }
+   ]
   },
   "2012|צוק·תומר": {
    "id": "2012|צוק·תומר",
@@ -984591,7 +986284,36 @@ window.SWIM_DATA = {
      "points": 429
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:20",
+     "heat": "6",
+     "lane": "3",
+     "seedStr": "01:01.90",
+     "seedSeconds": 61.9
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חזה",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:53",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "01:26.25",
+     "seedSeconds": 86.25
+    }
+   ]
   },
   "2012|אילן·מסיקה": {
    "id": "2012|אילן·מסיקה",
@@ -985395,7 +987117,36 @@ window.SWIM_DATA = {
      "points": 306
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:23",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "00:34.06",
+     "seedSeconds": 34.06
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:40",
+     "heat": "5",
+     "lane": "7",
+     "seedStr": "01:18.28",
+     "seedSeconds": 78.28
+    }
+   ]
   },
   "2013|אריק·רימלנד": {
    "id": "2013|אריק·רימלנד",
@@ -986290,7 +988041,36 @@ window.SWIM_DATA = {
      "points": 281
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:38",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "01:23.46",
+     "seedSeconds": 83.46
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "16:13",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "05:30.15",
+     "seedSeconds": 330.15
+    }
+   ]
   },
   "2013|פישמן·רון": {
    "id": "2013|פישמן·רון",
@@ -987146,7 +988926,36 @@ window.SWIM_DATA = {
      "points": 316
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 גב",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:53",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "01:12.16",
+     "seedSeconds": 72.16
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "16:19",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "05:14.95",
+     "seedSeconds": 314.95
+    }
+   ]
   },
   "2012|איתי·צברי": {
    "id": "2012|איתי·צברי",
@@ -1001086,7 +1002895,36 @@ window.SWIM_DATA = {
      "points": 448
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:18",
+     "heat": "5",
+     "lane": "6",
+     "seedStr": "01:08.00",
+     "seedSeconds": 68.0
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "16:25",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "04:37.37",
+     "seedSeconds": 277.37
+    }
+   ]
   },
   "2012|לינדנפלד·תמיר": {
    "id": "2012|לינדנפלד·תמיר",
@@ -1001734,7 +1003572,36 @@ window.SWIM_DATA = {
      "points": 315
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:18",
+     "heat": "5",
+     "lane": "5",
+     "seedStr": "01:05.51",
+     "seedSeconds": 65.51
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:23",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "00:33.81",
+     "seedSeconds": 33.81
+    }
+   ]
   },
   "2011|גראב·מאקס": {
    "id": "2011|גראב·מאקס",
@@ -1008820,7 +1010687,36 @@ window.SWIM_DATA = {
      "points": 406
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 גב",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:47",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "01:07.53",
+     "seedSeconds": 67.53
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 פרפר",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:43",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "00:32.33",
+     "seedSeconds": 32.33
+    }
+   ]
   },
   "2007|אורטל·לי": {
    "id": "2007|אורטל·לי",
@@ -1019189,7 +1021085,36 @@ window.SWIM_DATA = {
      "points": 484
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:27",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "01:02.58",
+     "seedSeconds": 62.58
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 גב",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:43",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "02:16.36",
+     "seedSeconds": 136.36
+    }
+   ]
   },
   "2001|אלון·עפרוני": {
    "id": "2001|אלון·עפרוני",
@@ -1021275,7 +1023200,36 @@ window.SWIM_DATA = {
      "points": 446
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 גב",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:53",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "01:01.00",
+     "seedSeconds": 61.0
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:23",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "00:27.97",
+     "seedSeconds": 27.97
+    }
+   ]
   },
   "2007|ורשבסקי·יותם": {
    "id": "2007|ורשבסקי·יותם",
@@ -1032278,7 +1034232,36 @@ window.SWIM_DATA = {
      "points": 328
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:40",
+     "heat": "5",
+     "lane": "6",
+     "seedStr": "01:11.61",
+     "seedSeconds": 71.61
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 פרפר",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:46",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "00:30.89",
+     "seedSeconds": 30.89
+    }
+   ]
   },
   "2011|לוי·רהב": {
    "id": "2011|לוי·רהב",
@@ -1042225,7 +1044208,36 @@ window.SWIM_DATA = {
      "points": 489
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:35",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "00:27.93",
+     "seedSeconds": 27.93
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:30",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "01:12.34",
+     "seedSeconds": 72.34
+    }
+   ]
   },
   "2011|בן·חיים·עדי": {
    "id": "2011|בן·חיים·עדי",
@@ -1049715,7 +1051727,22 @@ window.SWIM_DATA = {
      "points": 525
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "16:01",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "04:49.08",
+     "seedSeconds": 289.08
+    }
+   ]
   },
   "2009|ברייטנר·גילי": {
    "id": "2009|ברייטנר·גילי",
@@ -1050583,7 +1052610,36 @@ window.SWIM_DATA = {
      "points": 463
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 גב",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:47",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "01:14.72",
+     "seedSeconds": 74.72
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:30",
+     "heat": "4",
+     "lane": "5",
+     "seedStr": "01:14.44",
+     "seedSeconds": 74.44
+    }
+   ]
   },
   "2012|אלה·רוברמן": {
    "id": "2012|אלה·רוברמן",
@@ -1051946,7 +1054002,36 @@ window.SWIM_DATA = {
      "points": 264
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:30",
+     "heat": "4",
+     "lane": "7",
+     "seedStr": "01:22.63",
+     "seedSeconds": 82.63
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חזה",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:47",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "01:27.80",
+     "seedSeconds": 87.8
+    }
+   ]
   },
   "2012|אמה·כץ": {
    "id": "2012|אמה·כץ",
@@ -1052620,7 +1054705,36 @@ window.SWIM_DATA = {
      "points": 359
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "15:08",
+     "heat": "5",
+     "lane": "2",
+     "seedStr": "01:07.32",
+     "seedSeconds": 67.32
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 פרפר",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "15:43",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "00:33.68",
+     "seedSeconds": 33.68
+    }
+   ]
   },
   "2012|מיכל·מלכה": {
    "id": "2012|מיכל·מלכה",
@@ -1069216,7 +1071330,36 @@ window.SWIM_DATA = {
      "points": 452
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:20",
+     "heat": "6",
+     "lane": "5",
+     "seedStr": "00:57.03",
+     "seedSeconds": 57.03
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "16:13",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2009|אופיר·אלבז": {
    "id": "2009|אופיר·אלבז",
@@ -1073840,7 +1075983,36 @@ window.SWIM_DATA = {
      "points": 430
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:42",
+     "heat": "6",
+     "lane": "4",
+     "seedStr": "00:25.92",
+     "seedSeconds": 25.92
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 פרפר",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:46",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "00:28.24",
+     "seedSeconds": 28.24
+    }
+   ]
   },
   "2011|חמזה·חמזה": {
    "id": "2011|חמזה·חמזה",
@@ -1077098,7 +1079270,36 @@ window.SWIM_DATA = {
      "points": 286
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:42",
+     "heat": "6",
+     "lane": "3",
+     "seedStr": "00:28.31",
+     "seedSeconds": 28.31
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:20",
+     "heat": "6",
+     "lane": "1",
+     "seedStr": "01:05.09",
+     "seedSeconds": 65.09
+    }
+   ]
   },
   "2011|זאמל·מוחמד": {
    "id": "2011|זאמל·מוחמד",
@@ -1079622,7 +1081823,36 @@ window.SWIM_DATA = {
      "points": 322
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:20",
+     "heat": "6",
+     "lane": "7",
+     "seedStr": "01:03.36",
+     "seedSeconds": 63.36
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 פרפר",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:46",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "00:31.03",
+     "seedSeconds": 31.03
+    }
+   ]
   },
   "2007|אחמד·ארקיה": {
    "id": "2007|אחמד·ארקיה",
@@ -1090516,7 +1092746,36 @@ window.SWIM_DATA = {
      "points": 266
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חזה",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:56",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "00:40.85",
+     "seedSeconds": 40.85
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:30",
+     "heat": "4",
+     "lane": "6",
+     "seedStr": "01:19.79",
+     "seedSeconds": 79.79
+    }
+   ]
   },
   "2009|עידו·שפייזר": {
    "id": "2009|עידו·שפייזר",
@@ -1095860,7 +1098119,36 @@ window.SWIM_DATA = {
      "points": 542
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:20",
+     "heat": "6",
+     "lane": "4",
+     "seedStr": "00:54.85",
+     "seedSeconds": 54.85
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חזה",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:53",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "01:05.45",
+     "seedSeconds": 65.45
+    }
+   ]
   },
   "2009|יונתן·קרסיק": {
    "id": "2009|יונתן·קרסיק",
@@ -1099049,7 +1101337,36 @@ window.SWIM_DATA = {
      "points": 405
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:42",
+     "heat": "6",
+     "lane": "5",
+     "seedStr": "00:26.04",
+     "seedSeconds": 26.04
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חזה",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:53",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "01:09.15",
+     "seedSeconds": 69.15
+    }
+   ]
   },
   "2010|קרבצנקו·רון": {
    "id": "2010|קרבצנקו·רון",
@@ -1125031,7 +1127348,36 @@ window.SWIM_DATA = {
      "points": 602
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "15:08",
+     "heat": "5",
+     "lane": "3",
+     "seedStr": "01:06.26",
+     "seedSeconds": 66.26
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "16:01",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "04:57.82",
+     "seedSeconds": 297.82
+    }
+   ]
   },
   "2013|יובל·מטילסקי": {
    "id": "2013|יובל·מטילסקי",
@@ -1127519,7 +1129865,36 @@ window.SWIM_DATA = {
      "points": 418
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "15:30",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "01:21.99",
+     "seedSeconds": 81.99
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "16:01",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "05:07.78",
+     "seedSeconds": 307.78
+    }
+   ]
   },
   "2013|סמל·תמר": {
    "id": "2013|סמל·תמר",
@@ -1131468,7 +1133843,36 @@ window.SWIM_DATA = {
      "points": 221
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 גב",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "14:45",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "01:31.37",
+     "seedSeconds": 91.37
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "15:06",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "01:13.11",
+     "seedSeconds": 73.11
+    }
+   ]
   },
   "2014|לביא·תמר": {
    "id": "2014|לביא·תמר",
@@ -1131895,7 +1134299,36 @@ window.SWIM_DATA = {
      "points": 245
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "15:02",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "01:28.21",
+     "seedSeconds": 88.21
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "15:26",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "01:50.54",
+     "seedSeconds": 110.54
+    }
+   ]
   },
   "2014|דהן·ריף": {
    "id": "2014|דהן·ריף",
@@ -1132582,7 +1135015,36 @@ window.SWIM_DATA = {
      "points": 357
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "14:35",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "00:32.65",
+     "seedSeconds": 32.65
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "15:06",
+     "heat": "4",
+     "lane": "6",
+     "seedStr": "01:10.70",
+     "seedSeconds": 70.7
+    }
+   ]
   },
   "2015|מיטל·ניניו·שירה": {
    "id": "2015|מיטל·ניניו·שירה",
@@ -1133074,7 +1135536,36 @@ window.SWIM_DATA = {
      "points": 204
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "15:02",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "01:30.49",
+     "seedSeconds": 90.49
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 פרפר",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "15:42",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "00:47.13",
+     "seedSeconds": 47.13
+    }
+   ]
   },
   "2013|מילה·נפש": {
    "id": "2013|מילה·נפש",
@@ -1133603,7 +1136094,36 @@ window.SWIM_DATA = {
      "points": 220
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 גב",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:45",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "01:24.69",
+     "seedSeconds": 84.69
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "15:02",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "01:28.83",
+     "seedSeconds": 88.83
+    }
+   ]
   },
   "2012|ליה·צור": {
    "id": "2012|ליה·צור",
@@ -1138410,7 +1140930,22 @@ window.SWIM_DATA = {
      "points": 472
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "16:25",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "04:32.52",
+     "seedSeconds": 272.52
+    }
+   ]
   },
   "2013|גוטקין·יוני": {
    "id": "2013|גוטקין·יוני",
@@ -1141209,7 +1143744,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "15:40",
+     "heat": "5",
+     "lane": "5",
+     "seedStr": "01:10.73",
+     "seedSeconds": 70.73
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "16:19",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "04:51.22",
+     "seedSeconds": 291.22
+    }
+   ]
   },
   "2011|גלמן·לביא": {
    "id": "2011|גלמן·לביא",
@@ -1142247,7 +1144811,36 @@ window.SWIM_DATA = {
      "points": 304
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "18:29",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "01:05.53",
+     "seedSeconds": 65.53
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 פרפר",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "19:02",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "01:22.70",
+     "seedSeconds": 82.7
+    }
+   ]
   },
   "2013|סווירי·רוי": {
    "id": "2013|סווירי·רוי",
@@ -1150328,7 +1152921,36 @@ window.SWIM_DATA = {
      "points": 207
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 גב",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "14:51",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "01:29.61",
+     "seedSeconds": 89.61
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "15:14",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "01:23.98",
+     "seedSeconds": 83.98
+    }
+   ]
   },
   "2014|דור·סווירי": {
    "id": "2014|דור·סווירי",
@@ -1152407,7 +1155029,36 @@ window.SWIM_DATA = {
      "points": 84
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "15:12",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "01:28.65",
+     "seedSeconds": 88.65
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 פרפר",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "15:44",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "00:48.57",
+     "seedSeconds": 48.57
+    }
+   ]
   },
   "2015|אלון·ארז": {
    "id": "2015|אלון·ארז",
@@ -1153853,7 +1156504,36 @@ window.SWIM_DATA = {
      "points": 207
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "15:18",
+     "heat": "5",
+     "lane": "1",
+     "seedStr": "01:09.76",
+     "seedSeconds": 69.76
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "16:19",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "04:51.04",
+     "seedSeconds": 291.04
+    }
+   ]
   },
   "2013|אמילי·צ'רניאבסקי": {
    "id": "2013|אמילי·צ'רניאבסקי",
@@ -1154657,7 +1157337,36 @@ window.SWIM_DATA = {
      "points": 353
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 גב",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:47",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "01:13.24",
+     "seedSeconds": 73.24
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 פרפר",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:43",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "00:33.86",
+     "seedSeconds": 33.86
+    }
+   ]
   },
   "2013|גל·שגיא": {
    "id": "2013|גל·שגיא",
@@ -1155318,7 +1158027,36 @@ window.SWIM_DATA = {
      "points": 403
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 גב",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:47",
+     "heat": "3",
+     "lane": "7",
+     "seedStr": "01:20.19",
+     "seedSeconds": 80.19
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:06",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "01:10.41",
+     "seedSeconds": 70.41
+    }
+   ]
   },
   "2013|יערה·צדיק": {
    "id": "2013|יערה·צדיק",
@@ -1156044,7 +1158782,36 @@ window.SWIM_DATA = {
      "points": 400
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:35",
+     "heat": "4",
+     "lane": "5",
+     "seedStr": "00:30.33",
+     "seedSeconds": 30.33
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:08",
+     "heat": "5",
+     "lane": "1",
+     "seedStr": "01:09.06",
+     "seedSeconds": 69.06
+    }
+   ]
   },
   "2013|סברסקי·שקד": {
    "id": "2013|סברסקי·שקד",
@@ -1158790,7 +1161557,36 @@ window.SWIM_DATA = {
      "points": 275
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:28",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "01:27.61",
+     "seedSeconds": 87.61
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:55",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|אברהם·ענבר": {
    "id": "2013|אברהם·ענבר",
@@ -1161368,7 +1164164,36 @@ window.SWIM_DATA = {
      "points": 254
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:28",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "01:32.45",
+     "seedSeconds": 92.45
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:55",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "05:57.38",
+     "seedSeconds": 357.38
+    }
+   ]
   },
   "2015|דנה·קורלניק": {
    "id": "2015|דנה·קורלניק",
@@ -1163002,7 +1165827,36 @@ window.SWIM_DATA = {
      "points": 255
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:04",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "01:17.58",
+     "seedSeconds": 77.58
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:22",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "00:38.63",
+     "seedSeconds": 38.63
+    }
+   ]
   },
   "2015|דנה·לוי": {
    "id": "2015|דנה·לוי",
@@ -1163507,7 +1166361,36 @@ window.SWIM_DATA = {
      "points": 232
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 גב",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:45",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "01:33.28",
+     "seedSeconds": 93.28
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:55",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|בן·דור·רותם": {
    "id": "2014|בן·דור·רותם",
@@ -1163920,7 +1166803,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:35",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "00:43.39",
+     "seedSeconds": 43.39
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:00",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "01:36.83",
+     "seedSeconds": 96.83
+    }
+   ]
   },
   "2014|מאיו·תמר": {
    "id": "2014|מאיו·תמר",
@@ -1165617,7 +1168529,36 @@ window.SWIM_DATA = {
      "points": 506
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 גב",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:53",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "01:08.05",
+     "seedSeconds": 68.05
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "16:25",
+     "heat": "4",
+     "lane": "5",
+     "seedStr": "04:26.34",
+     "seedSeconds": 266.34
+    }
+   ]
   },
   "2012|סניור·עומר": {
    "id": "2012|סניור·עומר",
@@ -1166460,7 +1169401,36 @@ window.SWIM_DATA = {
      "points": 513
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:20",
+     "heat": "6",
+     "lane": "2",
+     "seedStr": "01:02.85",
+     "seedSeconds": 62.85
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "16:25",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "04:25.06",
+     "seedSeconds": 265.06
+    }
+   ]
   },
   "2013|דאון·ינאי·מויאל": {
    "id": "2013|דאון·ינאי·מויאל",
@@ -1167861,7 +1170831,36 @@ window.SWIM_DATA = {
      "points": 219
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "15:38",
+     "heat": "4",
+     "lane": "7",
+     "seedStr": "01:27.28",
+     "seedSeconds": 87.28
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "16:07",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|נועם·קלמפרט": {
    "id": "2014|נועם·קלמפרט",
@@ -1168640,7 +1171639,36 @@ window.SWIM_DATA = {
      "points": 236
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:16",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "01:16.43",
+     "seedSeconds": 76.43
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:40",
+     "heat": "5",
+     "lane": "1",
+     "seedStr": "01:18.59",
+     "seedSeconds": 78.59
+    }
+   ]
   },
   "2015|בר·קדושים": {
    "id": "2015|בר·קדושים",
@@ -1169340,7 +1172368,36 @@ window.SWIM_DATA = {
      "points": 205
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:38",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "01:27.67",
+     "seedSeconds": 87.67
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "16:07",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|אגם·גיא": {
    "id": "2013|אגם·גיא",
@@ -1170040,7 +1173097,36 @@ window.SWIM_DATA = {
      "points": 407
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:42",
+     "heat": "6",
+     "lane": "7",
+     "seedStr": "00:30.08",
+     "seedSeconds": 30.08
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "16:19",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "05:08.60",
+     "seedSeconds": 308.6
+    }
+   ]
   },
   "2014|יאיר·מוסקוויסי": {
    "id": "2014|יאיר·מוסקוויסי",
@@ -1170584,7 +1173670,36 @@ window.SWIM_DATA = {
      "points": 301
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "15:38",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "01:26.30",
+     "seedSeconds": 86.3
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 פרפר",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "15:44",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "00:37.06",
+     "seedSeconds": 37.06
+    }
+   ]
   },
   "2012|עופר·שפריר": {
    "id": "2012|עופר·שפריר",
@@ -1171709,7 +1174824,36 @@ window.SWIM_DATA = {
      "points": 344
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:36",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "01:42.72",
+     "seedSeconds": 102.72
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "16:19",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "05:23.50",
+     "seedSeconds": 323.5
+    }
+   ]
   },
   "2014|יאיר·מנשר": {
    "id": "2014|יאיר·מנשר",
@@ -1172862,7 +1176006,36 @@ window.SWIM_DATA = {
      "points": 256
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 גב",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:51",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "01:20.31",
+     "seedSeconds": 80.31
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "16:13",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "05:56.88",
+     "seedSeconds": 356.88
+    }
+   ]
   },
   "2014|מקלב·נוב": {
    "id": "2014|מקלב·נוב",
@@ -1173354,7 +1176527,36 @@ window.SWIM_DATA = {
      "points": 195
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 גב",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:51",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "01:25.49",
+     "seedSeconds": 85.49
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "16:07",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|אופק·דיין": {
    "id": "2013|אופק·דיין",
@@ -1173950,7 +1177152,36 @@ window.SWIM_DATA = {
      "points": 349
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:38",
+     "heat": "4",
+     "lane": "5",
+     "seedStr": "01:22.07",
+     "seedSeconds": 82.07
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חזה",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:53",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "01:20.46",
+     "seedSeconds": 80.46
+    }
+   ]
   },
   "2014|יהונתן·מקס·פרפרה": {
    "id": "2014|יהונתן·מקס·פרפרה",
@@ -1174791,7 +1178022,36 @@ window.SWIM_DATA = {
      "points": 193
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 גב",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:51",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "01:30.11",
+     "seedSeconds": 90.11
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "16:13",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "05:43.68",
+     "seedSeconds": 343.68
+    }
+   ]
   },
   "2013|אופיר·בינסאי": {
    "id": "2013|אופיר·בינסאי",
@@ -1175232,7 +1178492,36 @@ window.SWIM_DATA = {
      "points": 265
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 גב",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:51",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "01:37.82",
+     "seedSeconds": 97.82
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חזה",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:59",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "00:46.70",
+     "seedSeconds": 46.7
+    }
+   ]
   },
   "2015|דן·פנחסי": {
    "id": "2015|דן·פנחסי",
@@ -1176099,7 +1179388,36 @@ window.SWIM_DATA = {
      "points": 288
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:34",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "01:55.65",
+     "seedSeconds": 115.65
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "16:13",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "05:39.29",
+     "seedSeconds": 339.29
+    }
+   ]
   },
   "2014|אמיר·ידידיה": {
    "id": "2014|אמיר·ידידיה",
@@ -1176552,7 +1179870,36 @@ window.SWIM_DATA = {
      "points": 178
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 גב",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:49",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "01:44.06",
+     "seedSeconds": 104.06
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חזה",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:59",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "00:51.45",
+     "seedSeconds": 51.45
+    }
+   ]
   },
   "2014|איתן·קרמפץ": {
    "id": "2014|איתן·קרמפץ",
@@ -1177835,7 +1181182,36 @@ window.SWIM_DATA = {
      "points": 118
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 גב",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:51",
+     "heat": "2",
+     "lane": "7",
+     "seedStr": "01:37.79",
+     "seedSeconds": 97.79
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:14",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "01:21.03",
+     "seedSeconds": 81.03
+    }
+   ]
   },
   "2015|איתמר·בינסאי": {
    "id": "2015|איתמר·בינסאי",
@@ -1178392,7 +1181768,36 @@ window.SWIM_DATA = {
      "points": 139
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 גב",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:49",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "01:52.34",
+     "seedSeconds": 112.34
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:14",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "01:21.77",
+     "seedSeconds": 81.77
+    }
+   ]
   },
   "2015|איתי·הר": {
    "id": "2015|איתי·הר",
@@ -1178962,7 +1182367,36 @@ window.SWIM_DATA = {
      "points": 125
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:16",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "01:20.13",
+     "seedSeconds": 80.13
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:32",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "05:30.49",
+     "seedSeconds": 330.49
+    }
+   ]
   },
   "2014|עמנואל·רופרנו": {
    "id": "2014|עמנואל·רופרנו",
@@ -1179493,7 +1182927,36 @@ window.SWIM_DATA = {
      "points": 218
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:14",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "01:20.91",
+     "seedSeconds": 80.91
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חזה",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:53",
+     "heat": "3",
+     "lane": "7",
+     "seedStr": "01:32.12",
+     "seedSeconds": 92.12
+    }
+   ]
   },
   "2015|אשחר·חביב·יונתן": {
    "id": "2015|אשחר·חביב·יונתן",
@@ -1180128,7 +1183591,36 @@ window.SWIM_DATA = {
      "points": 119
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:36",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "01:41.21",
+     "seedSeconds": 101.21
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 פרפר",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:44",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "00:43.30",
+     "seedSeconds": 43.3
+    }
+   ]
   },
   "2015|אופיר·לינדנפלד": {
    "id": "2015|אופיר·לינדנפלד",
@@ -1180711,7 +1184203,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:34",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "01:44.22",
+     "seedSeconds": 104.22
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חזה",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:51",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "01:45.25",
+     "seedSeconds": 105.25
+    }
+   ]
   },
   "2013|אריאל·זקש": {
    "id": "2013|אריאל·זקש",
@@ -1181435,7 +1184956,36 @@ window.SWIM_DATA = {
      "points": 165
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:14",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "01:21.74",
+     "seedSeconds": 81.74
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:34",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "01:43.17",
+     "seedSeconds": 103.17
+    }
+   ]
   },
   "2012|כליל·שריד": {
    "id": "2012|כליל·שריד",
@@ -1182174,7 +1185724,36 @@ window.SWIM_DATA = {
      "points": 472
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 גב",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:47",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "01:21.77",
+     "seedSeconds": 81.77
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:08",
+     "heat": "5",
+     "lane": "7",
+     "seedStr": "01:07.33",
+     "seedSeconds": 67.33
+    }
+   ]
   },
   "2013|מיה·מישב": {
    "id": "2013|מיה·מישב",
@@ -1182354,7 +1185933,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:04",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "01:20.75",
+     "seedSeconds": 80.75
+    }
+   ]
   },
   "2014|גורן·שירה": {
    "id": "2014|גורן·שירה",
@@ -1182963,7 +1186557,36 @@ window.SWIM_DATA = {
      "points": 291
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:04",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "01:14.23",
+     "seedSeconds": 74.23
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חזה",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:47",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "01:43.90",
+     "seedSeconds": 103.9
+    }
+   ]
   },
   "2013|יערה·שביט": {
    "id": "2013|יערה·שביט",
@@ -1183468,7 +1187091,36 @@ window.SWIM_DATA = {
      "points": 276
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 גב",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:45",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "01:29.38",
+     "seedSeconds": 89.38
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 פרפר",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:42",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "00:36.73",
+     "seedSeconds": 36.73
+    }
+   ]
   },
   "2013|בליץ·דריה": {
    "id": "2013|בליץ·דריה",
@@ -1184151,7 +1187803,36 @@ window.SWIM_DATA = {
      "points": 257
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 גב",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:45",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "01:31.52",
+     "seedSeconds": 91.52
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:55",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|גרצ'קו·סופיה": {
    "id": "2015|גרצ'קו·סופיה",
@@ -1184654,7 +1188335,36 @@ window.SWIM_DATA = {
      "points": 222
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:28",
+     "heat": "3",
+     "lane": "7",
+     "seedStr": "01:38.39",
+     "seedSeconds": 98.39
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חזה",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:47",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "01:45.99",
+     "seedSeconds": 105.99
+    }
+   ]
   },
   "2015|ביתן·הלל": {
    "id": "2015|ביתן·הלל",
@@ -1185068,7 +1188778,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 גב",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:45",
+     "heat": "2",
+     "lane": "7",
+     "seedStr": "01:33.23",
+     "seedSeconds": 93.23
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:26",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|מאיה·שחר": {
    "id": "2015|מאיה·שחר",
@@ -1185508,7 +1189247,36 @@ window.SWIM_DATA = {
      "points": 262
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:02",
+     "heat": "2",
+     "lane": "7",
+     "seedStr": "01:31.47",
+     "seedSeconds": 91.47
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:24",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|אלזרקי·עלמה": {
    "id": "2014|אלזרקי·עלמה",
@@ -1186000,7 +1189768,36 @@ window.SWIM_DATA = {
      "points": 307
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 גב",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:45",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "01:25.04",
+     "seedSeconds": 85.04
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:55",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|מיקה·עתיר": {
    "id": "2015|מיקה·עתיר",
@@ -1186672,7 +1190469,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:02",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "01:30.00",
+     "seedSeconds": 90.0
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:26",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|ליאור·מור": {
    "id": "2013|ליאור·מור",
@@ -1187242,7 +1191068,36 @@ window.SWIM_DATA = {
      "points": 272
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:38",
+     "heat": "4",
+     "lane": "6",
+     "seedStr": "01:23.51",
+     "seedSeconds": 83.51
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 פרפר",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:46",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "00:36.04",
+     "seedSeconds": 36.04
+    }
+   ]
   },
   "2014|דניאל·נודלמן": {
    "id": "2014|דניאל·נודלמן",
@@ -1201238,7 +1205093,36 @@ window.SWIM_DATA = {
      "points": 370
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "15:06",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "01:09.15",
+     "seedSeconds": 69.15
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חזה",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "15:47",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "01:42.55",
+     "seedSeconds": 102.55
+    }
+   ]
   },
   "2013|גנדלר·יזהר·נועה": {
    "id": "2013|גנדלר·יזהר·נועה",
@@ -1203465,7 +1207349,50 @@ window.SWIM_DATA = {
      "points": 416
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "18:22",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "02:46.80",
+     "seedSeconds": 166.8
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 חזה",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "18:41",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "01:22.44",
+     "seedSeconds": 82.44
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 חזה",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "19:14",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "02:56.14",
+     "seedSeconds": 176.14
+    }
+   ]
   },
   "2012|יונתן·מנדלביץ": {
    "id": "2012|יונתן·מנדלביץ",
@@ -1204165,7 +1208092,22 @@ window.SWIM_DATA = {
      "points": 444
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "16:25",
+     "heat": "4",
+     "lane": "7",
+     "seedStr": "04:38.21",
+     "seedSeconds": 278.21
+    }
+   ]
   },
   "2012|ויסר·יונתן": {
    "id": "2012|ויסר·יונתן",
@@ -1205678,7 +1209620,36 @@ window.SWIM_DATA = {
      "points": 266
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חזה",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:56",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "00:42.40",
+     "seedSeconds": 42.4
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:30",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "01:27.53",
+     "seedSeconds": 87.53
+    }
+   ]
   },
   "2012|מוחמד·נגידאת·עלי": {
    "id": "2012|מוחמד·נגידאת·עלי",
@@ -1206519,7 +1210490,36 @@ window.SWIM_DATA = {
      "points": 312
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:16",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "01:11.59",
+     "seedSeconds": 71.59
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:40",
+     "heat": "5",
+     "lane": "2",
+     "seedStr": "01:18.10",
+     "seedSeconds": 78.1
+    }
+   ]
   },
   "2012|איתי·רבינוביץ": {
    "id": "2012|איתי·רבינוביץ",
@@ -1207115,7 +1211115,36 @@ window.SWIM_DATA = {
      "points": 385
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:18",
+     "heat": "5",
+     "lane": "4",
+     "seedStr": "01:05.32",
+     "seedSeconds": 65.32
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:40",
+     "heat": "5",
+     "lane": "3",
+     "seedStr": "01:11.02",
+     "seedSeconds": 71.02
+    }
+   ]
   },
   "2012|זובקוב·עידן": {
    "id": "2012|זובקוב·עידן",
@@ -1207581,7 +1211610,36 @@ window.SWIM_DATA = {
      "points": 212
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:42",
+     "heat": "6",
+     "lane": "1",
+     "seedStr": "00:30.29",
+     "seedSeconds": 30.29
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חזה",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:59",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "00:38.26",
+     "seedSeconds": 38.26
+    }
+   ]
   },
   "2006|איתי·הנדלר": {
    "id": "2006|איתי·הנדלר",
@@ -1209148,7 +1213206,36 @@ window.SWIM_DATA = {
      "points": 340
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "15:06",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "01:11.22",
+     "seedSeconds": 71.22
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 פרפר",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "15:43",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "00:34.29",
+     "seedSeconds": 34.29
+    }
+   ]
   },
   "2011|דור·הראל": {
    "id": "2011|דור·הראל",
@@ -1211324,7 +1215411,36 @@ window.SWIM_DATA = {
      "points": 372
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:16",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "01:10.07",
+     "seedSeconds": 70.07
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:40",
+     "heat": "5",
+     "lane": "4",
+     "seedStr": "01:10.41",
+     "seedSeconds": 70.41
+    }
+   ]
   },
   "2013|ינאי·שירה": {
    "id": "2013|ינאי·שירה",
@@ -1212102,7 +1216218,36 @@ window.SWIM_DATA = {
      "points": 306
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חזה",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:56",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "00:38.47",
+     "seedSeconds": 38.47
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:06",
+     "heat": "4",
+     "lane": "5",
+     "seedStr": "01:09.92",
+     "seedSeconds": 69.92
+    }
+   ]
   },
   "2014|לשמנוב·נועם": {
    "id": "2014|לשמנוב·נועם",
@@ -1212971,7 +1217116,36 @@ window.SWIM_DATA = {
      "points": 276
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:18",
+     "heat": "5",
+     "lane": "3",
+     "seedStr": "01:06.61",
+     "seedSeconds": 66.61
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 פרפר",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:46",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "00:32.54",
+     "seedSeconds": 32.54
+    }
+   ]
   },
   "2014|הגדוש·מתן": {
    "id": "2014|הגדוש·מתן",
@@ -1267906,7 +1272080,36 @@ window.SWIM_DATA = {
      "points": 399
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 פרפר",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "19:00",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "01:22.76",
+     "seedSeconds": 82.76
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 גב",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "19:20",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "01:19.86",
+     "seedSeconds": 79.86
+    }
+   ]
   },
   "2014|אביגדורי·שירה": {
    "id": "2014|אביגדורי·שירה",
@@ -1268723,7 +1272926,36 @@ window.SWIM_DATA = {
      "points": 502
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "15:08",
+     "heat": "5",
+     "lane": "4",
+     "seedStr": "01:03.02",
+     "seedSeconds": 63.02
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 פרפר",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "15:43",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "00:34.85",
+     "seedSeconds": 34.85
+    }
+   ]
   },
   "2012|בראון·מייק": {
    "id": "2012|בראון·מייק",
@@ -1277855,7 +1282087,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:35",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "00:39.38",
+     "seedSeconds": 39.38
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 פרפר",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:42",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "00:45.45",
+     "seedSeconds": 45.45
+    }
+   ]
   },
   "2013|הר-שי·נוגה": {
    "id": "2013|הר-שי·נוגה",
@@ -1280187,7 +1284448,50 @@ window.SWIM_DATA = {
      "points": 252
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "18:29",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "01:04.99",
+     "seedSeconds": 64.99
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 חזה",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "18:41",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "01:25.97",
+     "seedSeconds": 85.97
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 חזה",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "19:14",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "03:14.44",
+     "seedSeconds": 194.44
+    }
+   ]
   },
   "2013|איתי·גרסטנזנג": {
    "id": "2013|איתי·גרסטנזנג",
@@ -1285251,7 +1289555,36 @@ window.SWIM_DATA = {
      "points": 326
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "15:28",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "01:28.27",
+     "seedSeconds": 88.27
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "16:01",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "05:23.46",
+     "seedSeconds": 323.46
+    }
+   ]
   },
   "2014|דנה·צור": {
    "id": "2014|דנה·צור",
@@ -1307682,7 +1312015,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:28",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "01:33.24",
+     "seedSeconds": 93.24
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:55",
+     "heat": "1",
+     "lane": "7",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|חן·יונגר": {
    "id": "2014|חן·יונגר",
@@ -1308200,7 +1312562,36 @@ window.SWIM_DATA = {
      "points": 260
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חזה",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "14:56",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "00:45.24",
+     "seedSeconds": 45.24
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "15:04",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "01:17.98",
+     "seedSeconds": 77.98
+    }
+   ]
   },
   "2012|מוריה·פרנק": {
    "id": "2012|מוריה·פרנק",
@@ -1308599,7 +1312990,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 גב",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:43",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "01:34.08",
+     "seedSeconds": 94.08
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "15:26",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "01:57.54",
+     "seedSeconds": 117.54
+    }
+   ]
   },
   "2013|עמליה·קפלן": {
    "id": "2013|עמליה·קפלן",
@@ -1309516,7 +1313936,36 @@ window.SWIM_DATA = {
      "points": 279
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 גב",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:53",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "01:16.80",
+     "seedSeconds": 76.8
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "16:13",
+     "heat": "2",
+     "lane": "7",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|איתמר·מלר·שדמן": {
    "id": "2016|איתמר·מלר·שדמן",
@@ -1309852,7 +1314301,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "15:34",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "01:49.15",
+     "seedSeconds": 109.15
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חזה",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "15:51",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "01:50.56",
+     "seedSeconds": 110.56
+    }
+   ]
   },
   "2013|ברנס·ליעד": {
    "id": "2013|ברנס·ליעד",
@@ -1312216,7 +1316694,36 @@ window.SWIM_DATA = {
      "points": 277
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:40",
+     "heat": "5",
+     "lane": "7",
+     "seedStr": "00:33.25",
+     "seedSeconds": 33.25
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חזה",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:57",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|מטביי·שלייפר": {
    "id": "2014|מטביי·שלייפר",
@@ -1312604,7 +1317111,36 @@ window.SWIM_DATA = {
      "points": 214
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "15:36",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "01:36.90",
+     "seedSeconds": 96.9
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חזה",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "15:53",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "01:32.36",
+     "seedSeconds": 92.36
+    }
+   ]
   },
   "2013|יובל·נגלר": {
    "id": "2013|יובל·נגלר",
@@ -1312927,7 +1317463,36 @@ window.SWIM_DATA = {
      "points": 355
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "15:32",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "400 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "16:13",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|אלנבארי·רואא": {
    "id": "2014|אלנבארי·רואא",
@@ -1314499,7 +1319064,36 @@ window.SWIM_DATA = {
      "points": 431
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 גב",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "18:43",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "02:31.13",
+     "seedSeconds": 151.13
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 גב",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "19:20",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "01:08.96",
+     "seedSeconds": 68.96
+    }
+   ]
   },
   "2014|גוטפריד·חנה·נוי": {
    "id": "2014|גוטפריד·חנה·נוי",
@@ -1318454,7 +1323048,36 @@ window.SWIM_DATA = {
      "points": 483
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:29",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "01:03.00",
+     "seedSeconds": 63.0
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "400 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "19:30",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "04:30.38",
+     "seedSeconds": 270.38
+    }
+   ]
   },
   "2014|דוד·סיריס": {
    "id": "2014|דוד·סיריס",
@@ -1324653,7 +1329276,36 @@ window.SWIM_DATA = {
      "points": 200
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "18:29",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "01:19.88",
+     "seedSeconds": 79.88
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "18:53",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "03:40.85",
+     "seedSeconds": 220.85
+    }
+   ]
   },
   "2012|גורל·יונתן·קאירי": {
    "id": "2012|גורל·יונתן·קאירי",
@@ -1455963,7 +1460615,36 @@ window.SWIM_DATA = {
      "points": 431
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:39",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "01:20.53",
+     "seedSeconds": 80.53
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 חזה",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "19:10",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "02:56.42",
+     "seedSeconds": 176.42
+    }
+   ]
   },
   "2013|בן·רוני·שלוש": {
    "id": "2013|בן·רוני·שלוש",
@@ -1491550,7 +1496231,36 @@ window.SWIM_DATA = {
      "points": 231
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "14:40",
+     "heat": "5",
+     "lane": "5",
+     "seedStr": "00:31.28",
+     "seedSeconds": 31.28
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "15:18",
+     "heat": "5",
+     "lane": "2",
+     "seedStr": "01:08.94",
+     "seedSeconds": 68.94
+    }
+   ]
   },
   "2014|איתמר·קומיסר": {
    "id": "2014|איתמר·קומיסר",
@@ -1497009,7 +1501719,36 @@ window.SWIM_DATA = {
      "points": 212
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:36",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "01:27.73",
+     "seedSeconds": 87.73
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 פרפר",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:46",
+     "heat": "2",
+     "lane": "7",
+     "seedStr": "00:36.00",
+     "seedSeconds": 36.0
+    }
+   ]
   },
   "2015|אנדריה·באסל": {
    "id": "2015|אנדריה·באסל",
@@ -1512318,7 +1517057,36 @@ window.SWIM_DATA = {
      "points": 159
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:39",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "00:36.37",
+     "seedSeconds": 36.37
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "15:36",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "01:34.51",
+     "seedSeconds": 94.51
+    }
+   ]
   },
   "2015|ארבל·מרקדו": {
    "id": "2015|ארבל·מרקדו",
@@ -1518608,7 +1523376,36 @@ window.SWIM_DATA = {
      "points": 328
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 מעורב אישי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "סוהו טים שחייה",
+     "startTime": "18:22",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "02:35.79",
+     "seedSeconds": 155.79
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 פרפר",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "סוהו טים שחייה",
+     "startTime": "19:02",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "01:13.94",
+     "seedSeconds": 73.94
+    }
+   ]
   },
   "2014|גיל·דוד·קפלון": {
    "id": "2014|גיל·דוד·קפלון",
@@ -1553897,7 +1558694,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:35",
+     "heat": "4",
+     "lane": "7",
+     "seedStr": "00:41.69",
+     "seedSeconds": 41.69
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:02",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "01:30.17",
+     "seedSeconds": 90.17
+    }
+   ]
   },
   "2007|ברש·שקד": {
    "id": "2007|ברש·שקד",
@@ -1554265,7 +1559091,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:39",
+     "heat": "4",
+     "lane": "5",
+     "seedStr": "00:36.13",
+     "seedSeconds": 36.13
+    }
+   ]
   },
   "1977|מיטל·קליין": {
    "id": "1977|מיטל·קליין",
@@ -1554455,7 +1559296,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:42",
+     "heat": "6",
+     "lane": "6",
+     "seedStr": "00:29.74",
+     "seedSeconds": 29.74
+    }
+   ]
   },
   "2010|כפיר·ריזי": {
    "id": "2010|כפיר·ריזי",
@@ -1554505,7 +1559361,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:42",
+     "heat": "6",
+     "lane": "2",
+     "seedStr": "00:29.81",
+     "seedSeconds": 29.81
+    }
+   ]
   },
   "2011|אדם·רום": {
    "id": "2011|אדם·רום",
@@ -1554542,7 +1559413,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:40",
+     "heat": "5",
+     "lane": "1",
+     "seedStr": "00:33.54",
+     "seedSeconds": 33.54
+    }
+   ]
   },
   "2010|נתנאל·קנר": {
    "id": "2010|נתנאל·קנר",
@@ -1554681,7 +1559567,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:40",
+     "heat": "5",
+     "lane": "2",
+     "seedStr": "00:33.00",
+     "seedSeconds": 33.0
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:16",
+     "heat": "4",
+     "lane": "6",
+     "seedStr": "01:14.10",
+     "seedSeconds": 74.1
+    }
+   ]
   },
   "2013|ארד·יואב": {
    "id": "2013|ארד·יואב",
@@ -1554757,7 +1559672,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:40",
+     "heat": "5",
+     "lane": "3",
+     "seedStr": "00:31.50",
+     "seedSeconds": 31.5
+    }
+   ]
   },
   "2013|איתי·רוסין": {
    "id": "2013|איתי·רוסין",
@@ -1554820,7 +1559750,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:38",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "00:41.43",
+     "seedSeconds": 41.43
+    }
+   ]
   },
   "2013|אביהר·נרסינה·תמר": {
    "id": "2013|אביהר·נרסינה·תמר",
@@ -1569789,7 +1574734,36 @@ window.SWIM_DATA = {
      "points": 337
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 גב",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "18:43",
+     "heat": "1",
+     "lane": "7",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 גב",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "19:20",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "01:21.12",
+     "seedSeconds": 81.12
+    }
+   ]
   },
   "2013|עדי·שגב": {
    "id": "2013|עדי·שגב",
@@ -1570385,7 +1575359,36 @@ window.SWIM_DATA = {
      "points": 442
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 גב",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "18:43",
+     "heat": "1",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 גב",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "startTime": "19:18",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "01:39.57",
+     "seedSeconds": 99.57
+    }
+   ]
   },
   "2010|צברי·תמר": {
    "id": "2010|צברי·תמר",
@@ -1579521,7 +1584524,36 @@ window.SWIM_DATA = {
      "points": 205
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חזה",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:56",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "00:48.06",
+     "seedSeconds": 48.06
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "15:04",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "01:24.59",
+     "seedSeconds": 84.59
+    }
+   ]
   },
   "2016|יערה·רוזן": {
    "id": "2016|יערה·רוזן",
@@ -1580272,7 +1585304,36 @@ window.SWIM_DATA = {
      "points": 168
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:26",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "01:45.49",
+     "seedSeconds": 105.49
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חזה",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:47",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "02:09.42",
+     "seedSeconds": 129.42
+    }
+   ]
   },
   "2016|מלטה·עלמה": {
    "id": "2016|מלטה·עלמה",
@@ -1580944,7 +1586005,36 @@ window.SWIM_DATA = {
      "points": 115
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:39",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "00:40.92",
+     "seedSeconds": 40.92
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:32",
+     "heat": "1",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|איתי·טל": {
    "id": "2016|איתי·טל",
@@ -1581293,7 +1586383,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:10",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "01:41.08",
+     "seedSeconds": 101.08
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חזה",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:51",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "02:09.27",
+     "seedSeconds": 129.27
+    }
+   ]
   },
   "2016|עדן·רופרנו": {
    "id": "2016|עדן·רופרנו",
@@ -1581642,7 +1586761,36 @@ window.SWIM_DATA = {
      "points": 148
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:34",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "01:44.37",
+     "seedSeconds": 104.37
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 פרפר",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:44",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|דור·קשמה": {
    "id": "2016|דור·קשמה",
@@ -1581991,7 +1587139,36 @@ window.SWIM_DATA = {
      "points": 133
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:12",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "01:27.71",
+     "seedSeconds": 87.71
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:34",
+     "heat": "2",
+     "lane": "7",
+     "seedStr": "01:52.07",
+     "seedSeconds": 112.07
+    }
+   ]
   },
   "2016|יונתן·רנדלשטיין·רנדלשטיין": {
    "id": "2016|יונתן·רנדלשטיין·רנדלשטיין",
@@ -1582624,7 +1587801,36 @@ window.SWIM_DATA = {
      "points": 134
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חזה",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:59",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "00:48.71",
+     "seedSeconds": 48.71
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:36",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "01:38.15",
+     "seedSeconds": 98.15
+    }
+   ]
   },
   "1988|גיאנא·עמאשה": {
    "id": "1988|גיאנא·עמאשה",
@@ -1604652,7 +1609858,36 @@ window.SWIM_DATA = {
      "points": 188
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "15:04",
+     "heat": "3",
+     "lane": "7",
+     "seedStr": "01:22.78",
+     "seedSeconds": 82.78
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "15:28",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "01:36.13",
+     "seedSeconds": 96.13
+    }
+   ]
   },
   "2016|דניאל·פוליאקוב": {
    "id": "2016|דניאל·פוליאקוב",
@@ -1605582,7 +1610817,36 @@ window.SWIM_DATA = {
      "points": 166
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:36",
+     "heat": "3",
+     "lane": "7",
+     "seedStr": "01:42.40",
+     "seedSeconds": 102.4
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חזה",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:49",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|עזרא·עידן": {
    "id": "2016|עזרא·עידן",
@@ -1606306,7 +1611570,36 @@ window.SWIM_DATA = {
      "points": 159
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:14",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "01:27.63",
+     "seedSeconds": 87.63
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:32",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|עומר·שיפמן": {
    "id": "2016|עומר·שיפמן",
@@ -1606551,7 +1611844,36 @@ window.SWIM_DATA = {
      "points": 135
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:39",
+     "heat": "4",
+     "lane": "6",
+     "seedStr": "00:38.03",
+     "seedSeconds": 38.03
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:12",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "01:28.95",
+     "seedSeconds": 88.95
+    }
+   ]
   },
   "2015|הדר·כהן": {
    "id": "2015|הדר·כהן",
@@ -1610394,7 +1615716,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:38",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "00:41.29",
+     "seedSeconds": 41.29
+    }
+   ]
   },
   "2016|טשקנט·נטע·ששון": {
    "id": "2016|טשקנט·נטע·ששון",
@@ -1611721,7 +1617058,36 @@ window.SWIM_DATA = {
      "points": 120
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:12",
+     "heat": "2",
+     "lane": "7",
+     "seedStr": "01:32.39",
+     "seedSeconds": 92.39
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חזה",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:51",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "01:58.18",
+     "seedSeconds": 118.18
+    }
+   ]
   },
   "2015|דורון·שורניק": {
    "id": "2015|דורון·שורניק",
@@ -1615950,7 +1621316,36 @@ window.SWIM_DATA = {
      "points": 80
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חזה",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:59",
+     "heat": "2",
+     "lane": "7",
+     "seedStr": "00:57.78",
+     "seedSeconds": 57.78
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "15:12",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "01:34.85",
+     "seedSeconds": 94.85
+    }
+   ]
   },
   "2016|אמור·וולף": {
    "id": "2016|אמור·וולף",
@@ -1618672,7 +1624067,50 @@ window.SWIM_DATA = {
      "points": 386
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "18:29",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "01:06.19",
+     "seedSeconds": 66.19
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 חזה",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "18:41",
+     "heat": "1",
+     "lane": "7",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 חזה",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "19:14",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|מילה·פלג": {
    "id": "2016|מילה·פלג",
@@ -1619279,7 +1624717,36 @@ window.SWIM_DATA = {
      "points": 152
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:02",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "01:34.12",
+     "seedSeconds": 94.12
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:24",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|ליבי·סספורטס": {
    "id": "2016|ליבי·סספורטס",
@@ -1620286,7 +1625753,36 @@ window.SWIM_DATA = {
      "points": 154
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:32",
+     "heat": "1",
+     "lane": "7",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חזה",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:51",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "01:40.03",
+     "seedSeconds": 100.03
+    }
+   ]
   },
   "2016|גולובין·ראובן": {
    "id": "2016|גולובין·ראובן",
@@ -1620635,7 +1626131,36 @@ window.SWIM_DATA = {
      "points": 103
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:34",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "01:48.00",
+     "seedSeconds": 108.0
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 פרפר",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:44",
+     "heat": "1",
+     "lane": "7",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|אמיתי·עדשה": {
    "id": "2016|אמיתי·עדשה",
@@ -1620919,7 +1626444,36 @@ window.SWIM_DATA = {
      "points": 84
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 גב",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:49",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "01:50.15",
+     "seedSeconds": 110.15
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:10",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "01:44.63",
+     "seedSeconds": 104.63
+    }
+   ]
   },
   "2013|אופיר·ברנשטיין": {
    "id": "2013|אופיר·ברנשטיין",
@@ -1635529,11 +1641083,25 @@ window.SWIM_DATA = {
      "category": "בנות 8-10",
      "poolLength": 25,
      "club": "מכבי פ.מ. רעות",
-     "startTime": "13:24",
-     "heat": "4",
-     "lane": "1",
+     "startTime": "14:06",
+     "heat": "5",
+     "lane": "4",
      "seedStr": "00:38.07",
      "seedSeconds": 38.07
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:18",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "01:05.43",
+     "seedSeconds": 65.43
     }
    ]
   },
@@ -1635815,11 +1641383,25 @@ window.SWIM_DATA = {
      "category": "בנות 8-10",
      "poolLength": 25,
      "club": "מכבי פ.מ. רעות",
-     "startTime": "13:23",
-     "heat": "3",
-     "lane": "4",
+     "startTime": "14:04",
+     "heat": "4",
+     "lane": "5",
      "seedStr": "00:46.54",
      "seedSeconds": 46.54
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חזה",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:28",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "00:56.79",
+     "seedSeconds": 56.79
     }
    ]
   },
@@ -1636294,11 +1641876,25 @@ window.SWIM_DATA = {
      "category": "בנות 8-10",
      "poolLength": 25,
      "club": "מכבי פ.מ. רעות",
-     "startTime": "13:23",
+     "startTime": "14:03",
      "heat": "3",
-     "lane": "1",
+     "lane": "2",
      "seedStr": "00:57.89",
      "seedSeconds": 57.89
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:18",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "01:02.84",
+     "seedSeconds": 62.84
     }
    ]
   },
@@ -1636541,11 +1642137,25 @@ window.SWIM_DATA = {
      "category": "בנות 8-10",
      "poolLength": 25,
      "club": "מכבי פ.מ. רעות",
-     "startTime": "13:23",
-     "heat": "3",
-     "lane": "5",
+     "startTime": "14:04",
+     "heat": "4",
+     "lane": "4",
      "seedStr": "00:42.96",
      "seedSeconds": 42.96
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:18",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "00:49.58",
+     "seedSeconds": 49.58
     }
    ]
   },
@@ -1638371,11 +1643981,25 @@ window.SWIM_DATA = {
      "category": "בנים 8-10",
      "poolLength": 25,
      "club": "מכבי פ.מ. רעות",
-     "startTime": "13:29",
+     "startTime": "14:10",
      "heat": "3",
      "lane": "4",
      "seedStr": "00:49.23",
      "seedSeconds": 49.23
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:24",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "00:53.93",
+     "seedSeconds": 53.93
     }
    ]
   },
@@ -1638592,11 +1644216,25 @@ window.SWIM_DATA = {
      "category": "בנים 8-10",
      "poolLength": 25,
      "club": "מכבי פ.מ. רעות",
-     "startTime": "13:30",
-     "heat": "4",
-     "lane": "3",
+     "startTime": "14:13",
+     "heat": "5",
+     "lane": "2",
      "seedStr": "00:43.35",
      "seedSeconds": 43.35
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חזה",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:30",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "01:02.38",
+     "seedSeconds": 62.38
     }
    ]
   },
@@ -1639483,11 +1645121,25 @@ window.SWIM_DATA = {
      "category": "בנים 8-10",
      "poolLength": 25,
      "club": "מכבי פ.מ. רעות",
-     "startTime": "13:29",
-     "heat": "3",
-     "lane": "5",
+     "startTime": "14:12",
+     "heat": "4",
+     "lane": "4",
      "seedStr": "00:44.61",
      "seedSeconds": 44.61
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חזה",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:30",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "00:53.49",
+     "seedSeconds": 53.49
     }
    ]
   },
@@ -1639721,22 +1645373,7 @@ window.SWIM_DATA = {
      "points": 108
     }
    ],
-   "future": [
-    {
-     "date": "2026-11-13",
-     "competition": "ליגה 1 שוהם - 16/10/2026",
-     "compId": 15749,
-     "event": "50 חופשי",
-     "category": "בנים 8-10",
-     "poolLength": 25,
-     "club": "מכבי פ.מ. רעות",
-     "startTime": "13:29",
-     "heat": "3",
-     "lane": "6",
-     "seedStr": "00:41.67",
-     "seedSeconds": 41.67
-    }
-   ]
+   "future": []
   },
   "2017|אדר·דיין": {
    "id": "2017|אדר·דיין",
@@ -1678470,7 +1684107,36 @@ window.SWIM_DATA = {
      "points": 317
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 גב",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "14:47",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "01:00.00",
+     "seedSeconds": 60.0
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "15:04",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "01:21.46",
+     "seedSeconds": 81.46
+    }
+   ]
   },
   "2013|הודיה·ששון": {
    "id": "2013|הודיה·ששון",
@@ -1679537,7 +1685203,36 @@ window.SWIM_DATA = {
      "points": 115
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "14:34",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "00:47.07",
+     "seedSeconds": 47.07
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חזה",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "14:55",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "00:58.32",
+     "seedSeconds": 58.32
+    }
+   ]
   },
   "2016|חייטמן·נטע": {
    "id": "2016|חייטמן·נטע",
@@ -1684002,11 +1689697,25 @@ window.SWIM_DATA = {
      "category": "בנות 8-10",
      "poolLength": 25,
      "club": "TLV SWIM",
-     "startTime": "13:24",
-     "heat": "4",
-     "lane": "4",
-     "seedStr": "00:41.09",
-     "seedSeconds": 41.09
+     "startTime": "14:06",
+     "heat": "5",
+     "lane": "6",
+     "seedStr": "00:40.50",
+     "seedSeconds": 40.5
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חזה",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "14:28",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "01:01.31",
+     "seedSeconds": 61.31
     }
    ]
   },
@@ -1685023,11 +1690732,25 @@ window.SWIM_DATA = {
      "category": "בנות 8-10",
      "poolLength": 25,
      "club": "TLV SWIM",
-     "startTime": "13:24",
-     "heat": "4",
-     "lane": "3",
+     "startTime": "14:06",
+     "heat": "5",
+     "lane": "1",
      "seedStr": "00:42.44",
      "seedSeconds": 42.44
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "14:18",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "00:44.86",
+     "seedSeconds": 44.86
     }
    ]
   },
@@ -1688728,7 +1694451,36 @@ window.SWIM_DATA = {
      "points": 109
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 גב",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "14:49",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "01:43.97",
+     "seedSeconds": 103.97
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "15:14",
+     "heat": "3",
+     "lane": "7",
+     "seedStr": "01:27.30",
+     "seedSeconds": 87.3
+    }
+   ]
   },
   "2016|בן·בנימין·ברינקר": {
    "id": "2016|בן·בנימין·ברינקר",
@@ -1696628,7 +1702380,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:57",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "02:06.76",
+     "seedSeconds": 126.76
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "400 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "19:30",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "04:26.29",
+     "seedSeconds": 266.29
+    }
+   ]
   },
   "2011|בן·פישר": {
    "id": "2011|בן·פישר",
@@ -1697378,7 +1703159,36 @@ window.SWIM_DATA = {
      "points": 545
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:27",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "01:02.46",
+     "seedSeconds": 62.46
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 חופשי",
+     "category": "נשים 14-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:50",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "02:19.59",
+     "seedSeconds": 139.59
+    }
+   ]
   },
   "2011|דייזי·מוש": {
    "id": "2011|דייזי·מוש",
@@ -1698582,7 +1704392,36 @@ window.SWIM_DATA = {
      "points": 223
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:40",
+     "heat": "5",
+     "lane": "6",
+     "seedStr": "00:32.80",
+     "seedSeconds": 32.8
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:16",
+     "heat": "4",
+     "lane": "7",
+     "seedStr": "01:18.15",
+     "seedSeconds": 78.15
+    }
+   ]
   },
   "2012|אשר·יהלי": {
    "id": "2012|אשר·יהלי",
@@ -1698736,7 +1704575,36 @@ window.SWIM_DATA = {
      "points": 269
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:16",
+     "heat": "4",
+     "lane": "5",
+     "seedStr": "01:10.51",
+     "seedSeconds": 70.51
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 פרפר",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:46",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "00:33.02",
+     "seedSeconds": 33.02
+    }
+   ]
   },
   "2015|בן·טרן": {
    "id": "2015|בן·טרן",
@@ -1699968,7 +1705836,36 @@ window.SWIM_DATA = {
      "points": 305
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "14:35",
+     "heat": "4",
+     "lane": "6",
+     "seedStr": "00:32.67",
+     "seedSeconds": 32.67
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 פרפר",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "15:43",
+     "heat": "2",
+     "lane": "7",
+     "seedStr": "00:35.53",
+     "seedSeconds": 35.53
+    }
+   ]
   },
   "2017|ברסון·ניב": {
    "id": "2017|ברסון·ניב",
@@ -1700183,11 +1706080,25 @@ window.SWIM_DATA = {
      "category": "בנים 8-10",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "13:30",
-     "heat": "4",
+     "startTime": "14:13",
+     "heat": "5",
      "lane": "4",
      "seedStr": "00:37.77",
      "seedSeconds": 37.77
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:24",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "00:51.56",
+     "seedSeconds": 51.56
     }
    ]
   },
@@ -1700391,11 +1706302,25 @@ window.SWIM_DATA = {
      "category": "בנים 8-10",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "13:30",
+     "startTime": "14:12",
      "heat": "4",
      "lane": "1",
      "seedStr": "00:49.17",
      "seedSeconds": 49.17
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:24",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "00:58.78",
+     "seedSeconds": 58.78
     }
    ]
   },
@@ -1700642,7 +1706567,36 @@ window.SWIM_DATA = {
      "points": 62
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "14:37",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "00:53.14",
+     "seedSeconds": 53.14
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חזה",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "14:59",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "01:02.81",
+     "seedSeconds": 62.81
+    }
+   ]
   },
   "2018|אקרמן·מיכאלה": {
    "id": "2018|אקרמן·מיכאלה",
@@ -1704084,15 +1710038,29 @@ window.SWIM_DATA = {
      "date": "2026-11-13",
      "competition": "ליגה 1 שוהם - 16/10/2026",
      "compId": 15749,
-     "event": "50 חופשי",
+     "event": "50 גב",
      "category": "בנות 8-10",
      "poolLength": 25,
      "club": "מכבי פ.מ. רעות",
-     "startTime": "13:24",
-     "heat": "4",
-     "lane": "5",
-     "seedStr": "00:36.87",
-     "seedSeconds": 36.87
+     "startTime": "14:18",
+     "heat": "3",
+     "lane": "7",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חזה",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:28",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "00:49.21",
+     "seedSeconds": 49.21
     }
    ]
   },
@@ -1704309,11 +1710277,25 @@ window.SWIM_DATA = {
      "category": "בנות 8-10",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "13:24",
-     "heat": "4",
-     "lane": "6",
+     "startTime": "14:06",
+     "heat": "5",
+     "lane": "5",
      "seedStr": "00:38.45",
      "seedSeconds": 38.45
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חזה",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:26",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
     }
    ]
   },
@@ -1704610,7 +1710592,36 @@ window.SWIM_DATA = {
      "points": 201
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 גב",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:43",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "01:49.85",
+     "seedSeconds": 109.85
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:00",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "01:44.84",
+     "seedSeconds": 104.84
+    }
+   ]
   },
   "2016|אלגת·נוגה": {
    "id": "2016|אלגת·נוגה",
@@ -1704738,7 +1710749,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:33",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "00:50.40",
+     "seedSeconds": 50.4
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:00",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "01:58.13",
+     "seedSeconds": 118.13
+    }
+   ]
   },
   "2016|גולברשטיין·ירדן": {
    "id": "2016|גולברשטיין·ירדן",
@@ -1704877,7 +1710917,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:34",
+     "heat": "3",
+     "lane": "7",
+     "seedStr": "00:48.00",
+     "seedSeconds": 48.0
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:00",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "02:06.61",
+     "seedSeconds": 126.61
+    }
+   ]
   },
   "2017|ארבל·שובל": {
    "id": "2017|ארבל·שובל",
@@ -1704962,9 +1711031,9 @@ window.SWIM_DATA = {
      "category": "בנות 8-10",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "13:24",
+     "startTime": "14:04",
      "heat": "4",
-     "lane": "7",
+     "lane": "3",
      "seedStr": "00:47.23",
      "seedSeconds": 47.23
     }
@@ -1705053,9 +1711122,9 @@ window.SWIM_DATA = {
      "category": "בנות 8-10",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "13:23",
+     "startTime": "14:03",
      "heat": "3",
-     "lane": "2",
+     "lane": "5",
      "seedStr": "00:54.97",
      "seedSeconds": 54.97
     }
@@ -1705250,7 +1711319,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:33",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "00:55.09",
+     "seedSeconds": 55.09
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:00",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "02:01.21",
+     "seedSeconds": 121.21
+    }
+   ]
   },
   "2016|גורן·לי": {
    "id": "2016|גורן·לי",
@@ -1705372,9 +1711470,9 @@ window.SWIM_DATA = {
      "category": "בנות 8-10",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "13:23",
+     "startTime": "14:03",
      "heat": "3",
-     "lane": "7",
+     "lane": "3",
      "seedStr": "00:56.40",
      "seedSeconds": 56.4
     }
@@ -1705634,7 +1711732,36 @@ window.SWIM_DATA = {
      "points": 135
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 גב",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:49",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "01:46.73",
+     "seedSeconds": 106.73
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:12",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "01:32.19",
+     "seedSeconds": 92.19
+    }
+   ]
   },
   "2017|אוהד·שלומי": {
    "id": "2017|אוהד·שלומי",
@@ -1705771,9 +1711898,9 @@ window.SWIM_DATA = {
      "category": "בנים 8-10",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "13:30",
+     "startTime": "14:12",
      "heat": "4",
-     "lane": "6",
+     "lane": "5",
      "seedStr": "00:44.99",
      "seedSeconds": 44.99
     }
@@ -1705875,9 +1712002,9 @@ window.SWIM_DATA = {
      "category": "בנים 8-10",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "13:30",
+     "startTime": "14:12",
      "heat": "4",
-     "lane": "2",
+     "lane": "3",
      "seedStr": "00:45.87",
      "seedSeconds": 45.87
     }
@@ -1705992,9 +1712119,9 @@ window.SWIM_DATA = {
      "category": "בנים 8-10",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "13:30",
-     "heat": "4",
-     "lane": "5",
+     "startTime": "14:13",
+     "heat": "5",
+     "lane": "7",
      "seedStr": "00:43.56",
      "seedSeconds": 43.56
     }
@@ -1706241,7 +1712368,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:38",
+     "heat": "3",
+     "lane": "7",
+     "seedStr": "00:49.88",
+     "seedSeconds": 49.88
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:10",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "02:10.29",
+     "seedSeconds": 130.29
+    }
+   ]
   },
   "2017|גבע·רנן": {
    "id": "2017|גבע·רנן",
@@ -1706419,7 +1712575,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:38",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "00:47.06",
+     "seedSeconds": 47.06
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:23",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "00:59.91",
+     "seedSeconds": 59.91
+    }
+   ]
   },
   "2017|אורנשטיין·הראל": {
    "id": "2017|אורנשטיין·הראל",
@@ -1706554,7 +1712739,7 @@ window.SWIM_DATA = {
      "category": "בנים 8-10",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "13:29",
+     "startTime": "14:10",
      "heat": "3",
      "lane": "2",
      "seedStr": "00:59.19",
@@ -1706762,7 +1712947,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:34",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "00:49.19",
+     "seedSeconds": 49.19
+    }
+   ]
   },
   "2015|איה·מורנו": {
    "id": "2015|איה·מורנו",
@@ -1706825,7 +1713025,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:34",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "00:45.54",
+     "seedSeconds": 45.54
+    }
+   ]
   },
   "2015|נבאא·נבארי": {
    "id": "2015|נבאא·נבארי",
@@ -1706938,7 +1713153,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:33",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "00:58.98",
+     "seedSeconds": 58.98
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חזה",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:55",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "01:25.71",
+     "seedSeconds": 85.71
+    }
+   ]
   },
   "2012|נדב·פישמן": {
    "id": "2012|נדב·פישמן",
@@ -1707086,7 +1713330,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:38",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "00:50.84",
+     "seedSeconds": 50.84
+    }
+   ]
   },
   "2010|אלטשולר·נועה": {
    "id": "2010|אלטשולר·נועה",
@@ -1746496,7 +1752755,36 @@ window.SWIM_DATA = {
      "points": 154
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חזה",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:56",
+     "heat": "2",
+     "lane": "7",
+     "seedStr": "00:52.85",
+     "seedSeconds": 52.85
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חזה",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "15:47",
+     "heat": "1",
+     "lane": "7",
+     "seedStr": "02:15.39",
+     "seedSeconds": 135.39
+    }
+   ]
   },
   "2016|גל·נחמני": {
    "id": "2016|גל·נחמני",
@@ -1746934,7 +1753222,36 @@ window.SWIM_DATA = {
      "points": 120
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:06",
+     "heat": "5",
+     "lane": "2",
+     "seedStr": "00:41.45",
+     "seedSeconds": 41.45
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:18",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "00:47.52",
+     "seedSeconds": 47.52
+    }
+   ]
   },
   "2014|בוגלוסקי·ליה": {
    "id": "2014|בוגלוסקי·ליה",
@@ -1747179,7 +1753496,36 @@ window.SWIM_DATA = {
      "points": 185
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 גב",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:43",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "01:38.67",
+     "seedSeconds": 98.67
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "15:28",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "01:38.42",
+     "seedSeconds": 98.42
+    }
+   ]
   },
   "2016|לסקוב·נועם": {
    "id": "2016|לסקוב·נועם",
@@ -1747792,9 +1754138,9 @@ window.SWIM_DATA = {
      "category": "בנות 8-10",
      "poolLength": 25,
      "club": "מכבי פ.מ. רעות",
-     "startTime": "13:23",
-     "heat": "3",
-     "lane": "3",
+     "startTime": "14:04",
+     "heat": "4",
+     "lane": "2",
      "seedStr": "00:49.47",
      "seedSeconds": 49.47
     }
@@ -1747965,7 +1754311,36 @@ window.SWIM_DATA = {
      "points": 150
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:03",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "00:54.50",
+     "seedSeconds": 54.5
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חזה",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:28",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "00:53.30",
+     "seedSeconds": 53.3
+    }
+   ]
   },
   "2015|ברייטר·הראל": {
    "id": "2015|ברייטר·הראל",
@@ -1748928,7 +1755303,36 @@ window.SWIM_DATA = {
      "points": 95
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:34",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "00:47.60",
+     "seedSeconds": 47.6
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חזה",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:55",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "01:02.03",
+     "seedSeconds": 62.03
+    }
+   ]
   },
   "2017|יולנו·מלאכי": {
    "id": "2017|יולנו·מלאכי",
@@ -1749262,7 +1755666,36 @@ window.SWIM_DATA = {
      "points": 33
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:10",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "00:49.65",
+     "seedSeconds": 49.65
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:22",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|עילי·שצ'רבקוב": {
    "id": "2013|עילי·שצ'רבקוב",
@@ -1749481,7 +1755914,36 @@ window.SWIM_DATA = {
      "points": 279
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:40",
+     "heat": "5",
+     "lane": "4",
+     "seedStr": "00:30.33",
+     "seedSeconds": 30.33
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 פרפר",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "15:44",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|דוד·דניאלי": {
    "id": "2014|דוד·דניאלי",
@@ -1749648,7 +1756110,36 @@ window.SWIM_DATA = {
      "points": 142
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:39",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "00:38.10",
+     "seedSeconds": 38.1
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חזה",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "15:49",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2018|אושר·שובל": {
    "id": "2018|אושר·שובל",
@@ -1753213,11 +1759704,25 @@ window.SWIM_DATA = {
      "category": "בנות 8-10",
      "poolLength": 25,
      "club": "TLV SWIM",
-     "startTime": "13:23",
-     "heat": "3",
-     "lane": "6",
-     "seedStr": "00:52.34",
-     "seedSeconds": 52.34
+     "startTime": "14:04",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "00:51.94",
+     "seedSeconds": 51.94
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חזה",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "14:28",
+     "heat": "2",
+     "lane": "7",
+     "seedStr": "01:00.05",
+     "seedSeconds": 60.05
     }
    ]
   },
@@ -1760877,7 +1767382,36 @@ window.SWIM_DATA = {
      "points": 132
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:04",
+     "heat": "4",
+     "lane": "6",
+     "seedStr": "00:48.50",
+     "seedSeconds": 48.5
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חזה",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:28",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "00:55.58",
+     "seedSeconds": 55.58
+    }
+   ]
   },
   "2015|גיא·צמח": {
    "id": "2015|גיא·צמח",
@@ -1761404,7 +1767938,36 @@ window.SWIM_DATA = {
      "points": 157
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:39",
+     "heat": "4",
+     "lane": "7",
+     "seedStr": "00:38.48",
+     "seedSeconds": 38.48
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חזה",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:57",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|אלה·כהן·ניסן": {
    "id": "2016|אלה·כהן·ניסן",
@@ -1762181,11 +1768744,25 @@ window.SWIM_DATA = {
      "category": "בנות 8-10",
      "poolLength": 25,
      "club": "מכבי פ.מ. רעות",
-     "startTime": "13:24",
-     "heat": "4",
-     "lane": "2",
+     "startTime": "14:06",
+     "heat": "5",
+     "lane": "3",
      "seedStr": "00:40.07",
      "seedSeconds": 40.07
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חזה",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:28",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "00:55.42",
+     "seedSeconds": 55.42
     }
    ]
   },
@@ -1763163,11 +1769740,25 @@ window.SWIM_DATA = {
      "category": "בנים 8-10",
      "poolLength": 25,
      "club": "מכבי פ.מ. רעות",
-     "startTime": "13:29",
+     "startTime": "14:10",
      "heat": "3",
      "lane": "3",
      "seedStr": "00:50.63",
      "seedSeconds": 50.63
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:24",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "01:13.60",
+     "seedSeconds": 73.6
     }
    ]
   },
@@ -1763241,7 +1769832,7 @@ window.SWIM_DATA = {
      "category": "בנים 8-10",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "13:30",
+     "startTime": "14:12",
      "heat": "4",
      "lane": "7",
      "seedStr": "00:46.87",
@@ -1782914,7 +1789505,36 @@ window.SWIM_DATA = {
      "points": 136
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:13",
+     "heat": "5",
+     "lane": "5",
+     "seedStr": "00:40.05",
+     "seedSeconds": 40.05
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חזה",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:30",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|אריאל·גנות": {
    "id": "2017|אריאל·גנות",
@@ -1786488,7 +1793108,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:06",
+     "heat": "5",
+     "lane": "7",
+     "seedStr": "00:41.80",
+     "seedSeconds": 41.8
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:18",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|גליצ'נקו·מריה": {
    "id": "2015|גליצ'נקו·מריה",
@@ -1788327,7 +1794976,36 @@ window.SWIM_DATA = {
      "points": 152
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 גב",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:51",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "01:29.51",
+     "seedSeconds": 89.51
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:32",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|קוחן·רועי": {
    "id": "2015|קוחן·רועי",
@@ -1790616,7 +1797294,36 @@ window.SWIM_DATA = {
      "points": 94
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:38",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "00:43.67",
+     "seedSeconds": 43.67
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "15:12",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "01:31.59",
+     "seedSeconds": 91.59
+    }
+   ]
   },
   "2016|יעל·רוני": {
    "id": "2016|יעל·רוני",
@@ -1791615,7 +1798322,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:34",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "00:45.94",
+     "seedSeconds": 45.94
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:00",
+     "heat": "1",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|דולב·יחזקאל": {
    "id": "2015|דולב·יחזקאל",
@@ -1791652,7 +1798388,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:38",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "00:48.39",
+     "seedSeconds": 48.39
+    }
+   ]
   },
   "2014|בר·נוסבאום": {
    "id": "2014|בר·נוסבאום",
@@ -1791804,7 +1798555,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:39",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "00:35.88",
+     "seedSeconds": 35.88
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "15:10",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|זמירו·מאמון·סאלי": {
    "id": "2014|זמירו·מאמון·סאלי",
@@ -1810909,7 +1817689,36 @@ window.SWIM_DATA = {
      "points": 108
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:34",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "00:44.35",
+     "seedSeconds": 44.35
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:24",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|קרצב·שי": {
    "id": "2016|קרצב·שי",
@@ -1811265,7 +1818074,36 @@ window.SWIM_DATA = {
      "points": 155
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 מעורב אישי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:32",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חזה",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "15:49",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|אריאל·דוד·כהן": {
    "id": "2015|אריאל·דוד·כהן",
@@ -1811856,9 +1818694,23 @@ window.SWIM_DATA = {
      "category": "בנים 8-10",
      "poolLength": 25,
      "club": "מכבי פ.מ. רעות",
-     "startTime": "13:26",
-     "heat": "1",
-     "lane": "4",
+     "startTime": "14:09",
+     "heat": "2",
+     "lane": "7",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:22",
+     "heat": "2",
+     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1812099,7 +1818951,36 @@ window.SWIM_DATA = {
      "points": 111
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:13",
+     "heat": "5",
+     "lane": "3",
+     "seedStr": "00:41.36",
+     "seedSeconds": 41.36
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:22",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|בלה·שר": {
    "id": "2017|בלה·שר",
@@ -1814238,7 +1821119,36 @@ window.SWIM_DATA = {
      "points": 390
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 חזה",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "18:41",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "01:31.55",
+     "seedSeconds": 91.55
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 פרפר",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "19:04",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "01:08.95",
+     "seedSeconds": 68.95
+    }
+   ]
   },
   "2009|נעם·שגיא": {
    "id": "2009|נעם·שגיא",
@@ -1817517,9 +1824427,23 @@ window.SWIM_DATA = {
      "category": "בנות 8-10",
      "poolLength": 25,
      "club": "מכבי פ.מ. רעות",
-     "startTime": "13:20",
+     "startTime": "14:00",
      "heat": "1",
      "lane": "7",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:14",
+     "heat": "1",
+     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1817569,9 +1824493,23 @@ window.SWIM_DATA = {
      "category": "בנות 8-10",
      "poolLength": 25,
      "club": "מכבי פ.מ. רעות",
-     "startTime": "13:20",
+     "startTime": "14:00",
      "heat": "1",
      "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:14",
+     "heat": "1",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1817621,9 +1824559,23 @@ window.SWIM_DATA = {
      "category": "בנות 8-10",
      "poolLength": 25,
      "club": "מכבי פ.מ. רעות",
-     "startTime": "13:20",
+     "startTime": "14:00",
      "heat": "1",
      "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:16",
+     "heat": "2",
+     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1817673,9 +1824625,23 @@ window.SWIM_DATA = {
      "category": "בנות 8-10",
      "poolLength": 25,
      "club": "מכבי פ.מ. רעות",
-     "startTime": "13:20",
+     "startTime": "14:00",
      "heat": "1",
      "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:16",
+     "heat": "2",
+     "lane": "7",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1817725,9 +1824691,23 @@ window.SWIM_DATA = {
      "category": "בנות 8-10",
      "poolLength": 25,
      "club": "מכבי פ.מ. רעות",
-     "startTime": "13:20",
+     "startTime": "14:00",
      "heat": "1",
      "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:14",
+     "heat": "1",
+     "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1817777,9 +1824757,23 @@ window.SWIM_DATA = {
      "category": "בנות 8-10",
      "poolLength": 25,
      "club": "מכבי פ.מ. רעות",
-     "startTime": "13:20",
+     "startTime": "14:00",
      "heat": "1",
      "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:16",
+     "heat": "2",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1817829,9 +1824823,23 @@ window.SWIM_DATA = {
      "category": "בנות 8-10",
      "poolLength": 25,
      "club": "מכבי פ.מ. רעות",
-     "startTime": "13:21",
+     "startTime": "14:01",
      "heat": "2",
      "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:16",
+     "heat": "2",
+     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1817881,9 +1824889,23 @@ window.SWIM_DATA = {
      "category": "בנים 8-10",
      "poolLength": 25,
      "club": "מכבי פ.מ. רעות",
-     "startTime": "13:26",
+     "startTime": "14:07",
      "heat": "1",
-     "lane": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:20",
+     "heat": "1",
+     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1817933,9 +1824955,23 @@ window.SWIM_DATA = {
      "category": "בנים 8-10",
      "poolLength": 25,
      "club": "מכבי פ.מ. רעות",
-     "startTime": "13:26",
+     "startTime": "14:07",
      "heat": "1",
-     "lane": "2",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:20",
+     "heat": "1",
+     "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1817985,9 +1825021,23 @@ window.SWIM_DATA = {
      "category": "בנים 8-10",
      "poolLength": 25,
      "club": "מכבי פ.מ. רעות",
-     "startTime": "13:26",
-     "heat": "1",
-     "lane": "5",
+     "startTime": "14:09",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:22",
+     "heat": "2",
+     "lane": "7",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1818050,11 +1825100,25 @@ window.SWIM_DATA = {
      "category": "בנים 8-10",
      "poolLength": 25,
      "club": "מכבי פ.מ. רעות",
-     "startTime": "13:27",
-     "heat": "2",
-     "lane": "7",
+     "startTime": "14:12",
+     "heat": "4",
+     "lane": "6",
      "seedStr": "00:46.36",
      "seedSeconds": 46.36
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:22",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
     }
    ]
   },
@@ -1818115,11 +1825179,25 @@ window.SWIM_DATA = {
      "category": "בנים 8-10",
      "poolLength": 25,
      "club": "מכבי פ.מ. רעות",
-     "startTime": "13:26",
-     "heat": "1",
-     "lane": "3",
+     "startTime": "14:10",
+     "heat": "3",
+     "lane": "6",
      "seedStr": "00:54.71",
      "seedSeconds": 54.71
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:20",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
     }
    ]
   },
@@ -1818158,22 +1825236,7 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": [
-    {
-     "date": "2026-11-13",
-     "competition": "ליגה 1 שוהם - 16/10/2026",
-     "compId": 15749,
-     "event": "50 חופשי",
-     "category": "בנים 8-10",
-     "poolLength": 25,
-     "club": "מכבי פ.מ. רעות",
-     "startTime": "13:26",
-     "heat": "1",
-     "lane": "7",
-     "seedStr": "NT",
-     "seedSeconds": null
-    }
-   ]
+   "future": []
   },
   "2017|איתן·לוין": {
    "id": "2017|איתן·לוין",
@@ -1818232,11 +1825295,25 @@ window.SWIM_DATA = {
      "category": "בנים 8-10",
      "poolLength": 25,
      "club": "מכבי פ.מ. רעות",
-     "startTime": "13:27",
-     "heat": "2",
-     "lane": "5",
+     "startTime": "14:13",
+     "heat": "5",
+     "lane": "1",
      "seedStr": "00:43.70",
      "seedSeconds": 43.7
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:24",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
     }
    ]
   },
@@ -1818310,11 +1825387,25 @@ window.SWIM_DATA = {
      "category": "בנים 8-10",
      "poolLength": 25,
      "club": "TLV SWIM",
-     "startTime": "13:29",
+     "startTime": "14:13",
+     "heat": "5",
+     "lane": "6",
+     "seedStr": "00:42.17",
+     "seedSeconds": 42.17
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "14:24",
      "heat": "3",
-     "lane": "7",
-     "seedStr": "NT",
-     "seedSeconds": null
+     "lane": "5",
+     "seedStr": "00:51.70",
+     "seedSeconds": 51.7
     }
    ]
   },
@@ -1818349,9 +1825440,9 @@ window.SWIM_DATA = {
      "category": "בנות 8-10",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "13:21",
+     "startTime": "14:01",
      "heat": "2",
-     "lane": "2",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1818388,9 +1825479,9 @@ window.SWIM_DATA = {
      "category": "בנות 8-10",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "13:21",
+     "startTime": "14:01",
      "heat": "2",
-     "lane": "3",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1818427,9 +1825518,9 @@ window.SWIM_DATA = {
      "category": "בנות 8-10",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "13:21",
-     "heat": "2",
-     "lane": "4",
+     "startTime": "14:03",
+     "heat": "3",
+     "lane": "7",
      "seedStr": "01:04.30",
      "seedSeconds": 64.3
     }
@@ -1818466,9 +1825557,9 @@ window.SWIM_DATA = {
      "category": "בנות 8-10",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "13:21",
-     "heat": "2",
-     "lane": "5",
+     "startTime": "14:03",
+     "heat": "3",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1818505,9 +1825596,9 @@ window.SWIM_DATA = {
      "category": "בנות 8-10",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "13:21",
+     "startTime": "14:01",
      "heat": "2",
-     "lane": "6",
+     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1818544,7 +1825635,7 @@ window.SWIM_DATA = {
      "category": "בנות 8-10",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "13:21",
+     "startTime": "14:01",
      "heat": "2",
      "lane": "7",
      "seedStr": "NT",
@@ -1818583,9 +1825674,9 @@ window.SWIM_DATA = {
      "category": "בנים 8-10",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "13:26",
+     "startTime": "14:07",
      "heat": "1",
-     "lane": "6",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1818622,9 +1825713,9 @@ window.SWIM_DATA = {
      "category": "בנים 8-10",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "13:27",
+     "startTime": "14:09",
      "heat": "2",
-     "lane": "1",
+     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1818661,9 +1825752,9 @@ window.SWIM_DATA = {
      "category": "בנים 8-10",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "13:27",
+     "startTime": "14:09",
      "heat": "2",
-     "lane": "2",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1818700,9 +1825791,9 @@ window.SWIM_DATA = {
      "category": "בנים 8-10",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "13:27",
+     "startTime": "14:09",
      "heat": "2",
-     "lane": "3",
+     "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1818739,7 +1825830,7 @@ window.SWIM_DATA = {
      "category": "בנים 8-10",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "13:27",
+     "startTime": "14:09",
      "heat": "2",
      "lane": "4",
      "seedStr": "NT",
@@ -1818778,9 +1825869,9 @@ window.SWIM_DATA = {
      "category": "בנים 8-10",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "13:27",
+     "startTime": "14:09",
      "heat": "2",
-     "lane": "6",
+     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1818817,7 +1825908,7 @@ window.SWIM_DATA = {
      "category": "בנים 8-10",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "13:29",
+     "startTime": "14:10",
      "heat": "3",
      "lane": "1",
      "seedStr": "NT",
@@ -1818847,7 +1825938,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:33",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|אמה·כהן": {
    "id": "2016|אמה·כהן",
@@ -1818871,7 +1825977,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:32",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|עמנואל·שמילה": {
    "id": "2016|עמנואל·שמילה",
@@ -1818895,7 +1826016,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:32",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|אלרן·לני·שוורצמן": {
    "id": "2016|אלרן·לני·שוורצמן",
@@ -1818919,7 +1826055,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:32",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|כרמל·שטלריד": {
    "id": "2015|כרמל·שטלריד",
@@ -1818943,7 +1826094,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:33",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|אופיר·שחר": {
    "id": "2013|אופיר·שחר",
@@ -1818967,7 +1826133,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:33",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|אביגיל·טרובישי": {
    "id": "2015|אביגיל·טרובישי",
@@ -1818991,7 +1826172,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:33",
+     "heat": "2",
+     "lane": "7",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|אלמוזנינו·עמית": {
    "id": "2015|אלמוזנינו·עמית",
@@ -1819015,7 +1826211,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:36",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|עומר·קליין": {
    "id": "2015|עומר·קליין",
@@ -1819039,7 +1826250,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:37",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|איתמר·חזק": {
    "id": "2015|איתמר·חזק",
@@ -1819063,7 +1826289,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:36",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|נועם·עוזר": {
    "id": "2014|נועם·עוזר",
@@ -1819087,7 +1826328,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:37",
+     "heat": "2",
+     "lane": "7",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|אורי·שרון": {
    "id": "2014|אורי·שרון",
@@ -1819111,7 +1826367,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "14:37",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2018|גפנר·נועם": {
    "id": "2018|גפנר·נועם",
@@ -1820008,7 +1827279,36 @@ window.SWIM_DATA = {
      "points": 354
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "100 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "18:29",
+     "heat": "1",
+     "lane": "7",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 16044,
+     "event": "200 חופשי",
+     "category": "גברים 15-99",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "18:53",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|בכר·עידן": {
    "id": "2015|בכר·עידן",
@@ -1827042,7 +1834342,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "14:01",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "14:16",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|אילן·קוגן": {
    "id": "2015|אילן·קוגן",
@@ -1827370,7 +1834699,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "14:36",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "15:23",
+     "heat": "1",
+     "lane": "7",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|כוך·נויה": {
    "id": "2015|כוך·נויה",
@@ -1827767,7 +1835125,36 @@ window.SWIM_DATA = {
      "points": 86
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "14:04",
+     "heat": "4",
+     "lane": "7",
+     "seedStr": "00:50.91",
+     "seedSeconds": 50.91
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חזה",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "14:26",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "01:04.07",
+     "seedSeconds": 64.07
+    }
+   ]
   },
   "2017|גרדי·יאנסן": {
    "id": "2017|גרדי·יאנסן",
@@ -1827952,7 +1835339,36 @@ window.SWIM_DATA = {
      "points": 80
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "14:03",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "00:56.55",
+     "seedSeconds": 56.55
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חזה",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "14:26",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "01:05.80",
+     "seedSeconds": 65.8
+    }
+   ]
   },
   "2018|טלי·לפטניקוב": {
    "id": "2018|טלי·לפטניקוב",
@@ -1829771,7 +1837187,36 @@ window.SWIM_DATA = {
      "points": 77
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:12",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "00:46.68",
+     "seedSeconds": 46.68
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:22",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2018|ליאב·פולונסקי": {
    "id": "2018|ליאב·פולונסקי",
@@ -1829869,7 +1837314,22 @@ window.SWIM_DATA = {
      "points": 57
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:37",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "00:51.41",
+     "seedSeconds": 51.41
+    }
+   ]
   },
   "2017|איסטומין·טמיר": {
    "id": "2017|איסטומין·טמיר",
@@ -1830605,7 +1838065,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:10",
+     "heat": "3",
+     "lane": "7",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:24",
+     "heat": "3",
+     "lane": "7",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2018|סופיה·רוד": {
    "id": "2018|סופיה·רוד",
@@ -1832531,9 +1840020,215 @@ window.SWIM_DATA = {
     }
    ],
    "future": []
+  },
+  "2017|לינדנפלד·נוגה": {
+   "id": "2017|לינדנפלד·נוגה",
+   "displayName": "נוגה לינדנפלד",
+   "birthYear": 2017,
+   "clubs": [
+    "מכבי פ.מ. רעות"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:01",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:16",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2015|ברוך·רום·ששון·ששון": {
+   "id": "2015|ברוך·רום·ששון·ששון",
+   "displayName": "רום ששון ברוך ששון",
+   "birthYear": 2015,
+   "clubs": [
+    "TLV SWIM"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "14:36",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "15:23",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2015|אלון·מילר": {
+   "id": "2015|אלון·מילר",
+   "displayName": "אלון מילר",
+   "birthYear": 2015,
+   "clubs": [
+    "TLV SWIM"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "14:36",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חזה",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "14:57",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2014|בסאילוב·דוד": {
+   "id": "2014|בסאילוב·דוד",
+   "displayName": "דוד בסאילוב",
+   "birthYear": 2014,
+   "clubs": [
+    "הפועל עירוני מודיעין"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:37",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2013|ינון·מימון": {
+   "id": "2013|ינון·מימון",
+   "displayName": "ינון מימון",
+   "birthYear": 2013,
+   "clubs": [
+    "הפועל עירוני מודיעין"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:37",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "15:10",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2013|שפייזמן·תמר": {
+   "id": "2013|שפייזמן·תמר",
+   "displayName": "תמר שפייזמן",
+   "birthYear": 2013,
+   "clubs": [
+    "TLV SWIM"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "100 חופשי",
+     "category": "נשים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "15:00",
+     "heat": "1",
+     "lane": "7",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   }
  },
- "lastChecked": "2026-11-10 01:22",
+ "lastChecked": "2026-11-10 23:04",
  "newThisRun": 0,
  "newComps": []
 };
