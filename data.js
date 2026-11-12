@@ -9445,7 +9445,36 @@ window.SWIM_DATA = {
      "points": 451
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 גב",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "15:59",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "02:35.83",
+     "seedSeconds": 155.83
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 מעורב אישי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "16:27",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "01:16.63",
+     "seedSeconds": 76.63
+    }
+   ]
   },
   "2010|עדינה·קגן": {
    "id": "2010|עדינה·קגן",
@@ -15986,7 +16015,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "18:27",
+     "startTime": "18:22",
      "heat": "2",
      "lane": "2",
      "seedStr": "01:05.22",
@@ -16000,7 +16029,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "18:43",
+     "startTime": "18:38",
      "heat": "1",
      "lane": "3",
      "seedStr": "02:39.88",
@@ -16014,7 +16043,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "19:20",
+     "startTime": "19:15",
      "heat": "2",
      "lane": "5",
      "seedStr": "01:13.47",
@@ -17339,7 +17368,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "18:18",
+     "startTime": "18:13",
      "heat": "2",
      "lane": "3",
      "seedStr": "02:43.26",
@@ -17353,7 +17382,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "18:39",
+     "startTime": "18:34",
      "heat": "1",
      "lane": "3",
      "seedStr": "01:23.03",
@@ -17367,7 +17396,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "19:06",
+     "startTime": "19:01",
      "heat": "1",
      "lane": "4",
      "seedStr": "03:07.49",
@@ -71233,7 +71262,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "18:50",
+     "startTime": "18:45",
      "heat": "1",
      "lane": "6",
      "seedStr": "02:19.42",
@@ -71247,7 +71276,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "19:24",
+     "startTime": "19:19",
      "heat": "1",
      "lane": "4",
      "seedStr": "04:49.19",
@@ -77336,7 +77365,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:50",
+     "startTime": "18:45",
      "heat": "1",
      "lane": "3",
      "seedStr": "02:17.81",
@@ -77350,7 +77379,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "19:24",
+     "startTime": "19:19",
      "heat": "1",
      "lane": "5",
      "seedStr": "04:51.19",
@@ -82107,7 +82136,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:30",
+     "startTime": "18:25",
      "heat": "2",
      "lane": "4",
      "seedStr": "00:50.85",
@@ -82121,7 +82150,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:57",
+     "startTime": "18:52",
      "heat": "2",
      "lane": "4",
      "seedStr": "01:51.93",
@@ -82135,7 +82164,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "19:04",
+     "startTime": "18:59",
      "heat": "2",
      "lane": "5",
      "seedStr": "01:01.13",
@@ -84109,7 +84138,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:47",
+     "startTime": "18:42",
      "heat": "1",
      "lane": "5",
      "seedStr": "02:09.60",
@@ -84123,7 +84152,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "19:22",
+     "startTime": "19:17",
      "heat": "1",
      "lane": "5",
      "seedStr": "01:00.32",
@@ -85356,7 +85385,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:30",
+     "startTime": "18:25",
      "heat": "2",
      "lane": "5",
      "seedStr": "00:54.78",
@@ -85370,7 +85399,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "19:30",
+     "startTime": "19:25",
      "heat": "1",
      "lane": "4",
      "seedStr": "04:16.92",
@@ -113836,7 +113865,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "18:32",
+     "startTime": "18:27",
      "heat": "1",
      "lane": "5",
      "seedStr": "02:38.77",
@@ -113850,7 +113879,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "19:00",
+     "startTime": "18:55",
      "heat": "1",
      "lane": "5",
      "seedStr": "01:14.93",
@@ -117092,7 +117121,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:39",
+     "startTime": "18:34",
      "heat": "1",
      "lane": "6",
      "seedStr": "01:23.96",
@@ -117106,7 +117135,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "19:06",
+     "startTime": "19:01",
      "heat": "1",
      "lane": "5",
      "seedStr": "03:09.54",
@@ -131418,7 +131447,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:30",
+     "startTime": "18:25",
      "heat": "2",
      "lane": "6",
      "seedStr": "00:58.52",
@@ -131432,7 +131461,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:41",
+     "startTime": "18:36",
      "heat": "1",
      "lane": "4",
      "seedStr": "01:05.39",
@@ -143668,7 +143697,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:32",
+     "startTime": "18:27",
      "heat": "1",
      "lane": "4",
      "seedStr": "02:19.64",
@@ -143682,7 +143711,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "19:10",
+     "startTime": "19:05",
      "heat": "2",
      "lane": "3",
      "seedStr": "02:47.94",
@@ -167232,20 +167261,6 @@ window.SWIM_DATA = {
     }
    ],
    "future": [
-    {
-     "date": "2026-11-13",
-     "competition": "ליגה 1 שוהם - 16/10/2026",
-     "compId": 15749,
-     "event": "100 חופשי",
-     "category": "נשים 11-99",
-     "poolLength": 25,
-     "club": "TLV SWIM",
-     "startTime": "15:08",
-     "heat": "5",
-     "lane": "5",
-     "seedStr": "01:04.30",
-     "seedSeconds": 64.3
-    },
     {
      "date": "2026-11-13",
      "competition": "ליגה 1 שוהם - 16/10/2026",
@@ -257692,7 +257707,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:47",
+     "startTime": "18:42",
      "heat": "1",
      "lane": "4",
      "seedStr": "02:09.55",
@@ -257706,7 +257721,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "19:22",
+     "startTime": "19:17",
      "heat": "1",
      "lane": "4",
      "seedStr": "00:58.03",
@@ -258590,7 +258605,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:36",
+     "startTime": "18:31",
      "heat": "1",
      "lane": "5",
      "seedStr": "02:23.46",
@@ -258604,7 +258619,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "19:04",
+     "startTime": "18:59",
      "heat": "2",
      "lane": "2",
      "seedStr": "01:06.64",
@@ -263582,7 +263597,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:27",
+     "startTime": "18:22",
      "heat": "2",
      "lane": "4",
      "seedStr": "01:01.36",
@@ -263596,7 +263611,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:50",
+     "startTime": "18:45",
      "heat": "1",
      "lane": "4",
      "seedStr": "02:12.07",
@@ -264584,7 +264599,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "19:10",
+     "startTime": "19:05",
      "heat": "2",
      "lane": "5",
      "seedStr": "02:44.43",
@@ -264598,7 +264613,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "19:24",
+     "startTime": "19:19",
      "heat": "1",
      "lane": "2",
      "seedStr": "06:02.60",
@@ -288332,7 +288347,36 @@ window.SWIM_DATA = {
      "points": 454
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חופשי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "15:31",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "02:24.18",
+     "seedSeconds": 144.18
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 מעורב אישי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:27",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "01:13.73",
+     "seedSeconds": 73.73
+    }
+   ]
   },
   "2011|לוי·מאי": {
    "id": "2011|לוי·מאי",
@@ -290824,7 +290868,36 @@ window.SWIM_DATA = {
      "points": 431
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חופשי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "15:31",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "02:22.69",
+     "seedSeconds": 142.69
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 מעורב אישי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:27",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "01:17.14",
+     "seedSeconds": 77.14
+    }
+   ]
   },
   "2011|מעיין·שניר": {
    "id": "2011|מעיין·שניר",
@@ -292430,7 +292503,36 @@ window.SWIM_DATA = {
      "points": 230
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 גב",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "15:59",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "02:48.70",
+     "seedSeconds": 168.7
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 גב",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "16:39",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "01:18.33",
+     "seedSeconds": 78.33
+    }
+   ]
   },
   "2012|אלה·אנקורי": {
    "id": "2012|אלה·אנקורי",
@@ -293656,7 +293758,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "18:47",
+     "startTime": "18:42",
      "heat": "1",
      "lane": "7",
      "seedStr": "02:35.73",
@@ -293670,7 +293772,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "18:53",
+     "startTime": "18:48",
      "heat": "1",
      "lane": "4",
      "seedStr": "02:19.04",
@@ -293684,7 +293786,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "19:22",
+     "startTime": "19:17",
      "heat": "1",
      "lane": "7",
      "seedStr": "01:08.82",
@@ -294442,7 +294544,36 @@ window.SWIM_DATA = {
      "points": 373
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 גב",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:03",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "02:41.66",
+     "seedSeconds": 161.66
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 פרפר",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:15",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2007|נעם·שחר": {
    "id": "2007|נעם·שחר",
@@ -296037,7 +296168,36 @@ window.SWIM_DATA = {
      "points": 542
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "15:39",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "02:00.55",
+     "seedSeconds": 120.55
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 פרפר",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "16:47",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "01:08.82",
+     "seedSeconds": 68.82
+    }
+   ]
   },
   "2011|טל·עידו": {
    "id": "2011|טל·עידו",
@@ -297697,7 +297857,36 @@ window.SWIM_DATA = {
      "points": 439
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 גב",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "16:07",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "02:13.12",
+     "seedSeconds": 133.12
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "16:33",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "00:56.50",
+     "seedSeconds": 56.5
+    }
+   ]
   },
   "2012|אלון·ארויה·בן": {
    "id": "2012|אלון·ארויה·בן",
@@ -298460,7 +298649,22 @@ window.SWIM_DATA = {
      "points": 326
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 פרפר",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי אושן חדרה",
+     "startTime": "16:19",
+     "heat": "2",
+     "lane": "8",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2012|לאון·שומן": {
    "id": "2012|לאון·שומן",
@@ -298991,7 +299195,22 @@ window.SWIM_DATA = {
      "points": 313
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 גב",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי אושן חדרה",
+     "startTime": "16:07",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "02:29.75",
+     "seedSeconds": 149.75
+    }
+   ]
   },
   "2010|ארנסט·לוצנקו": {
    "id": "2010|ארנסט·לוצנקו",
@@ -299275,7 +299494,22 @@ window.SWIM_DATA = {
      "points": 346
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 גב",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי אושן חדרה",
+     "startTime": "16:07",
+     "heat": "2",
+     "lane": "7",
+     "seedStr": "02:37.68",
+     "seedSeconds": 157.68
+    }
+   ]
   },
   "2014|בועז·ביאליק·ברזילי·ויקטור": {
    "id": "2014|בועז·ביאליק·ברזילי·ויקטור",
@@ -301140,7 +301374,36 @@ window.SWIM_DATA = {
      "points": 255
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 גב",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי כוכב יאיר - צור יגאל",
+     "startTime": "16:03",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "02:49.90",
+     "seedSeconds": 169.9
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 פרפר",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי כוכב יאיר - צור יגאל",
+     "startTime": "16:45",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "01:22.80",
+     "seedSeconds": 82.8
+    }
+   ]
   },
   "2009|ילון·נעם": {
    "id": "2009|ילון·נעם",
@@ -302892,7 +303155,36 @@ window.SWIM_DATA = {
      "points": 461
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 מעורב אישי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "15:19",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "02:37.22",
+     "seedSeconds": 157.22
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 פרפר",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:11",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "02:45.20",
+     "seedSeconds": 165.2
+    }
+   ]
   },
   "2010|כרמל·תמר": {
    "id": "2010|כרמל·תמר",
@@ -304743,7 +305035,36 @@ window.SWIM_DATA = {
      "points": 462
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 פרפר",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:11",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "02:44.79",
+     "seedSeconds": 164.79
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 פרפר",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:43",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "01:09.77",
+     "seedSeconds": 69.77
+    }
+   ]
   },
   "2012|פלסיאן·שי": {
    "id": "2012|פלסיאן·שי",
@@ -309665,7 +309986,22 @@ window.SWIM_DATA = {
      "points": 357
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי אושן חדרה",
+     "startTime": "15:39",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "02:11.76",
+     "seedSeconds": 131.76
+    }
+   ]
   },
   "2011|נדב·פיינגולד": {
    "id": "2011|נדב·פיינגולד",
@@ -310844,7 +311180,36 @@ window.SWIM_DATA = {
      "points": 353
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 מעורב אישי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "16:27",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "01:01.96",
+     "seedSeconds": 61.96
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 פרפר",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "16:47",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "01:08.48",
+     "seedSeconds": 68.48
+    }
+   ]
   },
   "2008|יעקוב·מרקוב": {
    "id": "2008|יעקוב·מרקוב",
@@ -311841,7 +312206,22 @@ window.SWIM_DATA = {
      "points": 397
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 פרפר",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי כוכב יאיר - צור יגאל",
+     "startTime": "16:19",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "02:32.64",
+     "seedSeconds": 152.64
+    }
+   ]
   },
   "2013|אילוביץ·יונתן": {
    "id": "2013|אילוביץ·יונתן",
@@ -313189,7 +313569,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 פרפר",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "16:15",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "16:37",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "01:28.56",
+     "seedSeconds": 88.56
+    }
+   ]
   },
   "2011|לירון·פופ": {
    "id": "2011|לירון·פופ",
@@ -313614,7 +314023,22 @@ window.SWIM_DATA = {
      "points": 392
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי אושן חדרה",
+     "startTime": "15:35",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "02:30.16",
+     "seedSeconds": 150.16
+    }
+   ]
   },
   "2012|בן·דרור·נועם": {
    "id": "2012|בן·דרור·נועם",
@@ -318266,7 +318690,36 @@ window.SWIM_DATA = {
      "points": 314
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חזה",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "15:47",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "03:03.16",
+     "seedSeconds": 183.16
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 מעורב אישי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "16:27",
+     "heat": "3",
+     "lane": "7",
+     "seedStr": "01:17.15",
+     "seedSeconds": 77.15
+    }
+   ]
   },
   "2012|אנטמן·יובל": {
    "id": "2012|אנטמן·יובל",
@@ -319888,7 +320341,36 @@ window.SWIM_DATA = {
      "points": 296
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חזה",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "15:47",
+     "heat": "2",
+     "lane": "7",
+     "seedStr": "03:14.23",
+     "seedSeconds": 194.23
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 מעורב אישי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:27",
+     "heat": "3",
+     "lane": "8",
+     "seedStr": "01:21.49",
+     "seedSeconds": 81.49
+    }
+   ]
   },
   "2012|אילן·גונן": {
    "id": "2012|אילן·גונן",
@@ -321597,7 +322079,36 @@ window.SWIM_DATA = {
      "points": 445
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 מעורב אישי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "15:23",
+     "heat": "1",
+     "lane": "7",
+     "seedStr": "02:27.56",
+     "seedSeconds": 147.56
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:33",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "00:59.40",
+     "seedSeconds": 59.4
+    }
+   ]
   },
   "2011|יובל·כץ": {
    "id": "2011|יובל·כץ",
@@ -323153,7 +323664,36 @@ window.SWIM_DATA = {
      "points": 549
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "15:55",
+     "heat": "2",
+     "lane": "7",
+     "seedStr": "03:04.07",
+     "seedSeconds": 184.07
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 פרפר",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:15",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2010|גילאי·דעבול·יהונתן": {
    "id": "2010|גילאי·דעבול·יהונתן",
@@ -326406,7 +326946,36 @@ window.SWIM_DATA = {
      "points": 415
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 מעורב אישי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי כוכב יאיר - צור יגאל",
+     "startTime": "15:23",
+     "heat": "1",
+     "lane": "8",
+     "seedStr": "02:41.53",
+     "seedSeconds": 161.53
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 פרפר",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי כוכב יאיר - צור יגאל",
+     "startTime": "16:47",
+     "heat": "2",
+     "lane": "8",
+     "seedStr": "01:13.59",
+     "seedSeconds": 73.59
+    }
+   ]
   },
   "2013|אלון·סאבתי": {
    "id": "2013|אלון·סאבתי",
@@ -328734,7 +329303,36 @@ window.SWIM_DATA = {
      "points": 466
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 מעורב אישי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "16:27",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "01:02.56",
+     "seedSeconds": 62.56
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 גב",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "16:41",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "01:02.25",
+     "seedSeconds": 62.25
+    }
+   ]
   },
   "2009|הלל·סלע": {
    "id": "2009|הלל·סלע",
@@ -330456,7 +331054,36 @@ window.SWIM_DATA = {
      "points": 331
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 גב",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי כוכב יאיר - צור יגאל",
+     "startTime": "16:07",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "02:37.08",
+     "seedSeconds": 157.08
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 גב",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי כוכב יאיר - צור יגאל",
+     "startTime": "16:41",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "01:09.99",
+     "seedSeconds": 69.99
+    }
+   ]
   },
   "2007|נעמה·פנחס": {
    "id": "2007|נעמה·פנחס",
@@ -331661,7 +332288,36 @@ window.SWIM_DATA = {
      "points": 475
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 גב",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "15:59",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "02:37.62",
+     "seedSeconds": 157.62
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 פרפר",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:43",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "01:14.69",
+     "seedSeconds": 74.69
+    }
+   ]
   },
   "2011|אלמור·מורוז": {
    "id": "2011|אלמור·מורוז",
@@ -334943,7 +335599,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חופשי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "מכבי כוכב יאיר - צור יגאל",
+     "startTime": "15:31",
+     "heat": "2",
+     "lane": "7",
+     "seedStr": "02:32.01",
+     "seedSeconds": 152.01
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 פרפר",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "מכבי כוכב יאיר - צור יגאל",
+     "startTime": "16:43",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "01:23.46",
+     "seedSeconds": 83.46
+    }
+   ]
   },
   "2012|כהן·נוגה": {
    "id": "2012|כהן·נוגה",
@@ -335370,7 +336055,22 @@ window.SWIM_DATA = {
      "points": 236
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 מעורב אישי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "16:23",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "01:32.22",
+     "seedSeconds": 92.22
+    }
+   ]
   },
   "2010|ברנד·וייסלר·תמר": {
    "id": "2010|ברנד·וייסלר·תמר",
@@ -340008,7 +340708,36 @@ window.SWIM_DATA = {
      "points": 421
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 פרפר",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:19",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "02:27.71",
+     "seedSeconds": 147.71
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 גב",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:41",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "01:05.09",
+     "seedSeconds": 65.09
+    }
+   ]
   },
   "2009|איתי·סלע": {
    "id": "2009|איתי·סלע",
@@ -341317,7 +342046,36 @@ window.SWIM_DATA = {
      "points": 506
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 פרפר",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:15",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:37",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "01:14.89",
+     "seedSeconds": 74.89
+    }
+   ]
   },
   "2011|ינאי·קרן": {
    "id": "2011|ינאי·קרן",
@@ -342368,7 +343126,36 @@ window.SWIM_DATA = {
      "points": 547
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "15:51",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "03:16.73",
+     "seedSeconds": 196.73
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:37",
+     "heat": "1",
+     "lane": "7",
+     "seedStr": "01:32.21",
+     "seedSeconds": 92.21
+    }
+   ]
   },
   "2012|חיים·עידו": {
    "id": "2012|חיים·עידו",
@@ -345685,7 +346472,36 @@ window.SWIM_DATA = {
      "points": 612
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חופשי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "15:31",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "02:07.74",
+     "seedSeconds": 127.74
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 פרפר",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:11",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "02:51.68",
+     "seedSeconds": 171.68
+    }
+   ]
   },
   "2009|לירי·נידם": {
    "id": "2009|לירי·נידם",
@@ -347306,7 +348122,36 @@ window.SWIM_DATA = {
      "points": 491
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חופשי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "15:31",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "02:17.65",
+     "seedSeconds": 137.65
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 חופשי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:31",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "01:03.14",
+     "seedSeconds": 63.14
+    }
+   ]
   },
   "2011|גרונאו·נטלי": {
    "id": "2011|גרונאו·נטלי",
@@ -349200,7 +350045,36 @@ window.SWIM_DATA = {
      "points": 503
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חופשי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "15:31",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "02:20.30",
+     "seedSeconds": 140.3
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 חופשי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:31",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "01:05.94",
+     "seedSeconds": 65.94
+    }
+   ]
   },
   "2014|אלה·מלול": {
    "id": "2014|אלה·מלול",
@@ -349874,7 +350748,36 @@ window.SWIM_DATA = {
      "points": 193
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 גב",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "15:59",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "02:51.09",
+     "seedSeconds": 171.09
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 גב",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "16:39",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "01:21.90",
+     "seedSeconds": 81.9
+    }
+   ]
   },
   "2013|ויסברוט·רותם": {
    "id": "2013|ויסברוט·רותם",
@@ -350741,7 +351644,36 @@ window.SWIM_DATA = {
      "points": 335
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 מעורב אישי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "15:15",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "02:59.55",
+     "seedSeconds": 179.55
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 פרפר",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "16:43",
+     "heat": "1",
+     "lane": "1",
+     "seedStr": "01:26.41",
+     "seedSeconds": 86.41
+    }
+   ]
   },
   "2013|זלינגר·נדב": {
    "id": "2013|זלינגר·נדב",
@@ -352336,7 +353268,36 @@ window.SWIM_DATA = {
      "points": 418
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 מעורב אישי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "15:23",
+     "heat": "1",
+     "lane": "1",
+     "seedStr": "02:34.13",
+     "seedSeconds": 154.13
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 גב",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:07",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "02:29.65",
+     "seedSeconds": 149.65
+    }
+   ]
   },
   "2011|לפל·תום": {
    "id": "2011|לפל·תום",
@@ -355797,7 +356758,36 @@ window.SWIM_DATA = {
      "points": 307
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "15:39",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "02:16.63",
+     "seedSeconds": 136.63
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 פרפר",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "16:47",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "01:11.96",
+     "seedSeconds": 71.96
+    }
+   ]
   },
   "2005|אן·מרסי·נגירה": {
    "id": "2005|אן·מרסי·נגירה",
@@ -357990,7 +358980,22 @@ window.SWIM_DATA = {
      "points": 533
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 מעורב אישי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:27",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "01:09.30",
+     "seedSeconds": 69.3
+    }
+   ]
   },
   "2010|אילת·רנה": {
    "id": "2010|אילת·רנה",
@@ -360726,7 +361731,36 @@ window.SWIM_DATA = {
      "points": 357
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חופשי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "מכבי כוכב יאיר - צור יגאל",
+     "startTime": "15:27",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "02:37.95",
+     "seedSeconds": 157.95
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 חזה",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "מכבי כוכב יאיר - צור יגאל",
+     "startTime": "16:35",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "01:27.89",
+     "seedSeconds": 87.89
+    }
+   ]
   },
   "2010|מיכאל·צ'רניאבסקי": {
    "id": "2010|מיכאל·צ'רניאבסקי",
@@ -361816,7 +362850,36 @@ window.SWIM_DATA = {
      "points": 577
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "15:55",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "02:40.88",
+     "seedSeconds": 160.88
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 פרפר",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:47",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "01:07.38",
+     "seedSeconds": 67.38
+    }
+   ]
   },
   "2011|רייכמן·תום": {
    "id": "2011|רייכמן·תום",
@@ -362919,7 +363982,36 @@ window.SWIM_DATA = {
      "points": 449
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 מעורב אישי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "15:23",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "02:18.23",
+     "seedSeconds": 138.23
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:33",
+     "heat": "1",
+     "lane": "7",
+     "seedStr": "01:03.53",
+     "seedSeconds": 63.53
+    }
+   ]
   },
   "2011|הלמן·נטלי": {
    "id": "2011|הלמן·נטלי",
@@ -364126,7 +365218,36 @@ window.SWIM_DATA = {
      "points": 567
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 מעורב אישי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "15:19",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "02:26.32",
+     "seedSeconds": 146.32
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 חזה",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:35",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "01:19.60",
+     "seedSeconds": 79.6
+    }
+   ]
   },
   "2011|מאיה·רנדלר": {
    "id": "2011|מאיה·רנדלר",
@@ -367291,7 +368412,36 @@ window.SWIM_DATA = {
      "points": 509
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 מעורב אישי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "15:23",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "02:26.57",
+     "seedSeconds": 146.57
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "15:55",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "02:34.44",
+     "seedSeconds": 154.44
+    }
+   ]
   },
   "2012|בן·גיא·ישראל": {
    "id": "2012|בן·גיא·ישראל",
@@ -368030,7 +369180,36 @@ window.SWIM_DATA = {
      "points": 313
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 פרפר",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:19",
+     "heat": "2",
+     "lane": "7",
+     "seedStr": "02:39.62",
+     "seedSeconds": 159.62
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 פרפר",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:47",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "01:13.46",
+     "seedSeconds": 73.46
+    }
+   ]
   },
   "2008|איתן·קניז'ניק": {
    "id": "2008|איתן·קניז'ניק",
@@ -370623,7 +371802,36 @@ window.SWIM_DATA = {
      "points": 550
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 מעורב אישי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "15:23",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "02:24.84",
+     "seedSeconds": 144.84
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 פרפר",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:19",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "02:21.54",
+     "seedSeconds": 141.54
+    }
+   ]
   },
   "2012|יואב·שמיר": {
    "id": "2012|יואב·שמיר",
@@ -371401,7 +372609,36 @@ window.SWIM_DATA = {
      "points": 464
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "15:39",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "02:19.58",
+     "seedSeconds": 139.58
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 פרפר",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:19",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "02:32.50",
+     "seedSeconds": 152.5
+    }
+   ]
   },
   "2010|כנרת·נתן": {
    "id": "2010|כנרת·נתן",
@@ -373538,7 +374775,36 @@ window.SWIM_DATA = {
      "points": 171
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "15:55",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "03:04.34",
+     "seedSeconds": 184.34
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "16:37",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "01:30.05",
+     "seedSeconds": 90.05
+    }
+   ]
   },
   "2012|אבשלום·ליאם": {
    "id": "2012|אבשלום·ליאם",
@@ -374596,7 +375862,22 @@ window.SWIM_DATA = {
      "points": 295
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 מעורב אישי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "מכבי אושן חדרה",
+     "startTime": "15:15",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "03:08.15",
+     "seedSeconds": 188.15
+    }
+   ]
   },
   "2008|בליק·סאווה": {
    "id": "2008|בליק·סאווה",
@@ -375829,7 +377110,36 @@ window.SWIM_DATA = {
      "points": 647
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 מעורב אישי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "15:23",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "02:06.04",
+     "seedSeconds": 126.04
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 גב",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:07",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "02:06.28",
+     "seedSeconds": 126.28
+    }
+   ]
   },
   "2007|יואב·סגל": {
    "id": "2007|יואב·סגל",
@@ -376928,7 +378238,36 @@ window.SWIM_DATA = {
      "points": 464
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:33",
+     "heat": "1",
+     "lane": "1",
+     "seedStr": "01:07.00",
+     "seedSeconds": 67.0
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 פרפר",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:47",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "01:01.59",
+     "seedSeconds": 61.59
+    }
+   ]
   },
   "2009|איוונוב·דניס": {
    "id": "2009|איוונוב·דניס",
@@ -381169,7 +382508,22 @@ window.SWIM_DATA = {
      "points": 438
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 מעורב אישי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "16:27",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "01:18.83",
+     "seedSeconds": 78.83
+    }
+   ]
   },
   "2013|מעוז·עדי": {
    "id": "2013|מעוז·עדי",
@@ -385980,7 +387334,22 @@ window.SWIM_DATA = {
      "points": 433
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 מעורב אישי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "16:27",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "01:16.24",
+     "seedSeconds": 76.24
+    }
+   ]
   },
   "2012|אליזבט·קריב": {
    "id": "2012|אליזבט·קריב",
@@ -386394,7 +387763,36 @@ window.SWIM_DATA = {
      "points": 374
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 חופשי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "16:31",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "01:07.79",
+     "seedSeconds": 67.79
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 גב",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "16:39",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "01:15.06",
+     "seedSeconds": 75.06
+    }
+   ]
   },
   "2013|יודולוביץ·מילנה": {
    "id": "2013|יודולוביץ·מילנה",
@@ -388713,7 +390111,36 @@ window.SWIM_DATA = {
      "points": 393
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חזה",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "15:47",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "03:10.89",
+     "seedSeconds": 190.89
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 פרפר",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:11",
+     "heat": "1",
+     "lane": "7",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2011|אילה·ואלצר": {
    "id": "2011|אילה·ואלצר",
@@ -391406,7 +392833,22 @@ window.SWIM_DATA = {
      "points": 435
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 מעורב אישי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "15:19",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "02:44.02",
+     "seedSeconds": 164.02
+    }
+   ]
   },
   "2008|ברונפמן·מארק": {
    "id": "2008|ברונפמן·מארק",
@@ -404538,7 +405980,22 @@ window.SWIM_DATA = {
      "points": 396
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "15:35",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "02:30.48",
+     "seedSeconds": 150.48
+    }
+   ]
   },
   "2012|אשלי·נמסניקוב": {
    "id": "2012|אשלי·נמסניקוב",
@@ -485903,7 +487360,36 @@ window.SWIM_DATA = {
      "points": 191
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חזה",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "15:47",
+     "heat": "2",
+     "lane": "8",
+     "seedStr": "03:17.90",
+     "seedSeconds": 197.9
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 מעורב אישי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "16:25",
+     "heat": "2",
+     "lane": "7",
+     "seedStr": "01:27.58",
+     "seedSeconds": 87.58
+    }
+   ]
   },
   "2015|הראל·יובל": {
    "id": "2015|הראל·יובל",
@@ -495029,7 +496515,36 @@ window.SWIM_DATA = {
      "points": 283
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חזה",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "15:47",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "03:08.18",
+     "seedSeconds": 188.18
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 מעורב אישי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "16:25",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "01:23.29",
+     "seedSeconds": 83.29
+    }
+   ]
   },
   "2015|דניאל·קרפ": {
    "id": "2015|דניאל·קרפ",
@@ -502052,7 +503567,22 @@ window.SWIM_DATA = {
      "points": 426
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 פרפר",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "16:43",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "01:22.75",
+     "seedSeconds": 82.75
+    }
+   ]
   },
   "2011|סלבסקי·עידן": {
    "id": "2011|סלבסקי·עידן",
@@ -510569,7 +512099,22 @@ window.SWIM_DATA = {
      "points": 367
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "15:55",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "02:51.36",
+     "seedSeconds": 171.36
+    }
+   ]
   },
   "2011|דרוניצ'ב·תומר": {
    "id": "2011|דרוניצ'ב·תומר",
@@ -633683,7 +635228,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "19:20",
+     "startTime": "19:15",
      "heat": "2",
      "lane": "3",
      "seedStr": "01:17.33",
@@ -656582,7 +658127,36 @@ window.SWIM_DATA = {
      "points": 446
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "15:55",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "02:36.53",
+     "seedSeconds": 156.53
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "16:37",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "01:06.03",
+     "seedSeconds": 66.03
+    }
+   ]
   },
   "2006|עדן·פלורס·פרטין": {
    "id": "2006|עדן·פלורס·פרטין",
@@ -678410,7 +679984,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:18",
+     "startTime": "18:13",
      "heat": "2",
      "lane": "4",
      "seedStr": "02:37.90",
@@ -678424,7 +679998,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "19:10",
+     "startTime": "19:05",
      "heat": "2",
      "lane": "4",
      "seedStr": "02:41.09",
@@ -679334,7 +680908,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:18",
+     "startTime": "18:13",
      "heat": "2",
      "lane": "5",
      "seedStr": "02:41.69",
@@ -679348,7 +680922,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "19:00",
+     "startTime": "18:55",
      "heat": "1",
      "lane": "4",
      "seedStr": "01:11.69",
@@ -680518,7 +682092,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:39",
+     "startTime": "18:34",
      "heat": "1",
      "lane": "4",
      "seedStr": "01:15.69",
@@ -680532,7 +682106,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "19:10",
+     "startTime": "19:05",
      "heat": "2",
      "lane": "6",
      "seedStr": "02:48.36",
@@ -682959,7 +684533,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:27",
+     "startTime": "18:22",
      "heat": "2",
      "lane": "5",
      "seedStr": "01:01.73",
@@ -682973,7 +684547,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:50",
+     "startTime": "18:45",
      "heat": "1",
      "lane": "5",
      "seedStr": "02:13.87",
@@ -683974,7 +685548,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:15",
+     "startTime": "18:10",
      "heat": "1",
      "lane": "4",
      "seedStr": "02:58.54",
@@ -683988,7 +685562,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:27",
+     "startTime": "18:22",
      "heat": "2",
      "lane": "7",
      "seedStr": "01:08.91",
@@ -685390,7 +686964,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:25",
+     "startTime": "18:20",
      "heat": "1",
      "lane": "3",
      "seedStr": "01:13.28",
@@ -685404,7 +686978,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "19:24",
+     "startTime": "19:19",
      "heat": "1",
      "lane": "3",
      "seedStr": "05:12.49",
@@ -686910,7 +688484,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:39",
+     "startTime": "18:34",
      "heat": "1",
      "lane": "2",
      "seedStr": "01:27.12",
@@ -686924,7 +688498,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "19:06",
+     "startTime": "19:01",
      "heat": "1",
      "lane": "3",
      "seedStr": "03:19.38",
@@ -698053,7 +699627,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:18",
+     "startTime": "18:13",
      "heat": "2",
      "lane": "2",
      "seedStr": "02:44.97",
@@ -698067,7 +699641,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "19:00",
+     "startTime": "18:55",
      "heat": "1",
      "lane": "3",
      "seedStr": "01:20.30",
@@ -700455,7 +702029,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:30",
+     "startTime": "18:25",
      "heat": "2",
      "lane": "3",
      "seedStr": "00:55.96",
@@ -700469,7 +702043,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:41",
+     "startTime": "18:36",
      "heat": "1",
      "lane": "2",
      "seedStr": "01:42.80",
@@ -703091,7 +704665,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:57",
+     "startTime": "18:52",
      "heat": "2",
      "lane": "5",
      "seedStr": "02:05.81",
@@ -703105,7 +704679,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "19:30",
+     "startTime": "19:25",
      "heat": "1",
      "lane": "5",
      "seedStr": "04:22.52",
@@ -706466,7 +708040,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:36",
+     "startTime": "18:31",
      "heat": "1",
      "lane": "4",
      "seedStr": "02:12.63",
@@ -706480,7 +708054,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "19:04",
+     "startTime": "18:59",
      "heat": "2",
      "lane": "4",
      "seedStr": "01:00.38",
@@ -707830,7 +709404,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:30",
+     "startTime": "18:25",
      "heat": "2",
      "lane": "7",
      "seedStr": "01:00.04",
@@ -707844,7 +709418,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:57",
+     "startTime": "18:52",
      "heat": "2",
      "lane": "6",
      "seedStr": "02:09.81",
@@ -707858,7 +709432,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "19:22",
+     "startTime": "19:17",
      "heat": "1",
      "lane": "6",
      "seedStr": "01:07.04",
@@ -708846,7 +710420,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:47",
+     "startTime": "18:42",
      "heat": "1",
      "lane": "6",
      "seedStr": "02:26.36",
@@ -708860,7 +710434,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:57",
+     "startTime": "18:52",
      "heat": "2",
      "lane": "2",
      "seedStr": "02:11.70",
@@ -710418,7 +711992,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:47",
+     "startTime": "18:42",
      "heat": "1",
      "lane": "2",
      "seedStr": "02:31.04",
@@ -710432,7 +712006,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "19:22",
+     "startTime": "19:17",
      "heat": "1",
      "lane": "2",
      "seedStr": "01:08.65",
@@ -711212,7 +712786,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:47",
+     "startTime": "18:42",
      "heat": "1",
      "lane": "3",
      "seedStr": "02:24.03",
@@ -711226,7 +712800,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "19:30",
+     "startTime": "19:25",
      "heat": "1",
      "lane": "6",
      "seedStr": "04:27.54",
@@ -736009,7 +737583,36 @@ window.SWIM_DATA = {
      "points": 423
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 מעורב אישי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "16:27",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "01:11.63",
+     "seedSeconds": 71.63
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "16:33",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "01:00.01",
+     "seedSeconds": 60.01
+    }
+   ]
   },
   "2009|בן·יאיש·שירה": {
    "id": "2009|בן·יאיש·שירה",
@@ -745815,7 +747418,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:30",
+     "startTime": "18:25",
      "heat": "2",
      "lane": "2",
      "seedStr": "00:59.63",
@@ -745829,7 +747432,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "19:02",
+     "startTime": "18:57",
      "heat": "1",
      "lane": "5",
      "seedStr": "01:16.08",
@@ -762105,7 +763708,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:36",
+     "startTime": "18:31",
      "heat": "1",
      "lane": "6",
      "seedStr": "02:30.23",
@@ -762119,7 +763722,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "19:42",
+     "startTime": "19:37",
      "heat": "1",
      "lane": "4",
      "seedStr": "05:05.54",
@@ -807588,7 +809191,7 @@ window.SWIM_DATA = {
      "club": "הפועל עירוני מודיעין",
      "startTime": "15:08",
      "heat": "5",
-     "lane": "6",
+     "lane": "3",
      "seedStr": "01:07.05",
      "seedSeconds": 67.05
     },
@@ -816778,7 +818381,36 @@ window.SWIM_DATA = {
      "points": 447
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חופשי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "15:31",
+     "heat": "2",
+     "lane": "8",
+     "seedStr": "02:33.81",
+     "seedSeconds": 153.81
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 חופשי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:31",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "01:07.31",
+     "seedSeconds": 67.31
+    }
+   ]
   },
   "2012|דרור·ישראלי·ליה·נאוה": {
    "id": "2012|דרור·ישראלי·ליה·נאוה",
@@ -820652,7 +822284,36 @@ window.SWIM_DATA = {
      "points": 364
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חזה",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "15:47",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "03:16.35",
+     "seedSeconds": 196.35
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 חזה",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "16:35",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "01:29.67",
+     "seedSeconds": 89.67
+    }
+   ]
   },
   "2012|יובל·פרסי": {
    "id": "2012|יובל·פרסי",
@@ -822683,7 +824344,36 @@ window.SWIM_DATA = {
      "points": 450
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חזה",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "15:47",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "03:05.78",
+     "seedSeconds": 185.78
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 חזה",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:35",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "01:19.28",
+     "seedSeconds": 79.28
+    }
+   ]
   },
   "2014|יעקוביאן·ליה": {
    "id": "2014|יעקוביאן·ליה",
@@ -823859,7 +825549,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "סוהו טים שחייה",
-     "startTime": "18:15",
+     "startTime": "18:10",
      "heat": "1",
      "lane": "3",
      "seedStr": "03:35.30",
@@ -823873,7 +825563,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "סוהו טים שחייה",
-     "startTime": "18:39",
+     "startTime": "18:34",
      "heat": "1",
      "lane": "1",
      "seedStr": "01:41.45",
@@ -826950,7 +828640,36 @@ window.SWIM_DATA = {
      "points": 272
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 מעורב אישי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:25",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "01:25.01",
+     "seedSeconds": 85.01
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 חופשי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:29",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "01:16.52",
+     "seedSeconds": 76.52
+    }
+   ]
   },
   "2013|דניאל·שנבל": {
    "id": "2013|דניאל·שנבל",
@@ -827403,7 +829122,36 @@ window.SWIM_DATA = {
      "points": 336
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 מעורב אישי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "16:25",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "01:25.53",
+     "seedSeconds": 85.53
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 חופשי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "16:31",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "01:14.28",
+     "seedSeconds": 74.28
+    }
+   ]
   },
   "2014|אודל·ברבי": {
    "id": "2014|אודל·ברבי",
@@ -830601,7 +832349,36 @@ window.SWIM_DATA = {
      "points": 263
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 מעורב אישי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "16:25",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "01:25.95",
+     "seedSeconds": 85.95
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 גב",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "16:39",
+     "heat": "1",
+     "lane": "7",
+     "seedStr": "01:22.57",
+     "seedSeconds": 82.57
+    }
+   ]
   },
   "2014|מאיה·סלנט": {
    "id": "2014|מאיה·סלנט",
@@ -843463,7 +845240,36 @@ window.SWIM_DATA = {
      "points": 312
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "16:33",
+     "heat": "1",
+     "lane": "8",
+     "seedStr": "01:08.02",
+     "seedSeconds": 68.02
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 גב",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "16:41",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "01:10.63",
+     "seedSeconds": 70.63
+    }
+   ]
   },
   "2013|אביב·עמית": {
    "id": "2013|אביב·עמית",
@@ -870126,7 +871932,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "18:18",
+     "startTime": "18:13",
      "heat": "2",
      "lane": "6",
      "seedStr": "02:44.00",
@@ -870140,7 +871946,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "18:43",
+     "startTime": "18:38",
      "heat": "1",
      "lane": "2",
      "seedStr": "NT",
@@ -870154,7 +871960,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "19:18",
+     "startTime": "19:13",
      "heat": "1",
      "lane": "4",
      "seedStr": "01:21.37",
@@ -884509,7 +886315,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "18:22",
+     "startTime": "18:17",
      "heat": "1",
      "lane": "4",
      "seedStr": "02:23.56",
@@ -884523,7 +886329,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "18:36",
+     "startTime": "18:31",
      "heat": "1",
      "lane": "3",
      "seedStr": "02:28.37",
@@ -884537,7 +886343,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "19:04",
+     "startTime": "18:59",
      "heat": "2",
      "lane": "3",
      "seedStr": "01:03.90",
@@ -886559,7 +888365,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "18:30",
+     "startTime": "18:25",
      "heat": "2",
      "lane": "1",
      "seedStr": "01:02.08",
@@ -886573,7 +888379,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "18:57",
+     "startTime": "18:52",
      "heat": "2",
      "lane": "7",
      "seedStr": "02:17.62",
@@ -889833,7 +891639,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "19:04",
+     "startTime": "18:59",
      "heat": "2",
      "lane": "6",
      "seedStr": "01:04.46",
@@ -889847,7 +891653,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "19:22",
+     "startTime": "19:17",
      "heat": "1",
      "lane": "3",
      "seedStr": "01:06.54",
@@ -891380,7 +893186,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "18:25",
+     "startTime": "18:20",
      "heat": "1",
      "lane": "4",
      "seedStr": "01:09.33",
@@ -891394,7 +893200,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "18:43",
+     "startTime": "18:38",
      "heat": "1",
      "lane": "6",
      "seedStr": "03:02.86",
@@ -891408,7 +893214,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "18:50",
+     "startTime": "18:45",
      "heat": "1",
      "lane": "7",
      "seedStr": "02:31.34",
@@ -891422,7 +893228,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "19:18",
+     "startTime": "19:13",
      "heat": "1",
      "lane": "5",
      "seedStr": "01:24.31",
@@ -894411,7 +896217,36 @@ window.SWIM_DATA = {
      "points": 334
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חזה",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "15:47",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "03:01.68",
+     "seedSeconds": 181.68
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 חזה",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:35",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "01:30.52",
+     "seedSeconds": 90.52
+    }
+   ]
   },
   "2013|גילי·גרינבאום": {
    "id": "2013|גילי·גרינבאום",
@@ -896160,7 +897995,36 @@ window.SWIM_DATA = {
      "points": 438
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 מעורב אישי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "15:19",
+     "heat": "2",
+     "lane": "7",
+     "seedStr": "02:56.29",
+     "seedSeconds": 176.29
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חופשי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "15:31",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "02:33.73",
+     "seedSeconds": 153.73
+    }
+   ]
   },
   "2013|ליה·קהת": {
    "id": "2013|ליה·קהת",
@@ -898284,7 +900148,36 @@ window.SWIM_DATA = {
      "points": 294
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חופשי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "15:27",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "02:34.05",
+     "seedSeconds": 154.05
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 גב",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "16:39",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "01:16.29",
+     "seedSeconds": 76.29
+    }
+   ]
   },
   "2013|ליאם·צ'רנין": {
    "id": "2013|ליאם·צ'רנין",
@@ -927538,7 +929431,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "18:25",
+     "startTime": "18:20",
      "heat": "1",
      "lane": "5",
      "seedStr": "01:09.49",
@@ -927552,7 +929445,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "19:24",
+     "startTime": "19:19",
      "heat": "1",
      "lane": "6",
      "seedStr": "05:32.38",
@@ -937809,7 +939702,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "19:04",
+     "startTime": "18:59",
      "heat": "2",
      "lane": "7",
      "seedStr": "01:08.27",
@@ -937823,7 +939716,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "19:14",
+     "startTime": "19:09",
      "heat": "1",
      "lane": "4",
      "seedStr": "02:44.78",
@@ -939628,7 +941521,36 @@ window.SWIM_DATA = {
      "points": 428
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 מעורב אישי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "15:19",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "02:52.06",
+     "seedSeconds": 172.06
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 חזה",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:35",
+     "heat": "1",
+     "lane": "7",
+     "seedStr": "01:45.25",
+     "seedSeconds": 105.25
+    }
+   ]
   },
   "2014|ליכטמן·נעמה": {
    "id": "2014|ליכטמן·נעמה",
@@ -941168,7 +943090,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "18:32",
+     "startTime": "18:27",
      "heat": "1",
      "lane": "3",
      "seedStr": "03:03.84",
@@ -941182,7 +943104,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "18:50",
+     "startTime": "18:45",
      "heat": "1",
      "lane": "1",
      "seedStr": "02:38.27",
@@ -951775,7 +953697,36 @@ window.SWIM_DATA = {
      "points": 443
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "15:55",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "02:33.67",
+     "seedSeconds": 153.67
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 פרפר",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:19",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "02:23.90",
+     "seedSeconds": 143.9
+    }
+   ]
   },
   "2010|יונתן·פוטסמן": {
    "id": "2010|יונתן·פוטסמן",
@@ -953511,7 +955462,36 @@ window.SWIM_DATA = {
      "points": 493
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 מעורב אישי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "15:19",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "02:37.07",
+     "seedSeconds": 157.07
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 גב",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:39",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "01:12.16",
+     "seedSeconds": 72.16
+    }
+   ]
   },
   "2013|גולדברג·ליבי": {
    "id": "2013|גולדברג·ליבי",
@@ -954312,7 +956292,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "סוהו טים שחייה",
-     "startTime": "18:15",
+     "startTime": "18:10",
      "heat": "1",
      "lane": "5",
      "seedStr": "03:01.69",
@@ -954326,7 +956306,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "סוהו טים שחייה",
-     "startTime": "18:39",
+     "startTime": "18:34",
      "heat": "1",
      "lane": "7",
      "seedStr": "01:34.90",
@@ -955110,7 +957090,36 @@ window.SWIM_DATA = {
      "points": 472
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 מעורב אישי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:25",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "01:21.64",
+     "seedSeconds": 81.64
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 חופשי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:31",
+     "heat": "2",
+     "lane": "7",
+     "seedStr": "01:13.04",
+     "seedSeconds": 73.04
+    }
+   ]
   },
   "2013|דניאל·מונדר": {
    "id": "2013|דניאל·מונדר",
@@ -965984,7 +967993,7 @@ window.SWIM_DATA = {
      "club": "מכבי פ.מ. רעות",
      "startTime": "15:06",
      "heat": "4",
-     "lane": "7",
+     "lane": "2",
      "seedStr": "01:11.98",
      "seedSeconds": 71.98
     },
@@ -975265,7 +977274,7 @@ window.SWIM_DATA = {
      "club": "מכבי פ.מ. רעות",
      "startTime": "16:19",
      "heat": "3",
-     "lane": "7",
+     "lane": "2",
      "seedStr": "05:17.60",
      "seedSeconds": 317.6
     }
@@ -976981,9 +978990,9 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "מכבי פ.מ. רעות",
-     "startTime": "15:38",
-     "heat": "4",
-     "lane": "4",
+     "startTime": "15:40",
+     "heat": "5",
+     "lane": "1",
      "seedStr": "01:20.26",
      "seedSeconds": 80.26
     }
@@ -983485,7 +985494,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "19:30",
+     "startTime": "19:25",
      "heat": "1",
      "lane": "7",
      "seedStr": "04:39.23",
@@ -985241,7 +987250,7 @@ window.SWIM_DATA = {
      "club": "מכבי פ.מ. רעות",
      "startTime": "16:19",
      "heat": "3",
-     "lane": "6",
+     "lane": "3",
      "seedStr": "05:09.79",
      "seedSeconds": 309.79
     }
@@ -987142,7 +989151,7 @@ window.SWIM_DATA = {
      "club": "מכבי פ.מ. רעות",
      "startTime": "15:40",
      "heat": "5",
-     "lane": "7",
+     "lane": "2",
      "seedStr": "01:18.28",
      "seedSeconds": 78.28
     }
@@ -988052,7 +990061,7 @@ window.SWIM_DATA = {
      "club": "מכבי פ.מ. רעות",
      "startTime": "15:38",
      "heat": "4",
-     "lane": "3",
+     "lane": "5",
      "seedStr": "01:23.46",
      "seedSeconds": 83.46
     },
@@ -988064,9 +990073,9 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "מכבי פ.מ. רעות",
-     "startTime": "16:13",
-     "heat": "2",
-     "lane": "4",
+     "startTime": "16:19",
+     "heat": "3",
+     "lane": "1",
      "seedStr": "05:30.15",
      "seedSeconds": 330.15
     }
@@ -988951,7 +990960,7 @@ window.SWIM_DATA = {
      "club": "מכבי פ.מ. רעות",
      "startTime": "16:19",
      "heat": "3",
-     "lane": "2",
+     "lane": "6",
      "seedStr": "05:14.95",
      "seedSeconds": 314.95
     }
@@ -1021094,7 +1023103,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:27",
+     "startTime": "18:22",
      "heat": "2",
      "lane": "6",
      "seedStr": "01:02.58",
@@ -1021108,7 +1023117,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:43",
+     "startTime": "18:38",
      "heat": "1",
      "lane": "4",
      "seedStr": "02:16.36",
@@ -1034243,7 +1036252,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "15:40",
      "heat": "5",
-     "lane": "6",
+     "lane": "3",
      "seedStr": "01:11.61",
      "seedSeconds": 71.61
     },
@@ -1054716,7 +1056725,7 @@ window.SWIM_DATA = {
      "club": "TLV SWIM",
      "startTime": "15:08",
      "heat": "5",
-     "lane": "2",
+     "lane": "6",
      "seedStr": "01:07.32",
      "seedSeconds": 67.32
     },
@@ -1062543,7 +1064552,36 @@ window.SWIM_DATA = {
      "points": 517
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 מעורב אישי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "15:23",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "02:19.22",
+     "seedSeconds": 139.22
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:33",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "00:51.81",
+     "seedSeconds": 51.81
+    }
+   ]
   },
   "2008|און·בר·מריאל": {
    "id": "2008|און·בר·מריאל",
@@ -1071349,15 +1073387,15 @@ window.SWIM_DATA = {
      "date": "2026-11-13",
      "competition": "ליגה 1 שוהם - 16/10/2026",
      "compId": 15749,
-     "event": "400 חופשי",
+     "event": "50 פרפר",
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "16:13",
+     "startTime": "15:46",
      "heat": "2",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
+     "lane": "4",
+     "seedStr": "00:27.77",
+     "seedSeconds": 27.77
     }
    ]
   },
@@ -1075983,36 +1078021,7 @@ window.SWIM_DATA = {
      "points": 430
     }
    ],
-   "future": [
-    {
-     "date": "2026-11-13",
-     "competition": "ליגה 1 שוהם - 16/10/2026",
-     "compId": 15749,
-     "event": "50 חופשי",
-     "category": "גברים 11-99",
-     "poolLength": 25,
-     "club": "מכבי שוהם",
-     "startTime": "14:42",
-     "heat": "6",
-     "lane": "4",
-     "seedStr": "00:25.92",
-     "seedSeconds": 25.92
-    },
-    {
-     "date": "2026-11-13",
-     "competition": "ליגה 1 שוהם - 16/10/2026",
-     "compId": 15749,
-     "event": "50 פרפר",
-     "category": "גברים 11-99",
-     "poolLength": 25,
-     "club": "מכבי שוהם",
-     "startTime": "15:46",
-     "heat": "2",
-     "lane": "4",
-     "seedStr": "00:28.24",
-     "seedSeconds": 28.24
-    }
-   ]
+   "future": []
   },
   "2011|חמזה·חמזה": {
    "id": "2011|חמזה·חמזה",
@@ -1079281,7 +1081290,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "14:42",
      "heat": "6",
-     "lane": "3",
+     "lane": "5",
      "seedStr": "00:28.31",
      "seedSeconds": 28.31
     },
@@ -1101348,7 +1103357,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "14:42",
      "heat": "6",
-     "lane": "5",
+     "lane": "4",
      "seedStr": "00:26.04",
      "seedSeconds": 26.04
     },
@@ -1127359,7 +1129368,7 @@ window.SWIM_DATA = {
      "club": "TLV SWIM",
      "startTime": "15:08",
      "heat": "5",
-     "lane": "3",
+     "lane": "5",
      "seedStr": "01:06.26",
      "seedSeconds": 66.26
     },
@@ -1133868,7 +1135877,7 @@ window.SWIM_DATA = {
      "club": "TLV SWIM",
      "startTime": "15:06",
      "heat": "4",
-     "lane": "1",
+     "lane": "7",
      "seedStr": "01:13.11",
      "seedSeconds": 73.11
     }
@@ -1134308,9 +1136317,9 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "TLV SWIM",
-     "startTime": "15:02",
-     "heat": "2",
-     "lane": "4",
+     "startTime": "15:04",
+     "heat": "3",
+     "lane": "1",
      "seedStr": "01:28.21",
      "seedSeconds": 88.21
     },
@@ -1135040,7 +1137049,7 @@ window.SWIM_DATA = {
      "club": "TLV SWIM",
      "startTime": "15:06",
      "heat": "4",
-     "lane": "6",
+     "lane": "3",
      "seedStr": "01:10.70",
      "seedSeconds": 70.7
     }
@@ -1135547,7 +1137556,7 @@ window.SWIM_DATA = {
      "club": "TLV SWIM",
      "startTime": "15:02",
      "heat": "2",
-     "lane": "2",
+     "lane": "6",
      "seedStr": "01:30.49",
      "seedSeconds": 90.49
     },
@@ -1136119,7 +1138128,7 @@ window.SWIM_DATA = {
      "club": "הפועל עירוני מודיעין",
      "startTime": "15:02",
      "heat": "2",
-     "lane": "5",
+     "lane": "4",
      "seedStr": "01:28.83",
      "seedSeconds": 88.83
     }
@@ -1143744,36 +1145753,7 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": [
-    {
-     "date": "2026-11-13",
-     "competition": "ליגה 1 שוהם - 16/10/2026",
-     "compId": 15749,
-     "event": "100 מעורב אישי",
-     "category": "גברים 11-99",
-     "poolLength": 25,
-     "club": "TLV SWIM",
-     "startTime": "15:40",
-     "heat": "5",
-     "lane": "5",
-     "seedStr": "01:10.73",
-     "seedSeconds": 70.73
-    },
-    {
-     "date": "2026-11-13",
-     "competition": "ליגה 1 שוהם - 16/10/2026",
-     "compId": 15749,
-     "event": "400 חופשי",
-     "category": "גברים 11-99",
-     "poolLength": 25,
-     "club": "TLV SWIM",
-     "startTime": "16:19",
-     "heat": "3",
-     "lane": "5",
-     "seedStr": "04:51.22",
-     "seedSeconds": 291.22
-    }
-   ]
+   "future": []
   },
   "2011|גלמן·לביא": {
    "id": "2011|גלמן·לביא",
@@ -1144820,7 +1146800,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "18:29",
+     "startTime": "18:24",
      "heat": "1",
      "lane": "3",
      "seedStr": "01:05.53",
@@ -1144834,7 +1146814,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "19:02",
+     "startTime": "18:57",
      "heat": "1",
      "lane": "3",
      "seedStr": "01:22.70",
@@ -1158052,7 +1160032,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "15:06",
      "heat": "4",
-     "lane": "3",
+     "lane": "5",
      "seedStr": "01:10.41",
      "seedSeconds": 70.41
     }
@@ -1158807,7 +1160787,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "15:08",
      "heat": "5",
-     "lane": "1",
+     "lane": "7",
      "seedStr": "01:09.06",
      "seedSeconds": 69.06
     }
@@ -1165838,7 +1167818,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "15:04",
      "heat": "3",
-     "lane": "5",
+     "lane": "4",
      "seedStr": "01:17.58",
      "seedSeconds": 77.58
     },
@@ -1166826,9 +1168806,9 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "15:00",
-     "heat": "1",
-     "lane": "4",
+     "startTime": "15:02",
+     "heat": "2",
+     "lane": "1",
      "seedStr": "01:36.83",
      "seedSeconds": 96.83
     }
@@ -1170842,7 +1172822,7 @@ window.SWIM_DATA = {
      "club": "הפועל עירוני מודיעין",
      "startTime": "15:38",
      "heat": "4",
-     "lane": "7",
+     "lane": "2",
      "seedStr": "01:27.28",
      "seedSeconds": 87.28
     },
@@ -1171664,7 +1173644,7 @@ window.SWIM_DATA = {
      "club": "מכבי פ.מ. רעות",
      "startTime": "15:40",
      "heat": "5",
-     "lane": "1",
+     "lane": "7",
      "seedStr": "01:18.59",
      "seedSeconds": 78.59
     }
@@ -1172379,7 +1174359,7 @@ window.SWIM_DATA = {
      "club": "מכבי פ.מ. רעות",
      "startTime": "15:38",
      "heat": "4",
-     "lane": "1",
+     "lane": "7",
      "seedStr": "01:27.67",
      "seedSeconds": 87.67
     },
@@ -1173108,7 +1175088,7 @@ window.SWIM_DATA = {
      "club": "הפועל עירוני מודיעין",
      "startTime": "14:42",
      "heat": "6",
-     "lane": "7",
+     "lane": "2",
      "seedStr": "00:30.08",
      "seedSeconds": 30.08
     },
@@ -1173122,7 +1175102,7 @@ window.SWIM_DATA = {
      "club": "הפועל עירוני מודיעין",
      "startTime": "16:19",
      "heat": "3",
-     "lane": "3",
+     "lane": "5",
      "seedStr": "05:08.60",
      "seedSeconds": 308.6
     }
@@ -1173681,7 +1175661,7 @@ window.SWIM_DATA = {
      "club": "הפועל עירוני מודיעין",
      "startTime": "15:38",
      "heat": "4",
-     "lane": "2",
+     "lane": "6",
      "seedStr": "01:26.30",
      "seedSeconds": 86.3
     },
@@ -1174835,7 +1176815,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "15:36",
      "heat": "3",
-     "lane": "1",
+     "lane": "7",
      "seedStr": "01:42.72",
      "seedSeconds": 102.72
     },
@@ -1174849,7 +1176829,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "16:19",
      "heat": "3",
-     "lane": "1",
+     "lane": "7",
      "seedStr": "05:23.50",
      "seedSeconds": 323.5
     }
@@ -1176031,7 +1178011,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "16:13",
      "heat": "2",
-     "lane": "6",
+     "lane": "3",
      "seedStr": "05:56.88",
      "seedSeconds": 356.88
     }
@@ -1177163,7 +1179143,7 @@ window.SWIM_DATA = {
      "club": "מכבי פ.מ. רעות",
      "startTime": "15:38",
      "heat": "4",
-     "lane": "5",
+     "lane": "4",
      "seedStr": "01:22.07",
      "seedSeconds": 82.07
     },
@@ -1178047,7 +1180027,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "16:13",
      "heat": "2",
-     "lane": "3",
+     "lane": "5",
      "seedStr": "05:43.68",
      "seedSeconds": 343.68
     }
@@ -1179399,7 +1181379,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "15:34",
      "heat": "2",
-     "lane": "1",
+     "lane": "7",
      "seedStr": "01:55.65",
      "seedSeconds": 115.65
     },
@@ -1179413,7 +1181393,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "16:13",
      "heat": "2",
-     "lane": "5",
+     "lane": "4",
      "seedStr": "05:39.29",
      "seedSeconds": 339.29
     }
@@ -1182390,9 +1184370,9 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "מכבי פ.מ. רעות",
-     "startTime": "15:32",
-     "heat": "1",
-     "lane": "4",
+     "startTime": "15:34",
+     "heat": "2",
+     "lane": "1",
      "seedStr": "05:30.49",
      "seedSeconds": 330.49
     }
@@ -1183602,7 +1185582,7 @@ window.SWIM_DATA = {
      "club": "מכבי פ.מ. רעות",
      "startTime": "15:36",
      "heat": "3",
-     "lane": "2",
+     "lane": "6",
      "seedStr": "01:41.21",
      "seedSeconds": 101.21
     },
@@ -1184214,7 +1186194,7 @@ window.SWIM_DATA = {
      "club": "מכבי פ.מ. רעות",
      "startTime": "15:34",
      "heat": "2",
-     "lane": "5",
+     "lane": "4",
      "seedStr": "01:44.22",
      "seedSeconds": 104.22
     },
@@ -1184979,9 +1186959,9 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "מכבי פ.מ. רעות",
-     "startTime": "15:34",
-     "heat": "2",
-     "lane": "4",
+     "startTime": "15:36",
+     "heat": "3",
+     "lane": "1",
      "seedStr": "01:43.17",
      "seedSeconds": 103.17
     }
@@ -1185749,7 +1187729,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "15:08",
      "heat": "5",
-     "lane": "7",
+     "lane": "2",
      "seedStr": "01:07.33",
      "seedSeconds": 67.33
     }
@@ -1185944,7 +1187924,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "15:04",
      "heat": "3",
-     "lane": "6",
+     "lane": "3",
      "seedStr": "01:20.75",
      "seedSeconds": 80.75
     }
@@ -1186566,9 +1188546,9 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "15:04",
-     "heat": "3",
-     "lane": "4",
+     "startTime": "15:06",
+     "heat": "4",
+     "lane": "1",
      "seedStr": "01:14.23",
      "seedSeconds": 74.23
     },
@@ -1189258,7 +1191238,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "15:02",
      "heat": "2",
-     "lane": "7",
+     "lane": "2",
      "seedStr": "01:31.47",
      "seedSeconds": 91.47
     },
@@ -1190480,7 +1192460,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "15:02",
      "heat": "2",
-     "lane": "3",
+     "lane": "5",
      "seedStr": "01:30.00",
      "seedSeconds": 90.0
     },
@@ -1191079,7 +1193059,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "15:38",
      "heat": "4",
-     "lane": "6",
+     "lane": "3",
      "seedStr": "01:23.51",
      "seedSeconds": 83.51
     },
@@ -1205102,9 +1207082,9 @@ window.SWIM_DATA = {
      "category": "נשים 11-99",
      "poolLength": 25,
      "club": "הפועל עירוני מודיעין",
-     "startTime": "15:06",
-     "heat": "4",
-     "lane": "4",
+     "startTime": "15:08",
+     "heat": "5",
+     "lane": "1",
      "seedStr": "01:09.15",
      "seedSeconds": 69.15
     },
@@ -1207358,7 +1209338,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "18:22",
+     "startTime": "18:17",
      "heat": "1",
      "lane": "3",
      "seedStr": "02:46.80",
@@ -1207372,7 +1209352,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "18:41",
+     "startTime": "18:36",
      "heat": "1",
      "lane": "5",
      "seedStr": "01:22.44",
@@ -1207386,7 +1209366,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "19:14",
+     "startTime": "19:09",
      "heat": "1",
      "lane": "5",
      "seedStr": "02:56.14",
@@ -1210515,7 +1212495,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "15:40",
      "heat": "5",
-     "lane": "2",
+     "lane": "6",
      "seedStr": "01:18.10",
      "seedSeconds": 78.1
     }
@@ -1211140,7 +1213120,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "15:40",
      "heat": "5",
-     "lane": "3",
+     "lane": "5",
      "seedStr": "01:11.02",
      "seedSeconds": 71.02
     }
@@ -1211621,7 +1213601,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "14:42",
      "heat": "6",
-     "lane": "1",
+     "lane": "7",
      "seedStr": "00:30.29",
      "seedSeconds": 30.29
     },
@@ -1213217,7 +1215197,7 @@ window.SWIM_DATA = {
      "club": "TLV SWIM",
      "startTime": "15:06",
      "heat": "4",
-     "lane": "2",
+     "lane": "6",
      "seedStr": "01:11.22",
      "seedSeconds": 71.22
     },
@@ -1216243,7 +1218223,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "15:06",
      "heat": "4",
-     "lane": "5",
+     "lane": "4",
      "seedStr": "01:09.92",
      "seedSeconds": 69.92
     }
@@ -1270128,7 +1272108,22 @@ window.SWIM_DATA = {
      "points": 383
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 פרפר",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי אושן חדרה",
+     "startTime": "16:19",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2010|אמיר·קשוע": {
    "id": "2010|אמיר·קשוע",
@@ -1272089,7 +1274084,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "19:00",
+     "startTime": "18:55",
      "heat": "1",
      "lane": "6",
      "seedStr": "01:22.76",
@@ -1272103,7 +1274098,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "19:20",
+     "startTime": "19:15",
      "heat": "2",
      "lane": "6",
      "seedStr": "01:19.86",
@@ -1284457,7 +1286452,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "18:29",
+     "startTime": "18:24",
      "heat": "1",
      "lane": "5",
      "seedStr": "01:04.99",
@@ -1284471,7 +1286466,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "18:41",
+     "startTime": "18:36",
      "heat": "1",
      "lane": "3",
      "seedStr": "01:25.97",
@@ -1284485,7 +1286480,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "19:14",
+     "startTime": "19:09",
      "heat": "1",
      "lane": "3",
      "seedStr": "03:14.44",
@@ -1299912,7 +1301907,36 @@ window.SWIM_DATA = {
      "points": 182
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 מעורב אישי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "16:23",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "01:33.88",
+     "seedSeconds": 93.88
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 גב",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "16:39",
+     "heat": "1",
+     "lane": "1",
+     "seedStr": "01:36.46",
+     "seedSeconds": 96.46
+    }
+   ]
   },
   "2014|סמארה·שיינא": {
    "id": "2014|סמארה·שיינא",
@@ -1302934,7 +1304958,36 @@ window.SWIM_DATA = {
      "points": 315
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חזה",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "15:43",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 פרפר",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "16:43",
+     "heat": "1",
+     "lane": "7",
+     "seedStr": "01:23.73",
+     "seedSeconds": 83.73
+    }
+   ]
   },
   "2012|דניאל·רחמימוב": {
    "id": "2012|דניאל·רחמימוב",
@@ -1310094,7 +1312147,36 @@ window.SWIM_DATA = {
      "points": 251
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חזה",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "15:43",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "03:22.08",
+     "seedSeconds": 202.08
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 פרפר",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "16:43",
+     "heat": "1",
+     "lane": "8",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|ארד·מיקה": {
    "id": "2013|ארד·מיקה",
@@ -1312587,7 +1314669,7 @@ window.SWIM_DATA = {
      "club": "TLV SWIM",
      "startTime": "15:04",
      "heat": "3",
-     "lane": "3",
+     "lane": "5",
      "seedStr": "01:17.98",
      "seedSeconds": 77.98
     }
@@ -1313961,7 +1316043,7 @@ window.SWIM_DATA = {
      "club": "הפועל עירוני מודיעין",
      "startTime": "16:13",
      "heat": "2",
-     "lane": "7",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1314312,7 +1316394,7 @@ window.SWIM_DATA = {
      "club": "הפועל עירוני מודיעין",
      "startTime": "15:34",
      "heat": "2",
-     "lane": "2",
+     "lane": "6",
      "seedStr": "01:49.15",
      "seedSeconds": 109.15
     },
@@ -1316703,9 +1318785,9 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל עירוני מודיעין",
-     "startTime": "14:40",
+     "startTime": "14:41",
      "heat": "5",
-     "lane": "7",
+     "lane": "2",
      "seedStr": "00:33.25",
      "seedSeconds": 33.25
     },
@@ -1317122,7 +1319204,7 @@ window.SWIM_DATA = {
      "club": "הפועל עירוני מודיעין",
      "startTime": "15:36",
      "heat": "3",
-     "lane": "3",
+     "lane": "5",
      "seedStr": "01:36.90",
      "seedSeconds": 96.9
     },
@@ -1317474,7 +1319556,7 @@ window.SWIM_DATA = {
      "club": "הפועל עירוני מודיעין",
      "startTime": "15:32",
      "heat": "1",
-     "lane": "5",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1317488,7 +1319570,7 @@ window.SWIM_DATA = {
      "club": "הפועל עירוני מודיעין",
      "startTime": "16:13",
      "heat": "2",
-     "lane": "1",
+     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1319073,7 +1321155,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "18:43",
+     "startTime": "18:38",
      "heat": "1",
      "lane": "5",
      "seedStr": "02:31.13",
@@ -1319087,7 +1321169,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "19:20",
+     "startTime": "19:15",
      "heat": "2",
      "lane": "4",
      "seedStr": "01:08.96",
@@ -1323057,7 +1325139,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:29",
+     "startTime": "18:24",
      "heat": "1",
      "lane": "4",
      "seedStr": "01:03.00",
@@ -1323071,7 +1325153,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "19:30",
+     "startTime": "19:25",
      "heat": "1",
      "lane": "2",
      "seedStr": "04:30.38",
@@ -1329285,7 +1331367,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "18:29",
+     "startTime": "18:24",
      "heat": "1",
      "lane": "2",
      "seedStr": "01:19.88",
@@ -1329299,7 +1331381,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "18:53",
+     "startTime": "18:48",
      "heat": "1",
      "lane": "5",
      "seedStr": "03:40.85",
@@ -1424661,7 +1426743,36 @@ window.SWIM_DATA = {
      "points": 178
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 מעורב אישי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "16:23",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "01:38.10",
+     "seedSeconds": 98.1
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 חופשי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "16:29",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "01:25.09",
+     "seedSeconds": 85.09
+    }
+   ]
   },
   "2015|ברוקמן·עמרמי·תמר": {
    "id": "2015|ברוקמן·עמרמי·תמר",
@@ -1425471,7 +1427582,36 @@ window.SWIM_DATA = {
      "points": 261
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 מעורב אישי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "15:19",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "02:58.14",
+     "seedSeconds": 178.14
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 חופשי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "16:29",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "01:14.91",
+     "seedSeconds": 74.91
+    }
+   ]
   },
   "2013|אהרון·דניאל": {
    "id": "2013|אהרון·דניאל",
@@ -1449993,7 +1452133,36 @@ window.SWIM_DATA = {
      "points": 363
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 גב",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי כוכב יאיר - צור יגאל",
+     "startTime": "16:03",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "02:46.29",
+     "seedSeconds": 166.29
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 פרפר",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי כוכב יאיר - צור יגאל",
+     "startTime": "16:45",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "01:23.16",
+     "seedSeconds": 83.16
+    }
+   ]
   },
   "2013|געש·יור": {
    "id": "2013|געש·יור",
@@ -1457432,7 +1459601,36 @@ window.SWIM_DATA = {
      "points": 336
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי כוכב יאיר - צור יגאל",
+     "startTime": "15:39",
+     "heat": "2",
+     "lane": "7",
+     "seedStr": "02:28.24",
+     "seedSeconds": 148.24
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 פרפר",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי כוכב יאיר - צור יגאל",
+     "startTime": "16:45",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "01:18.20",
+     "seedSeconds": 78.2
+    }
+   ]
   },
   "2013|גנזברג·יהודה·עודד": {
    "id": "2013|גנזברג·יהודה·עודד",
@@ -1460624,7 +1462822,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:39",
+     "startTime": "18:34",
      "heat": "1",
      "lane": "5",
      "seedStr": "01:20.53",
@@ -1460638,7 +1462836,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "19:10",
+     "startTime": "19:05",
      "heat": "2",
      "lane": "2",
      "seedStr": "02:56.42",
@@ -1496240,9 +1498438,9 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "TLV SWIM",
-     "startTime": "14:40",
+     "startTime": "14:41",
      "heat": "5",
-     "lane": "5",
+     "lane": "4",
      "seedStr": "00:31.28",
      "seedSeconds": 31.28
     },
@@ -1501728,9 +1503926,9 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "15:36",
-     "heat": "3",
-     "lane": "4",
+     "startTime": "15:38",
+     "heat": "4",
+     "lane": "1",
      "seedStr": "01:27.73",
      "seedSeconds": 87.73
     },
@@ -1517066,9 +1519264,9 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל עירוני מודיעין",
-     "startTime": "14:39",
+     "startTime": "14:40",
      "heat": "4",
-     "lane": "3",
+     "lane": "5",
      "seedStr": "00:36.37",
      "seedSeconds": 36.37
     },
@@ -1517082,7 +1519280,7 @@ window.SWIM_DATA = {
      "club": "הפועל עירוני מודיעין",
      "startTime": "15:36",
      "heat": "3",
-     "lane": "5",
+     "lane": "4",
      "seedStr": "01:34.51",
      "seedSeconds": 94.51
     }
@@ -1523385,7 +1525583,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "סוהו טים שחייה",
-     "startTime": "18:22",
+     "startTime": "18:17",
      "heat": "1",
      "lane": "5",
      "seedStr": "02:35.79",
@@ -1523399,7 +1525597,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "סוהו טים שחייה",
-     "startTime": "19:02",
+     "startTime": "18:57",
      "heat": "1",
      "lane": "4",
      "seedStr": "01:13.94",
@@ -1554194,7 +1556392,36 @@ window.SWIM_DATA = {
      "points": 400
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "16:37",
+     "heat": "1",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 פרפר",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "16:47",
+     "heat": "2",
+     "lane": "7",
+     "seedStr": "01:12.28",
+     "seedSeconds": 72.28
+    }
+   ]
   },
   "2014|מעיין·צ'רדמן": {
    "id": "2014|מעיין·צ'רדמן",
@@ -1558719,7 +1560946,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "15:02",
      "heat": "2",
-     "lane": "6",
+     "lane": "3",
      "seedStr": "01:30.17",
      "seedSeconds": 90.17
     }
@@ -1559100,9 +1561327,9 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "14:39",
+     "startTime": "14:40",
      "heat": "4",
-     "lane": "5",
+     "lane": "4",
      "seedStr": "00:36.13",
      "seedSeconds": 36.13
     }
@@ -1559307,7 +1561534,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "14:42",
      "heat": "6",
-     "lane": "6",
+     "lane": "3",
      "seedStr": "00:29.74",
      "seedSeconds": 29.74
     }
@@ -1559372,7 +1561599,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "14:42",
      "heat": "6",
-     "lane": "2",
+     "lane": "6",
      "seedStr": "00:29.81",
      "seedSeconds": 29.81
     }
@@ -1559422,9 +1561649,9 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "14:40",
+     "startTime": "14:41",
      "heat": "5",
-     "lane": "1",
+     "lane": "7",
      "seedStr": "00:33.54",
      "seedSeconds": 33.54
     }
@@ -1559576,9 +1561803,9 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "14:40",
+     "startTime": "14:41",
      "heat": "5",
-     "lane": "2",
+     "lane": "6",
      "seedStr": "00:33.00",
      "seedSeconds": 33.0
     },
@@ -1559681,9 +1561908,9 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "14:40",
+     "startTime": "14:41",
      "heat": "5",
-     "lane": "3",
+     "lane": "5",
      "seedStr": "00:31.50",
      "seedSeconds": 31.5
     }
@@ -1559761,7 +1561988,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "14:38",
      "heat": "3",
-     "lane": "5",
+     "lane": "4",
      "seedStr": "00:41.43",
      "seedSeconds": 41.43
     }
@@ -1574743,7 +1576970,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "18:43",
+     "startTime": "18:38",
      "heat": "1",
      "lane": "7",
      "seedStr": "NT",
@@ -1574757,7 +1576984,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "19:20",
+     "startTime": "19:15",
      "heat": "2",
      "lane": "2",
      "seedStr": "01:21.12",
@@ -1575368,7 +1577595,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "18:43",
+     "startTime": "18:38",
      "heat": "1",
      "lane": "1",
      "seedStr": "NT",
@@ -1575382,7 +1577609,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "הפועל ירושלים",
-     "startTime": "19:18",
+     "startTime": "19:13",
      "heat": "1",
      "lane": "3",
      "seedStr": "01:39.57",
@@ -1583131,7 +1585358,22 @@ window.SWIM_DATA = {
      "points": 221
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חופשי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "מכבי כוכב יאיר - צור יגאל",
+     "startTime": "15:27",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "02:39.62",
+     "seedSeconds": 159.62
+    }
+   ]
   },
   "1958|איגור·קרבקוב": {
    "id": "1958|איגור·קרבקוב",
@@ -1584549,7 +1586791,7 @@ window.SWIM_DATA = {
      "club": "הפועל עירוני מודיעין",
      "startTime": "15:04",
      "heat": "3",
-     "lane": "1",
+     "lane": "7",
      "seedStr": "01:24.59",
      "seedSeconds": 84.59
     }
@@ -1586014,9 +1588256,9 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "מכבי פ.מ. רעות",
-     "startTime": "14:39",
+     "startTime": "14:40",
      "heat": "4",
-     "lane": "1",
+     "lane": "7",
      "seedStr": "00:40.92",
      "seedSeconds": 40.92
     },
@@ -1586030,7 +1588272,7 @@ window.SWIM_DATA = {
      "club": "מכבי פ.מ. רעות",
      "startTime": "15:32",
      "heat": "1",
-     "lane": "1",
+     "lane": "7",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1586772,7 +1589014,7 @@ window.SWIM_DATA = {
      "club": "מכבי פ.מ. רעות",
      "startTime": "15:34",
      "heat": "2",
-     "lane": "3",
+     "lane": "5",
      "seedStr": "01:44.37",
      "seedSeconds": 104.37
     },
@@ -1587164,7 +1589406,7 @@ window.SWIM_DATA = {
      "club": "מכבי פ.מ. רעות",
      "startTime": "15:34",
      "heat": "2",
-     "lane": "7",
+     "lane": "2",
      "seedStr": "01:52.07",
      "seedSeconds": 112.07
     }
@@ -1587826,7 +1590068,7 @@ window.SWIM_DATA = {
      "club": "מכבי פ.מ. רעות",
      "startTime": "15:36",
      "heat": "3",
-     "lane": "6",
+     "lane": "3",
      "seedStr": "01:38.15",
      "seedSeconds": 98.15
     }
@@ -1609869,7 +1612111,7 @@ window.SWIM_DATA = {
      "club": "TLV SWIM",
      "startTime": "15:04",
      "heat": "3",
-     "lane": "7",
+     "lane": "2",
      "seedStr": "01:22.78",
      "seedSeconds": 82.78
     },
@@ -1610828,7 +1613070,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "15:36",
      "heat": "3",
-     "lane": "7",
+     "lane": "2",
      "seedStr": "01:42.40",
      "seedSeconds": 102.4
     },
@@ -1611595,7 +1613837,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "15:32",
      "heat": "1",
-     "lane": "2",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1611853,9 +1614095,9 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "14:39",
+     "startTime": "14:40",
      "heat": "4",
-     "lane": "6",
+     "lane": "3",
      "seedStr": "00:38.03",
      "seedSeconds": 38.03
     },
@@ -1615725,9 +1617967,9 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "14:38",
-     "heat": "3",
-     "lane": "4",
+     "startTime": "14:40",
+     "heat": "4",
+     "lane": "1",
      "seedStr": "00:41.29",
      "seedSeconds": 41.29
     }
@@ -1622180,7 +1624422,36 @@ window.SWIM_DATA = {
      "points": 518
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "15:39",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "02:03.71",
+     "seedSeconds": 123.71
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 מעורב אישי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:27",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "01:02.97",
+     "seedSeconds": 62.97
+    }
+   ]
   },
   "2005|לונגו-קליבלנד·לוריין": {
    "id": "2005|לונגו-קליבלנד·לוריין",
@@ -1624076,7 +1626347,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "18:29",
+     "startTime": "18:24",
      "heat": "1",
      "lane": "6",
      "seedStr": "01:06.19",
@@ -1624090,7 +1626361,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "18:41",
+     "startTime": "18:36",
      "heat": "1",
      "lane": "7",
      "seedStr": "NT",
@@ -1624104,7 +1626375,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "19:14",
+     "startTime": "19:09",
      "heat": "1",
      "lane": "6",
      "seedStr": "NT",
@@ -1624728,7 +1626999,7 @@ window.SWIM_DATA = {
      "club": "מכבי פ.מ. רעות",
      "startTime": "15:02",
      "heat": "2",
-     "lane": "1",
+     "lane": "7",
      "seedStr": "01:34.12",
      "seedSeconds": 94.12
     },
@@ -1625764,7 +1628035,7 @@ window.SWIM_DATA = {
      "club": "מכבי פ.מ. רעות",
      "startTime": "15:32",
      "heat": "1",
-     "lane": "7",
+     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1626142,7 +1628413,7 @@ window.SWIM_DATA = {
      "club": "מכבי פ.מ. רעות",
      "startTime": "15:34",
      "heat": "2",
-     "lane": "6",
+     "lane": "3",
      "seedStr": "01:48.00",
      "seedSeconds": 108.0
     },
@@ -1684132,7 +1686403,7 @@ window.SWIM_DATA = {
      "club": "TLV SWIM",
      "startTime": "15:04",
      "heat": "3",
-     "lane": "2",
+     "lane": "6",
      "seedStr": "01:21.46",
      "seedSeconds": 81.46
     }
@@ -1702389,7 +1704660,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:57",
+     "startTime": "18:52",
      "heat": "2",
      "lane": "3",
      "seedStr": "02:06.76",
@@ -1702403,7 +1704674,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "19:30",
+     "startTime": "19:25",
      "heat": "1",
      "lane": "3",
      "seedStr": "04:26.29",
@@ -1703168,7 +1705439,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:27",
+     "startTime": "18:22",
      "heat": "2",
      "lane": "3",
      "seedStr": "01:02.46",
@@ -1703182,7 +1705453,7 @@ window.SWIM_DATA = {
      "category": "נשים 14-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:50",
+     "startTime": "18:45",
      "heat": "1",
      "lane": "2",
      "seedStr": "02:19.59",
@@ -1704401,9 +1706672,9 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "14:40",
+     "startTime": "14:41",
      "heat": "5",
-     "lane": "6",
+     "lane": "3",
      "seedStr": "00:32.80",
      "seedSeconds": 32.8
     },
@@ -1706578,7 +1708849,7 @@ window.SWIM_DATA = {
      "club": "TLV SWIM",
      "startTime": "14:37",
      "heat": "2",
-     "lane": "5",
+     "lane": "4",
      "seedStr": "00:53.14",
      "seedSeconds": 53.14
     },
@@ -1710617,7 +1712888,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "15:00",
      "heat": "1",
-     "lane": "5",
+     "lane": "4",
      "seedStr": "01:44.84",
      "seedSeconds": 104.84
     }
@@ -1710774,7 +1713045,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "15:00",
      "heat": "1",
-     "lane": "3",
+     "lane": "5",
      "seedStr": "01:58.13",
      "seedSeconds": 118.13
     }
@@ -1710942,7 +1713213,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "15:00",
      "heat": "1",
-     "lane": "2",
+     "lane": "6",
      "seedStr": "02:06.61",
      "seedSeconds": 126.61
     }
@@ -1711344,7 +1713615,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "15:00",
      "heat": "1",
-     "lane": "6",
+     "lane": "3",
      "seedStr": "02:01.21",
      "seedSeconds": 121.21
     }
@@ -1712379,7 +1714650,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "14:38",
      "heat": "3",
-     "lane": "7",
+     "lane": "2",
      "seedStr": "00:49.88",
      "seedSeconds": 49.88
     },
@@ -1712586,7 +1714857,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "14:38",
      "heat": "3",
-     "lane": "6",
+     "lane": "3",
      "seedStr": "00:47.06",
      "seedSeconds": 47.06
     },
@@ -1713341,7 +1715612,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "14:38",
      "heat": "3",
-     "lane": "1",
+     "lane": "7",
      "seedStr": "00:50.84",
      "seedSeconds": 50.84
     }
@@ -1714202,7 +1716473,36 @@ window.SWIM_DATA = {
      "points": 208
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חזה",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "מכבי כוכב יאיר - צור יגאל",
+     "startTime": "15:43",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 חזה",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "מכבי כוכב יאיר - צור יגאל",
+     "startTime": "16:35",
+     "heat": "1",
+     "lane": "1",
+     "seedStr": "01:48.35",
+     "seedSeconds": 108.35
+    }
+   ]
   },
   "2011|דין·ירדן·ניניו": {
    "id": "2011|דין·ירדן·ניניו",
@@ -1714471,7 +1716771,22 @@ window.SWIM_DATA = {
      "points": 242
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי אושן חדרה",
+     "startTime": "15:35",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "02:44.72",
+     "seedSeconds": 164.72
+    }
+   ]
   },
   "2014|כץ·קירה": {
    "id": "2014|כץ·קירה",
@@ -1714896,7 +1717211,22 @@ window.SWIM_DATA = {
      "points": 210
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי אושן חדרה",
+     "startTime": "15:51",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|כרמל·מוזס": {
    "id": "2016|כרמל·מוזס",
@@ -1727213,7 +1729543,36 @@ window.SWIM_DATA = {
      "points": 378
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 מעורב אישי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "15:15",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 גב",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "16:39",
+     "heat": "1",
+     "lane": "8",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|מעיין·תורג'מן": {
    "id": "2013|מעיין·תורג'מן",
@@ -1754143,6 +1756502,20 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "00:49.47",
      "seedSeconds": 49.47
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חזה",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "14:26",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "00:58.88",
+     "seedSeconds": 58.88
     }
    ]
   },
@@ -1755923,9 +1758296,9 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל עירוני מודיעין",
-     "startTime": "14:40",
-     "heat": "5",
-     "lane": "4",
+     "startTime": "14:42",
+     "heat": "6",
+     "lane": "1",
      "seedStr": "00:30.33",
      "seedSeconds": 30.33
     },
@@ -1756119,9 +1758492,9 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל עירוני מודיעין",
-     "startTime": "14:39",
+     "startTime": "14:40",
      "heat": "4",
-     "lane": "2",
+     "lane": "6",
      "seedStr": "00:38.10",
      "seedSeconds": 38.1
     },
@@ -1767947,9 +1770320,9 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל עירוני מודיעין",
-     "startTime": "14:39",
+     "startTime": "14:40",
      "heat": "4",
-     "lane": "7",
+     "lane": "2",
      "seedStr": "00:38.48",
      "seedSeconds": 38.48
     },
@@ -1795001,7 +1797374,7 @@ window.SWIM_DATA = {
      "club": "מכבי פ.מ. רעות",
      "startTime": "15:32",
      "heat": "1",
-     "lane": "6",
+     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1797168,7 +1799541,36 @@ window.SWIM_DATA = {
      "points": 260
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "15:51",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "03:04.60",
+     "seedSeconds": 184.6
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 חזה",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "16:37",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "01:22.87",
+     "seedSeconds": 82.87
+    }
+   ]
   },
   "2008|בז'רנו·עמית·שפירא": {
    "id": "2008|בז'רנו·עמית·שפירא",
@@ -1797305,7 +1799707,7 @@ window.SWIM_DATA = {
      "club": "הפועל עירוני מודיעין",
      "startTime": "14:38",
      "heat": "3",
-     "lane": "3",
+     "lane": "5",
      "seedStr": "00:43.67",
      "seedSeconds": 43.67
     },
@@ -1798347,7 +1800749,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "15:00",
      "heat": "1",
-     "lane": "1",
+     "lane": "7",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1798399,7 +1800801,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "14:38",
      "heat": "3",
-     "lane": "2",
+     "lane": "6",
      "seedStr": "00:48.39",
      "seedSeconds": 48.39
     }
@@ -1798564,9 +1800966,9 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "14:39",
-     "heat": "4",
-     "lane": "4",
+     "startTime": "14:41",
+     "heat": "5",
+     "lane": "1",
      "seedStr": "00:35.88",
      "seedSeconds": 35.88
     },
@@ -1801433,7 +1803835,36 @@ window.SWIM_DATA = {
      "points": 605
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 פרפר",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:11",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "02:36.58",
+     "seedSeconds": 156.58
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 פרפר",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "16:43",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "01:09.88",
+     "seedSeconds": 69.88
+    }
+   ]
   },
   "2003|אורבך·שחר": {
    "id": "2003|אורבך·שחר",
@@ -1818085,7 +1820516,7 @@ window.SWIM_DATA = {
      "club": "מכבי פ.מ. רעות",
      "startTime": "15:32",
      "heat": "1",
-     "lane": "3",
+     "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1821128,7 +1823559,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "18:41",
+     "startTime": "18:36",
      "heat": "1",
      "lane": "6",
      "seedStr": "01:31.55",
@@ -1821142,7 +1823573,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "19:04",
+     "startTime": "18:59",
      "heat": "2",
      "lane": "1",
      "seedStr": "01:08.95",
@@ -1821821,7 +1824252,36 @@ window.SWIM_DATA = {
      "points": 424
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "200 פרפר",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "16:11",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "02:45.06",
+     "seedSeconds": 165.06
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 חופשי",
+     "category": "נשים 13-99",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "16:31",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "01:12.93",
+     "seedSeconds": 72.93
+    }
+   ]
   },
   "2014|איליי·קוצקי": {
    "id": "2014|איליי·קוצקי",
@@ -1824318,7 +1826778,36 @@ window.SWIM_DATA = {
      "points": 376
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 מעורב אישי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "16:27",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "01:08.25",
+     "seedSeconds": 68.25
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה אזורית בני הרצליה - 13/11/2026",
+     "compId": 16045,
+     "event": "100 חופשי",
+     "category": "גברים 14-99",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "16:33",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "01:00.06",
+     "seedSeconds": 60.06
+    }
+   ]
   },
   "2012|דותן·ליאור": {
    "id": "2012|דותן·ליאור",
@@ -1826222,7 +1828711,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "14:36",
      "heat": "1",
-     "lane": "3",
+     "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1826261,7 +1828750,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "14:37",
      "heat": "2",
-     "lane": "1",
+     "lane": "7",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1826300,7 +1828789,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "14:36",
      "heat": "1",
-     "lane": "5",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1826339,7 +1828828,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "14:37",
      "heat": "2",
-     "lane": "7",
+     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1826378,7 +1828867,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "14:37",
      "heat": "2",
-     "lane": "6",
+     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1827288,7 +1829777,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "18:29",
+     "startTime": "18:24",
      "heat": "1",
      "lane": "7",
      "seedStr": "NT",
@@ -1827302,7 +1829791,7 @@ window.SWIM_DATA = {
      "category": "גברים 15-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "18:53",
+     "startTime": "18:48",
      "heat": "1",
      "lane": "3",
      "seedStr": "NT",
@@ -1834710,21 +1837199,7 @@ window.SWIM_DATA = {
      "club": "TLV SWIM",
      "startTime": "14:36",
      "heat": "1",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-13",
-     "competition": "ליגה 1 שוהם - 16/10/2026",
-     "compId": 15749,
-     "event": "50 גב",
-     "category": "גברים 11-99",
-     "poolLength": 25,
-     "club": "TLV SWIM",
-     "startTime": "15:23",
-     "heat": "1",
-     "lane": "7",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1837323,9 +1839798,9 @@ window.SWIM_DATA = {
      "category": "גברים 11-99",
      "poolLength": 25,
      "club": "הפועל עירוני מודיעין",
-     "startTime": "14:37",
-     "heat": "2",
-     "lane": "4",
+     "startTime": "14:38",
+     "heat": "3",
+     "lane": "1",
      "seedStr": "00:51.41",
      "seedSeconds": 51.41
     }
@@ -1840060,45 +1842535,6 @@ window.SWIM_DATA = {
     }
    ]
   },
-  "2015|ברוך·רום·ששון·ששון": {
-   "id": "2015|ברוך·רום·ששון·ששון",
-   "displayName": "רום ששון ברוך ששון",
-   "birthYear": 2015,
-   "clubs": [
-    "TLV SWIM"
-   ],
-   "past": [],
-   "future": [
-    {
-     "date": "2026-11-13",
-     "competition": "ליגה 1 שוהם - 16/10/2026",
-     "compId": 15749,
-     "event": "50 חופשי",
-     "category": "גברים 11-99",
-     "poolLength": 25,
-     "club": "TLV SWIM",
-     "startTime": "14:36",
-     "heat": "1",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-13",
-     "competition": "ליגה 1 שוהם - 16/10/2026",
-     "compId": 15749,
-     "event": "50 גב",
-     "category": "גברים 11-99",
-     "poolLength": 25,
-     "club": "TLV SWIM",
-     "startTime": "15:23",
-     "heat": "1",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
-    }
-   ]
-  },
   "2015|אלון·מילר": {
    "id": "2015|אלון·מילר",
    "displayName": "אלון מילר",
@@ -1840118,7 +1842554,7 @@ window.SWIM_DATA = {
      "club": "TLV SWIM",
      "startTime": "14:36",
      "heat": "1",
-     "lane": "6",
+     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1840138,12 +1842574,12 @@ window.SWIM_DATA = {
     }
    ]
   },
-  "2014|בסאילוב·דוד": {
-   "id": "2014|בסאילוב·דוד",
-   "displayName": "דוד בסאילוב",
-   "birthYear": 2014,
+  "2015|ברוך·רום·ששון·ששון": {
+   "id": "2015|ברוך·רום·ששון·ששון",
+   "displayName": "רום ששון ברוך ששון",
+   "birthYear": 2015,
    "clubs": [
-    "הפועל עירוני מודיעין"
+    "TLV SWIM"
    ],
    "past": [],
    "future": [
@@ -1840154,9 +1842590,23 @@ window.SWIM_DATA = {
      "event": "50 חופשי",
      "category": "גברים 11-99",
      "poolLength": 25,
-     "club": "הפועל עירוני מודיעין",
+     "club": "TLV SWIM",
      "startTime": "14:37",
      "heat": "2",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 גב",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "15:23",
+     "heat": "1",
      "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
@@ -1840182,7 +1842632,7 @@ window.SWIM_DATA = {
      "club": "הפועל עירוני מודיעין",
      "startTime": "14:37",
      "heat": "2",
-     "lane": "3",
+     "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1840197,6 +1842647,31 @@ window.SWIM_DATA = {
      "startTime": "15:10",
      "heat": "1",
      "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2014|בסאילוב·דוד": {
+   "id": "2014|בסאילוב·דוד",
+   "displayName": "דוד בסאילוב",
+   "birthYear": 2014,
+   "clubs": [
+    "הפועל עירוני מודיעין"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-13",
+     "competition": "ליגה 1 שוהם - 16/10/2026",
+     "compId": 15749,
+     "event": "50 חופשי",
+     "category": "גברים 11-99",
+     "poolLength": 25,
+     "club": "הפועל עירוני מודיעין",
+     "startTime": "14:37",
+     "heat": "2",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1840221,14 +1842696,14 @@ window.SWIM_DATA = {
      "club": "TLV SWIM",
      "startTime": "15:00",
      "heat": "1",
-     "lane": "7",
+     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
     }
    ]
   }
  },
- "lastChecked": "2026-11-10 23:04",
+ "lastChecked": "2026-11-12 00:16",
  "newThisRun": 0,
  "newComps": []
 };
