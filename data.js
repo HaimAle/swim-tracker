@@ -1,9 +1,9 @@
 // Auto-generated from swim.db
 window.SWIM_DATA = {
- "generated": "2026-11-14",
+ "generated": "2026-11-15",
  "source": "isr.org.il  →  loglig.com  (SQLite backend)",
  "isSeedSample": false,
- "swimmerCount": 6762,
+ "swimmerCount": 6775,
  "swimmers": {
   "2006|יבגניה·קליימן": {
    "id": "2006|יבגניה·קליימן",
@@ -906428,6 +906428,19 @@ window.SWIM_DATA = {
      "seconds": 148.64,
      "place": "4",
      "points": 500
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 מעורב אישי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "02:33.65",
+     "seconds": 153.65,
+     "place": "1",
+     "points": 496
     }
    ],
    "future": []
@@ -909462,6 +909475,19 @@ window.SWIM_DATA = {
      "seconds": 81.7,
      "place": "4",
      "points": 306
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 גב",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "02:45.16",
+     "seconds": 165.16,
+     "place": "1",
+     "points": 365
     }
    ],
    "future": []
@@ -910667,6 +910693,19 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "79",
      "points": 0
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 פרפר",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "02:57.87",
+     "seconds": 177.87,
+     "place": "1",
+     "points": 301
     }
    ],
    "future": []
@@ -911484,6 +911523,19 @@ window.SWIM_DATA = {
      "seconds": 668.97,
      "place": "122",
      "points": 363
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 גב",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "02:55.97",
+     "seconds": 175.97,
+     "place": "3",
+     "points": 301
     }
    ],
    "future": []
@@ -912766,6 +912818,19 @@ window.SWIM_DATA = {
      "seconds": 43.79,
      "place": "4",
      "points": 271
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 מעורב אישי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "03:03.74",
+     "seconds": 183.74,
+     "place": "8",
+     "points": 290
     }
    ],
    "future": []
@@ -913568,6 +913633,19 @@ window.SWIM_DATA = {
      "seconds": 54.12,
      "place": "9",
      "points": 144
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 פרפר",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "03:35.87",
+     "seconds": 215.87,
+     "place": "4",
+     "points": 168
     }
    ],
    "future": []
@@ -914229,6 +914307,19 @@ window.SWIM_DATA = {
      "seconds": 36.56,
      "place": "11",
      "points": 243
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 פרפר",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "03:03.88",
+     "seconds": 183.88,
+     "place": "3",
+     "points": 273
     }
    ],
    "future": []
@@ -915122,6 +915213,32 @@ window.SWIM_DATA = {
      "seconds": 41.54,
      "place": "62",
      "points": 318
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 מעורב אישי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "03:01.25",
+     "seconds": 181.25,
+     "place": "7",
+     "points": 302
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "00:33.15",
+     "seconds": 33.15,
+     "place": "7",
+     "points": 326
     }
    ],
    "future": []
@@ -918772,6 +918889,19 @@ window.SWIM_DATA = {
      "seconds": 31.18,
      "place": "53",
      "points": 319
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "00:28.03",
+     "seconds": 28.03,
+     "place": "6",
+     "points": 357
     }
    ],
    "future": []
@@ -920432,6 +920562,19 @@ window.SWIM_DATA = {
      "seconds": 304.03,
      "place": "50",
      "points": 460
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 מעורב אישי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "02:24.59",
+     "seconds": 144.59,
+     "place": "2",
+     "points": 427
     }
    ],
    "future": []
@@ -922206,6 +922349,32 @@ window.SWIM_DATA = {
      "seconds": 33.35,
      "place": "101",
      "points": 291
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 גב",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "02:41.38",
+     "seconds": 161.38,
+     "place": "4",
+     "points": 280
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 מעורב אישי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "02:33.75",
+     "seconds": 153.75,
+     "place": "6",
+     "points": 355
     }
    ],
    "future": []
@@ -923110,6 +923279,19 @@ window.SWIM_DATA = {
      "seconds": 76.72,
      "place": "3",
      "points": 265
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 מעורב אישי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "02:40.03",
+     "seconds": 160.03,
+     "place": "7",
+     "points": 314
     }
    ],
    "future": []
@@ -923589,6 +923771,19 @@ window.SWIM_DATA = {
      "seconds": 49.79,
      "place": "3",
      "points": 125
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 גב",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "03:17.47",
+     "seconds": 197.47,
+     "place": "8",
+     "points": 153
     }
    ],
    "future": []
@@ -925065,6 +925260,19 @@ window.SWIM_DATA = {
      "seconds": 35.6,
      "place": "10",
      "points": 174
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 גב",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "02:59.25",
+     "seconds": 179.25,
+     "place": "7",
+     "points": 204
     }
    ],
    "future": []
@@ -969465,6 +969673,19 @@ window.SWIM_DATA = {
      "seconds": 34.94,
      "place": "8",
      "points": 278
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 פרפר",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "03:01.63",
+     "seconds": 181.63,
+     "place": "2",
+     "points": 283
     }
    ],
    "future": []
@@ -970061,6 +970282,32 @@ window.SWIM_DATA = {
      "seconds": 673.47,
      "place": "126",
      "points": 356
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 גב",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "03:11.07",
+     "seconds": 191.07,
+     "place": "4",
+     "points": 235
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 מעורב אישי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "03:05.37",
+     "seconds": 185.37,
+     "place": "9",
+     "points": 282
     }
    ],
    "future": []
@@ -972574,6 +972821,19 @@ window.SWIM_DATA = {
      "seconds": 29.69,
      "place": "55",
      "points": 412
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 מעורב אישי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "02:23.41",
+     "seconds": 143.41,
+     "place": "1",
+     "points": 437
     }
    ],
    "future": []
@@ -973142,6 +973402,19 @@ window.SWIM_DATA = {
      "seconds": 31.64,
      "place": "9",
      "points": 248
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "00:31.26",
+     "seconds": 31.26,
+     "place": "11",
+     "points": 257
     }
    ],
    "future": []
@@ -974022,6 +974295,19 @@ window.SWIM_DATA = {
      "seconds": 30.34,
      "place": "68",
      "points": 387
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 פרפר",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "02:20.32",
+     "seconds": 140.32,
+     "place": "1",
+     "points": 441
     }
    ],
    "future": []
@@ -985866,6 +986152,32 @@ window.SWIM_DATA = {
      "seconds": 568.01,
      "place": "79",
      "points": 466
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 גב",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "02:27.22",
+     "seconds": 147.22,
+     "place": "2",
+     "points": 369
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 מעורב אישי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "02:26.07",
+     "seconds": 146.07,
+     "place": "4",
+     "points": 414
     }
    ],
    "future": []
@@ -990572,6 +990884,19 @@ window.SWIM_DATA = {
      "seconds": 33.85,
      "place": "18",
      "points": 203
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "42",
+     "points": 0
     }
    ],
    "future": []
@@ -999149,6 +999474,19 @@ window.SWIM_DATA = {
      "seconds": 37.87,
      "place": "12",
      "points": 219
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "20",
+     "points": 0
     }
    ],
    "future": []
@@ -1000907,6 +1001245,19 @@ window.SWIM_DATA = {
      "seconds": 51.85,
      "place": "6",
      "points": 163
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 מעורב אישי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "03:49.28",
+     "seconds": 229.28,
+     "place": "11",
+     "points": 149
     }
    ],
    "future": []
@@ -1018928,6 +1019279,19 @@ window.SWIM_DATA = {
      "seconds": 48.0,
      "place": "5",
      "points": 206
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 גב",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "02:50.45",
+     "seconds": 170.45,
+     "place": "2",
+     "points": 332
     }
    ],
    "future": []
@@ -1042905,6 +1043269,32 @@ window.SWIM_DATA = {
      "seconds": 258.5,
      "place": "1",
      "points": 706
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 מעורב אישי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "02:34.45",
+     "seconds": 154.45,
+     "place": "2",
+     "points": 488
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "00:27.57",
+     "seconds": 27.57,
+     "place": "1",
+     "points": 567
     }
    ],
    "future": []
@@ -1052030,6 +1052420,32 @@ window.SWIM_DATA = {
      "seconds": 34.72,
      "place": "63",
      "points": 327
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 מעורב אישי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "02:53.32",
+     "seconds": 173.32,
+     "place": "6",
+     "points": 345
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "00:31.26",
+     "seconds": 31.26,
+     "place": "6",
+     "points": 389
     }
    ],
    "future": []
@@ -1103789,6 +1104205,32 @@ window.SWIM_DATA = {
      "seconds": 26.9,
      "place": "104",
      "points": 404
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 מעורב אישי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "02:31.03",
+     "seconds": 151.03,
+     "place": "5",
+     "points": 374
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "00:27.38",
+     "seconds": 27.38,
+     "place": "3",
+     "points": 383
     }
    ],
    "future": []
@@ -1110823,6 +1111265,19 @@ window.SWIM_DATA = {
      "seconds": 27.28,
      "place": "34",
      "points": 477
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "00:24.41",
+     "seconds": 24.41,
+     "place": "1",
+     "points": 541
     }
    ],
    "future": []
@@ -1270907,6 +1271362,32 @@ window.SWIM_DATA = {
      "seconds": 590.74,
      "place": "39",
      "points": 527
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 מעורב אישי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "02:39.88",
+     "seconds": 159.88,
+     "place": "3",
+     "points": 440
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "00:28.97",
+     "seconds": 28.97,
+     "place": "2",
+     "points": 489
     }
    ],
    "future": []
@@ -1277171,6 +1277652,32 @@ window.SWIM_DATA = {
      "seconds": 34.0,
      "place": "8",
      "points": 200
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 גב",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "02:39.45",
+     "seconds": 159.45,
+     "place": "3",
+     "points": 290
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "00:32.43",
+     "seconds": 32.43,
+     "place": "13",
+     "points": 231
     }
    ],
    "future": []
@@ -1279104,6 +1279611,32 @@ window.SWIM_DATA = {
      "seconds": 33.97,
      "place": "7",
      "points": 201
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 מעורב אישי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "12",
+     "points": 0
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "42",
+     "points": 0
     }
    ],
    "future": []
@@ -1288202,6 +1288735,32 @@ window.SWIM_DATA = {
      "seconds": 619.02,
      "place": "75",
      "points": 458
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 מעורב אישי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "02:43.34",
+     "seconds": 163.34,
+     "place": "4",
+     "points": 412
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "00:29.75",
+     "seconds": 29.75,
+     "place": "3",
+     "points": 451
     }
    ],
    "future": []
@@ -1289797,6 +1290356,32 @@ window.SWIM_DATA = {
      "seconds": 39.65,
      "place": "94",
      "points": 220
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 פרפר",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "DQ",
+     "seconds": null,
+     "place": "5",
+     "points": 0
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "00:35.62",
+     "seconds": 35.62,
+     "place": "9",
+     "points": 263
     }
    ],
    "future": []
@@ -1291496,6 +1292081,32 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "172",
      "points": 0
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 מעורב אישי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "02:44.57",
+     "seconds": 164.57,
+     "place": "9",
+     "points": 289
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "00:28.01",
+     "seconds": 28.01,
+     "place": "5",
+     "points": 358
     }
    ],
    "future": []
@@ -1293532,6 +1294143,32 @@ window.SWIM_DATA = {
      "seconds": 36.39,
      "place": "11",
      "points": 163
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 מעורב אישי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "02:47.84",
+     "seconds": 167.84,
+     "place": "10",
+     "points": 272
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "00:30.64",
+     "seconds": 30.64,
+     "place": "10",
+     "points": 273
     }
    ],
    "future": []
@@ -1294115,6 +1294752,32 @@ window.SWIM_DATA = {
      "seconds": 34.08,
      "place": "9",
      "points": 199
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 גב",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "02:52.00",
+     "seconds": 172.0,
+     "place": "5",
+     "points": 231
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "00:33.66",
+     "seconds": 33.66,
+     "place": "15",
+     "points": 206
     }
    ],
    "future": []
@@ -1294685,6 +1295348,32 @@ window.SWIM_DATA = {
      "seconds": 42.9,
      "place": "2",
      "points": 196
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 גב",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "02:53.55",
+     "seconds": 173.55,
+     "place": "6",
+     "points": 225
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "00:33.07",
+     "seconds": 33.07,
+     "place": "14",
+     "points": 217
     }
    ],
    "future": []
@@ -1321120,6 +1321809,32 @@ window.SWIM_DATA = {
      "seconds": 32.23,
      "place": "36",
      "points": 463
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 גב",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "02:17.94",
+     "seconds": 137.94,
+     "place": "1",
+     "points": 449
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "00:26.66",
+     "seconds": 26.66,
+     "place": "2",
+     "points": 415
     }
    ],
    "future": []
@@ -1426490,6 +1427205,32 @@ window.SWIM_DATA = {
      "seconds": 53.0,
      "place": "7",
      "points": 153
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 מעורב אישי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "03:34.00",
+     "seconds": 214.0,
+     "place": "10",
+     "points": 183
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "00:34.88",
+     "seconds": 34.88,
+     "place": "8",
+     "points": 280
     }
    ],
    "future": []
@@ -1426758,6 +1427499,19 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "44",
      "points": 0
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "00:36.77",
+     "seconds": 36.77,
+     "place": "20",
+     "points": 158
     }
    ],
    "future": []
@@ -1427027,6 +1427781,19 @@ window.SWIM_DATA = {
      "seconds": 46.36,
      "place": "16",
      "points": 79
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "00:51.34",
+     "seconds": 51.34,
+     "place": "28",
+     "points": 58
     }
    ],
    "future": []
@@ -1462682,7 +1463449,8 @@ window.SWIM_DATA = {
    "birthYear": 2013,
    "clubs": [
     "מכבי אשדוד",
-    "הפועל באר טוביה"
+    "הפועל באר טוביה",
+    "הפועל בית שמש"
    ],
    "past": [
     {
@@ -1463295,6 +1464063,32 @@ window.SWIM_DATA = {
      "seconds": 29.95,
      "place": "18",
      "points": 340
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 מעורב אישי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "02:41.57",
+     "seconds": 161.57,
+     "place": "8",
+     "points": 306
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "00:29.57",
+     "seconds": 29.57,
+     "place": "9",
+     "points": 304
     }
    ],
    "future": []
@@ -1464765,7 +1465559,8 @@ window.SWIM_DATA = {
    "displayName": "דוד רשקובן",
    "birthYear": 2012,
    "clubs": [
-    "הפועל באר טוביה"
+    "הפועל באר טוביה",
+    "הפועל בית שמש"
    ],
    "past": [
     {
@@ -1465651,6 +1466446,32 @@ window.SWIM_DATA = {
      "seconds": 25.8,
      "place": "2",
      "points": 532
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 מעורב אישי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "02:25.36",
+     "seconds": 145.36,
+     "place": "3",
+     "points": 420
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "00:27.75",
+     "seconds": 27.75,
+     "place": "4",
+     "points": 368
     }
    ],
    "future": []
@@ -1553583,6 +1554404,32 @@ window.SWIM_DATA = {
      "seconds": 38.78,
      "place": "38",
      "points": 391
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 מעורב אישי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "02:47.90",
+     "seconds": 167.9,
+     "place": "5",
+     "points": 380
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "00:30.48",
+     "seconds": 30.48,
+     "place": "4",
+     "points": 420
     }
    ],
    "future": []
@@ -1594026,6 +1594873,19 @@ window.SWIM_DATA = {
      "seconds": 32.14,
      "place": "33",
      "points": 467
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 מעורב אישי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "ירושלים רבתי",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "12",
+     "points": 0
     }
    ],
    "future": []
@@ -1661145,6 +1662005,19 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "43",
      "points": 0
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "00:52.03",
+     "seconds": 52.03,
+     "place": "12",
+     "points": 84
     }
    ],
    "future": []
@@ -1661607,6 +1662480,19 @@ window.SWIM_DATA = {
      "seconds": 67.26,
      "place": "42",
      "points": 39
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "01:08.92",
+     "seconds": 68.92,
+     "place": "17",
+     "points": 36
     }
    ],
    "future": []
@@ -1661761,6 +1662647,19 @@ window.SWIM_DATA = {
      "seconds": 51.5,
      "place": "31",
      "points": 87
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "00:53.73",
+     "seconds": 53.73,
+     "place": "13",
+     "points": 76
     }
    ],
    "future": []
@@ -1662019,6 +1662918,19 @@ window.SWIM_DATA = {
      "seconds": 50.7,
      "place": "4",
      "points": 119
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 מעורב אישי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "03:22.67",
+     "seconds": 202.67,
+     "place": "11",
+     "points": 155
     }
    ],
    "future": []
@@ -1662329,6 +1663241,32 @@ window.SWIM_DATA = {
      "seconds": 52.41,
      "place": "5",
      "points": 107
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "200 גב",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "03:48.22",
+     "seconds": 228.22,
+     "place": "9",
+     "points": 99
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "00:39.38",
+     "seconds": 39.38,
+     "place": "23",
+     "points": 129
     }
    ],
    "future": []
@@ -1663162,6 +1664100,19 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "44",
      "points": 0
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "00:54.45",
+     "seconds": 54.45,
+     "place": "31",
+     "points": 48
     }
    ],
    "future": []
@@ -1702288,6 +1703239,19 @@ window.SWIM_DATA = {
      "seconds": 70.14,
      "place": "7",
      "points": 45
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל בית שמש",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "42",
+     "points": 0
     }
    ],
    "future": []
@@ -1705398,6 +1706362,19 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "43",
      "points": 0
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "01:01.26",
+     "seconds": 61.26,
+     "place": "16",
+     "points": 51
     }
    ],
    "future": []
@@ -1705536,6 +1706513,19 @@ window.SWIM_DATA = {
      "timeStr": "NS",
      "seconds": null,
      "place": "43",
+     "points": 0
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "20",
      "points": 0
     }
    ],
@@ -1706347,6 +1707337,19 @@ window.SWIM_DATA = {
      "seconds": 63.0,
      "place": "40",
      "points": 47
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "01:10.97",
+     "seconds": 70.97,
+     "place": "19",
+     "points": 33
     }
    ],
    "future": []
@@ -1706488,6 +1707491,19 @@ window.SWIM_DATA = {
      "seconds": 52.32,
      "place": "34",
      "points": 83
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "00:49.93",
+     "seconds": 49.93,
+     "place": "11",
+     "points": 95
     }
    ],
    "future": []
@@ -1707022,6 +1708038,19 @@ window.SWIM_DATA = {
      "timeStr": "NS",
      "seconds": null,
      "place": "44",
+     "points": 0
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "42",
      "points": 0
     }
    ],
@@ -1711876,6 +1712905,19 @@ window.SWIM_DATA = {
      "seconds": 32.84,
      "place": "39",
      "points": 387
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "00:30.59",
+     "seconds": 30.59,
+     "place": "5",
+     "points": 415
     }
    ],
    "future": []
@@ -1769900,6 +1770942,19 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "43",
      "points": 0
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "00:44.06",
+     "seconds": 44.06,
+     "place": "10",
+     "points": 139
     }
    ],
    "future": []
@@ -1770330,6 +1771385,19 @@ window.SWIM_DATA = {
      "seconds": 45.97,
      "place": "28",
      "points": 122
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "20",
+     "points": 0
     }
    ],
    "future": []
@@ -1770419,6 +1771487,19 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "44",
      "points": 0
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "00:28.78",
+     "seconds": 28.78,
+     "place": "8",
+     "points": 330
     }
    ],
    "future": []
@@ -1770508,6 +1771589,19 @@ window.SWIM_DATA = {
      "seconds": 28.71,
      "place": "5",
      "points": 333
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "00:28.57",
+     "seconds": 28.57,
+     "place": "7",
+     "points": 337
     }
    ],
    "future": []
@@ -1770823,6 +1771917,19 @@ window.SWIM_DATA = {
      "seconds": 34.75,
      "place": "13",
      "points": 187
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "42",
+     "points": 0
     }
    ],
    "future": []
@@ -1771535,6 +1772642,19 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "32",
      "points": 0
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "42",
+     "points": 0
     }
    ],
    "future": []
@@ -1771789,6 +1772909,19 @@ window.SWIM_DATA = {
      "seconds": 48.37,
      "place": "32",
      "points": 69
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "42",
+     "points": 0
     }
    ],
    "future": []
@@ -1771864,6 +1772997,19 @@ window.SWIM_DATA = {
      "timeStr": "NS",
      "seconds": null,
      "place": "44",
+     "points": 0
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "42",
      "points": 0
     }
    ],
@@ -1772868,6 +1774014,19 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "44",
      "points": 0
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "01:11.06",
+     "seconds": 71.06,
+     "place": "39",
+     "points": 21
     }
    ],
    "future": []
@@ -1772957,6 +1774116,19 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "44",
      "points": 0
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "01:07.63",
+     "seconds": 67.63,
+     "place": "38",
+     "points": 25
     }
    ],
    "future": []
@@ -1773159,6 +1774331,19 @@ window.SWIM_DATA = {
      "seconds": 39.03,
      "place": "23",
      "points": 132
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "00:38.97",
+     "seconds": 38.97,
+     "place": "22",
+     "points": 133
     }
    ],
    "future": []
@@ -1773387,6 +1774572,19 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "44",
      "points": 0
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "00:33.67",
+     "seconds": 33.67,
+     "place": "16",
+     "points": 206
     }
    ],
    "future": []
@@ -1796253,6 +1797451,19 @@ window.SWIM_DATA = {
      "seconds": 58.65,
      "place": "39",
      "points": 58
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "00:58.37",
+     "seconds": 58.37,
+     "place": "15",
+     "points": 59
     }
    ],
    "future": []
@@ -1820996,6 +1822207,19 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "43",
      "points": 0
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "00:55.84",
+     "seconds": 55.84,
+     "place": "14",
+     "points": 68
     }
    ],
    "future": []
@@ -1821019,6 +1822243,19 @@ window.SWIM_DATA = {
      "timeStr": "NS",
      "seconds": null,
      "place": "43",
+     "points": 0
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "20",
      "points": 0
     }
    ],
@@ -1821129,6 +1822366,19 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "43",
      "points": 0
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "20",
+     "points": 0
     }
    ],
    "future": []
@@ -1821153,6 +1822403,19 @@ window.SWIM_DATA = {
      "seconds": 31.7,
      "place": "10",
      "points": 247
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "00:32.37",
+     "seconds": 32.37,
+     "place": "12",
+     "points": 232
     }
    ],
    "future": []
@@ -1821177,6 +1822440,19 @@ window.SWIM_DATA = {
      "seconds": 33.06,
      "place": "11",
      "points": 218
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "42",
+     "points": 0
     }
    ],
    "future": []
@@ -1821201,6 +1822477,19 @@ window.SWIM_DATA = {
      "seconds": 35.0,
      "place": "15",
      "points": 183
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "00:36.44",
+     "seconds": 36.44,
+     "place": "19",
+     "points": 162
     }
    ],
    "future": []
@@ -1821225,6 +1822514,19 @@ window.SWIM_DATA = {
      "seconds": 35.37,
      "place": "17",
      "points": 178
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "00:35.78",
+     "seconds": 35.78,
+     "place": "17",
+     "points": 172
     }
    ],
    "future": []
@@ -1821241,6 +1822543,19 @@ window.SWIM_DATA = {
      "date": "2026-10-15",
      "competition": "תחרות ליגה מספר1 של הפועל ירושלים - 15/10/2026",
      "compId": 15687,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "00:36.28",
+     "seconds": 36.28,
+     "place": "18",
+     "points": 165
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
      "event": "50 חופשי",
      "category": "גברים 9-99",
      "poolLength": 25,
@@ -1821273,6 +1822588,19 @@ window.SWIM_DATA = {
      "seconds": 38.0,
      "place": "20",
      "points": 143
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "42",
+     "points": 0
     }
    ],
    "future": []
@@ -1821297,6 +1822625,19 @@ window.SWIM_DATA = {
      "seconds": 38.55,
      "place": "21",
      "points": 137
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "42",
+     "points": 0
     }
    ],
    "future": []
@@ -1821345,6 +1822686,19 @@ window.SWIM_DATA = {
      "seconds": 52.87,
      "place": "36",
      "points": 53
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "00:47.60",
+     "seconds": 47.6,
+     "place": "26",
+     "points": 73
     }
    ],
    "future": []
@@ -1821369,6 +1822723,19 @@ window.SWIM_DATA = {
      "seconds": 55.19,
      "place": "37",
      "points": 46
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "00:46.62",
+     "seconds": 46.62,
+     "place": "24",
+     "points": 77
     }
    ],
    "future": []
@@ -1821393,6 +1822760,19 @@ window.SWIM_DATA = {
      "seconds": 55.69,
      "place": "39",
      "points": 45
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "00:47.79",
+     "seconds": 47.79,
+     "place": "27",
+     "points": 72
     }
    ],
    "future": []
@@ -1821417,6 +1822797,19 @@ window.SWIM_DATA = {
      "seconds": 63.14,
      "place": "40",
      "points": 31
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "01:00.21",
+     "seconds": 60.21,
+     "place": "34",
+     "points": 36
     }
    ],
    "future": []
@@ -1821441,6 +1822834,19 @@ window.SWIM_DATA = {
      "seconds": 66.94,
      "place": "41",
      "points": 26
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "01:01.23",
+     "seconds": 61.23,
+     "place": "36",
+     "points": 34
     }
    ],
    "future": []
@@ -1821465,6 +1822871,19 @@ window.SWIM_DATA = {
      "seconds": 82.9,
      "place": "42",
      "points": 13
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "01:20.65",
+     "seconds": 80.65,
+     "place": "41",
+     "points": 15
     }
    ],
    "future": []
@@ -1821526,6 +1822945,19 @@ window.SWIM_DATA = {
      "seconds": null,
      "place": "44",
      "points": 0
+    },
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "00:37.07",
+     "seconds": 37.07,
+     "place": "21",
+     "points": 154
     }
    ],
    "future": []
@@ -1836379,6 +1837811,318 @@ window.SWIM_DATA = {
    ],
    "future": []
   },
+  "2016|יעל·פרץ": {
+   "id": "2016|יעל·פרץ",
+   "displayName": "יעל פרץ",
+   "birthYear": 2016,
+   "clubs": [
+    "הפועל ירושלים"
+   ],
+   "past": [
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "נשים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "01:09.19",
+     "seconds": 69.19,
+     "place": "18",
+     "points": 35
+    }
+   ],
+   "future": []
+  },
+  "2014|יובל·פסטרסקי": {
+   "id": "2014|יובל·פסטרסקי",
+   "displayName": "יובל פסטרסקי",
+   "birthYear": 2014,
+   "clubs": [
+    "הפועל ירושלים"
+   ],
+   "past": [
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "00:47.17",
+     "seconds": 47.17,
+     "place": "25",
+     "points": 75
+    }
+   ],
+   "future": []
+  },
+  "2014|אלעזר·מרציקובסקי": {
+   "id": "2014|אלעזר·מרציקובסקי",
+   "displayName": "אלעזר מרציקובסקי",
+   "birthYear": 2014,
+   "clubs": [
+    "הפועל ירושלים"
+   ],
+   "past": [
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "00:51.53",
+     "seconds": 51.53,
+     "place": "29",
+     "points": 57
+    }
+   ],
+   "future": []
+  },
+  "2014|הראל·קיין": {
+   "id": "2014|הראל·קיין",
+   "displayName": "הראל קיין",
+   "birthYear": 2014,
+   "clubs": [
+    "הפועל ירושלים"
+   ],
+   "past": [
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "00:52.56",
+     "seconds": 52.56,
+     "place": "30",
+     "points": 54
+    }
+   ],
+   "future": []
+  },
+  "2014|בורוס·ינון": {
+   "id": "2014|בורוס·ינון",
+   "displayName": "ינון בורוס",
+   "birthYear": 2014,
+   "clubs": [
+    "הפועל ירושלים"
+   ],
+   "past": [
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "00:58.41",
+     "seconds": 58.41,
+     "place": "32",
+     "points": 39
+    }
+   ],
+   "future": []
+  },
+  "2014|ינאי·פסס": {
+   "id": "2014|ינאי·פסס",
+   "displayName": "ינאי פסס",
+   "birthYear": 2014,
+   "clubs": [
+    "הפועל ירושלים"
+   ],
+   "past": [
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "00:59.93",
+     "seconds": 59.93,
+     "place": "33",
+     "points": 36
+    }
+   ],
+   "future": []
+  },
+  "2014|גזרח·מיכאל": {
+   "id": "2014|גזרח·מיכאל",
+   "displayName": "מיכאל גזרח",
+   "birthYear": 2014,
+   "clubs": [
+    "הפועל ירושלים"
+   ],
+   "past": [
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "01:00.78",
+     "seconds": 60.78,
+     "place": "35",
+     "points": 35
+    }
+   ],
+   "future": []
+  },
+  "2016|כריסטיאן·ציגנסקי": {
+   "id": "2016|כריסטיאן·ציגנסקי",
+   "displayName": "כריסטיאן ציגנסקי",
+   "birthYear": 2016,
+   "clubs": [
+    "הפועל ירושלים"
+   ],
+   "past": [
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "01:01.50",
+     "seconds": 61.5,
+     "place": "37",
+     "points": 33
+    }
+   ],
+   "future": []
+  },
+  "2013|אלמליח·יובל": {
+   "id": "2013|אלמליח·יובל",
+   "displayName": "יובל אלמליח",
+   "birthYear": 2013,
+   "clubs": [
+    "הפועל ירושלים"
+   ],
+   "past": [
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "01:14.63",
+     "seconds": 74.63,
+     "place": "40",
+     "points": 18
+    }
+   ],
+   "future": []
+  },
+  "2015|יונתן·נתנאל": {
+   "id": "2015|יונתן·נתנאל",
+   "displayName": "יונתן נתנאל",
+   "birthYear": 2015,
+   "clubs": [
+    "הפועל ירושלים"
+   ],
+   "past": [
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "42",
+     "points": 0
+    }
+   ],
+   "future": []
+  },
+  "2016|פבלוב·רון": {
+   "id": "2016|פבלוב·רון",
+   "displayName": "רון פבלוב",
+   "birthYear": 2016,
+   "clubs": [
+    "הפועל ירושלים"
+   ],
+   "past": [
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "42",
+     "points": 0
+    }
+   ],
+   "future": []
+  },
+  "2014|נובוגוצקי·נעם": {
+   "id": "2014|נובוגוצקי·נעם",
+   "displayName": "נעם נובוגוצקי",
+   "birthYear": 2014,
+   "clubs": [
+    "הפועל ירושלים"
+   ],
+   "past": [
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "42",
+     "points": 0
+    }
+   ],
+   "future": []
+  },
+  "2013|אדם·פוזביץ": {
+   "id": "2013|אדם·פוזביץ",
+   "displayName": "אדם פוזביץ",
+   "birthYear": 2013,
+   "clubs": [
+    "הפועל ירושלים"
+   ],
+   "past": [
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "NS",
+     "seconds": null,
+     "place": "42",
+     "points": 0
+    }
+   ],
+   "future": []
+  },
   "2013|שפייזמן·תמר": {
    "id": "2013|שפייזמן·תמר",
    "displayName": "תמר שפייזמן",
@@ -1837546,13 +1839290,13 @@ window.SWIM_DATA = {
    "future": []
   }
  },
- "lastChecked": "2026-11-14 22:13",
- "newThisRun": 310,
+ "lastChecked": "2026-11-15 22:44",
+ "newThisRun": 123,
  "newComps": [
   {
-   "name": "ליגה אזורית בני הרצליה - 13/11/2026",
-   "date": "2026-11-13",
-   "count": 176
+   "name": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+   "date": "2026-11-12",
+   "count": 123
   }
  ]
 };
