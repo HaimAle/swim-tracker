@@ -3,7 +3,7 @@ window.SWIM_DATA = {
  "generated": "2026-11-15",
  "source": "isr.org.il  →  loglig.com  (SQLite backend)",
  "isSeedSample": false,
- "swimmerCount": 6775,
+ "swimmerCount": 6776,
  "swimmers": {
   "2006|יבגניה·קליימן": {
    "id": "2006|יבגניה·קליימן",
@@ -1684339,7 +1684339,22 @@ window.SWIM_DATA = {
      "points": 146
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-12-09",
+     "competition": "גביע חנוכה רמת השרון",
+     "compId": 15917,
+     "event": "50 חופשי",
+     "category": "בנות 8-12",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "16:31",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "00:43.34",
+     "seedSeconds": 43.34
+    }
+   ]
   },
   "2017|בג·לינט": {
    "id": "2017|בג·לינט",
@@ -1827921,7 +1827936,22 @@ window.SWIM_DATA = {
      "points": 72
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-12-09",
+     "competition": "גביע חנוכה רמת השרון",
+     "compId": 15917,
+     "event": "50 חופשי",
+     "category": "בנות 8-12",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "16:31",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "00:54.68",
+     "seedSeconds": 54.68
+    }
+   ]
   },
   "2017|ברגמן·סיגל": {
    "id": "2017|ברגמן·סיגל",
@@ -1827995,7 +1828025,22 @@ window.SWIM_DATA = {
      "points": 130
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-12-09",
+     "competition": "גביע חנוכה רמת השרון",
+     "compId": 15917,
+     "event": "50 חופשי",
+     "category": "בנות 8-12",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "16:30",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|סרדניצקי·עומר": {
    "id": "2016|סרדניצקי·עומר",
@@ -1834506,7 +1834551,22 @@ window.SWIM_DATA = {
      "points": 58
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-12-09",
+     "competition": "גביע חנוכה רמת השרון",
+     "compId": 15917,
+     "event": "50 חופשי",
+     "category": "בנות 8-12",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "16:31",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "00:58.91",
+     "seedSeconds": 58.91
+    }
+   ]
   },
   "2016|לזרוביץ·תמר": {
    "id": "2016|לזרוביץ·תמר",
@@ -1834543,7 +1834603,22 @@ window.SWIM_DATA = {
      "points": 68
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-12-09",
+     "competition": "גביע חנוכה רמת השרון",
+     "compId": 15917,
+     "event": "50 חופשי",
+     "category": "בנות 8-12",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "16:31",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "00:59.90",
+     "seedSeconds": 59.9
+    }
+   ]
   },
   "2016|ספן·שחף": {
    "id": "2016|ספן·שחף",
@@ -1834580,7 +1834655,22 @@ window.SWIM_DATA = {
      "points": 58
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-12-09",
+     "competition": "גביע חנוכה רמת השרון",
+     "compId": 15917,
+     "event": "50 חופשי",
+     "category": "בנות 8-12",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "16:30",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "01:05.14",
+     "seedSeconds": 65.14
+    }
+   ]
   },
   "2018|אריאל·קלורגלוס": {
    "id": "2018|אריאל·קלורגלוס",
@@ -1839288,15 +1839378,34 @@ window.SWIM_DATA = {
     }
    ],
    "future": []
+  },
+  "2018|אליה·לין": {
+   "id": "2018|אליה·לין",
+   "displayName": "אליה לין",
+   "birthYear": 2018,
+   "clubs": [
+    "מכבי א.ס. רמת השרון"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-12-09",
+     "competition": "גביע חנוכה רמת השרון",
+     "compId": 15917,
+     "event": "50 חופשי",
+     "category": "בנות 8-12",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "16:30",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   }
  },
- "lastChecked": "2026-11-15 22:44",
- "newThisRun": 123,
- "newComps": [
-  {
-   "name": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
-   "date": "2026-11-12",
-   "count": 123
-  }
- ]
+ "lastChecked": "2026-11-17 01:49",
+ "newThisRun": 0,
+ "newComps": []
 };
