@@ -3,7 +3,7 @@ window.SWIM_DATA = {
  "generated": "2026-11-19",
  "source": "isr.org.il  →  loglig.com  (SQLite backend)",
  "isSeedSample": false,
- "swimmerCount": 6839,
+ "swimmerCount": 6869,
  "swimmers": {
   "2006|יבגניה·קליימן": {
    "id": "2006|יבגניה·קליימן",
@@ -69855,7 +69855,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "10:32",
+     "startTime": "10:39",
      "heat": "1",
      "lane": "3",
      "seedStr": "04:48.78",
@@ -69869,7 +69869,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "11:13",
+     "startTime": "11:15",
      "heat": "3",
      "lane": "5",
      "seedStr": "02:33.82",
@@ -73112,7 +73112,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:04",
+     "startTime": "09:25",
      "heat": "2",
      "lane": "3",
      "seedStr": "01:19.76",
@@ -73126,7 +73126,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:57",
+     "startTime": "10:11",
      "heat": "2",
      "lane": "1",
      "seedStr": "00:33.22",
@@ -75161,7 +75161,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "10:06",
+     "startTime": "10:17",
      "heat": "2",
      "lane": "5",
      "seedStr": "01:06.93",
@@ -75175,7 +75175,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "11:13",
+     "startTime": "11:15",
      "heat": "3",
      "lane": "1",
      "seedStr": "02:40.91",
@@ -77106,7 +77106,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "08:23",
+     "startTime": "08:52",
      "heat": "3",
      "lane": "5",
      "seedStr": "00:38.32",
@@ -77120,7 +77120,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "10:06",
+     "startTime": "10:17",
      "heat": "2",
      "lane": "2",
      "seedStr": "01:04.71",
@@ -93764,29 +93764,29 @@ window.SWIM_DATA = {
      "date": "2026-11-20",
      "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
      "compId": 16155,
-     "event": "800 חופשי",
+     "event": "100 חזה",
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "00:00",
-     "heat": "1",
-     "lane": "2",
-     "seedStr": "09:54.27",
-     "seedSeconds": 594.27
+     "startTime": "11:06",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "01:09.67",
+     "seedSeconds": 69.67
     },
     {
      "date": "2026-11-20",
      "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
      "compId": 16155,
-     "event": "100 חזה",
+     "event": "800 חופשי",
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "11:02",
-     "heat": "3",
-     "lane": "5",
-     "seedStr": "01:09.67",
-     "seedSeconds": 69.67
+     "startTime": "11:41",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "09:54.27",
+     "seedSeconds": 594.27
     }
    ]
   },
@@ -100736,7 +100736,50 @@ window.SWIM_DATA = {
      "points": 397
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
+     "compId": 16155,
+     "event": "100 גב",
+     "category": "גברים 12-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "startTime": "09:02",
+     "heat": "1",
+     "lane": "1",
+     "seedStr": "01:06.85",
+     "seedSeconds": 66.85
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
+     "compId": 16155,
+     "event": "50 גב",
+     "category": "גברים 12-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "startTime": "09:38",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
+     "compId": 16155,
+     "event": "200 גב",
+     "category": "גברים 12-99",
+     "poolLength": 25,
+     "club": "מכבי קרית אונו",
+     "startTime": "11:22",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "02:19.09",
+     "seedSeconds": 139.09
+    }
+   ]
   },
   "2010|בריהון·יהל": {
    "id": "2010|בריהון·יהל",
@@ -112639,7 +112682,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "09:06",
+     "startTime": "09:27",
      "heat": "3",
      "lane": "4",
      "seedStr": "01:13.90",
@@ -112653,7 +112696,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "10:16",
+     "startTime": "10:25",
      "heat": "1",
      "lane": "3",
      "seedStr": "02:57.55",
@@ -119421,7 +119464,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "09:22",
+     "startTime": "09:39",
      "heat": "1",
      "lane": "4",
      "seedStr": "NT",
@@ -119435,7 +119478,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "09:56",
+     "startTime": "10:10",
      "heat": "1",
      "lane": "3",
      "seedStr": "00:35.72",
@@ -119449,9 +119492,9 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "10:47",
-     "heat": "2",
-     "lane": "5",
+     "startTime": "10:55",
+     "heat": "3",
+     "lane": "1",
      "seedStr": "00:30.73",
      "seedSeconds": 30.73
     }
@@ -140456,7 +140499,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:23",
+     "startTime": "08:52",
      "heat": "3",
      "lane": "3",
      "seedStr": "00:32.82",
@@ -140470,7 +140513,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:06",
+     "startTime": "10:17",
      "heat": "2",
      "lane": "3",
      "seedStr": "00:58.85",
@@ -140484,8 +140527,8 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:47",
-     "heat": "2",
+     "startTime": "10:55",
+     "heat": "3",
      "lane": "3",
      "seedStr": "00:26.15",
      "seedSeconds": 26.15
@@ -140498,7 +140541,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:55",
+     "startTime": "11:00",
      "heat": "1",
      "lane": "3",
      "seedStr": "01:10.63",
@@ -147920,7 +147963,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:45",
+     "startTime": "09:09",
      "heat": "2",
      "lane": "3",
      "seedStr": "02:33.66",
@@ -147934,9 +147977,9 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:35",
+     "startTime": "09:49",
      "heat": "1",
-     "lane": "4",
+     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -150279,25 +150322,11 @@ window.SWIM_DATA = {
      "date": "2026-11-20",
      "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
      "compId": 16155,
-     "event": "200 מעורב אישי",
-     "category": "נשים 12-99",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "00:00",
-     "heat": "1",
-     "lane": "3",
-     "seedStr": "02:28.09",
-     "seedSeconds": 148.09
-    },
-    {
-     "date": "2026-11-20",
-     "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
-     "compId": 16155,
      "event": "100 גב",
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:34",
+     "startTime": "09:00",
      "heat": "3",
      "lane": "5",
      "seedStr": "01:08.07",
@@ -150311,11 +150340,25 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:06",
+     "startTime": "09:27",
      "heat": "3",
      "lane": "3",
      "seedStr": "01:08.73",
      "seedSeconds": 68.73
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
+     "compId": 16155,
+     "event": "200 מעורב אישי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "startTime": "11:29",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "02:28.09",
+     "seedSeconds": 148.09
     }
    ]
   },
@@ -150974,8 +151017,8 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:47",
-     "heat": "2",
+     "startTime": "10:55",
+     "heat": "3",
      "lane": "4",
      "seedStr": "00:28.23",
      "seedSeconds": 28.23
@@ -152142,7 +152185,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:34",
+     "startTime": "09:00",
      "heat": "3",
      "lane": "4",
      "seedStr": "01:04.93",
@@ -152156,7 +152199,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:57",
+     "startTime": "10:11",
      "heat": "2",
      "lane": "3",
      "seedStr": "00:31.10",
@@ -152170,7 +152213,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "11:13",
+     "startTime": "11:15",
      "heat": "3",
      "lane": "4",
      "seedStr": "02:20.50",
@@ -157456,7 +157499,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:34",
+     "startTime": "09:00",
      "heat": "3",
      "lane": "2",
      "seedStr": "01:07.45",
@@ -157470,7 +157513,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:57",
+     "startTime": "10:11",
      "heat": "2",
      "lane": "4",
      "seedStr": "00:32.05",
@@ -158081,7 +158124,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:06",
+     "startTime": "09:27",
      "heat": "3",
      "lane": "2",
      "seedStr": "01:14.26",
@@ -158095,7 +158138,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:18",
+     "startTime": "09:36",
      "heat": "2",
      "lane": "2",
      "seedStr": "00:32.72",
@@ -158109,7 +158152,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:57",
+     "startTime": "10:11",
      "heat": "2",
      "lane": "2",
      "seedStr": "00:32.47",
@@ -158967,7 +159010,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:41",
+     "startTime": "09:06",
      "heat": "1",
      "lane": "4",
      "seedStr": "NT",
@@ -158981,7 +159024,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "11:13",
+     "startTime": "11:15",
      "heat": "3",
      "lane": "2",
      "seedStr": "02:27.44",
@@ -159566,7 +159609,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:45",
+     "startTime": "09:09",
      "heat": "2",
      "lane": "2",
      "seedStr": "02:50.28",
@@ -159580,7 +159623,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:32",
+     "startTime": "10:39",
      "heat": "1",
      "lane": "4",
      "seedStr": "04:57.98",
@@ -164803,29 +164846,29 @@ window.SWIM_DATA = {
      "date": "2026-11-20",
      "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
      "compId": 16155,
-     "event": "200 מעורב אישי",
+     "event": "50 חזה",
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "00:00",
-     "heat": "1",
+     "startTime": "08:52",
+     "heat": "3",
      "lane": "4",
-     "seedStr": "02:35.64",
-     "seedSeconds": 155.64
+     "seedStr": "00:34.27",
+     "seedSeconds": 34.27
     },
     {
      "date": "2026-11-20",
      "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
      "compId": 16155,
-     "event": "50 חזה",
+     "event": "200 מעורב אישי",
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:23",
-     "heat": "3",
+     "startTime": "11:29",
+     "heat": "1",
      "lane": "4",
-     "seedStr": "00:34.27",
-     "seedSeconds": 34.27
+     "seedStr": "02:35.64",
+     "seedSeconds": 155.64
     }
    ]
   },
@@ -165432,7 +165475,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:06",
+     "startTime": "09:27",
      "heat": "3",
      "lane": "5",
      "seedStr": "01:15.23",
@@ -165446,7 +165489,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:57",
+     "startTime": "10:11",
      "heat": "2",
      "lane": "5",
      "seedStr": "00:33.12",
@@ -171271,29 +171314,29 @@ window.SWIM_DATA = {
      "date": "2026-11-20",
      "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
      "compId": 16155,
-     "event": "200 מעורב אישי",
+     "event": "50 חזה",
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "00:00",
-     "heat": "1",
+     "startTime": "08:52",
+     "heat": "3",
      "lane": "2",
-     "seedStr": "02:46.15",
-     "seedSeconds": 166.15
+     "seedStr": "00:36.37",
+     "seedSeconds": 36.37
     },
     {
      "date": "2026-11-20",
      "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
      "compId": 16155,
-     "event": "50 חזה",
+     "event": "200 מעורב אישי",
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:23",
-     "heat": "3",
+     "startTime": "11:29",
+     "heat": "1",
      "lane": "2",
-     "seedStr": "00:36.37",
-     "seedSeconds": 36.37
+     "seedStr": "02:46.15",
+     "seedSeconds": 166.15
     }
    ]
   },
@@ -172052,29 +172095,29 @@ window.SWIM_DATA = {
      "date": "2026-11-20",
      "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
      "compId": 16155,
-     "event": "200 מעורב אישי",
+     "event": "200 פרפר",
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "00:00",
-     "heat": "1",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
+     "startTime": "09:09",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "02:48.80",
+     "seedSeconds": 168.8
     },
     {
      "date": "2026-11-20",
      "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
      "compId": 16155,
-     "event": "200 פרפר",
+     "event": "200 מעורב אישי",
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:45",
-     "heat": "2",
-     "lane": "4",
-     "seedStr": "02:48.80",
-     "seedSeconds": 168.8
+     "startTime": "11:29",
+     "heat": "1",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
     }
    ]
   },
@@ -172646,7 +172689,36 @@ window.SWIM_DATA = {
      "points": 405
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
+     "compId": 16155,
+     "event": "200 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "startTime": "09:49",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "02:27.46",
+     "seedSeconds": 147.46
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
+     "compId": 16155,
+     "event": "50 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "הפועל פתח תקווה",
+     "startTime": "10:55",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "00:29.81",
+     "seedSeconds": 29.81
+    }
+   ]
   },
   "2011|עלמה·רם": {
    "id": "2011|עלמה·רם",
@@ -174753,7 +174825,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:06",
+     "startTime": "09:27",
      "heat": "3",
      "lane": "1",
      "seedStr": "01:17.32",
@@ -174767,7 +174839,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:32",
+     "startTime": "10:39",
      "heat": "1",
      "lane": "2",
      "seedStr": "05:09.39",
@@ -178490,7 +178562,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:23",
+     "startTime": "08:52",
      "heat": "3",
      "lane": "1",
      "seedStr": "00:38.64",
@@ -178504,7 +178576,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:56",
+     "startTime": "10:10",
      "heat": "1",
      "lane": "4",
      "seedStr": "00:38.60",
@@ -184534,29 +184606,29 @@ window.SWIM_DATA = {
      "date": "2026-11-20",
      "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
      "compId": 16155,
-     "event": "200 מעורב אישי",
+     "event": "100 פרפר",
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "00:00",
-     "heat": "2",
-     "lane": "3",
-     "seedStr": "02:14.26",
-     "seedSeconds": 134.26
+     "startTime": "09:47",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "01:01.82",
+     "seedSeconds": 61.82
     },
     {
      "date": "2026-11-20",
      "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
      "compId": 16155,
-     "event": "100 פרפר",
+     "event": "200 מעורב אישי",
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:32",
-     "heat": "3",
-     "lane": "1",
-     "seedStr": "01:01.82",
-     "seedSeconds": 61.82
+     "startTime": "11:36",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "02:14.26",
+     "seedSeconds": 134.26
     }
    ]
   },
@@ -190636,7 +190708,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:57",
+     "startTime": "09:20",
      "heat": "3",
      "lane": "2",
      "seedStr": "02:18.25",
@@ -190650,7 +190722,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:24",
+     "startTime": "10:32",
      "heat": "2",
      "lane": "2",
      "seedStr": "02:42.81",
@@ -190664,7 +190736,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "11:25",
+     "startTime": "11:26",
      "heat": "3",
      "lane": "5",
      "seedStr": "02:09.72",
@@ -198732,7 +198804,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:39",
+     "startTime": "09:04",
      "heat": "2",
      "lane": "4",
      "seedStr": "00:57.56",
@@ -198746,7 +198818,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:21",
+     "startTime": "09:38",
      "heat": "2",
      "lane": "3",
      "seedStr": "00:26.67",
@@ -198760,7 +198832,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "11:25",
+     "startTime": "11:26",
      "heat": "3",
      "lane": "4",
      "seedStr": "02:05.43",
@@ -199631,7 +199703,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:39",
+     "startTime": "09:04",
      "heat": "2",
      "lane": "3",
      "seedStr": "00:54.77",
@@ -199645,7 +199717,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:02",
+     "startTime": "10:14",
      "heat": "3",
      "lane": "3",
      "seedStr": "00:25.34",
@@ -199659,7 +199731,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "11:25",
+     "startTime": "11:26",
      "heat": "3",
      "lane": "3",
      "seedStr": "02:01.92",
@@ -200684,7 +200756,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:57",
+     "startTime": "09:20",
      "heat": "3",
      "lane": "5",
      "seedStr": "02:29.52",
@@ -200698,7 +200770,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:32",
+     "startTime": "09:47",
      "heat": "3",
      "lane": "2",
      "seedStr": "00:57.38",
@@ -202215,7 +202287,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:27",
+     "startTime": "08:55",
      "heat": "3",
      "lane": "4",
      "seedStr": "00:31.25",
@@ -202229,7 +202301,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:21",
+     "startTime": "09:38",
      "heat": "2",
      "lane": "2",
      "seedStr": "00:30.94",
@@ -203762,7 +203834,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:32",
+     "startTime": "09:47",
      "heat": "3",
      "lane": "5",
      "seedStr": "00:57.65",
@@ -203776,7 +203848,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:02",
+     "startTime": "10:14",
      "heat": "3",
      "lane": "4",
      "seedStr": "00:25.78",
@@ -203790,7 +203862,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:53",
+     "startTime": "10:59",
      "heat": "4",
      "lane": "4",
      "seedStr": "00:24.16",
@@ -204440,7 +204512,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:14",
+     "startTime": "09:33",
      "heat": "3",
      "lane": "4",
      "seedStr": "01:02.86",
@@ -204454,7 +204526,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:13",
+     "startTime": "10:23",
      "heat": "3",
      "lane": "4",
      "seedStr": "00:55.07",
@@ -204468,7 +204540,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:52",
+     "startTime": "10:58",
      "heat": "3",
      "lane": "3",
      "seedStr": "00:25.44",
@@ -206208,7 +206280,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:14",
+     "startTime": "09:33",
      "heat": "3",
      "lane": "2",
      "seedStr": "01:09.05",
@@ -206222,7 +206294,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:21",
+     "startTime": "09:38",
      "heat": "2",
      "lane": "4",
      "seedStr": "00:30.61",
@@ -206236,7 +206308,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:52",
+     "startTime": "10:58",
      "heat": "3",
      "lane": "4",
      "seedStr": "00:26.13",
@@ -207133,7 +207205,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:14",
+     "startTime": "09:33",
      "heat": "3",
      "lane": "3",
      "seedStr": "00:59.74",
@@ -207147,7 +207219,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:28",
+     "startTime": "10:36",
      "heat": "3",
      "lane": "2",
      "seedStr": "02:24.46",
@@ -207161,7 +207233,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:53",
+     "startTime": "10:59",
      "heat": "4",
      "lane": "3",
      "seedStr": "00:23.92",
@@ -211012,29 +211084,29 @@ window.SWIM_DATA = {
      "date": "2026-11-20",
      "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
      "compId": 16155,
-     "event": "800 חופשי",
+     "event": "1500 חופשי",
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "00:00",
+     "startTime": "08:30",
      "heat": "1",
      "lane": "3",
-     "seedStr": "09:02.72",
-     "seedSeconds": 542.72
+     "seedStr": "17:17.69",
+     "seedSeconds": 1037.69
     },
     {
      "date": "2026-11-20",
      "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
      "compId": 16155,
-     "event": "1500 חופשי",
+     "event": "800 חופשי",
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:00",
+     "startTime": "11:41",
      "heat": "1",
      "lane": "3",
-     "seedStr": "17:17.69",
-     "seedSeconds": 1037.69
+     "seedStr": "09:02.72",
+     "seedSeconds": 542.72
     }
    ]
   },
@@ -212420,7 +212492,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:59",
+     "startTime": "10:12",
      "heat": "1",
      "lane": "3",
      "seedStr": "00:37.45",
@@ -216891,29 +216963,29 @@ window.SWIM_DATA = {
      "date": "2026-11-20",
      "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
      "compId": 16155,
-     "event": "200 מעורב אישי",
+     "event": "50 חזה",
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "00:00",
-     "heat": "1",
-     "lane": "2",
-     "seedStr": "02:39.22",
-     "seedSeconds": 159.22
+     "startTime": "08:54",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "00:34.38",
+     "seedSeconds": 34.38
     },
     {
      "date": "2026-11-20",
      "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
      "compId": 16155,
-     "event": "50 חזה",
+     "event": "200 מעורב אישי",
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:26",
-     "heat": "2",
-     "lane": "4",
-     "seedStr": "00:34.38",
-     "seedSeconds": 34.38
+     "startTime": "11:33",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "02:39.22",
+     "seedSeconds": 159.22
     }
    ]
   },
@@ -218400,7 +218472,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:28",
+     "startTime": "10:36",
      "heat": "3",
      "lane": "4",
      "seedStr": "02:15.42",
@@ -218414,7 +218486,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "11:02",
+     "startTime": "11:06",
      "heat": "3",
      "lane": "4",
      "seedStr": "01:01.17",
@@ -224317,7 +224389,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:57",
+     "startTime": "09:20",
      "heat": "3",
      "lane": "3",
      "seedStr": "02:09.50",
@@ -271752,7 +271824,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:14",
+     "startTime": "09:33",
      "heat": "3",
      "lane": "5",
      "seedStr": "01:10.23",
@@ -271766,7 +271838,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:52",
+     "startTime": "10:58",
      "heat": "3",
      "lane": "2",
      "seedStr": "00:26.75",
@@ -273584,7 +273656,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "08:29",
+     "startTime": "08:56",
      "heat": "1",
      "lane": "2",
      "seedStr": "NT",
@@ -273598,7 +273670,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "09:18",
+     "startTime": "09:36",
      "heat": "2",
      "lane": "4",
      "seedStr": "00:31.26",
@@ -273612,7 +273684,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "10:06",
+     "startTime": "10:17",
      "heat": "2",
      "lane": "4",
      "seedStr": "01:00.94",
@@ -282945,7 +283017,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "09:32",
+     "startTime": "09:47",
      "heat": "3",
      "lane": "3",
      "seedStr": "00:57.25",
@@ -282959,7 +283031,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "10:02",
+     "startTime": "10:14",
      "heat": "3",
      "lane": "2",
      "seedStr": "00:26.28",
@@ -282973,7 +283045,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "10:53",
+     "startTime": "10:59",
      "heat": "4",
      "lane": "1",
      "seedStr": "00:25.21",
@@ -288348,7 +288420,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:21",
+     "startTime": "08:51",
      "heat": "2",
      "lane": "4",
      "seedStr": "00:42.89",
@@ -288362,9 +288434,9 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:47",
+     "startTime": "10:54",
      "heat": "2",
-     "lane": "1",
+     "lane": "3",
      "seedStr": "00:32.61",
      "seedSeconds": 32.61
     }
@@ -431694,7 +431766,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:34",
+     "startTime": "09:00",
      "heat": "3",
      "lane": "1",
      "seedStr": "01:18.84",
@@ -431708,7 +431780,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "11:09",
+     "startTime": "11:12",
      "heat": "2",
      "lane": "3",
      "seedStr": "02:51.43",
@@ -433184,25 +433256,11 @@ window.SWIM_DATA = {
      "date": "2026-11-20",
      "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
      "compId": 16155,
-     "event": "800 חופשי",
-     "category": "נשים 12-99",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "00:00",
-     "heat": "1",
-     "lane": "3",
-     "seedStr": "10:33.23",
-     "seedSeconds": 633.23
-    },
-    {
-     "date": "2026-11-20",
-     "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
-     "compId": 16155,
      "event": "200 חזה",
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:16",
+     "startTime": "10:25",
      "heat": "1",
      "lane": "4",
      "seedStr": "03:05.59",
@@ -433216,11 +433274,25 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:46",
-     "heat": "1",
-     "lane": "3",
+     "startTime": "10:54",
+     "heat": "2",
+     "lane": "4",
      "seedStr": "00:34.70",
      "seedSeconds": 34.7
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
+     "compId": 16155,
+     "event": "800 חופשי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "startTime": "11:40",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "10:33.23",
+     "seedSeconds": 633.23
     }
    ]
   },
@@ -433850,25 +433922,11 @@ window.SWIM_DATA = {
      "date": "2026-11-20",
      "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
      "compId": 16155,
-     "event": "200 מעורב אישי",
-     "category": "נשים 12-99",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "00:00",
-     "heat": "1",
-     "lane": "5",
-     "seedStr": "02:57.82",
-     "seedSeconds": 177.82
-    },
-    {
-     "date": "2026-11-20",
-     "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
-     "compId": 16155,
      "event": "200 חזה",
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:16",
+     "startTime": "10:25",
      "heat": "1",
      "lane": "2",
      "seedStr": "03:11.55",
@@ -433882,11 +433940,25 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:55",
+     "startTime": "11:00",
      "heat": "1",
      "lane": "4",
      "seedStr": "01:29.56",
      "seedSeconds": 89.56
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
+     "compId": 16155,
+     "event": "200 מעורב אישי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "startTime": "11:29",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "02:57.82",
+     "seedSeconds": 177.82
     }
    ]
   },
@@ -436670,7 +436742,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:29",
+     "startTime": "08:56",
      "heat": "1",
      "lane": "4",
      "seedStr": "01:33.73",
@@ -436684,7 +436756,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:25",
+     "startTime": "09:41",
      "heat": "2",
      "lane": "3",
      "seedStr": "01:27.65",
@@ -440159,7 +440231,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:41",
+     "startTime": "09:06",
      "heat": "1",
      "lane": "2",
      "seedStr": "NT",
@@ -440173,7 +440245,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:01",
+     "startTime": "09:23",
      "heat": "1",
      "lane": "4",
      "seedStr": "01:31.49",
@@ -440836,7 +440908,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "08:21",
+     "startTime": "08:51",
      "heat": "2",
      "lane": "3",
      "seedStr": "00:40.01",
@@ -440850,7 +440922,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "09:16",
+     "startTime": "09:35",
      "heat": "1",
      "lane": "3",
      "seedStr": "00:38.47",
@@ -440864,7 +440936,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "10:16",
+     "startTime": "10:25",
      "heat": "1",
      "lane": "5",
      "seedStr": "03:16.89",
@@ -441345,7 +441417,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:31",
+     "startTime": "08:58",
      "heat": "2",
      "lane": "4",
      "seedStr": "01:21.77",
@@ -441359,7 +441431,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:18",
+     "startTime": "09:36",
      "heat": "2",
      "lane": "5",
      "seedStr": "00:37.35",
@@ -441373,7 +441445,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "11:09",
+     "startTime": "11:12",
      "heat": "2",
      "lane": "4",
      "seedStr": "02:52.73",
@@ -442891,7 +442963,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:31",
+     "startTime": "08:58",
      "heat": "2",
      "lane": "3",
      "seedStr": "01:21.74",
@@ -442905,7 +442977,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:16",
+     "startTime": "09:35",
      "heat": "1",
      "lane": "2",
      "seedStr": "00:45.82",
@@ -442919,9 +442991,9 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:46",
+     "startTime": "10:53",
      "heat": "1",
-     "lane": "2",
+     "lane": "3",
      "seedStr": "00:35.95",
      "seedSeconds": 35.95
     }
@@ -451982,7 +452054,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:53",
+     "startTime": "10:59",
      "heat": "4",
      "lane": "5",
      "seedStr": "00:25.14",
@@ -451996,7 +452068,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "11:25",
+     "startTime": "11:26",
      "heat": "3",
      "lane": "2",
      "seedStr": "02:09.23",
@@ -452789,7 +452861,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:27",
+     "startTime": "08:55",
      "heat": "3",
      "lane": "5",
      "seedStr": "00:32.41",
@@ -452803,7 +452875,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:28",
+     "startTime": "10:36",
      "heat": "3",
      "lane": "5",
      "seedStr": "02:37.81",
@@ -452817,7 +452889,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "11:02",
+     "startTime": "11:06",
      "heat": "3",
      "lane": "1",
      "seedStr": "01:12.17",
@@ -453558,7 +453630,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:27",
+     "startTime": "08:55",
      "heat": "3",
      "lane": "1",
      "seedStr": "00:34.13",
@@ -453572,7 +453644,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:49",
+     "startTime": "10:03",
      "heat": "1",
      "lane": "3",
      "seedStr": "05:06.10",
@@ -453586,7 +453658,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:24",
+     "startTime": "10:32",
      "heat": "2",
      "lane": "3",
      "seedStr": "02:39.58",
@@ -454375,25 +454447,11 @@ window.SWIM_DATA = {
      "date": "2026-11-20",
      "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
      "compId": 16155,
-     "event": "200 מעורב אישי",
-     "category": "גברים 12-99",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "00:00",
-     "heat": "2",
-     "lane": "4",
-     "seedStr": "02:20.41",
-     "seedSeconds": 140.41
-    },
-    {
-     "date": "2026-11-20",
-     "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
-     "compId": 16155,
      "event": "200 חזה",
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:28",
+     "startTime": "10:36",
      "heat": "3",
      "lane": "1",
      "seedStr": "02:37.81",
@@ -454407,11 +454465,25 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:50",
+     "startTime": "10:57",
      "heat": "2",
      "lane": "4",
      "seedStr": "00:29.13",
      "seedSeconds": 29.13
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
+     "compId": 16155,
+     "event": "200 מעורב אישי",
+     "category": "גברים 12-99",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "startTime": "11:36",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "02:20.41",
+     "seedSeconds": 140.41
     }
    ]
   },
@@ -455239,7 +455311,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:39",
+     "startTime": "09:04",
      "heat": "2",
      "lane": "2",
      "seedStr": "01:02.70",
@@ -455253,7 +455325,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:00",
+     "startTime": "10:13",
      "heat": "2",
      "lane": "4",
      "seedStr": "00:32.60",
@@ -455267,7 +455339,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:53",
+     "startTime": "10:59",
      "heat": "4",
      "lane": "2",
      "seedStr": "00:24.89",
@@ -455956,7 +456028,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:39",
+     "startTime": "09:04",
      "heat": "2",
      "lane": "5",
      "seedStr": "01:04.57",
@@ -455970,7 +456042,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "11:00",
+     "startTime": "11:04",
      "heat": "2",
      "lane": "4",
      "seedStr": "01:16.51",
@@ -458486,7 +458558,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:26",
+     "startTime": "08:54",
      "heat": "2",
      "lane": "3",
      "seedStr": "00:34.31",
@@ -458500,7 +458572,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:24",
+     "startTime": "10:32",
      "heat": "2",
      "lane": "5",
      "seedStr": "02:44.57",
@@ -458514,7 +458586,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "11:00",
+     "startTime": "11:04",
      "heat": "2",
      "lane": "2",
      "seedStr": "01:16.53",
@@ -459318,7 +459390,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:13",
+     "startTime": "10:23",
      "heat": "3",
      "lane": "2",
      "seedStr": "00:59.81",
@@ -459332,7 +459404,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:52",
+     "startTime": "10:58",
      "heat": "3",
      "lane": "1",
      "seedStr": "00:26.80",
@@ -459346,7 +459418,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "11:17",
+     "startTime": "11:19",
      "heat": "1",
      "lane": "4",
      "seedStr": "03:05.17",
@@ -460787,7 +460859,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:27",
+     "startTime": "08:55",
      "heat": "3",
      "lane": "2",
      "seedStr": "00:32.36",
@@ -460801,7 +460873,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:24",
+     "startTime": "10:32",
      "heat": "2",
      "lane": "4",
      "seedStr": "02:42.44",
@@ -460815,7 +460887,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "11:00",
+     "startTime": "11:04",
      "heat": "2",
      "lane": "3",
      "seedStr": "01:12.83",
@@ -461543,7 +461615,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:14",
+     "startTime": "09:33",
      "heat": "3",
      "lane": "1",
      "seedStr": "01:11.66",
@@ -461557,7 +461629,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:24",
+     "startTime": "10:32",
      "heat": "2",
      "lane": "1",
      "seedStr": "02:52.68",
@@ -461571,7 +461643,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "11:00",
+     "startTime": "11:04",
      "heat": "2",
      "lane": "5",
      "seedStr": "01:21.30",
@@ -462260,7 +462332,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:26",
+     "startTime": "08:54",
      "heat": "2",
      "lane": "5",
      "seedStr": "00:42.56",
@@ -462274,7 +462346,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:11",
+     "startTime": "09:31",
      "heat": "2",
      "lane": "4",
      "seedStr": "01:17.60",
@@ -462288,7 +462360,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:38",
+     "startTime": "09:53",
      "heat": "1",
      "lane": "2",
      "seedStr": "02:31.88",
@@ -464804,7 +464876,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "10:13",
+     "startTime": "10:23",
      "heat": "3",
      "lane": "5",
      "seedStr": "01:01.41",
@@ -464818,7 +464890,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "11:21",
+     "startTime": "11:22",
      "heat": "2",
      "lane": "3",
      "seedStr": "02:33.02",
@@ -465503,25 +465575,11 @@ window.SWIM_DATA = {
      "date": "2026-11-20",
      "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
      "compId": 16155,
-     "event": "200 מעורב אישי",
-     "category": "גברים 12-99",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "00:00",
-     "heat": "1",
-     "lane": "3",
-     "seedStr": "02:36.03",
-     "seedSeconds": 156.03
-    },
-    {
-     "date": "2026-11-20",
-     "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
-     "compId": 16155,
      "event": "200 חזה",
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:20",
+     "startTime": "10:29",
      "heat": "1",
      "lane": "3",
      "seedStr": "02:55.94",
@@ -465535,11 +465593,25 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "11:00",
+     "startTime": "11:04",
      "heat": "2",
      "lane": "1",
      "seedStr": "01:21.72",
      "seedSeconds": 81.72
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
+     "compId": 16155,
+     "event": "200 מעורב אישי",
+     "category": "גברים 12-99",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "startTime": "11:33",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "02:36.03",
+     "seedSeconds": 156.03
     }
    ]
   },
@@ -466311,25 +466383,11 @@ window.SWIM_DATA = {
      "date": "2026-11-20",
      "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
      "compId": 16155,
-     "event": "800 חופשי",
-     "category": "גברים 12-99",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "00:00",
-     "heat": "1",
-     "lane": "4",
-     "seedStr": "09:32.47",
-     "seedSeconds": 572.47
-    },
-    {
-     "date": "2026-11-20",
-     "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
-     "compId": 16155,
      "event": "200 פרפר",
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:53",
+     "startTime": "09:16",
      "heat": "2",
      "lane": "3",
      "seedStr": "02:35.37",
@@ -466343,7 +466401,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:30",
+     "startTime": "09:45",
      "heat": "2",
      "lane": "2",
      "seedStr": "01:11.51",
@@ -466357,11 +466415,25 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:59",
+     "startTime": "10:12",
      "heat": "1",
      "lane": "4",
      "seedStr": "00:41.91",
      "seedSeconds": 41.91
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
+     "compId": 16155,
+     "event": "800 חופשי",
+     "category": "גברים 12-99",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "startTime": "11:41",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "09:32.47",
+     "seedSeconds": 572.47
     }
    ]
   },
@@ -467508,25 +467580,11 @@ window.SWIM_DATA = {
      "date": "2026-11-20",
      "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
      "compId": 16155,
-     "event": "200 מעורב אישי",
-     "category": "גברים 12-99",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "00:00",
-     "heat": "2",
-     "lane": "2",
-     "seedStr": "02:30.02",
-     "seedSeconds": 150.02
-    },
-    {
-     "date": "2026-11-20",
-     "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
-     "compId": 16155,
      "event": "400 מעורב אישי",
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:49",
+     "startTime": "10:03",
      "heat": "1",
      "lane": "4",
      "seedStr": "05:22.59",
@@ -467540,11 +467598,25 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:20",
+     "startTime": "10:29",
      "heat": "1",
      "lane": "4",
      "seedStr": "02:58.90",
      "seedSeconds": 178.9
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
+     "compId": 16155,
+     "event": "200 מעורב אישי",
+     "category": "גברים 12-99",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "startTime": "11:36",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "02:30.02",
+     "seedSeconds": 150.02
     }
    ]
   },
@@ -467866,7 +467938,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:57",
+     "startTime": "11:02",
      "heat": "1",
      "lane": "3",
      "seedStr": "01:32.31",
@@ -471110,7 +471182,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:49",
+     "startTime": "09:13",
      "heat": "1",
      "lane": "2",
      "seedStr": "NT",
@@ -471124,7 +471196,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:30",
+     "startTime": "09:45",
      "heat": "2",
      "lane": "5",
      "seedStr": "01:12.13",
@@ -471138,7 +471210,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:00",
+     "startTime": "10:13",
      "heat": "2",
      "lane": "3",
      "seedStr": "00:30.20",
@@ -471914,25 +471986,11 @@ window.SWIM_DATA = {
      "date": "2026-11-20",
      "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
      "compId": 16155,
-     "event": "200 מעורב אישי",
-     "category": "גברים 12-99",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "00:00",
-     "heat": "1",
-     "lane": "4",
-     "seedStr": "02:36.48",
-     "seedSeconds": 156.48
-    },
-    {
-     "date": "2026-11-20",
-     "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
-     "compId": 16155,
      "event": "100 גב",
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:36",
+     "startTime": "09:02",
      "heat": "1",
      "lane": "3",
      "seedStr": "01:07.38",
@@ -471946,11 +472004,25 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:02",
+     "startTime": "10:14",
      "heat": "3",
      "lane": "1",
      "seedStr": "00:29.77",
      "seedSeconds": 29.77
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
+     "compId": 16155,
+     "event": "200 מעורב אישי",
+     "category": "גברים 12-99",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "startTime": "11:33",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "02:36.48",
+     "seedSeconds": 156.48
     }
    ]
   },
@@ -474411,7 +474483,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:38",
+     "startTime": "09:53",
      "heat": "1",
      "lane": "1",
      "seedStr": "03:07.69",
@@ -474425,7 +474497,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:20",
+     "startTime": "10:29",
      "heat": "1",
      "lane": "5",
      "seedStr": "NT",
@@ -474439,7 +474511,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:49",
+     "startTime": "10:56",
      "heat": "1",
      "lane": "4",
      "seedStr": "00:32.05",
@@ -476808,25 +476880,11 @@ window.SWIM_DATA = {
      "date": "2026-11-20",
      "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
      "compId": 16155,
-     "event": "800 חופשי",
-     "category": "גברים 12-99",
-     "poolLength": 25,
-     "club": "מכבי מרום רמת גן",
-     "startTime": "00:00",
-     "heat": "1",
-     "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-20",
-     "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
-     "compId": 16155,
      "event": "200 פרפר",
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:53",
+     "startTime": "09:16",
      "heat": "2",
      "lane": "2",
      "seedStr": "02:47.95",
@@ -476840,11 +476898,25 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:49",
+     "startTime": "10:03",
      "heat": "1",
      "lane": "2",
      "seedStr": "05:38.50",
      "seedSeconds": 338.5
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "רמת גן מול קרית אונו DUAL MEET - 20/11/2026",
+     "compId": 16155,
+     "event": "800 חופשי",
+     "category": "גברים 12-99",
+     "poolLength": 25,
+     "club": "מכבי מרום רמת גן",
+     "startTime": "11:41",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
     }
    ]
   },
@@ -477735,7 +477807,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:59",
+     "startTime": "10:12",
      "heat": "1",
      "lane": "2",
      "seedStr": "00:46.50",
@@ -477749,7 +477821,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:20",
+     "startTime": "10:29",
      "heat": "1",
      "lane": "1",
      "seedStr": "NT",
@@ -477763,7 +477835,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "11:21",
+     "startTime": "11:22",
      "heat": "2",
      "lane": "5",
      "seedStr": "02:43.78",
@@ -483229,7 +483301,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "09:09",
+     "startTime": "09:29",
      "heat": "1",
      "lane": "4",
      "seedStr": "01:27.46",
@@ -483243,7 +483315,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "10:08",
+     "startTime": "10:19",
      "heat": "1",
      "lane": "3",
      "seedStr": "01:15.69",
@@ -483257,7 +483329,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "10:49",
+     "startTime": "10:56",
      "heat": "1",
      "lane": "2",
      "seedStr": "00:33.92",
@@ -485764,7 +485836,36 @@ window.SWIM_DATA = {
      "points": 121
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל ג'מים אילת",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל ג'מים אילת",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "1",
+     "seedStr": "03:27.37 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|אריאל·יעקובוביץ": {
    "id": "2015|אריאל·יעקובוביץ",
@@ -488920,7 +489021,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:24",
+     "startTime": "08:53",
      "heat": "1",
      "lane": "2",
      "seedStr": "NT",
@@ -488934,7 +489035,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:27",
+     "startTime": "09:43",
      "heat": "1",
      "lane": "4",
      "seedStr": "01:25.63",
@@ -488948,7 +489049,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "11:17",
+     "startTime": "11:19",
      "heat": "1",
      "lane": "2",
      "seedStr": "03:14.01",
@@ -519494,7 +519595,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:16",
+     "startTime": "09:35",
      "heat": "1",
      "lane": "4",
      "seedStr": "00:39.90",
@@ -519508,7 +519609,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:42",
+     "startTime": "09:56",
      "heat": "1",
      "lane": "3",
      "seedStr": "06:08.29",
@@ -520856,7 +520957,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:29",
+     "startTime": "08:56",
      "heat": "1",
      "lane": "3",
      "seedStr": "01:25.48",
@@ -520870,7 +520971,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:04",
+     "startTime": "09:25",
      "heat": "2",
      "lane": "4",
      "seedStr": "01:20.26",
@@ -521999,7 +522100,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:21",
+     "startTime": "08:51",
      "heat": "2",
      "lane": "2",
      "seedStr": "01:01.07",
@@ -522013,7 +522114,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:06",
+     "startTime": "10:17",
      "heat": "2",
      "lane": "1",
      "seedStr": "01:22.79",
@@ -522027,7 +522128,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "11:09",
+     "startTime": "11:12",
      "heat": "2",
      "lane": "5",
      "seedStr": "03:04.49",
@@ -523026,7 +523127,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:20",
+     "startTime": "08:50",
      "heat": "1",
      "lane": "2",
      "seedStr": "NT",
@@ -523040,7 +523141,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:03",
+     "startTime": "10:15",
      "heat": "1",
      "lane": "3",
      "seedStr": "01:24.77",
@@ -523054,7 +523155,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "11:05",
+     "startTime": "11:08",
      "heat": "1",
      "lane": "4",
      "seedStr": "03:10.55",
@@ -523626,7 +523727,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:22",
+     "startTime": "09:39",
      "heat": "1",
      "lane": "3",
      "seedStr": "01:43.80",
@@ -523640,7 +523741,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:03",
+     "startTime": "10:15",
      "heat": "1",
      "lane": "4",
      "seedStr": "01:25.35",
@@ -523654,7 +523755,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "11:09",
+     "startTime": "11:12",
      "heat": "2",
      "lane": "2",
      "seedStr": "03:00.26",
@@ -524887,7 +524988,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "08:31",
+     "startTime": "08:58",
      "heat": "2",
      "lane": "2",
      "seedStr": "01:23.56",
@@ -524901,7 +525002,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "09:25",
+     "startTime": "09:41",
      "heat": "2",
      "lane": "2",
      "seedStr": "01:35.20",
@@ -524915,9 +525016,9 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "10:47",
-     "heat": "2",
-     "lane": "2",
+     "startTime": "10:55",
+     "heat": "3",
+     "lane": "5",
      "seedStr": "00:30.37",
      "seedSeconds": 30.37
     }
@@ -526070,7 +526171,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:57",
+     "startTime": "09:20",
      "heat": "3",
      "lane": "4",
      "seedStr": "02:18.06",
@@ -526084,7 +526185,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:32",
+     "startTime": "09:47",
      "heat": "3",
      "lane": "4",
      "seedStr": "00:57.31",
@@ -526098,7 +526199,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:02",
+     "startTime": "10:14",
      "heat": "3",
      "lane": "5",
      "seedStr": "00:26.52",
@@ -537265,7 +537366,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "08:00",
+     "startTime": "08:30",
      "heat": "1",
      "lane": "4",
      "seedStr": "NT",
@@ -537279,7 +537380,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "09:38",
+     "startTime": "09:53",
      "heat": "1",
      "lane": "3",
      "seedStr": "02:06.50",
@@ -538020,7 +538121,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:57",
+     "startTime": "09:20",
      "heat": "3",
      "lane": "1",
      "seedStr": "02:33.04",
@@ -538034,7 +538135,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:30",
+     "startTime": "09:45",
      "heat": "2",
      "lane": "4",
      "seedStr": "01:09.67",
@@ -541677,7 +541778,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:36",
+     "startTime": "09:02",
      "heat": "1",
      "lane": "2",
      "seedStr": "01:15.52",
@@ -541691,7 +541792,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:49",
+     "startTime": "09:13",
      "heat": "1",
      "lane": "3",
      "seedStr": "02:50.78",
@@ -541705,7 +541806,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "11:21",
+     "startTime": "11:22",
      "heat": "2",
      "lane": "2",
      "seedStr": "02:34.29",
@@ -542485,7 +542586,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "08:53",
+     "startTime": "09:16",
      "heat": "2",
      "lane": "4",
      "seedStr": "02:46.34",
@@ -542499,7 +542600,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "10:11",
+     "startTime": "10:21",
      "heat": "2",
      "lane": "2",
      "seedStr": "01:11.48",
@@ -542513,7 +542614,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "11:21",
+     "startTime": "11:22",
      "heat": "2",
      "lane": "4",
      "seedStr": "02:33.70",
@@ -544416,7 +544517,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "10:13",
+     "startTime": "10:23",
      "heat": "3",
      "lane": "1",
      "seedStr": "01:02.99",
@@ -544430,7 +544531,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "11:25",
+     "startTime": "11:26",
      "heat": "3",
      "lane": "1",
      "seedStr": "02:32.53",
@@ -545456,7 +545557,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "08:24",
+     "startTime": "08:53",
      "heat": "1",
      "lane": "4",
      "seedStr": "00:44.48",
@@ -545470,7 +545571,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "09:49",
+     "startTime": "10:03",
      "heat": "1",
      "lane": "5",
      "seedStr": "05:44.00",
@@ -545484,7 +545585,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "10:39",
+     "startTime": "10:46",
      "heat": "1",
      "lane": "3",
      "seedStr": "05:47.07",
@@ -547184,7 +547285,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:27",
+     "startTime": "09:43",
      "heat": "1",
      "lane": "2",
      "seedStr": "01:52.22",
@@ -547198,7 +547299,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:08",
+     "startTime": "10:19",
      "heat": "1",
      "lane": "4",
      "seedStr": "01:16.13",
@@ -547212,7 +547313,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "11:17",
+     "startTime": "11:19",
      "heat": "1",
      "lane": "3",
      "seedStr": "02:49.10",
@@ -554094,7 +554195,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:20",
+     "startTime": "08:50",
      "heat": "1",
      "lane": "4",
      "seedStr": "NT",
@@ -554108,7 +554209,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:22",
+     "startTime": "09:39",
      "heat": "1",
      "lane": "2",
      "seedStr": "NT",
@@ -554122,7 +554223,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "11:05",
+     "startTime": "11:08",
      "heat": "1",
      "lane": "3",
      "seedStr": "03:07.40",
@@ -560509,7 +560610,36 @@ window.SWIM_DATA = {
      "points": 192
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל עומר",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "03:23.39 (25m)",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל עומר",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "3",
+     "seedStr": "03:07.22 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|בר·זאב·סהר": {
    "id": "2015|בר·זאב·סהר",
@@ -561307,7 +561437,36 @@ window.SWIM_DATA = {
      "points": 155
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|אברהם·יערה": {
    "id": "2015|אברהם·יערה",
@@ -564196,7 +564355,36 @@ window.SWIM_DATA = {
      "points": 218
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "3",
+     "seedStr": "01:31.53",
+     "seedSeconds": 91.53
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "5",
+     "seedStr": "02:51.83 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|אל-חי·שרעבי": {
    "id": "2014|אל-חי·שרעבי",
@@ -564662,7 +564850,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "5",
+     "seedStr": "01:48.19",
+     "seedSeconds": 108.19
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "12",
+     "lane": "1",
+     "seedStr": "03:00.27 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2011|אורי·יהונתן·עטר": {
    "id": "2011|אורי·יהונתן·עטר",
@@ -567994,7 +568211,36 @@ window.SWIM_DATA = {
      "points": 282
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "02:58.89 (25m)",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "3",
+     "seedStr": "02:39.84 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|זזון·יובל": {
    "id": "2015|זזון·יובל",
@@ -568629,7 +568875,36 @@ window.SWIM_DATA = {
      "points": 216
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל עומר",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל עומר",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|לי·רומם": {
    "id": "2014|לי·רומם",
@@ -570097,7 +570372,36 @@ window.SWIM_DATA = {
      "points": 239
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "01:37.32",
+     "seedSeconds": 97.32
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "4",
+     "seedStr": "03:12.76 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|גרץ·נטע": {
    "id": "2013|גרץ·נטע",
@@ -571818,7 +572122,36 @@ window.SWIM_DATA = {
      "points": 283
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל עומר",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "2",
+     "seedStr": "01:15.40",
+     "seedSeconds": 75.4
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל עומר",
+     "startTime": "00:00",
+     "heat": "14",
+     "lane": "5",
+     "seedStr": "02:40.46 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|אנדי·בוכריס·רויאן": {
    "id": "2013|אנדי·בוכריס·רויאן",
@@ -573671,7 +574004,36 @@ window.SWIM_DATA = {
      "points": 294
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל ג'מים אילת",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל ג'מים אילת",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "1",
+     "seedStr": "03:45.22 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|ארנולד·תום": {
    "id": "2013|ארנולד·תום",
@@ -574653,7 +575015,36 @@ window.SWIM_DATA = {
      "points": 202
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "2",
+     "seedStr": "01:33.33",
+     "seedSeconds": 93.33
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "14",
+     "lane": "4",
+     "seedStr": "02:33.76 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|ארי·טודרוס": {
    "id": "2015|ארי·טודרוס",
@@ -575184,7 +575575,36 @@ window.SWIM_DATA = {
      "points": 222
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל עומר",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "3",
+     "seedStr": "01:24.41",
+     "seedSeconds": 84.41
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל עומר",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|איתן·שנקולבסקי": {
    "id": "2014|איתן·שנקולבסקי",
@@ -575598,7 +576018,36 @@ window.SWIM_DATA = {
      "points": 62
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "3",
+     "seedStr": "03:15.46 (25m)",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "10",
+     "lane": "1",
+     "seedStr": "03:14.83 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|כהן·תומר": {
    "id": "2013|כהן·תומר",
@@ -575843,7 +576292,36 @@ window.SWIM_DATA = {
      "points": 146
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל ג'מים אילת",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "4",
+     "seedStr": "00:35.83",
+     "seedSeconds": 35.83
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל ג'מים אילת",
+     "startTime": "00:00",
+     "heat": "10",
+     "lane": "5",
+     "seedStr": "03:10.86 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|אסף·שדה": {
    "id": "2013|אסף·שדה",
@@ -576205,7 +576683,36 @@ window.SWIM_DATA = {
      "points": 87
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "3",
+     "seedStr": "03:49.71 (25m)",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "10",
+     "lane": "6",
+     "seedStr": "03:15.14 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|אגם·אדרעי": {
    "id": "2014|אגם·אדרעי",
@@ -576925,7 +577432,36 @@ window.SWIM_DATA = {
      "points": 107
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|אדרעי·פלג": {
    "id": "2015|אדרעי·פלג",
@@ -577363,7 +577899,36 @@ window.SWIM_DATA = {
      "points": 109
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל עומר",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל עומר",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|אדרי·איתי": {
    "id": "2015|אדרי·איתי",
@@ -578103,7 +578668,64 @@ window.SWIM_DATA = {
      "points": 128
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:47",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "01:35.28",
+     "seedSeconds": 95.28
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "16:12",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל עומר",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל עומר",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|אבן·אחמד·ברי": {
    "id": "2014|אבן·אחמד·ברי",
@@ -578801,7 +579423,36 @@ window.SWIM_DATA = {
      "points": 194
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל עומר",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "6",
+     "seedStr": "01:28.64",
+     "seedSeconds": 88.64
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל עומר",
+     "startTime": "00:00",
+     "heat": "11",
+     "lane": "3",
+     "seedStr": "03:05.50 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2012|אל·עבד·קיעאן·רחמאן": {
    "id": "2012|אל·עבד·קיעאן·רחמאן",
@@ -580409,7 +581060,36 @@ window.SWIM_DATA = {
      "points": 369
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "01:21.56",
+     "seedSeconds": 81.56
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "2",
+     "seedStr": "02:56.04 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2012|טודורוס·מתן": {
    "id": "2012|טודורוס·מתן",
@@ -581471,7 +582151,36 @@ window.SWIM_DATA = {
      "points": 115
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "6",
+     "seedStr": "01:53.92",
+     "seedSeconds": 113.92
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "1",
+     "seedStr": "03:22.66 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|בן·נתן·רותם": {
    "id": "2013|בן·נתן·רותם",
@@ -582518,7 +583227,36 @@ window.SWIM_DATA = {
      "points": 155
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל עומר",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "02:11.35",
+     "seedSeconds": 131.35
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל עומר",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|פריימן·שקד": {
    "id": "2014|פריימן·שקד",
@@ -583825,7 +584563,36 @@ window.SWIM_DATA = {
      "points": 85
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|אסיף·ארנון": {
    "id": "2015|אסיף·ארנון",
@@ -641143,7 +641910,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:34",
+     "startTime": "09:00",
      "heat": "3",
      "lane": "3",
      "seedStr": "01:03.46",
@@ -641157,7 +641924,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:18",
+     "startTime": "09:36",
      "heat": "2",
      "lane": "3",
      "seedStr": "00:29.42",
@@ -641171,7 +641938,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "11:13",
+     "startTime": "11:15",
      "heat": "3",
      "lane": "3",
      "seedStr": "02:16.17",
@@ -647215,7 +647982,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:30",
+     "startTime": "09:45",
      "heat": "2",
      "lane": "3",
      "seedStr": "01:08.15",
@@ -647229,7 +647996,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:13",
+     "startTime": "10:23",
      "heat": "3",
      "lane": "3",
      "seedStr": "00:50.76",
@@ -684272,7 +685039,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי ראשון לציון SEALS",
-     "startTime": "10:28",
+     "startTime": "10:36",
      "heat": "3",
      "lane": "3",
      "seedStr": "02:12.83",
@@ -684286,7 +685053,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי ראשון לציון SEALS",
-     "startTime": "11:02",
+     "startTime": "11:06",
      "heat": "3",
      "lane": "3",
      "seedStr": "01:00.71",
@@ -691242,7 +692009,36 @@ window.SWIM_DATA = {
      "points": 462
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "13:12",
+     "heat": "9",
+     "lane": "3",
+     "seedStr": "00:31.42",
+     "seedSeconds": 31.42
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "15:57",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "03:02.70",
+     "seedSeconds": 182.7
+    }
+   ]
   },
   "2012|גורליק·ליאה": {
    "id": "2012|גורליק·ליאה",
@@ -694523,7 +695319,36 @@ window.SWIM_DATA = {
      "points": 257
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "13:12",
+     "heat": "9",
+     "lane": "4",
+     "seedStr": "00:32.04",
+     "seedSeconds": 32.04
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "15:57",
+     "heat": "4",
+     "lane": "5",
+     "seedStr": "03:14.29",
+     "seedSeconds": 194.29
+    }
+   ]
   },
   "2013|אודל·בנממן": {
    "id": "2013|אודל·בנממן",
@@ -697659,7 +698484,36 @@ window.SWIM_DATA = {
      "points": 212
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:39",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "01:46.82",
+     "seedSeconds": 106.82
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:57",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "03:11.19",
+     "seedSeconds": 191.19
+    }
+   ]
   },
   "2014|אקופין·אריאל": {
    "id": "2014|אקופין·אריאל",
@@ -701543,7 +702397,36 @@ window.SWIM_DATA = {
      "points": 331
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "14:17",
+     "heat": "6",
+     "lane": "5",
+     "seedStr": "02:53.04",
+     "seedSeconds": 173.04
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:57",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "03:06.80",
+     "seedSeconds": 186.8
+    }
+   ]
   },
   "2015|ליה·תמים": {
    "id": "2015|ליה·תמים",
@@ -701855,7 +702738,36 @@ window.SWIM_DATA = {
      "points": 206
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "6",
+     "seedStr": "03:04.76 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|איינהורן·שיר": {
    "id": "2015|איינהורן·שיר",
@@ -702607,7 +703519,36 @@ window.SWIM_DATA = {
      "points": 361
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "14:17",
+     "heat": "6",
+     "lane": "2",
+     "seedStr": "02:51.70",
+     "seedSeconds": 171.7
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:19",
+     "heat": "6",
+     "lane": "6",
+     "seedStr": "01:27.23",
+     "seedSeconds": 87.23
+    }
+   ]
   },
   "2014|מירה·פרבר": {
    "id": "2014|מירה·פרבר",
@@ -703229,7 +704170,36 @@ window.SWIM_DATA = {
      "points": 308
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:37",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "14:17",
+     "heat": "6",
+     "lane": "1",
+     "seedStr": "02:53.82",
+     "seedSeconds": 173.82
+    }
+   ]
   },
   "2015|דוריה·הלפרין": {
    "id": "2015|דוריה·הלפרין",
@@ -703981,7 +704951,36 @@ window.SWIM_DATA = {
      "points": 299
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:39",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "01:33.13",
+     "seedSeconds": 93.13
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:52",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "03:50.06",
+     "seedSeconds": 230.06
+    }
+   ]
   },
   "2015|בן·דוב·ליה": {
    "id": "2015|בן·דוב·ליה",
@@ -704642,7 +705641,36 @@ window.SWIM_DATA = {
      "points": 135
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:10",
+     "heat": "8",
+     "lane": "1",
+     "seedStr": "00:39.38",
+     "seedSeconds": 39.38
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "14:12",
+     "heat": "5",
+     "lane": "4",
+     "seedStr": "03:07.96",
+     "seedSeconds": 187.96
+    }
+   ]
   },
   "2014|בלה·ספייב": {
    "id": "2014|בלה·ספייב",
@@ -705186,7 +706214,36 @@ window.SWIM_DATA = {
      "points": 186
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "13:10",
+     "heat": "8",
+     "lane": "6",
+     "seedStr": "00:39.95",
+     "seedSeconds": 39.95
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "14:07",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "03:33.03",
+     "seedSeconds": 213.03
+    }
+   ]
   },
   "2014|זליצ'ונוק·ניקה": {
    "id": "2014|זליצ'ונוק·ניקה",
@@ -705821,7 +706878,36 @@ window.SWIM_DATA = {
      "points": 401
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:19",
+     "heat": "6",
+     "lane": "4",
+     "seedStr": "01:23.16",
+     "seedSeconds": 83.16
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:57",
+     "heat": "4",
+     "lane": "6",
+     "seedStr": "03:28.92",
+     "seedSeconds": 208.92
+    }
+   ]
   },
   "2015|זוהר·נוגה": {
    "id": "2015|זוהר·נוגה",
@@ -706573,7 +707659,36 @@ window.SWIM_DATA = {
      "points": 196
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "14:12",
+     "heat": "5",
+     "lane": "1",
+     "seedStr": "03:29.51",
+     "seedSeconds": 209.51
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:17",
+     "heat": "5",
+     "lane": "3",
+     "seedStr": "01:28.38",
+     "seedSeconds": 88.38
+    }
+   ]
   },
   "2013|מטילדה·פרבר": {
    "id": "2013|מטילדה·פרבר",
@@ -707104,7 +708219,36 @@ window.SWIM_DATA = {
      "points": 337
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:12",
+     "heat": "9",
+     "lane": "2",
+     "seedStr": "00:32.75",
+     "seedSeconds": 32.75
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "15:19",
+     "heat": "6",
+     "lane": "5",
+     "seedStr": "01:23.65",
+     "seedSeconds": 83.65
+    }
+   ]
   },
   "2012|אמה·קצ'לוב": {
    "id": "2012|אמה·קצ'לוב",
@@ -712056,7 +713200,22 @@ window.SWIM_DATA = {
      "points": 388
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "14:57",
+     "heat": "8",
+     "lane": "4",
+     "seedStr": "02:41.33",
+     "seedSeconds": 161.33
+    }
+   ]
   },
   "2011|עזרא·רון": {
    "id": "2011|עזרא·רון",
@@ -715363,7 +716522,22 @@ window.SWIM_DATA = {
      "points": 449
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "15:02",
+     "heat": "9",
+     "lane": "3",
+     "seedStr": "02:17.69",
+     "seedSeconds": 137.69
+    }
+   ]
   },
   "2011|יותם·רייזנר": {
    "id": "2011|יותם·רייזנר",
@@ -719565,7 +720739,22 @@ window.SWIM_DATA = {
      "points": 326
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:49",
+     "heat": "4",
+     "lane": "6",
+     "seedStr": "01:21.21",
+     "seedSeconds": 81.21
+    }
+   ]
   },
   "2012|אזרזר·יהלי": {
    "id": "2012|אזרזר·יהלי",
@@ -722119,7 +723308,22 @@ window.SWIM_DATA = {
      "points": 259
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "13:33",
+     "heat": "14",
+     "lane": "1",
+     "seedStr": "00:31.19",
+     "seedSeconds": 31.19
+    }
+   ]
   },
   "2015|מארק·נדאף": {
    "id": "2015|מארק·נדאף",
@@ -722624,7 +723828,36 @@ window.SWIM_DATA = {
      "points": 298
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "13:31",
+     "heat": "13",
+     "lane": "3",
+     "seedStr": "00:32.04",
+     "seedSeconds": 32.04
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "16:32",
+     "heat": "7",
+     "lane": "4",
+     "seedStr": "02:47.82",
+     "seedSeconds": 167.82
+    }
+   ]
   },
   "2014|יונתן·מיקוליצקי": {
    "id": "2014|יונתן·מיקוליצקי",
@@ -724207,7 +725440,36 @@ window.SWIM_DATA = {
      "points": 229
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:49",
+     "heat": "4",
+     "lane": "5",
+     "seedStr": "01:18.53",
+     "seedSeconds": 78.53
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "16:32",
+     "heat": "7",
+     "lane": "3",
+     "seedStr": "02:47.76",
+     "seedSeconds": 167.76
+    }
+   ]
   },
   "2012|גרובמן·יניב": {
    "id": "2012|גרובמן·יניב",
@@ -725568,7 +726830,36 @@ window.SWIM_DATA = {
      "points": 302
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:49",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "01:19.79",
+     "seedSeconds": 79.79
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "16:32",
+     "heat": "7",
+     "lane": "1",
+     "seedStr": "02:51.74",
+     "seedSeconds": 171.74
+    }
+   ]
   },
   "2014|אברמוביץ·אלון": {
    "id": "2014|אברמוביץ·אלון",
@@ -727838,7 +729129,36 @@ window.SWIM_DATA = {
      "points": 289
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:39",
+     "heat": "8",
+     "lane": "3",
+     "seedStr": "01:16.16",
+     "seedSeconds": 76.16
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "16:32",
+     "heat": "7",
+     "lane": "5",
+     "seedStr": "02:50.69",
+     "seedSeconds": 170.69
+    }
+   ]
   },
   "2014|גור·עמית": {
    "id": "2014|גור·עמית",
@@ -730689,7 +732009,36 @@ window.SWIM_DATA = {
      "points": 247
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "14:37",
+     "heat": "4",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "16:27",
+     "heat": "6",
+     "lane": "5",
+     "seedStr": "03:05.44",
+     "seedSeconds": 185.44
+    }
+   ]
   },
   "2013|דר·ז'יחרב": {
    "id": "2013|דר·ז'יחרב",
@@ -731350,7 +732699,36 @@ window.SWIM_DATA = {
      "points": 265
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "14:47",
+     "heat": "6",
+     "lane": "3",
+     "seedStr": "03:00.09",
+     "seedSeconds": 180.09
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "16:22",
+     "heat": "5",
+     "lane": "5",
+     "seedStr": "03:15.40",
+     "seedSeconds": 195.4
+    }
+   ]
   },
   "2011|וינוגרדסקי·מתן": {
    "id": "2011|וינוגרדסקי·מתן",
@@ -732452,7 +733830,36 @@ window.SWIM_DATA = {
      "points": 200
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:39",
+     "heat": "8",
+     "lane": "1",
+     "seedStr": "01:22.02",
+     "seedSeconds": 82.02
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "16:27",
+     "heat": "6",
+     "lane": "6",
+     "seedStr": "03:09.01",
+     "seedSeconds": 189.01
+    }
+   ]
   },
   "2014|ינאי·סופר": {
    "id": "2014|ינאי·סופר",
@@ -733243,7 +734650,36 @@ window.SWIM_DATA = {
      "points": 339
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:49",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "01:15.31",
+     "seedSeconds": 75.31
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "16:27",
+     "heat": "6",
+     "lane": "2",
+     "seedStr": "03:02.61",
+     "seedSeconds": 182.61
+    }
+   ]
   },
   "2014|עידן·קודינוב": {
    "id": "2014|עידן·קודינוב",
@@ -733956,7 +735392,36 @@ window.SWIM_DATA = {
      "points": 249
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "14:47",
+     "heat": "6",
+     "lane": "4",
+     "seedStr": "03:01.34",
+     "seedSeconds": 181.34
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "16:22",
+     "heat": "5",
+     "lane": "6",
+     "seedStr": "03:22.26",
+     "seedSeconds": 202.26
+    }
+   ]
   },
   "2011|נועם·ראובן": {
    "id": "2011|נועם·ראובן",
@@ -735071,7 +736536,36 @@ window.SWIM_DATA = {
      "points": 325
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:02",
+     "heat": "9",
+     "lane": "6",
+     "seedStr": "02:33.66",
+     "seedSeconds": 153.66
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "16:12",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|בשן·רוי": {
    "id": "2015|בשן·רוי",
@@ -735693,7 +737187,36 @@ window.SWIM_DATA = {
      "points": 211
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:30",
+     "heat": "12",
+     "lane": "2",
+     "seedStr": "00:34.46",
+     "seedSeconds": 34.46
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:37",
+     "heat": "7",
+     "lane": "3",
+     "seedStr": "01:32.46",
+     "seedSeconds": 92.46
+    }
+   ]
   },
   "2014|אביתר·ברק": {
    "id": "2014|אביתר·ברק",
@@ -736432,7 +737955,36 @@ window.SWIM_DATA = {
      "points": 195
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "14:57",
+     "heat": "8",
+     "lane": "2",
+     "seedStr": "02:42.75",
+     "seedSeconds": 162.75
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "16:22",
+     "heat": "5",
+     "lane": "2",
+     "seedStr": "03:12.04",
+     "seedSeconds": 192.04
+    }
+   ]
   },
   "2015|אלון·כהן·רועי": {
    "id": "2015|אלון·כהן·רועי",
@@ -737054,7 +738606,36 @@ window.SWIM_DATA = {
      "points": 245
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:33",
+     "heat": "14",
+     "lane": "4",
+     "seedStr": "00:30.23",
+     "seedSeconds": 30.23
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:02",
+     "heat": "9",
+     "lane": "4",
+     "seedStr": "02:26.41",
+     "seedSeconds": 146.41
+    }
+   ]
   },
   "2013|גיא·קמחין": {
    "id": "2013|גיא·קמחין",
@@ -737804,7 +739385,36 @@ window.SWIM_DATA = {
      "points": 211
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "14:52",
+     "heat": "7",
+     "lane": "1",
+     "seedStr": "02:54.02",
+     "seedSeconds": 174.02
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "16:12",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "03:38.60",
+     "seedSeconds": 218.6
+    }
+   ]
   },
   "2015|ירין·נפלאי": {
    "id": "2015|ירין·נפלאי",
@@ -738414,7 +740024,36 @@ window.SWIM_DATA = {
      "points": 161
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "13:30",
+     "heat": "12",
+     "lane": "1",
+     "seedStr": "00:35.84",
+     "seedSeconds": 35.84
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "14:52",
+     "heat": "7",
+     "lane": "3",
+     "seedStr": "02:46.16",
+     "seedSeconds": 166.16
+    }
+   ]
   },
   "2013|יונתן·קנטורוביץ": {
    "id": "2013|יונתן·קנטורוביץ",
@@ -739500,7 +741139,36 @@ window.SWIM_DATA = {
      "points": 147
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:47",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "01:34.99",
+     "seedSeconds": 94.99
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "16:17",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "03:29.32",
+     "seedSeconds": 209.32
+    }
+   ]
   },
   "2015|סופר·עומר": {
    "id": "2015|סופר·עומר",
@@ -740122,7 +741790,36 @@ window.SWIM_DATA = {
      "points": 175
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:44",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "01:45.34",
+     "seedSeconds": 105.34
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "16:17",
+     "heat": "4",
+     "lane": "5",
+     "seedStr": "03:29.46",
+     "seedSeconds": 209.46
+    }
+   ]
   },
   "2013|אלעד·נדב·צרטנר": {
    "id": "2013|אלעד·נדב·צרטנר",
@@ -740589,7 +742286,36 @@ window.SWIM_DATA = {
      "points": 248
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "14:57",
+     "heat": "8",
+     "lane": "5",
+     "seedStr": "02:44.78",
+     "seedSeconds": 164.78
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "16:22",
+     "heat": "5",
+     "lane": "4",
+     "seedStr": "03:11.43",
+     "seedSeconds": 191.43
+    }
+   ]
   },
   "2015|ארגז·טנטלר·יהל": {
    "id": "2015|ארגז·טנטלר·יהל",
@@ -741224,7 +742950,36 @@ window.SWIM_DATA = {
      "points": 138
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:44",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "01:37.76",
+     "seedSeconds": 97.76
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "16:17",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "03:24.20",
+     "seedSeconds": 204.2
+    }
+   ]
   },
   "2015|קאושנסקי·רוני": {
    "id": "2015|קאושנסקי·רוני",
@@ -741885,7 +743640,36 @@ window.SWIM_DATA = {
      "points": 201
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "14:52",
+     "heat": "7",
+     "lane": "6",
+     "seedStr": "02:54.23",
+     "seedSeconds": 174.23
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:39",
+     "heat": "8",
+     "lane": "6",
+     "seedStr": "01:27.70",
+     "seedSeconds": 87.7
+    }
+   ]
   },
   "2012|אריה·רוטנברג": {
    "id": "2012|אריה·רוטנברג",
@@ -742622,7 +744406,36 @@ window.SWIM_DATA = {
      "points": 146
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:30",
+     "heat": "12",
+     "lane": "6",
+     "seedStr": "00:36.25",
+     "seedSeconds": 36.25
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "14:52",
+     "heat": "7",
+     "lane": "5",
+     "seedStr": "02:46.89",
+     "seedSeconds": 166.89
+    }
+   ]
   },
   "2014|מולר·נתאנל": {
    "id": "2014|מולר·נתאנל",
@@ -743528,7 +745341,36 @@ window.SWIM_DATA = {
      "points": 110
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:34",
+     "heat": "6",
+     "lane": "3",
+     "seedStr": "01:39.83",
+     "seedSeconds": 99.83
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "16:17",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "03:35.36",
+     "seedSeconds": 215.36
+    }
+   ]
   },
   "2015|ברונפמן·מאור": {
    "id": "2015|ברונפמן·מאור",
@@ -756187,7 +758029,22 @@ window.SWIM_DATA = {
      "points": 262
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "13:33",
+     "heat": "14",
+     "lane": "5",
+     "seedStr": "00:31.09",
+     "seedSeconds": 31.09
+    }
+   ]
   },
   "2013|גלפרין·היילו": {
    "id": "2013|גלפרין·היילו",
@@ -756718,7 +758575,36 @@ window.SWIM_DATA = {
      "points": 308
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "13:49",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "01:14.36",
+     "seedSeconds": 74.36
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "16:32",
+     "heat": "7",
+     "lane": "6",
+     "seedStr": "02:51.90",
+     "seedSeconds": 171.9
+    }
+   ]
   },
   "2008|שיר·שמש": {
    "id": "2008|שיר·שמש",
@@ -759524,7 +761410,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:49",
+     "startTime": "09:13",
      "heat": "1",
      "lane": "4",
      "seedStr": "NT",
@@ -778322,7 +780208,36 @@ window.SWIM_DATA = {
      "points": 298
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "13:12",
+     "heat": "9",
+     "lane": "1",
+     "seedStr": "00:34.16",
+     "seedSeconds": 34.16
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "14:12",
+     "heat": "5",
+     "lane": "6",
+     "seedStr": "03:30.46",
+     "seedSeconds": 210.46
+    }
+   ]
   },
   "2013|אנאל·ריצ'מן": {
    "id": "2013|אנאל·ריצ'מן",
@@ -779057,7 +780972,36 @@ window.SWIM_DATA = {
      "points": 227
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "13:10",
+     "heat": "8",
+     "lane": "4",
+     "seedStr": "00:37.16",
+     "seedSeconds": 37.16
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "14:02",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|אריאדני·בוטון·רוז·שמריה": {
    "id": "2015|אריאדני·בוטון·רוז·שמריה",
@@ -779692,7 +781636,36 @@ window.SWIM_DATA = {
      "points": 316
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:39",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "01:39.52",
+     "seedSeconds": 99.52
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "15:57",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "03:19.05",
+     "seedSeconds": 199.05
+    }
+   ]
   },
   "2013|רביע·רונה": {
    "id": "2013|רביע·רונה",
@@ -780572,7 +782545,36 @@ window.SWIM_DATA = {
      "points": 297
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:12",
+     "heat": "9",
+     "lane": "6",
+     "seedStr": "00:34.55",
+     "seedSeconds": 34.55
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "14:17",
+     "heat": "6",
+     "lane": "4",
+     "seedStr": "02:50.99",
+     "seedSeconds": 170.99
+    }
+   ]
   },
   "2013|מיה·נובוטני": {
    "id": "2013|מיה·נובוטני",
@@ -781425,7 +783427,36 @@ window.SWIM_DATA = {
      "points": 180
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:10",
+     "heat": "8",
+     "lane": "2",
+     "seedStr": "00:38.07",
+     "seedSeconds": 38.07
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:14",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "02:03.92",
+     "seedSeconds": 123.92
+    }
+   ]
   },
   "2014|אלבק·עמית": {
    "id": "2014|אלבק·עמית",
@@ -782329,7 +784360,36 @@ window.SWIM_DATA = {
      "points": 201
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:10",
+     "heat": "8",
+     "lane": "3",
+     "seedStr": "00:36.80",
+     "seedSeconds": 36.8
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "14:12",
+     "heat": "5",
+     "lane": "2",
+     "seedStr": "03:08.08",
+     "seedSeconds": 188.08
+    }
+   ]
   },
   "2015|אביגיל·פסמניק": {
    "id": "2015|אביגיל·פסמניק",
@@ -783430,7 +785490,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:09",
+     "heat": "7",
+     "lane": "5",
+     "seedStr": "00:43.90",
+     "seedSeconds": 43.9
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "14:02",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|הילה·יוסף·מור": {
    "id": "2013|הילה·יוסף·מור",
@@ -785497,7 +787586,36 @@ window.SWIM_DATA = {
      "points": 222
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "13:31",
+     "heat": "13",
+     "lane": "4",
+     "seedStr": "00:32.18",
+     "seedSeconds": 32.18
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "14:37",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "1991|אבנר·גורדון": {
    "id": "1991|אבנר·גורדון",
@@ -785974,7 +788092,22 @@ window.SWIM_DATA = {
      "points": 251
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "15:37",
+     "heat": "7",
+     "lane": "4",
+     "seedStr": "01:32.71",
+     "seedSeconds": 92.71
+    }
+   ]
   },
   "2014|בנימין·קלוקין": {
    "id": "2014|בנימין·קלוקין",
@@ -786555,7 +788688,22 @@ window.SWIM_DATA = {
      "points": 203
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "13:31",
+     "heat": "13",
+     "lane": "2",
+     "seedStr": "00:32.99",
+     "seedSeconds": 32.99
+    }
+   ]
   },
   "2014|ברנתן·יונה": {
    "id": "2014|ברנתן·יונה",
@@ -787255,7 +789403,36 @@ window.SWIM_DATA = {
      "points": 246
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "13:44",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "16:27",
+     "heat": "6",
+     "lane": "4",
+     "seedStr": "03:02.05",
+     "seedSeconds": 182.05
+    }
+   ]
   },
   "2014|דניאל·קיש": {
    "id": "2014|דניאל·קיש",
@@ -787734,7 +789911,36 @@ window.SWIM_DATA = {
      "points": 212
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:47",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "01:34.00",
+     "seedSeconds": 94.0
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "16:17",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "03:22.43",
+     "seedSeconds": 202.43
+    }
+   ]
   },
   "2015|איתמר·רון-אל": {
    "id": "2015|איתמר·רון-אל",
@@ -788909,7 +791115,36 @@ window.SWIM_DATA = {
      "points": 246
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:33",
+     "heat": "14",
+     "lane": "6",
+     "seedStr": "00:31.88",
+     "seedSeconds": 31.88
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "14:57",
+     "heat": "8",
+     "lane": "6",
+     "seedStr": "02:46.06",
+     "seedSeconds": 166.06
+    }
+   ]
   },
   "2014|דניאל·לוי": {
    "id": "2014|דניאל·לוי",
@@ -789415,7 +791650,36 @@ window.SWIM_DATA = {
      "points": 253
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "13:31",
+     "heat": "13",
+     "lane": "1",
+     "seedStr": "00:33.13",
+     "seedSeconds": 33.13
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "16:27",
+     "heat": "6",
+     "lane": "1",
+     "seedStr": "03:06.78",
+     "seedSeconds": 186.78
+    }
+   ]
   },
   "2013|איתן·דוידסון": {
    "id": "2013|איתן·דוידסון",
@@ -789986,7 +792250,36 @@ window.SWIM_DATA = {
      "points": 170
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "13:47",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "01:22.86",
+     "seedSeconds": 82.86
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "16:27",
+     "heat": "6",
+     "lane": "3",
+     "seedStr": "02:57.66",
+     "seedSeconds": 177.66
+    }
+   ]
   },
   "2014|מטבייב·עידן": {
    "id": "2014|מטבייב·עידן",
@@ -790634,7 +792927,36 @@ window.SWIM_DATA = {
      "points": 291
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "15:02",
+     "heat": "9",
+     "lane": "1",
+     "seedStr": "02:32.97",
+     "seedSeconds": 152.97
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "16:22",
+     "heat": "5",
+     "lane": "3",
+     "seedStr": "03:10.08",
+     "seedSeconds": 190.08
+    }
+   ]
   },
   "2014|ארסני·סקריפניקוב": {
    "id": "2014|ארסני·סקריפניקוב",
@@ -791152,7 +793474,36 @@ window.SWIM_DATA = {
      "points": 304
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "13:33",
+     "heat": "14",
+     "lane": "3",
+     "seedStr": "00:29.86",
+     "seedSeconds": 29.86
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "16:12",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|שון·שנקמן": {
    "id": "2014|שון·שנקמן",
@@ -791785,7 +794136,36 @@ window.SWIM_DATA = {
      "points": 267
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "13:30",
+     "heat": "12",
+     "lane": "3",
+     "seedStr": "00:33.61",
+     "seedSeconds": 33.61
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "14:52",
+     "heat": "7",
+     "lane": "4",
+     "seedStr": "02:46.34",
+     "seedSeconds": 166.34
+    }
+   ]
   },
   "2014|דניאל·מגריבי": {
    "id": "2014|דניאל·מגריבי",
@@ -792251,7 +794631,36 @@ window.SWIM_DATA = {
      "points": 218
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "13:31",
+     "heat": "13",
+     "lane": "5",
+     "seedStr": "00:33.02",
+     "seedSeconds": 33.02
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "15:37",
+     "heat": "7",
+     "lane": "1",
+     "seedStr": "01:39.06",
+     "seedSeconds": 99.06
+    }
+   ]
   },
   "2012|ביידין·מרק": {
    "id": "2012|ביידין·מרק",
@@ -792793,7 +795202,36 @@ window.SWIM_DATA = {
      "points": 212
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:27",
+     "heat": "10",
+     "lane": "5",
+     "seedStr": "00:39.57",
+     "seedSeconds": 39.57
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:44",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "01:39.17",
+     "seedSeconds": 99.17
+    }
+   ]
   },
   "2013|גבריאל·פריסט": {
    "id": "2013|גבריאל·פריסט",
@@ -793552,7 +795990,36 @@ window.SWIM_DATA = {
      "points": 118
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "14:47",
+     "heat": "6",
+     "lane": "5",
+     "seedStr": "03:07.52",
+     "seedSeconds": 187.52
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "16:12",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|לביא·לוגסי": {
    "id": "2015|לביא·לוגסי",
@@ -794135,7 +796602,36 @@ window.SWIM_DATA = {
      "points": 98
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "14:42",
+     "heat": "5",
+     "lane": "3",
+     "seedStr": "03:29.00",
+     "seedSeconds": 209.0
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:34",
+     "heat": "6",
+     "lane": "6",
+     "seedStr": "01:51.42",
+     "seedSeconds": 111.42
+    }
+   ]
   },
   "2015|גרין·יובל": {
    "id": "2015|גרין·יובל",
@@ -795532,7 +798028,36 @@ window.SWIM_DATA = {
      "points": 171
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:47",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "01:30.52",
+     "seedSeconds": 90.52
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "16:22",
+     "heat": "5",
+     "lane": "1",
+     "seedStr": "03:18.84",
+     "seedSeconds": 198.84
+    }
+   ]
   },
   "2015|דין·דרזנר": {
    "id": "2015|דין·דרזנר",
@@ -796050,7 +798575,36 @@ window.SWIM_DATA = {
      "points": 191
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:47",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "01:28.91",
+     "seedSeconds": 88.91
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "16:17",
+     "heat": "4",
+     "lane": "6",
+     "seedStr": "03:35.43",
+     "seedSeconds": 215.43
+    }
+   ]
   },
   "2015|חפץ·שקד": {
    "id": "2015|חפץ·שקד",
@@ -796503,7 +799057,36 @@ window.SWIM_DATA = {
      "points": 81
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:24",
+     "heat": "8",
+     "lane": "6",
+     "seedStr": "00:43.75",
+     "seedSeconds": 43.75
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:32",
+     "heat": "5",
+     "lane": "3",
+     "seedStr": "01:54.09",
+     "seedSeconds": 114.09
+    }
+   ]
   },
   "2015|קרנגל·שי": {
    "id": "2015|קרנגל·שי",
@@ -798354,7 +800937,36 @@ window.SWIM_DATA = {
      "points": 105
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "13:25",
+     "heat": "9",
+     "lane": "6",
+     "seedStr": "00:42.09",
+     "seedSeconds": 42.09
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "14:42",
+     "heat": "5",
+     "lane": "4",
+     "seedStr": "03:31.30",
+     "seedSeconds": 211.3
+    }
+   ]
   },
   "2014|קורשונוב·קיריל": {
    "id": "2014|קורשונוב·קיריל",
@@ -799063,7 +801675,36 @@ window.SWIM_DATA = {
      "points": 165
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "14:47",
+     "heat": "6",
+     "lane": "2",
+     "seedStr": "03:05.13",
+     "seedSeconds": 185.13
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "15:37",
+     "heat": "7",
+     "lane": "6",
+     "seedStr": "01:39.36",
+     "seedSeconds": 99.36
+    }
+   ]
   },
   "2014|בכר·דור": {
    "id": "2014|בכר·דור",
@@ -799686,7 +802327,36 @@ window.SWIM_DATA = {
      "points": 331
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "14:57",
+     "heat": "8",
+     "lane": "3",
+     "seedStr": "02:40.83",
+     "seedSeconds": 160.83
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:39",
+     "heat": "8",
+     "lane": "4",
+     "seedStr": "01:18.90",
+     "seedSeconds": 78.9
+    }
+   ]
   },
   "1991|נוי·סגל": {
    "id": "1991|נוי·סגל",
@@ -921001,7 +923671,22 @@ window.SWIM_DATA = {
      "points": 174
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:09",
+     "heat": "7",
+     "lane": "3",
+     "seedStr": "00:40.87",
+     "seedSeconds": 40.87
+    }
+   ]
   },
   "2012|אסולין·גאיה": {
    "id": "2012|אסולין·גאיה",
@@ -974432,7 +977117,36 @@ window.SWIM_DATA = {
      "points": 267
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 15999,
+     "event": "100 חופשי",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "ע.ל.ה עצמה רעננה",
+     "startTime": "10:22",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "01:18.62",
+     "seedSeconds": 78.62
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 15999,
+     "event": "50 גב",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "ע.ל.ה עצמה רעננה",
+     "startTime": "10:42",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "00:35.94",
+     "seedSeconds": 35.94
+    }
+   ]
   },
   "2010|אליסה·גורודצקי": {
    "id": "2010|אליסה·גורודצקי",
@@ -975250,7 +977964,22 @@ window.SWIM_DATA = {
      "points": 441
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "15:19",
+     "heat": "6",
+     "lane": "3",
+     "seedStr": "01:13.23",
+     "seedSeconds": 73.23
+    }
+   ]
   },
   "2012|קולודנר·תיאה": {
    "id": "2012|קולודנר·תיאה",
@@ -976638,7 +979367,36 @@ window.SWIM_DATA = {
      "points": 305
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:39",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "01:24.55",
+     "seedSeconds": 84.55
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "14:17",
+     "heat": "6",
+     "lane": "3",
+     "seedStr": "02:29.40",
+     "seedSeconds": 149.4
+    }
+   ]
   },
   "2012|בליאק·רומי": {
    "id": "2012|בליאק·רומי",
@@ -980659,7 +983417,36 @@ window.SWIM_DATA = {
      "points": 197
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:37",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "01:54.75",
+     "seedSeconds": 114.75
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "14:12",
+     "heat": "5",
+     "lane": "5",
+     "seedStr": "03:16.29",
+     "seedSeconds": 196.29
+    }
+   ]
   },
   "2011|ארבל·נוגה": {
    "id": "2011|ארבל·נוגה",
@@ -1013368,7 +1016155,36 @@ window.SWIM_DATA = {
      "points": 191
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "14:32",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "15:29",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|מילאן·פקטה": {
    "id": "2013|מילאן·פקטה",
@@ -1107393,7 +1110209,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:27",
+     "startTime": "08:55",
      "heat": "3",
      "lane": "3",
      "seedStr": "00:28.92",
@@ -1107407,7 +1110223,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:20",
+     "startTime": "10:29",
      "heat": "1",
      "lane": "2",
      "seedStr": "NT",
@@ -1107421,7 +1110237,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "11:02",
+     "startTime": "11:06",
      "heat": "3",
      "lane": "2",
      "seedStr": "01:03.60",
@@ -1173962,7 +1176778,36 @@ window.SWIM_DATA = {
      "points": 311
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:19",
+     "heat": "6",
+     "lane": "2",
+     "seedStr": "01:23.27",
+     "seedSeconds": 83.27
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:47",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|אלונה·יעקבסון": {
    "id": "2014|אלונה·יעקבסון",
@@ -1181001,7 +1183846,36 @@ window.SWIM_DATA = {
      "points": 327
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:02",
+     "heat": "9",
+     "lane": "2",
+     "seedStr": "02:27.41",
+     "seedSeconds": 147.41
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "16:32",
+     "heat": "7",
+     "lane": "2",
+     "seedStr": "02:48.31",
+     "seedSeconds": 168.31
+    }
+   ]
   },
   "2015|איתן·שסטקוב": {
    "id": "2015|איתן·שסטקוב",
@@ -1214600,9 +1217474,9 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:35",
+     "startTime": "09:49",
      "heat": "1",
-     "lane": "3",
+     "lane": "4",
      "seedStr": "02:37.95",
      "seedSeconds": 157.95
     },
@@ -1214614,7 +1217488,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:16",
+     "startTime": "10:25",
      "heat": "1",
      "lane": "1",
      "seedStr": "NT",
@@ -1214628,7 +1217502,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:55",
+     "startTime": "11:00",
      "heat": "1",
      "lane": "2",
      "seedStr": "01:31.55",
@@ -1303885,7 +1306759,36 @@ window.SWIM_DATA = {
      "points": 307
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "4",
+     "seedStr": "01:15.15",
+     "seedSeconds": 75.15
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "15",
+     "lane": "4",
+     "seedStr": "02:22.76 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2012|עילאי·שופיקוב": {
    "id": "2012|עילאי·שופיקוב",
@@ -1307125,7 +1310028,36 @@ window.SWIM_DATA = {
      "points": 199
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "1",
+     "seedStr": "01:35.27",
+     "seedSeconds": 95.27
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "10",
+     "lane": "3",
+     "seedStr": "03:19.09 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|עלמה·קרופניק": {
    "id": "2013|עלמה·קרופניק",
@@ -1320952,7 +1323884,36 @@ window.SWIM_DATA = {
      "points": 256
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "5",
+     "seedStr": "01:19.14",
+     "seedSeconds": 79.14
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "6",
+     "seedStr": "02:55.68 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|וקולין·סטפן": {
    "id": "2013|וקולין·סטפן",
@@ -1335514,7 +1338475,36 @@ window.SWIM_DATA = {
      "points": 171
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "4",
+     "seedStr": "03:03.75 (25m)",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "14",
+     "lane": "1",
+     "seedStr": "02:41.12 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|אייר·שוייצר": {
    "id": "2013|אייר·שוייצר",
@@ -1335954,7 +1338944,36 @@ window.SWIM_DATA = {
      "points": 202
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "6",
+     "seedStr": "01:22.70",
+     "seedSeconds": 82.7
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "6",
+     "seedStr": "03:10.36 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|ברט·ניצן": {
    "id": "2013|ברט·ניצן",
@@ -1336394,7 +1339413,36 @@ window.SWIM_DATA = {
      "points": 203
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "3",
+     "seedStr": "03:03.52 (25m)",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "14",
+     "lane": "2",
+     "seedStr": "02:37.99 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|אייל·טאטור": {
    "id": "2014|אייל·טאטור",
@@ -1336808,7 +1339856,22 @@ window.SWIM_DATA = {
      "points": 94
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "2",
+     "seedStr": "03:20.18 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|טל·יהונתן": {
    "id": "2015|טל·יהונתן",
@@ -1337923,7 +1340986,36 @@ window.SWIM_DATA = {
      "points": 298
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "02:58.61 (25m)",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|אייב·איריס·מקליס": {
    "id": "2015|אייב·איריס·מקליס",
@@ -1340127,7 +1343219,36 @@ window.SWIM_DATA = {
      "points": 171
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "1",
+     "seedStr": "01:27.04",
+     "seedSeconds": 87.04
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "6",
+     "seedStr": "03:25.49 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|גנון·יהב": {
    "id": "2014|גנון·יהב",
@@ -1343457,7 +1346578,22 @@ window.SWIM_DATA = {
      "points": 218
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "2",
+     "seedStr": "03:17.18 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2012|רועי·שמרוט": {
    "id": "2012|רועי·שמרוט",
@@ -1343947,7 +1347083,36 @@ window.SWIM_DATA = {
      "points": 134
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "3",
+     "seedStr": "03:18.93 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|בן·פרכטמן": {
    "id": "2015|בן·פרכטמן",
@@ -1344387,7 +1347552,22 @@ window.SWIM_DATA = {
      "points": 130
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "11",
+     "lane": "5",
+     "seedStr": "03:09.96 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|אלין·בדראן": {
    "id": "2014|אלין·בדראן",
@@ -1345074,7 +1348254,36 @@ window.SWIM_DATA = {
      "points": 280
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "15:19",
+     "heat": "6",
+     "lane": "1",
+     "seedStr": "01:25.54",
+     "seedSeconds": 85.54
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "15:52",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "03:32.11",
+     "seedSeconds": 212.11
+    }
+   ]
   },
   "2015|בניסים·רוז·שרה": {
    "id": "2015|בניסים·רוז·שרה",
@@ -1345618,7 +1348827,36 @@ window.SWIM_DATA = {
      "points": 221
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "14:12",
+     "heat": "5",
+     "lane": "3",
+     "seedStr": "03:07.50",
+     "seedSeconds": 187.5
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "15:17",
+     "heat": "5",
+     "lane": "2",
+     "seedStr": "01:38.87",
+     "seedSeconds": 98.87
+    }
+   ]
   },
   "2014|אלקדר·עבד·שאם": {
    "id": "2014|אלקדר·עבד·שאם",
@@ -1441374,7 +1444612,36 @@ window.SWIM_DATA = {
      "points": 264
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:37",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:52",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "03:45.68",
+     "seedSeconds": 225.68
+    }
+   ]
   },
   "2014|מיה·מנחם": {
    "id": "2014|מיה·מנחם",
@@ -1441892,7 +1445159,36 @@ window.SWIM_DATA = {
      "points": 151
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:39",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "01:42.36",
+     "seedSeconds": 102.36
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:14",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "02:10.35",
+     "seedSeconds": 130.35
+    }
+   ]
   },
   "2014|אדווה·אלימלח": {
    "id": "2014|אדווה·אלימלח",
@@ -1442408,7 +1445704,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "14:02",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:52",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|דניאל·לופטינסקי": {
    "id": "2014|דניאל·לופטינסקי",
@@ -1444158,7 +1447483,22 @@ window.SWIM_DATA = {
      "points": 336
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "15",
+     "lane": "1",
+     "seedStr": "02:28.41 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|יונתן·קגן": {
    "id": "2014|יונתן·קגן",
@@ -1444871,7 +1448211,36 @@ window.SWIM_DATA = {
      "points": 219
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "1",
+     "seedStr": "02:52.63 (25m)",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "15",
+     "lane": "6",
+     "seedStr": "02:29.11 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|אוחיון·זיו·רפאל": {
    "id": "2014|אוחיון·זיו·רפאל",
@@ -1445571,7 +1448940,36 @@ window.SWIM_DATA = {
      "points": 242
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "2",
+     "seedStr": "02:51.20 (25m)",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "14",
+     "lane": "6",
+     "seedStr": "02:41.97 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|בוברוב·דניאל": {
    "id": "2014|בוברוב·דניאל",
@@ -1446165,7 +1449563,36 @@ window.SWIM_DATA = {
      "points": 116
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "11",
+     "lane": "6",
+     "seedStr": "03:16.00 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|אבישי·גיל·ליאו": {
    "id": "2015|אבישי·גיל·ליאו",
@@ -1447385,7 +1450812,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "01:36.47",
+     "seedSeconds": 96.47
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|אלכסנדרה·קובלנקו": {
    "id": "2015|אלכסנדרה·קובלנקו",
@@ -1447968,7 +1451424,36 @@ window.SWIM_DATA = {
      "points": 253
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "03:08.82 (25m)",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "5",
+     "seedStr": "02:56.11 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|ישעיהו·סילן": {
    "id": "2015|ישעיהו·סילן",
@@ -1448809,7 +1452294,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "01:44.45",
+     "seedSeconds": 104.45
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "12",
+     "lane": "6",
+     "seedStr": "03:03.88 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|ממיסטבלוב·מנואל·משה": {
    "id": "2014|ממיסטבלוב·מנואל·משה",
@@ -1449080,7 +1452594,36 @@ window.SWIM_DATA = {
      "points": 154
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "5",
+     "seedStr": "03:22.10 (25m)",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|אור·גל·זלויצקי": {
    "id": "2014|אור·גל·זלויצקי",
@@ -1450234,7 +1453777,36 @@ window.SWIM_DATA = {
      "points": 179
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "2",
+     "seedStr": "01:24.65",
+     "seedSeconds": 84.65
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "12",
+     "lane": "3",
+     "seedStr": "02:53.47 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|שני·שניידר": {
    "id": "2013|שני·שניידר",
@@ -1454740,7 +1458312,36 @@ window.SWIM_DATA = {
      "points": 232
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "3",
+     "seedStr": "02:41.52 (25m)",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "15",
+     "lane": "5",
+     "seedStr": "02:24.04 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|עאבד·פאדי": {
    "id": "2013|עאבד·פאדי",
@@ -1470814,7 +1474415,22 @@ window.SWIM_DATA = {
      "points": 145
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "10",
+     "lane": "2",
+     "seedStr": "03:01.81 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2012|איתן·שקל": {
    "id": "2012|איתן·שקל",
@@ -1471863,7 +1475479,36 @@ window.SWIM_DATA = {
      "points": 252
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "3",
+     "seedStr": "01:14.14",
+     "seedSeconds": 74.14
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "15",
+     "lane": "2",
+     "seedStr": "02:23.02 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|זדורוז'ני·ליאון": {
    "id": "2013|זדורוז'ני·ליאון",
@@ -1474916,7 +1478561,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "09:04",
+     "startTime": "09:25",
      "heat": "2",
      "lane": "2",
      "seedStr": "01:29.07",
@@ -1474930,7 +1478575,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "09:25",
+     "startTime": "09:41",
      "heat": "2",
      "lane": "4",
      "seedStr": "01:31.04",
@@ -1474944,7 +1478589,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "09:56",
+     "startTime": "10:10",
      "heat": "1",
      "lane": "2",
      "seedStr": "00:39.10",
@@ -1475612,7 +1479257,36 @@ window.SWIM_DATA = {
      "points": 381
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:49",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "01:11.66",
+     "seedSeconds": 71.66
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:02",
+     "heat": "9",
+     "lane": "5",
+     "seedStr": "02:27.79",
+     "seedSeconds": 147.79
+    }
+   ]
   },
   "2012|ירמי·פולונסקי": {
    "id": "2012|ירמי·פולונסקי",
@@ -1475944,7 +1479618,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "09:27",
+     "startTime": "09:43",
      "heat": "1",
      "lane": "3",
      "seedStr": "01:14.63",
@@ -1475958,7 +1479632,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "10:00",
+     "startTime": "10:13",
      "heat": "2",
      "lane": "2",
      "seedStr": "00:34.64",
@@ -1475972,7 +1479646,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "10:50",
+     "startTime": "10:57",
      "heat": "2",
      "lane": "2",
      "seedStr": "00:29.48",
@@ -1478518,7 +1482192,36 @@ window.SWIM_DATA = {
      "points": 209
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "4",
+     "seedStr": "02:48.05 (25m)",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "14",
+     "lane": "3",
+     "seedStr": "02:33.60 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|עמית·שרשוב": {
    "id": "2013|עמית·שרשוב",
@@ -1484898,7 +1488601,36 @@ window.SWIM_DATA = {
      "points": 363
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "1",
+     "seedStr": "01:19.15",
+     "seedSeconds": 79.15
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "15",
+     "lane": "3",
+     "seedStr": "02:13.10 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|בצלאלי·לירוי": {
    "id": "2013|בצלאלי·לירוי",
@@ -1486070,7 +1489802,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:21",
+     "startTime": "09:38",
      "heat": "2",
      "lane": "5",
      "seedStr": "00:37.05",
@@ -1486084,7 +1489816,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:49",
+     "startTime": "10:56",
      "heat": "1",
      "lane": "3",
      "seedStr": "00:31.57",
@@ -1487181,7 +1490913,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "08:36",
+     "startTime": "09:02",
      "heat": "1",
      "lane": "4",
      "seedStr": "01:13.87",
@@ -1487195,7 +1490927,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "09:19",
+     "startTime": "09:37",
      "heat": "1",
      "lane": "4",
      "seedStr": "NT",
@@ -1487209,7 +1490941,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "10:50",
+     "startTime": "10:57",
      "heat": "2",
      "lane": "1",
      "seedStr": "00:30.78",
@@ -1522474,7 +1526206,36 @@ window.SWIM_DATA = {
      "points": 143
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "6",
+     "seedStr": "03:46.87 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|איתן·עמר": {
    "id": "2015|איתן·עמר",
@@ -1524206,7 +1527967,36 @@ window.SWIM_DATA = {
      "points": 242
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "13:30",
+     "heat": "12",
+     "lane": "4",
+     "seedStr": "00:34.37",
+     "seedSeconds": 34.37
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "14:57",
+     "heat": "8",
+     "lane": "1",
+     "seedStr": "02:45.12",
+     "seedSeconds": 165.12
+    }
+   ]
   },
   "2015|דניאל·חוטולב": {
    "id": "2015|דניאל·חוטולב",
@@ -1526233,7 +1530023,36 @@ window.SWIM_DATA = {
      "points": 216
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "2",
+     "seedStr": "03:17.95 (25m)",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "12",
+     "lane": "2",
+     "seedStr": "02:56.96 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|אביטל·אריאל": {
    "id": "2015|אביטל·אריאל",
@@ -1528704,7 +1532523,36 @@ window.SWIM_DATA = {
      "points": 154
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "6",
+     "seedStr": "NT (25m)",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "NT (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|יובל·נוימן": {
    "id": "2014|יובל·נוימן",
@@ -1529780,7 +1533628,36 @@ window.SWIM_DATA = {
      "points": 215
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "4",
+     "seedStr": "01:33.29",
+     "seedSeconds": 93.29
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "12",
+     "lane": "5",
+     "seedStr": "02:57.12 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|בנדר·דוד": {
    "id": "2014|בנדר·דוד",
@@ -1530958,7 +1534835,36 @@ window.SWIM_DATA = {
      "points": 178
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "4",
+     "seedStr": "03:29.26 (25m)",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "11",
+     "lane": "2",
+     "seedStr": "03:08.00 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|יבסייב·נתנאל": {
    "id": "2014|יבסייב·נתנאל",
@@ -1533259,7 +1537165,22 @@ window.SWIM_DATA = {
      "points": 100
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "Eilat Swimming",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2008|גוט·רויטל": {
    "id": "2008|גוט·רויטל",
@@ -1540664,7 +1544585,36 @@ window.SWIM_DATA = {
      "points": 197
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "14:17",
+     "heat": "6",
+     "lane": "6",
+     "seedStr": "03:03.60",
+     "seedSeconds": 183.6
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:52",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|אמילי·שלמייב": {
    "id": "2014|אמילי·שלמייב",
@@ -1541397,7 +1545347,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "14:32",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:34",
+     "heat": "6",
+     "lane": "2",
+     "seedStr": "01:44.22",
+     "seedSeconds": 104.22
+    }
+   ]
   },
   "2015|אדם·לושקוב": {
    "id": "2015|אדם·לושקוב",
@@ -1542528,7 +1546507,22 @@ window.SWIM_DATA = {
      "points": 184
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:07",
+     "heat": "6",
+     "lane": "3",
+     "seedStr": "00:46.81",
+     "seedSeconds": 46.81
+    }
+   ]
   },
   "2012|אפלמן·דויקו·מיה": {
    "id": "2012|אפלמן·דויקו·מיה",
@@ -1544354,7 +1548348,36 @@ window.SWIM_DATA = {
      "points": 132
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "1",
+     "seedStr": "03:09.12 (25m)",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "13",
+     "lane": "4",
+     "seedStr": "02:49.72 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|מינדלין·תומר": {
    "id": "2013|מינדלין·תומר",
@@ -1545156,7 +1549179,36 @@ window.SWIM_DATA = {
      "points": 210
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "5",
+     "seedStr": "03:07.61 (25m)",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "13",
+     "lane": "3",
+     "seedStr": "02:44.09 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2011|איון·בלגולה": {
    "id": "2011|איון·בלגולה",
@@ -1546487,7 +1550539,36 @@ window.SWIM_DATA = {
      "points": 161
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "13",
+     "lane": "2",
+     "seedStr": "02:50.01 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|ניצן·פרידמן": {
    "id": "2014|ניצן·פרידמן",
@@ -1546914,7 +1550995,36 @@ window.SWIM_DATA = {
      "points": 76
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "6",
+     "seedStr": "03:49.07 (25m)",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "4",
+     "seedStr": "03:18.95 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|אופטובסקי·יפתח": {
    "id": "2014|אופטובסקי·יפתח",
@@ -1547211,7 +1551321,36 @@ window.SWIM_DATA = {
      "points": 117
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "6",
+     "seedStr": "03:23.06 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|עומר·שטייגמן": {
    "id": "2015|עומר·שטייגמן",
@@ -1547766,7 +1551905,36 @@ window.SWIM_DATA = {
      "points": 110
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "4",
+     "seedStr": "04:03.43 (25m)",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "3",
+     "seedStr": "04:01.60 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|יואב·סוריאס": {
    "id": "2014|יואב·סוריאס",
@@ -1548219,7 +1552387,36 @@ window.SWIM_DATA = {
      "points": 172
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "2",
+     "seedStr": "03:29.88 (25m)",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "12",
+     "lane": "4",
+     "seedStr": "02:56.07 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|מאיה·סומך": {
    "id": "2013|מאיה·סומך",
@@ -1548356,7 +1552553,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:32",
+     "startTime": "10:39",
      "heat": "1",
      "lane": "5",
      "seedStr": "NT",
@@ -1548370,9 +1552567,9 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:46",
-     "heat": "1",
-     "lane": "4",
+     "startTime": "10:54",
+     "heat": "2",
+     "lane": "2",
      "seedStr": "00:35.16",
      "seedSeconds": 35.16
     }
@@ -1549593,7 +1553790,36 @@ window.SWIM_DATA = {
      "points": 260
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל אילת",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "01:30.26",
+     "seedSeconds": 90.26
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל אילת",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "4",
+     "seedStr": "02:51.78 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|לין·רוסו": {
    "id": "2015|לין·רוסו",
@@ -1549992,7 +1554218,36 @@ window.SWIM_DATA = {
      "points": 135
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל אילת",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "02:05.72",
+     "seedSeconds": 125.72
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל אילת",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "04:14.40 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|בר·זאב·מיקה": {
    "id": "2015|בר·זאב·מיקה",
@@ -1550406,7 +1554661,36 @@ window.SWIM_DATA = {
      "points": 160
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "04:14.95 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|חיים·תמיר": {
    "id": "2015|חיים·תמיר",
@@ -1550703,7 +1554987,36 @@ window.SWIM_DATA = {
      "points": 100
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל אילת",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל אילת",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "1",
+     "seedStr": "03:38.24 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|זבריאנסקי·תמיר": {
    "id": "2015|זבריאנסקי·תמיר",
@@ -1551013,7 +1555326,36 @@ window.SWIM_DATA = {
      "points": 143
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל אילת",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "01:42.50",
+     "seedSeconds": 102.5
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל אילת",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|חנה·עוז": {
    "id": "2015|חנה·עוז",
@@ -1551518,7 +1555860,36 @@ window.SWIM_DATA = {
      "points": 162
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "5",
+     "seedStr": "01:34.45",
+     "seedSeconds": 94.45
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "13",
+     "lane": "5",
+     "seedStr": "02:50.26 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|זיו·רוזנברג": {
    "id": "2014|זיו·רוזנברג",
@@ -1552036,7 +1556407,36 @@ window.SWIM_DATA = {
      "points": 106
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "3",
+     "seedStr": "03:27.32 (25m)",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "2",
+     "seedStr": "03:31.88 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|איתי·גיל": {
    "id": "2014|איתי·גיל",
@@ -1552953,7 +1557353,36 @@ window.SWIM_DATA = {
      "points": 80
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "2",
+     "seedStr": "04:10.83 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|יונתן·מדבצקי": {
    "id": "2015|יונתן·מדבצקי",
@@ -1553329,7 +1557758,36 @@ window.SWIM_DATA = {
      "points": 203
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל עומר",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל עומר",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|נועם·סימטוב": {
    "id": "2015|נועם·סימטוב",
@@ -1553639,7 +1558097,36 @@ window.SWIM_DATA = {
      "points": 97
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "5",
+     "seedStr": "04:11.00 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|אסף·מאיר·פינטו": {
    "id": "2014|אסף·מאיר·פינטו",
@@ -1554320,7 +1558807,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|אלדר·ביברמן": {
    "id": "2014|אלדר·ביברמן",
@@ -1554592,7 +1559094,36 @@ window.SWIM_DATA = {
      "points": 275
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:33",
+     "heat": "14",
+     "lane": "2",
+     "seedStr": "00:30.59",
+     "seedSeconds": 30.59
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "14:52",
+     "heat": "7",
+     "lane": "2",
+     "seedStr": "02:46.75",
+     "seedSeconds": 166.75
+    }
+   ]
   },
   "2015|דניאל·סטריזיבר": {
    "id": "2015|דניאל·סטריזיבר",
@@ -1554874,7 +1559405,36 @@ window.SWIM_DATA = {
      "points": 126
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "9",
+     "lane": "5",
+     "seedStr": "03:20.50 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|מיכאל·פלבנוב": {
    "id": "2013|מיכאל·פלבנוב",
@@ -1561645,7 +1566205,36 @@ window.SWIM_DATA = {
      "points": 113
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "5",
+     "seedStr": "03:41.64 (25m)",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "11",
+     "lane": "4",
+     "seedStr": "03:06.69 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "1998|סטפני·רוזנטל": {
    "id": "1998|סטפני·רוזנטל",
@@ -1573298,7 +1577887,36 @@ window.SWIM_DATA = {
      "points": 120
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:34",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "15:47",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "1974|אלון·יצחק": {
    "id": "1974|אלון·יצחק",
@@ -1573723,7 +1578341,36 @@ window.SWIM_DATA = {
      "points": 166
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "13:44",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "01:47.62",
+     "seedSeconds": 107.62
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "16:02",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|סנדלר·עומר": {
    "id": "2016|סנדלר·עומר",
@@ -1574060,7 +1578707,36 @@ window.SWIM_DATA = {
      "points": 93
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "13:25",
+     "heat": "9",
+     "lane": "4",
+     "seedStr": "00:41.89",
+     "seedSeconds": 41.89
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "16:07",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|בנימיני·גיל": {
    "id": "2016|בנימיני·גיל",
@@ -1574420,7 +1579096,36 @@ window.SWIM_DATA = {
      "points": 91
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "14:27",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "15:29",
+     "heat": "4",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|מיה·פירוגובסקי": {
    "id": "2014|מיה·פירוגובסקי",
@@ -1583016,7 +1587721,36 @@ window.SWIM_DATA = {
      "points": 110
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל אילת",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "02:02.28",
+     "seedSeconds": 122.28
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל אילת",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "3",
+     "seedStr": "03:25.36 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|דריי·שיר": {
    "id": "2014|דריי·שיר",
@@ -1583483,7 +1588217,36 @@ window.SWIM_DATA = {
      "points": 230
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "5",
+     "seedStr": "03:16.08 (25m)",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "1",
+     "seedStr": "03:00.35 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2004|בר·ניצן·שי": {
    "id": "2004|בר·ניצן·שי",
@@ -1600624,7 +1605387,36 @@ window.SWIM_DATA = {
      "points": 138
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "4",
+     "seedStr": "03:17.25 (25m)",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "13",
+     "lane": "1",
+     "seedStr": "02:50.26 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|עיראקי·פואז": {
    "id": "2013|עיראקי·פואז",
@@ -1606186,7 +1610978,36 @@ window.SWIM_DATA = {
      "points": 185
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:39",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "01:44.96",
+     "seedSeconds": 104.96
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:52",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "03:59.78",
+     "seedSeconds": 239.78
+    }
+   ]
   },
   "2016|אבני·יעל": {
    "id": "2016|אבני·יעל",
@@ -1606548,7 +1611369,36 @@ window.SWIM_DATA = {
      "points": 192
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "14:07",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "03:40.33",
+     "seedSeconds": 220.33
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:17",
+     "heat": "5",
+     "lane": "1",
+     "seedStr": "01:41.84",
+     "seedSeconds": 101.84
+    }
+   ]
   },
   "2016|אביגיל·לב": {
    "id": "2016|אביגיל·לב",
@@ -1607116,7 +1611966,36 @@ window.SWIM_DATA = {
      "points": 103
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:57",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:17",
+     "heat": "5",
+     "lane": "4",
+     "seedStr": "01:38.43",
+     "seedSeconds": 98.43
+    }
+   ]
   },
   "2015|אלמה·מרקביץ": {
    "id": "2015|אלמה·מרקביץ",
@@ -1607593,7 +1612472,36 @@ window.SWIM_DATA = {
      "points": 163
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:10",
+     "heat": "8",
+     "lane": "5",
+     "seedStr": "00:38.95",
+     "seedSeconds": 38.95
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:57",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2011|אלתאגי·ריאן": {
    "id": "2011|אלתאגי·ריאן",
@@ -1608274,7 +1613182,36 @@ window.SWIM_DATA = {
      "points": 147
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:42",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "16:07",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|בניה·צרלסוורט·שפיר": {
    "id": "2016|בניה·צרלסוורט·שפיר",
@@ -1608597,7 +1613534,36 @@ window.SWIM_DATA = {
      "points": 108
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:42",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "16:07",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|דרזנר·שון": {
    "id": "2015|דרזנר·שון",
@@ -1608972,7 +1613938,36 @@ window.SWIM_DATA = {
      "points": 207
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:42",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:39",
+     "heat": "8",
+     "lane": "2",
+     "seedStr": "01:20.05",
+     "seedSeconds": 80.05
+    }
+   ]
   },
   "2016|בבאי·ירון": {
    "id": "2016|בבאי·ירון",
@@ -1609295,7 +1614290,36 @@ window.SWIM_DATA = {
      "points": 79
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "14:47",
+     "heat": "6",
+     "lane": "6",
+     "seedStr": "03:24.67",
+     "seedSeconds": 204.67
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "16:07",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|מלוחה·פול": {
    "id": "2016|מלוחה·פול",
@@ -1609618,7 +1614642,36 @@ window.SWIM_DATA = {
      "points": 101
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "14:42",
+     "heat": "5",
+     "lane": "2",
+     "seedStr": "03:31.52",
+     "seedSeconds": 211.52
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "16:07",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|אדם·פוזנר": {
    "id": "2015|אדם·פוזנר",
@@ -1610522,7 +1615575,36 @@ window.SWIM_DATA = {
      "points": 72
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "14:32",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "16:07",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|עידו·שני": {
    "id": "2016|עידו·שני",
@@ -1610845,7 +1615927,36 @@ window.SWIM_DATA = {
      "points": 92
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:21",
+     "heat": "6",
+     "lane": "5",
+     "seedStr": "00:48.59",
+     "seedSeconds": 48.59
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:34",
+     "heat": "6",
+     "lane": "5",
+     "seedStr": "01:47.47",
+     "seedSeconds": 107.47
+    }
+   ]
   },
   "2015|בבאי·יאיר": {
    "id": "2015|בבאי·יאיר",
@@ -1611491,7 +1616602,36 @@ window.SWIM_DATA = {
      "points": 148
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:28",
+     "heat": "11",
+     "lane": "4",
+     "seedStr": "00:37.56",
+     "seedSeconds": 37.56
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "14:47",
+     "heat": "6",
+     "lane": "1",
+     "seedStr": "03:09.18",
+     "seedSeconds": 189.18
+    }
+   ]
   },
   "2016|דובוביץ·טובי": {
    "id": "2016|דובוביץ·טובי",
@@ -1611814,7 +1616954,36 @@ window.SWIM_DATA = {
      "points": 79
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:21",
+     "heat": "6",
+     "lane": "1",
+     "seedStr": "00:48.76",
+     "seedSeconds": 48.76
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "14:42",
+     "heat": "5",
+     "lane": "6",
+     "seedStr": "03:52.05",
+     "seedSeconds": 232.05
+    }
+   ]
   },
   "2016|מיכאל·קוליקוב": {
    "id": "2016|מיכאל·קוליקוב",
@@ -1612239,7 +1617408,36 @@ window.SWIM_DATA = {
      "points": 147
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:44",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:37",
+     "heat": "7",
+     "lane": "2",
+     "seedStr": "01:37.92",
+     "seedSeconds": 97.92
+    }
+   ]
   },
   "2011|גב·קדושים": {
    "id": "2011|גב·קדושים",
@@ -1627491,7 +1632689,36 @@ window.SWIM_DATA = {
      "points": 153
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "13:52",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "15:42",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|גביש·ליבי": {
    "id": "2016|גביש·ליבי",
@@ -1630793,7 +1636020,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:41",
+     "startTime": "09:06",
      "heat": "1",
      "lane": "3",
      "seedStr": "03:15.50",
@@ -1630807,7 +1636034,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:42",
+     "startTime": "09:56",
      "heat": "1",
      "lane": "4",
      "seedStr": "NT",
@@ -1630821,7 +1636048,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:03",
+     "startTime": "10:15",
      "heat": "1",
      "lane": "2",
      "seedStr": "01:26.40",
@@ -1631315,7 +1636542,36 @@ window.SWIM_DATA = {
      "points": 209
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|אלמה·קוצר": {
    "id": "2016|אלמה·קוצר",
@@ -1637086,7 +1642342,36 @@ window.SWIM_DATA = {
      "points": 180
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|אריאנה·לובן": {
    "id": "2016|אריאנה·לובן",
@@ -1637973,7 +1643258,36 @@ window.SWIM_DATA = {
      "points": 155
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|ארד·בצלאל·נגב": {
    "id": "2016|ארד·בצלאל·נגב",
@@ -1638231,7 +1643545,36 @@ window.SWIM_DATA = {
      "points": 228
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "5",
+     "seedStr": "01:25.43",
+     "seedSeconds": 85.43
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|ברק·נדב": {
    "id": "2016|ברק·נדב",
@@ -1640928,7 +1646271,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:08",
+     "startTime": "10:19",
      "heat": "1",
      "lane": "5",
      "seedStr": "NT",
@@ -1640942,7 +1646285,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:57",
+     "startTime": "11:02",
      "heat": "1",
      "lane": "4",
      "seedStr": "NT",
@@ -1641505,7 +1646848,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "09:09",
+     "startTime": "09:29",
      "heat": "1",
      "lane": "3",
      "seedStr": "01:24.00",
@@ -1641519,7 +1646862,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "10:11",
+     "startTime": "10:21",
      "heat": "2",
      "lane": "5",
      "seedStr": "01:13.05",
@@ -1641533,7 +1646876,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "10:50",
+     "startTime": "10:57",
      "heat": "2",
      "lane": "5",
      "seedStr": "00:30.63",
@@ -1641884,7 +1647227,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "08:26",
+     "startTime": "08:54",
      "heat": "2",
      "lane": "2",
      "seedStr": "00:38.69",
@@ -1641898,7 +1647241,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "09:38",
+     "startTime": "09:53",
      "heat": "1",
      "lane": "5",
      "seedStr": "02:36.58",
@@ -1641912,7 +1647255,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "10:11",
+     "startTime": "10:21",
      "heat": "2",
      "lane": "4",
      "seedStr": "01:10.03",
@@ -1642224,7 +1647567,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:19",
+     "startTime": "09:37",
      "heat": "1",
      "lane": "3",
      "seedStr": "NT",
@@ -1642238,7 +1647581,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:11",
+     "startTime": "10:21",
      "heat": "2",
      "lane": "3",
      "seedStr": "01:06.32",
@@ -1642252,7 +1647595,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:52",
+     "startTime": "10:58",
      "heat": "3",
      "lane": "5",
      "seedStr": "00:26.80",
@@ -1643734,7 +1649077,36 @@ window.SWIM_DATA = {
      "points": 179
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "14:07",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "03:33.58",
+     "seedSeconds": 213.58
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "15:17",
+     "heat": "5",
+     "lane": "6",
+     "seedStr": "01:48.18",
+     "seedSeconds": 108.18
+    }
+   ]
   },
   "2016|יהונתן·כהן·שלמה": {
    "id": "2016|יהונתן·כהן·שלמה",
@@ -1646413,7 +1651785,36 @@ window.SWIM_DATA = {
      "points": 311
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "14:02",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "15:47",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|אברהמי·תמר": {
    "id": "2013|אברהמי·תמר",
@@ -1652761,7 +1658162,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "09:11",
+     "startTime": "09:31",
      "heat": "2",
      "lane": "2",
      "seedStr": "01:20.43",
@@ -1652775,7 +1658176,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "10:11",
+     "startTime": "10:21",
      "heat": "2",
      "lane": "1",
      "seedStr": "01:15.12",
@@ -1660214,7 +1665615,36 @@ window.SWIM_DATA = {
      "points": 143
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "14:07",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "03:35.18",
+     "seedSeconds": 215.18
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:42",
+     "heat": "1",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|מיקה·שרון": {
    "id": "2017|מיקה·שרון",
@@ -1661014,7 +1666444,36 @@ window.SWIM_DATA = {
      "points": 95
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "14:07",
+     "heat": "4",
+     "lane": "6",
+     "seedStr": "03:58.05",
+     "seedSeconds": 238.05
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:42",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|ליטיצבר·נטע": {
    "id": "2017|ליטיצבר·נטע",
@@ -1685041,7 +1690500,36 @@ window.SWIM_DATA = {
      "points": 120
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:25",
+     "heat": "9",
+     "lane": "2",
+     "seedStr": "00:41.94",
+     "seedSeconds": 41.94
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "15:34",
+     "heat": "6",
+     "lane": "4",
+     "seedStr": "01:43.91",
+     "seedSeconds": 103.91
+    }
+   ]
   },
   "2016|ולריה·פאפה": {
    "id": "2016|ולריה·פאפה",
@@ -1688670,7 +1694158,36 @@ window.SWIM_DATA = {
      "points": 166
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:31",
+     "heat": "13",
+     "lane": "6",
+     "seedStr": "00:33.43",
+     "seedSeconds": 33.43
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "16:12",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "03:48.14",
+     "seedSeconds": 228.14
+    }
+   ]
   },
   "2010|בנר·מתן": {
    "id": "2010|בנר·מתן",
@@ -1695737,7 +1701254,36 @@ window.SWIM_DATA = {
      "points": 134
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "01:35.77",
+     "seedSeconds": 95.77
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "5",
+     "seedStr": "03:32.74 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|אדם·בקון": {
    "id": "2014|אדם·בקון",
@@ -1696210,7 +1701756,22 @@ window.SWIM_DATA = {
      "points": 66
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "4",
+     "seedStr": "04:08.63 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|עודד·רוט": {
    "id": "2013|עודד·רוט",
@@ -1696440,7 +1702001,36 @@ window.SWIM_DATA = {
      "points": 123
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "01:52.11",
+     "seedSeconds": 112.11
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "4",
+     "seedStr": "03:30.18 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|גריגורי·קריבונוס": {
    "id": "2014|גריגורי·קריבונוס",
@@ -1696633,7 +1702223,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "6",
+     "seedStr": "04:22.77 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|אלכסנדרה·פרוקופייב": {
    "id": "2016|אלכסנדרה·פרוקופייב",
@@ -1696852,7 +1702471,36 @@ window.SWIM_DATA = {
      "points": 108
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל עומר",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל עומר",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|אווה·קיסלוב": {
    "id": "2016|אווה·קיסלוב",
@@ -1697058,7 +1702706,36 @@ window.SWIM_DATA = {
      "points": 165
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|אוליביה·כון": {
    "id": "2017|אוליביה·כון",
@@ -1697225,7 +1702902,36 @@ window.SWIM_DATA = {
      "points": 157
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 מעורב אישי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "הפועל אילת",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "הפועל אילת",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "2",
+     "seedStr": "00:43.83",
+     "seedSeconds": 43.83
+    }
+   ]
   },
   "2015|נטע·שאולוב": {
    "id": "2015|נטע·שאולוב",
@@ -1697600,7 +1703306,36 @@ window.SWIM_DATA = {
      "points": 139
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "5",
+     "seedStr": "03:29.09 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|בקמן·יעל": {
    "id": "2014|בקמן·יעל",
@@ -1697741,7 +1703476,22 @@ window.SWIM_DATA = {
      "points": 101
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|בנממן·טליה": {
    "id": "2016|בנממן·טליה",
@@ -1697960,7 +1703710,36 @@ window.SWIM_DATA = {
      "points": 130
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "1",
+     "seedStr": "03:41.52 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|אורבך·אנאבל": {
    "id": "2016|אורבך·אנאבל",
@@ -1698166,7 +1703945,36 @@ window.SWIM_DATA = {
      "points": 99
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|ניצה·קורדובי": {
    "id": "2015|ניצה·קורדובי",
@@ -1698255,7 +1704063,22 @@ window.SWIM_DATA = {
      "points": 98
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "הפועל ג'מים אילת",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "6",
+     "seedStr": "00:46.78",
+     "seedSeconds": 46.78
+    }
+   ]
   },
   "2017|אסרף·כוכב·ליבי": {
    "id": "2017|אסרף·כוכב·ליבי",
@@ -1698435,7 +1704258,22 @@ window.SWIM_DATA = {
      "points": 102
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "00:53.86",
+     "seedSeconds": 53.86
+    }
+   ]
   },
   "2016|לאופר·שחר": {
    "id": "2016|לאופר·שחר",
@@ -1698641,7 +1704479,36 @@ window.SWIM_DATA = {
      "points": 118
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|דבורה·קורדובי": {
    "id": "2015|דבורה·קורדובי",
@@ -1698730,7 +1704597,22 @@ window.SWIM_DATA = {
      "points": 113
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "הפועל ג'מים אילת",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "4",
+     "seedStr": "00:42.38",
+     "seedSeconds": 42.38
+    }
+   ]
   },
   "2017|אופל·פז": {
    "id": "2017|אופל·פז",
@@ -1699012,7 +1704894,36 @@ window.SWIM_DATA = {
      "points": 202
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 מעורב אישי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "01:35.97",
+     "seedSeconds": 95.97
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "3",
+     "seedStr": "00:33.91",
+     "seedSeconds": 33.91
+    }
+   ]
   },
   "2016|כובס·עומרי": {
    "id": "2016|כובס·עומרי",
@@ -1699309,7 +1705220,36 @@ window.SWIM_DATA = {
      "points": 191
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "4",
+     "seedStr": "01:24.64",
+     "seedSeconds": 84.64
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|שאולוב·שמעון": {
    "id": "2016|שאולוב·שמעון",
@@ -1699799,7 +1705739,36 @@ window.SWIM_DATA = {
      "points": 126
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל עומר",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל עומר",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|גינזברג·נצר": {
    "id": "2016|גינזברג·נצר",
@@ -1700018,7 +1705987,36 @@ window.SWIM_DATA = {
      "points": 119
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "6",
+     "seedStr": "01:35.30",
+     "seedSeconds": 95.3
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|אוחיון·ליעד": {
    "id": "2017|אוחיון·ליעד",
@@ -1700521,7 +1706519,36 @@ window.SWIM_DATA = {
      "points": 140
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "11",
+     "lane": "1",
+     "seedStr": "03:15.67 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|טקצינקו·פבל": {
    "id": "2016|טקצינקו·פבל",
@@ -1700662,7 +1706689,36 @@ window.SWIM_DATA = {
      "points": 67
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "01:58.21",
+     "seedSeconds": 118.21
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|איבלב·טימור": {
    "id": "2015|איבלב·טימור",
@@ -1701022,7 +1707078,36 @@ window.SWIM_DATA = {
      "points": 30
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל ג'מים אילת",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "5",
+     "seedStr": "00:38.47",
+     "seedSeconds": 38.47
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל ג'מים אילת",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|אנדרייקין·מקס": {
    "id": "2015|אנדרייקין·מקס",
@@ -1701291,7 +1707376,36 @@ window.SWIM_DATA = {
      "points": 98
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 מעורב אישי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "6",
+     "seedStr": "00:43.64",
+     "seedSeconds": 43.64
+    }
+   ]
   },
   "2016|אימנילוב·ליאור": {
    "id": "2016|אימנילוב·ליאור",
@@ -1701521,7 +1707635,22 @@ window.SWIM_DATA = {
      "points": 88
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל עומר",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|בן·עוז·ציון": {
    "id": "2017|בן·עוז·ציון",
@@ -1701790,7 +1707919,36 @@ window.SWIM_DATA = {
      "points": 52
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 מעורב אישי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "5",
+     "seedStr": "00:52.70",
+     "seedSeconds": 52.7
+    }
+   ]
   },
   "2016|אוקנין·עומר": {
    "id": "2016|אוקנין·עומר",
@@ -1701970,7 +1708128,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל עומר",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|גואז·דניאל": {
    "id": "2017|גואז·דניאל",
@@ -1702150,7 +1708323,36 @@ window.SWIM_DATA = {
      "points": 71
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חזה",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "2",
+     "seedStr": "00:51.56",
+     "seedSeconds": 51.56
+    }
+   ]
   },
   "2016|יודין·קים": {
    "id": "2016|יודין·קים",
@@ -1702673,7 +1708875,36 @@ window.SWIM_DATA = {
      "points": 114
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "10",
+     "lane": "4",
+     "seedStr": "03:32.93 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|חסן·קיעאן": {
    "id": "2016|חסן·קיעאן",
@@ -1702853,7 +1709084,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל עומר",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|אריאל·פוטשניק": {
    "id": "2016|אריאל·פוטשניק",
@@ -1702994,7 +1709240,22 @@ window.SWIM_DATA = {
      "points": 70
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל עומר",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|גליה·דוניץ": {
    "id": "2014|גליה·דוניץ",
@@ -1703239,7 +1709500,36 @@ window.SWIM_DATA = {
      "points": 195
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|יואב·רבני": {
    "id": "2014|יואב·רבני",
@@ -1703393,7 +1709683,36 @@ window.SWIM_DATA = {
      "points": 80
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "02:10.18",
+     "seedSeconds": 130.18
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "1",
+     "seedStr": "04:17.53 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2012|בחמן·מקסים": {
    "id": "2012|בחמן·מקסים",
@@ -1703803,7 +1710122,22 @@ window.SWIM_DATA = {
      "points": 102
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|הלל·זק": {
    "id": "2017|הלל·זק",
@@ -1703944,7 +1710278,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "5",
+     "seedStr": "00:59.75",
+     "seedSeconds": 59.75
+    }
+   ]
   },
   "2014|מיכאל·קוזמנקו": {
    "id": "2014|מיכאל·קוזמנקו",
@@ -1704059,7 +1710408,22 @@ window.SWIM_DATA = {
      "points": 92
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|אדם·אייגר": {
    "id": "2013|אדם·אייגר",
@@ -1716820,7 +1723184,36 @@ window.SWIM_DATA = {
      "points": 164
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "13:09",
+     "heat": "7",
+     "lane": "4",
+     "seedStr": "00:41.20",
+     "seedSeconds": 41.2
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "14:07",
+     "heat": "4",
+     "lane": "5",
+     "seedStr": "03:39.33",
+     "seedSeconds": 219.33
+    }
+   ]
   },
   "2016|אדם·קלר": {
    "id": "2016|אדם·קלר",
@@ -1717065,7 +1723458,36 @@ window.SWIM_DATA = {
      "points": 106
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:42",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "16:02",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2011|דויד·סולוגשוילי": {
    "id": "2011|דויד·סולוגשוילי",
@@ -1718153,7 +1724575,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "09:01",
+     "startTime": "09:23",
      "heat": "1",
      "lane": "3",
      "seedStr": "01:29.61",
@@ -1718167,7 +1724589,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "09:56",
+     "startTime": "10:10",
      "heat": "1",
      "lane": "5",
      "seedStr": "00:42.84",
@@ -1718181,9 +1724603,9 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "10:46",
+     "startTime": "10:53",
      "heat": "1",
-     "lane": "5",
+     "lane": "4",
      "seedStr": "00:36.33",
      "seedSeconds": 36.33
     }
@@ -1718497,7 +1724919,36 @@ window.SWIM_DATA = {
      "points": 304
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "13:12",
+     "heat": "9",
+     "lane": "5",
+     "seedStr": "00:33.94",
+     "seedSeconds": 33.94
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "15:17",
+     "heat": "5",
+     "lane": "5",
+     "seedStr": "01:39.35",
+     "seedSeconds": 99.35
+    }
+   ]
   },
   "2014|ירדנה·לרפילד": {
    "id": "2014|ירדנה·לרפילד",
@@ -1718805,7 +1725256,36 @@ window.SWIM_DATA = {
      "points": 152
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:07",
+     "heat": "6",
+     "lane": "2",
+     "seedStr": "00:47.48",
+     "seedSeconds": 47.48
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "14:02",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "03:59.60",
+     "seedSeconds": 239.6
+    }
+   ]
   },
   "2015|אלקיים·נטע": {
    "id": "2015|אלקיים·נטע",
@@ -1718933,7 +1725413,36 @@ window.SWIM_DATA = {
      "points": 78
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:37",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "15:14",
+     "heat": "4",
+     "lane": "5",
+     "seedStr": "02:13.00",
+     "seedSeconds": 133.0
+    }
+   ]
   },
   "2015|בסיס·ליטל": {
    "id": "2015|בסיס·ליטל",
@@ -1719152,7 +1725661,36 @@ window.SWIM_DATA = {
      "points": 137
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:09",
+     "heat": "7",
+     "lane": "1",
+     "seedStr": "00:44.18",
+     "seedSeconds": 44.18
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:57",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|סטרול·עלמה": {
    "id": "2017|סטרול·עלמה",
@@ -1719705,7 +1726243,36 @@ window.SWIM_DATA = {
      "points": 154
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "13:07",
+     "heat": "6",
+     "lane": "1",
+     "seedStr": "00:48.25",
+     "seedSeconds": 48.25
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "15:47",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|טל·עניו": {
    "id": "2014|טל·עניו",
@@ -1720295,7 +1726862,36 @@ window.SWIM_DATA = {
      "points": 164
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "13:28",
+     "heat": "11",
+     "lane": "5",
+     "seedStr": "00:37.76",
+     "seedSeconds": 37.76
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "16:02",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|דבנר·דניאל": {
    "id": "2017|דבנר·דניאל",
@@ -1720488,7 +1727084,22 @@ window.SWIM_DATA = {
      "points": 129
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "13:27",
+     "heat": "10",
+     "lane": "2",
+     "seedStr": "00:39.37",
+     "seedSeconds": 39.37
+    }
+   ]
   },
   "2017|יפרמינקוב·רוסטיסלב": {
    "id": "2017|יפרמינקוב·רוסטיסלב",
@@ -1720733,7 +1727344,36 @@ window.SWIM_DATA = {
      "points": 130
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "13:27",
+     "heat": "10",
+     "lane": "4",
+     "seedStr": "00:39.28",
+     "seedSeconds": 39.28
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "15:27",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|לוי·ערן": {
    "id": "2017|לוי·ערן",
@@ -1721132,7 +1727772,36 @@ window.SWIM_DATA = {
      "points": 93
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "13:22",
+     "heat": "7",
+     "lane": "3",
+     "seedStr": "00:43.77",
+     "seedSeconds": 43.77
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "14:37",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "04:00.18",
+     "seedSeconds": 240.18
+    }
+   ]
   },
   "2014|אריאל·לדר": {
    "id": "2014|אריאל·לדר",
@@ -1721325,7 +1727994,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "13:21",
+     "heat": "6",
+     "lane": "4",
+     "seedStr": "00:47.06",
+     "seedSeconds": 47.06
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "14:42",
+     "heat": "5",
+     "lane": "5",
+     "seedStr": "03:35.48",
+     "seedSeconds": 215.48
+    }
+   ]
   },
   "2017|בילצ'ינסקי·יוסף·מתן": {
    "id": "2017|בילצ'ינסקי·יוסף·מתן",
@@ -1721570,7 +1728268,36 @@ window.SWIM_DATA = {
      "points": 80
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "13:22",
+     "heat": "7",
+     "lane": "6",
+     "seedStr": "00:46.01",
+     "seedSeconds": 46.01
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "14:37",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "04:18.44",
+     "seedSeconds": 258.44
+    }
+   ]
   },
   "2017|אלעד·שרעבי": {
    "id": "2017|אלעד·שרעבי",
@@ -1722063,7 +1728790,36 @@ window.SWIM_DATA = {
      "points": 133
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "13:27",
+     "heat": "10",
+     "lane": "3",
+     "seedStr": "00:38.95",
+     "seedSeconds": 38.95
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "14:32",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|אביחי·גריסי": {
    "id": "2015|אביחי·גריסי",
@@ -1722904,7 +1729660,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "13:19",
+     "heat": "5",
+     "lane": "3",
+     "seedStr": "00:51.96",
+     "seedSeconds": 51.96
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "14:27",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|ילוז·עילאי": {
    "id": "2015|ילוז·עילאי",
@@ -1723175,7 +1729960,36 @@ window.SWIM_DATA = {
      "points": 76
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "13:21",
+     "heat": "6",
+     "lane": "3",
+     "seedStr": "00:46.78",
+     "seedSeconds": 46.78
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "15:32",
+     "heat": "5",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|דניאל·צניי": {
    "id": "2016|דניאל·צניי",
@@ -1723342,7 +1730156,36 @@ window.SWIM_DATA = {
      "points": 53
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "13:19",
+     "heat": "5",
+     "lane": "5",
+     "seedStr": "00:52.87",
+     "seedSeconds": 52.87
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "15:27",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2012|איתמר·ורדי": {
    "id": "2012|איתמר·ורדי",
@@ -1728995,7 +1735838,8 @@ window.SWIM_DATA = {
    "displayName": "שלומציון בוגנים",
    "birthYear": 2017,
    "clubs": [
-    "הפועל ירושלים"
+    "הפועל ירושלים",
+    "מכבי ירושלים"
    ],
    "past": [
     {
@@ -1729064,7 +1735908,36 @@ window.SWIM_DATA = {
      "points": 41
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:04",
+     "heat": "4",
+     "lane": "5",
+     "seedStr": "00:58.62",
+     "seedSeconds": 58.62
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "15:09",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|עדי·רז": {
    "id": "2015|עדי·רז",
@@ -1736400,7 +1743273,36 @@ window.SWIM_DATA = {
      "points": 115
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|לזרב·עידן": {
    "id": "2017|לזרב·עידן",
@@ -1736682,7 +1743584,36 @@ window.SWIM_DATA = {
      "points": 156
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 מעורב אישי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "01:40.50",
+     "seedSeconds": 100.5
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "3",
+     "seedStr": "00:40.99",
+     "seedSeconds": 40.99
+    }
+   ]
   },
   "2017|זכרוב·רונ·רוסלן": {
    "id": "2017|זכרוב·רונ·רוסלן",
@@ -1736849,7 +1743780,36 @@ window.SWIM_DATA = {
      "points": 98
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 מעורב אישי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "02:02.57",
+     "seedSeconds": 122.57
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "4",
+     "seedStr": "00:45.49",
+     "seedSeconds": 45.49
+    }
+   ]
   },
   "2017|גרמן·מורש": {
    "id": "2017|גרמן·מורש",
@@ -1736964,7 +1743924,36 @@ window.SWIM_DATA = {
      "points": 105
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 מעורב אישי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "02:19.68",
+     "seedSeconds": 139.68
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "00:55.17",
+     "seedSeconds": 55.17
+    }
+   ]
   },
   "2013|טל·מוזס": {
    "id": "2013|טל·מוזס",
@@ -1737183,7 +1744172,36 @@ window.SWIM_DATA = {
      "points": 71
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "2",
+     "seedStr": "03:05.33 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|רגב·תמר": {
    "id": "2013|רגב·תמר",
@@ -1737413,7 +1744431,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "13",
+     "lane": "6",
+     "seedStr": "02:52.94 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|ברגר·טל·מעיין": {
    "id": "2014|ברגר·טל·מעיין",
@@ -1737658,7 +1744691,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "2",
+     "seedStr": "04:07.85 (25m)",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "8",
+     "lane": "6",
+     "seedStr": "03:51.63 (25m)",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|נתנאל·רודמן": {
    "id": "2013|נתנאל·רודמן",
@@ -1738069,7 +1745131,22 @@ window.SWIM_DATA = {
      "points": 127
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 מעורב אישי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|אסרף·גוני": {
    "id": "2016|אסרף·גוני",
@@ -1738480,7 +1745557,36 @@ window.SWIM_DATA = {
      "points": 137
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 מעורב אישי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "5",
+     "seedStr": "00:45.80",
+     "seedSeconds": 45.8
+    }
+   ]
   },
   "2016|אליה·יפרח": {
    "id": "2016|אליה·יפרח",
@@ -1739029,7 +1746135,36 @@ window.SWIM_DATA = {
      "points": 176
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|זיו·כספי·שחר": {
    "id": "2015|זיו·כספי·שחר",
@@ -1739209,7 +1746344,22 @@ window.SWIM_DATA = {
      "points": 118
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|עלמה·פלג": {
    "id": "2016|עלמה·פלג",
@@ -1739376,7 +1746526,22 @@ window.SWIM_DATA = {
      "points": 139
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|לוי·תור": {
    "id": "2015|לוי·תור",
@@ -1739556,7 +1746721,22 @@ window.SWIM_DATA = {
      "points": 133
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|אריאל·צ'מני": {
    "id": "2015|אריאל·צ'מני",
@@ -1739956,7 +1747136,36 @@ window.SWIM_DATA = {
      "points": 96
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|גנוט·שחם": {
    "id": "2016|גנוט·שחם",
@@ -1740149,7 +1747358,36 @@ window.SWIM_DATA = {
      "points": 85
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|ג׳ולי·לביא": {
    "id": "2016|ג׳ולי·לביא",
@@ -1740546,7 +1747784,36 @@ window.SWIM_DATA = {
      "points": 66
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חזה",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "01:10.33",
+     "seedSeconds": 70.33
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "1",
+     "seedStr": "00:47.51",
+     "seedSeconds": 47.51
+    }
+   ]
   },
   "2016|איתן·חנוב": {
    "id": "2016|איתן·חנוב",
@@ -1740841,7 +1748108,36 @@ window.SWIM_DATA = {
      "points": 124
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|אונסדורפר·הלל·שיר": {
    "id": "2016|אונסדורפר·הלל·שיר",
@@ -1741110,7 +1748406,36 @@ window.SWIM_DATA = {
      "points": 70
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 מעורב אישי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "3",
+     "seedStr": "00:49.30",
+     "seedSeconds": 49.3
+    }
+   ]
   },
   "2016|חיים·מעיין·פרל": {
    "id": "2016|חיים·מעיין·פרל",
@@ -1741444,7 +1748769,36 @@ window.SWIM_DATA = {
      "points": 89
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חזה",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "00:54.37",
+     "seedSeconds": 54.37
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 מעורב אישי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "02:28.18",
+     "seedSeconds": 148.18
+    }
+   ]
   },
   "2016|סינקוביץ׳·תומר": {
    "id": "2016|סינקוביץ׳·תומר",
@@ -1775229,7 +1782583,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 מעורב אישי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "00:51.47",
+     "seedSeconds": 51.47
+    }
+   ]
   },
   "2016|זכרצ'נקו·סופיה": {
    "id": "2016|זכרצ'נקו·סופיה",
@@ -1775396,7 +1782779,36 @@ window.SWIM_DATA = {
      "points": 102
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|אדרעי·יער": {
    "id": "2017|אדרעי·יער",
@@ -1775793,7 +1783205,36 @@ window.SWIM_DATA = {
      "points": 84
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חזה",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל ג'מים אילת",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "00:56.83",
+     "seedSeconds": 56.83
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל ג'מים אילת",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "3",
+     "seedStr": "00:44.10",
+     "seedSeconds": 44.1
+    }
+   ]
   },
   "2017|מיארה·עדי": {
    "id": "2017|מיארה·עדי",
@@ -1775960,7 +1783401,36 @@ window.SWIM_DATA = {
      "points": 63
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:04",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "00:57.21",
+     "seedSeconds": 57.21
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "15:14",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "02:53.71",
+     "seedSeconds": 173.71
+    }
+   ]
   },
   "2016|אבינועם·בן·דור": {
    "id": "2016|אבינועם·בן·דור",
@@ -1776114,7 +1783584,36 @@ window.SWIM_DATA = {
      "points": 102
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "13:25",
+     "heat": "9",
+     "lane": "5",
+     "seedStr": "00:42.05",
+     "seedSeconds": 42.05
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "14:42",
+     "heat": "5",
+     "lane": "1",
+     "seedStr": "03:48.27",
+     "seedSeconds": 228.27
+    }
+   ]
   },
   "2015|יונתן·נטע": {
    "id": "2015|יונתן·נטע",
@@ -1777439,7 +1784938,36 @@ window.SWIM_DATA = {
      "points": 103
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:24",
+     "heat": "8",
+     "lane": "3",
+     "seedStr": "00:42.43",
+     "seedSeconds": 42.43
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "15:24",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|מאי·קלינין": {
    "id": "2017|מאי·קלינין",
@@ -1778097,7 +1785625,36 @@ window.SWIM_DATA = {
      "points": 159
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "13:28",
+     "heat": "11",
+     "lane": "3",
+     "seedStr": "00:36.68",
+     "seedSeconds": 36.68
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "15:29",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|מיה·קזס": {
    "id": "2016|מיה·קזס",
@@ -1778316,7 +1785873,36 @@ window.SWIM_DATA = {
      "points": 92
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "13:06",
+     "heat": "5",
+     "lane": "3",
+     "seedStr": "00:50.40",
+     "seedSeconds": 50.4
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "15:09",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|ויינברג·יהודה": {
    "id": "2014|ויינברג·יהודה",
@@ -1779987,7 +1787573,36 @@ window.SWIM_DATA = {
      "points": 99
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "13:24",
+     "heat": "8",
+     "lane": "1",
+     "seedStr": "00:42.90",
+     "seedSeconds": 42.9
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "15:24",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|איתן·הראל": {
    "id": "2016|איתן·הראל",
@@ -1780180,7 +1787795,36 @@ window.SWIM_DATA = {
      "points": 108
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "13:25",
+     "heat": "9",
+     "lane": "3",
+     "seedStr": "00:41.71",
+     "seedSeconds": 41.71
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "15:29",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|אדם·טרחוב": {
    "id": "2013|אדם·טרחוב",
@@ -1785554,7 +1793198,36 @@ window.SWIM_DATA = {
      "points": 97
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:24",
+     "heat": "8",
+     "lane": "4",
+     "seedStr": "00:42.46",
+     "seedSeconds": 42.46
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:34",
+     "heat": "6",
+     "lane": "1",
+     "seedStr": "01:50.38",
+     "seedSeconds": 110.38
+    }
+   ]
   },
   "2017|ברנצב·סבינה": {
    "id": "2017|ברנצב·סבינה",
@@ -1787419,7 +1795092,36 @@ window.SWIM_DATA = {
      "points": 80
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:06",
+     "heat": "5",
+     "lane": "2",
+     "seedStr": "00:52.92",
+     "seedSeconds": 52.92
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:14",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "02:11.54",
+     "seedSeconds": 131.54
+    }
+   ]
   },
   "2017|חיינובסקי·מיה": {
    "id": "2017|חיינובסקי·מיה",
@@ -1790890,7 +1798592,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:20",
+     "startTime": "08:50",
      "heat": "1",
      "lane": "3",
      "seedStr": "NT",
@@ -1790904,7 +1798606,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:01",
+     "startTime": "09:23",
      "heat": "1",
      "lane": "2",
      "seedStr": "NT",
@@ -1790918,7 +1798620,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "11:05",
+     "startTime": "11:08",
      "heat": "1",
      "lane": "2",
      "seedStr": "NT",
@@ -1791488,7 +1799190,36 @@ window.SWIM_DATA = {
      "points": 101
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "13:24",
+     "heat": "8",
+     "lane": "2",
+     "seedStr": "00:42.61",
+     "seedSeconds": 42.61
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "15:27",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|בראל·יאיר": {
    "id": "2015|בראל·יאיר",
@@ -1794022,7 +1801753,22 @@ window.SWIM_DATA = {
      "points": 137
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "13:28",
+     "heat": "11",
+     "lane": "2",
+     "seedStr": "00:37.69",
+     "seedSeconds": 37.69
+    }
+   ]
   },
   "2017|אופק·מזרחי": {
    "id": "2017|אופק·מזרחי",
@@ -1794382,7 +1802128,36 @@ window.SWIM_DATA = {
      "points": 111
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "13:07",
+     "heat": "6",
+     "lane": "4",
+     "seedStr": "00:47.15",
+     "seedSeconds": 47.15
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "15:47",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|יאיר·יעקב": {
    "id": "2015|יאיר·יעקב",
@@ -1794575,7 +1802350,36 @@ window.SWIM_DATA = {
      "points": 106
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "13:22",
+     "heat": "7",
+     "lane": "4",
+     "seedStr": "00:44.17",
+     "seedSeconds": 44.17
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "14:32",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|מארק·מויסייב": {
    "id": "2017|מארק·מויסייב",
@@ -1794768,7 +1802572,36 @@ window.SWIM_DATA = {
      "points": 116
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "13:22",
+     "heat": "7",
+     "lane": "1",
+     "seedStr": "00:45.49",
+     "seedSeconds": 45.49
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "14:27",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|גבייב·עדן": {
    "id": "2013|גבייב·עדן",
@@ -1799402,7 +1807235,22 @@ window.SWIM_DATA = {
      "points": 109
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "13:07",
+     "heat": "6",
+     "lane": "5",
+     "seedStr": "00:47.65",
+     "seedSeconds": 47.65
+    }
+   ]
   },
   "1969|אלרי·סילבי": {
    "id": "1969|אלרי·סילבי",
@@ -1815291,7 +1823139,36 @@ window.SWIM_DATA = {
      "points": 101
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חזה",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל ג'מים אילת",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "00:56.84",
+     "seedSeconds": 56.84
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל ג'מים אילת",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "01:01.83",
+     "seedSeconds": 61.83
+    }
+   ]
   },
   "2015|אדל·קוזלוב": {
    "id": "2015|אדל·קוזלוב",
@@ -1818889,7 +1826766,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|בוטנרו·נועם": {
    "id": "2015|בוטנרו·נועם",
@@ -1819455,7 +1827361,36 @@ window.SWIM_DATA = {
      "points": 115
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 מעורב אישי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "Eilat Swimming",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "01:37.02",
+     "seedSeconds": 97.02
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "Eilat Swimming",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "2",
+     "seedStr": "00:36.15",
+     "seedSeconds": 36.15
+    }
+   ]
   },
   "2018|ארי·רויטבורג": {
    "id": "2018|ארי·רויטבורג",
@@ -1819544,7 +1827479,36 @@ window.SWIM_DATA = {
      "points": 131
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 מעורב אישי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "7",
+     "lane": "1",
+     "seedStr": "00:39.77",
+     "seedSeconds": 39.77
+    }
+   ]
   },
   "2018|אילון·דין": {
    "id": "2018|אילון·דין",
@@ -1819633,7 +1827597,36 @@ window.SWIM_DATA = {
      "points": 95
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חזה",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "5",
+     "seedStr": "00:58.68",
+     "seedSeconds": 58.68
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 מעורב אישי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|ארטיום·יפרמנקו": {
    "id": "2017|ארטיום·יפרמנקו",
@@ -1820193,7 +1828186,36 @@ window.SWIM_DATA = {
      "points": 75
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 מעורב אישי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "6",
+     "seedStr": "00:48.36",
+     "seedSeconds": 48.36
+    }
+   ]
   },
   "2018|מייקל·ממיסטבלוב": {
    "id": "2018|מייקל·ממיסטבלוב",
@@ -1820256,7 +1828278,36 @@ window.SWIM_DATA = {
      "points": 46
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חזה",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "6",
+     "seedStr": "01:03.43",
+     "seedSeconds": 63.43
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "6",
+     "seedStr": "00:54.14",
+     "seedSeconds": 54.14
+    }
+   ]
   },
   "2018|אנדריי·שיבנוב": {
    "id": "2018|אנדריי·שיבנוב",
@@ -1820688,7 +1828739,36 @@ window.SWIM_DATA = {
      "points": 61
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חזה",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "Eilat Swimming",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "01:03.22",
+     "seedSeconds": 63.22
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "Eilat Swimming",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "5",
+     "seedStr": "00:47.40",
+     "seedSeconds": 47.4
+    }
+   ]
   },
   "2017|ואנונו·יהונתן": {
    "id": "2017|ואנונו·יהונתן",
@@ -1820803,7 +1828883,36 @@ window.SWIM_DATA = {
      "points": 59
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חזה",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "Eilat Swimming",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "01:04.01",
+     "seedSeconds": 64.01
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "Eilat Swimming",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "4",
+     "seedStr": "00:51.06",
+     "seedSeconds": 51.06
+    }
+   ]
   },
   "2015|יונתן·שומנוב": {
    "id": "2015|יונתן·שומנוב",
@@ -1820957,7 +1829066,22 @@ window.SWIM_DATA = {
      "points": 96
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|אימרי·חריר": {
    "id": "2015|אימרי·חריר",
@@ -1822329,7 +1830453,36 @@ window.SWIM_DATA = {
      "points": 173
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:09",
+     "heat": "7",
+     "lane": "6",
+     "seedStr": "00:44.66",
+     "seedSeconds": 44.66
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:12",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|לב·ליאו·סולובייצ'יק": {
    "id": "2017|לב·ליאו·סולובייצ'יק",
@@ -1823093,7 +1831246,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:30",
+     "heat": "12",
+     "lane": "5",
+     "seedStr": "00:34.79",
+     "seedSeconds": 34.79
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "14:37",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|אלין·שביט": {
    "id": "2015|אלין·שביט",
@@ -1824347,7 +1832529,7 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:03",
+     "startTime": "10:15",
      "heat": "1",
      "lane": "5",
      "seedStr": "NT",
@@ -1824361,9 +1832543,9 @@ window.SWIM_DATA = {
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:46",
+     "startTime": "10:53",
      "heat": "1",
-     "lane": "1",
+     "lane": "2",
      "seedStr": "00:38.88",
      "seedSeconds": 38.88
     }
@@ -1828096,7 +1836278,22 @@ window.SWIM_DATA = {
      "points": 80
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "Eilat Swimming",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|כרם·מור": {
    "id": "2013|כרם·מור",
@@ -1843267,7 +1851464,36 @@ window.SWIM_DATA = {
      "points": 77
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "14:27",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "16:02",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|טרנבסקי·רוני": {
    "id": "2015|טרנבסקי·רוני",
@@ -1843597,7 +1851823,36 @@ window.SWIM_DATA = {
      "points": 111
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:34",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "15:42",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|מאיה·קלי": {
    "id": "2016|מאיה·קלי",
@@ -1843660,7 +1851915,36 @@ window.SWIM_DATA = {
      "points": 65
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:37",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:12",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|דניאל·מלובני": {
    "id": "2016|דניאל·מלובני",
@@ -1843786,7 +1852070,36 @@ window.SWIM_DATA = {
      "points": 92
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "14:32",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "15:29",
+     "heat": "4",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|אור·מורדכי": {
    "id": "2015|אור·מורדכי",
@@ -1843901,7 +1852214,36 @@ window.SWIM_DATA = {
      "points": 206
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "ירושלים רבתי",
+     "startTime": "13:57",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "ירושלים רבתי",
+     "startTime": "15:47",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|טלי·פרלשטיין": {
    "id": "2015|טלי·פרלשטיין",
@@ -1844232,7 +1852574,22 @@ window.SWIM_DATA = {
      "points": 145
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "1",
+     "seedStr": "00:45.86",
+     "seedSeconds": 45.86
+    }
+   ]
   },
   "2018|ארקושין·גליה": {
    "id": "2018|ארקושין·גליה",
@@ -1844421,7 +1852778,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:00",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:09",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|אלה·רבינוביץ": {
    "id": "2017|אלה·רבינוביץ",
@@ -1846710,7 +1855096,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:11",
+     "startTime": "09:31",
      "heat": "2",
      "lane": "3",
      "seedStr": "01:17.21",
@@ -1846724,7 +1855110,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "09:19",
+     "startTime": "09:37",
      "heat": "1",
      "lane": "2",
      "seedStr": "NT",
@@ -1850132,7 +1858518,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "09:09",
+     "startTime": "09:29",
      "heat": "1",
      "lane": "2",
      "seedStr": "01:31.94",
@@ -1850146,7 +1858532,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "09:38",
+     "startTime": "09:53",
      "heat": "1",
      "lane": "4",
      "seedStr": "02:27.63",
@@ -1850160,7 +1858546,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "10:08",
+     "startTime": "10:19",
      "heat": "1",
      "lane": "1",
      "seedStr": "NT",
@@ -1850948,7 +1859334,22 @@ window.SWIM_DATA = {
      "points": 112
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|אנאל·מאיסינוביץ’": {
    "id": "2015|אנאל·מאיסינוביץ’",
@@ -1851074,7 +1859475,36 @@ window.SWIM_DATA = {
      "points": 99
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|טרסוב·עומר": {
    "id": "2016|טרסוב·עומר",
@@ -1851098,7 +1859528,22 @@ window.SWIM_DATA = {
      "points": 90
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|אורי·נצ׳ייבסקי": {
    "id": "2013|אורי·נצ׳ייבסקי",
@@ -1851276,7 +1859721,36 @@ window.SWIM_DATA = {
      "points": 103
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|אבידור·עדי": {
    "id": "2015|אבידור·עדי",
@@ -1851378,7 +1859852,22 @@ window.SWIM_DATA = {
      "points": 44
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל עומר",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|יהונתן·רייכשטט": {
    "id": "2015|יהונתן·רייכשטט",
@@ -1851402,7 +1859891,22 @@ window.SWIM_DATA = {
      "points": 69
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|אהרונוב·אילן": {
    "id": "2015|אהרונוב·אילן",
@@ -1851463,7 +1859967,22 @@ window.SWIM_DATA = {
      "points": 59
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|אוריאל·אלחזוב": {
    "id": "2014|אוריאל·אלחזוב",
@@ -1851537,7 +1860056,22 @@ window.SWIM_DATA = {
      "points": 41
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|יהל·סהר": {
    "id": "2015|יהל·סהר",
@@ -1851585,7 +1860119,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|בוגוטיריוב·מייק": {
    "id": "2016|בוגוטיריוב·מייק",
@@ -1851622,7 +1860171,22 @@ window.SWIM_DATA = {
      "points": 64
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|אלון·זיגלבוים": {
    "id": "2017|אלון·זיגלבוים",
@@ -1851646,7 +1860210,22 @@ window.SWIM_DATA = {
      "points": 119
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|טטיאנה·מרטינוב": {
    "id": "2017|טטיאנה·מרטינוב",
@@ -1851670,7 +1860249,22 @@ window.SWIM_DATA = {
      "points": 87
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|פונדק·רוני": {
    "id": "2017|פונדק·רוני",
@@ -1851707,7 +1860301,22 @@ window.SWIM_DATA = {
      "points": 104
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|כהן·רותם": {
    "id": "2017|כהן·רותם",
@@ -1851731,7 +1860340,22 @@ window.SWIM_DATA = {
      "points": 69
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2019|אדל·כון": {
    "id": "2019|אדל·כון",
@@ -1851768,7 +1860392,22 @@ window.SWIM_DATA = {
      "points": 65
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "הפועל אילת",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|אורי·רחמים": {
    "id": "2017|אורי·רחמים",
@@ -1851805,7 +1860444,22 @@ window.SWIM_DATA = {
      "points": 61
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "הפועל ג'מים אילת",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2019|`אמילי·איזוטוב": {
    "id": "2019|`אמילי·איזוטוב",
@@ -1851842,7 +1860496,22 @@ window.SWIM_DATA = {
      "points": 46
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "הפועל אילת",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|שילה·שפירא": {
    "id": "2017|שילה·שפירא",
@@ -1851916,7 +1860585,36 @@ window.SWIM_DATA = {
      "points": 57
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חזה",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל ג'מים אילת",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל ג'מים אילת",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|ארז·גבריאל": {
    "id": "2017|ארז·גבריאל",
@@ -1851953,7 +1860651,36 @@ window.SWIM_DATA = {
      "points": 66
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חזה",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2019|ינאי·לנדאו": {
    "id": "2019|ינאי·לנדאו",
@@ -1851990,7 +1860717,36 @@ window.SWIM_DATA = {
      "points": 69
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 מעורב אישי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|דוד·קירילוב": {
    "id": "2017|דוד·קירילוב",
@@ -1852079,7 +1860835,36 @@ window.SWIM_DATA = {
      "points": 51
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חזה",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "Eilat Swimming",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "01:07.18",
+     "seedSeconds": 67.18
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "Eilat Swimming",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "2",
+     "seedStr": "00:46.34",
+     "seedSeconds": 46.34
+    }
+   ]
   },
   "2019|טוהר·מאיר": {
    "id": "2019|טוהר·מאיר",
@@ -1852116,7 +1860901,36 @@ window.SWIM_DATA = {
      "points": 28
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חזה",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|אורי·עדס": {
    "id": "2017|אורי·עדס",
@@ -1852153,7 +1860967,36 @@ window.SWIM_DATA = {
      "points": 49
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חזה",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2019|גריג·מיכאל": {
    "id": "2019|גריג·מיכאל",
@@ -1852203,7 +1861046,36 @@ window.SWIM_DATA = {
      "points": 51
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חזה",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "Eilat Swimming",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "Eilat Swimming",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "1",
+     "seedStr": "00:53.58",
+     "seedSeconds": 53.58
+    }
+   ]
   },
   "2018|אדם·איגנטנקו": {
    "id": "2018|אדם·איגנטנקו",
@@ -1852264,7 +1861136,22 @@ window.SWIM_DATA = {
      "points": 26
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2018|פסלסקי·קרמר·שני": {
    "id": "2018|פסלסקי·קרמר·שני",
@@ -1852301,7 +1861188,36 @@ window.SWIM_DATA = {
      "points": 15
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חזה",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2018|גרינברג·לוטם": {
    "id": "2018|גרינברג·לוטם",
@@ -1852338,7 +1861254,36 @@ window.SWIM_DATA = {
      "points": 67
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חזה",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 מעורב אישי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|בר·רמוס": {
    "id": "2016|בר·רמוס",
@@ -1852362,7 +1861307,22 @@ window.SWIM_DATA = {
      "points": 80
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "הפועל ג'מים אילת",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|לביא·קאוג'יסקי": {
    "id": "2016|לביא·קאוג'יסקי",
@@ -1852386,7 +1861346,22 @@ window.SWIM_DATA = {
      "points": 38
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2019|אביטל·בר": {
    "id": "2019|אביטל·בר",
@@ -1852410,7 +1861385,22 @@ window.SWIM_DATA = {
      "points": 32
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל שחייני הנגב",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2018|אמירם·צ’שב": {
    "id": "2018|אמירם·צ’שב",
@@ -1852460,7 +1861450,22 @@ window.SWIM_DATA = {
      "points": 19
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "Eilat Swimming",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "01:14.28",
+     "seedSeconds": 74.28
+    }
+   ]
   },
   "2017|אלכסנדר·צ’דייב": {
    "id": "2017|אלכסנדר·צ’דייב",
@@ -1852828,7 +1861833,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 מעורב אישי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "הפועל עומר",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "הפועל עומר",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|איתי·משה·פישמן": {
    "id": "2013|איתי·משה·פישמן",
@@ -1854664,7 +1863698,36 @@ window.SWIM_DATA = {
      "points": 44
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:18",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "00:56.07",
+     "seedSeconds": 56.07
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:32",
+     "heat": "5",
+     "lane": "4",
+     "seedStr": "02:09.76",
+     "seedSeconds": 129.76
+    }
+   ]
   },
   "2016|אליסה·פרבר": {
    "id": "2016|אליסה·פרבר",
@@ -1856234,7 +1865297,36 @@ window.SWIM_DATA = {
      "points": 144
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:01",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "15:42",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2018|קרחש·רות": {
    "id": "2018|קרחש·רות",
@@ -1856534,7 +1865626,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:01",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "13:57",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|ארנון·קנדר": {
    "id": "2013|ארנון·קנדר",
@@ -1857247,7 +1866368,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:34",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "15:42",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2018|אנאל·יטמנין": {
    "id": "2018|אנאל·יטמנין",
@@ -1857284,7 +1866434,36 @@ window.SWIM_DATA = {
      "points": 89
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "13:06",
+     "heat": "5",
+     "lane": "4",
+     "seedStr": "00:51.10",
+     "seedSeconds": 51.1
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "13:52",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|איכנבוים·לין": {
    "id": "2017|איכנבוים·לין",
@@ -1857358,7 +1866537,36 @@ window.SWIM_DATA = {
      "points": 74
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:06",
+     "heat": "5",
+     "lane": "5",
+     "seedStr": "00:54.21",
+     "seedSeconds": 54.21
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "15:07",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2018|מיקה·סנדלר": {
    "id": "2018|מיקה·סנדלר",
@@ -1857395,7 +1866603,36 @@ window.SWIM_DATA = {
      "points": 35
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "13:03",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "01:09.30",
+     "seedSeconds": 69.3
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "15:07",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2018|אלעביד·גלא": {
    "id": "2018|אלעביד·גלא",
@@ -1857469,7 +1866706,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:03",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2018|דריידן·קירה": {
    "id": "2018|דריידן·קירה",
@@ -1857506,7 +1866758,36 @@ window.SWIM_DATA = {
      "points": 54
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:04",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "01:00.17",
+     "seedSeconds": 60.17
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "15:07",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2018|אלעביד·פאטמה": {
    "id": "2018|אלעביד·פאטמה",
@@ -1857654,7 +1866935,36 @@ window.SWIM_DATA = {
      "points": 125
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "13:27",
+     "heat": "10",
+     "lane": "1",
+     "seedStr": "00:39.79",
+     "seedSeconds": 39.79
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "14:22",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2018|גדלוב·עידן": {
    "id": "2018|גדלוב·עידן",
@@ -1857691,7 +1867001,36 @@ window.SWIM_DATA = {
      "points": 99
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "13:24",
+     "heat": "8",
+     "lane": "5",
+     "seedStr": "00:42.90",
+     "seedSeconds": 42.9
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "14:22",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|ניקיטה·סיאצ'ינוב": {
    "id": "2015|ניקיטה·סיאצ'ינוב",
@@ -1857728,7 +1867067,36 @@ window.SWIM_DATA = {
      "points": 105
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "13:25",
+     "heat": "9",
+     "lane": "1",
+     "seedStr": "00:42.06",
+     "seedSeconds": 42.06
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "15:29",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|אהרונוב·דוד": {
    "id": "2017|אהרונוב·דוד",
@@ -1857765,7 +1867133,36 @@ window.SWIM_DATA = {
      "points": 89
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "14:27",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 מעורב אישי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "16:02",
+     "heat": "1",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|נווה·קליין": {
    "id": "2015|נווה·קליין",
@@ -1857802,7 +1867199,36 @@ window.SWIM_DATA = {
      "points": 66
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "14:37",
+     "heat": "4",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "15:39",
+     "heat": "8",
+     "lane": "5",
+     "seedStr": "01:20.27",
+     "seedSeconds": 80.27
+    }
+   ]
   },
   "2018|מנסה·סמיר": {
    "id": "2018|מנסה·סמיר",
@@ -1857839,7 +1867265,22 @@ window.SWIM_DATA = {
      "points": 72
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "13:21",
+     "heat": "6",
+     "lane": "2",
+     "seedStr": "00:47.78",
+     "seedSeconds": 47.78
+    }
+   ]
   },
   "2017|אריאל·לוי": {
    "id": "2017|אריאל·לוי",
@@ -1857876,7 +1867317,36 @@ window.SWIM_DATA = {
      "points": 67
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "13:21",
+     "heat": "6",
+     "lane": "6",
+     "seedStr": "00:48.84",
+     "seedSeconds": 48.84
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "15:27",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2018|ניר·פרדר": {
    "id": "2018|ניר·פרדר",
@@ -1857913,7 +1867383,36 @@ window.SWIM_DATA = {
      "points": 33
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "13:18",
+     "heat": "4",
+     "lane": "6",
+     "seedStr": "01:01.73",
+     "seedSeconds": 61.73
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "15:22",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2018|יאיר·כהן": {
    "id": "2018|יאיר·כהן",
@@ -1857950,7 +1867449,36 @@ window.SWIM_DATA = {
      "points": 24
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "13:16",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "01:08.93",
+     "seedSeconds": 68.93
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "15:24",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2019|עילי·צרפתי": {
    "id": "2019|עילי·צרפתי",
@@ -1857987,7 +1867515,36 @@ window.SWIM_DATA = {
      "points": 24
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "13:16",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "01:08.35",
+     "seedSeconds": 68.35
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "15:22",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2018|איתן·זקשנסקי·עמיחי": {
    "id": "2018|איתן·זקשנסקי·עמיחי",
@@ -1858024,7 +1867581,36 @@ window.SWIM_DATA = {
      "points": 33
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "13:18",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "01:01.53",
+     "seedSeconds": 61.53
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "15:22",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2018|אחמד·טהה": {
    "id": "2018|אחמד·טהה",
@@ -1858061,7 +1867647,36 @@ window.SWIM_DATA = {
      "points": 68
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "14:22",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "15:22",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|אלעמראני·תמיר": {
    "id": "2016|אלעמראני·תמיר",
@@ -1858172,7 +1867787,36 @@ window.SWIM_DATA = {
      "points": 19
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:16",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "01:13.65",
+     "seedSeconds": 73.65
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 פרפר",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:42",
+     "heat": "1",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2018|בירן·רותם": {
    "id": "2018|בירן·רותם",
@@ -1858209,7 +1867853,36 @@ window.SWIM_DATA = {
      "points": 24
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "13:16",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "01:08.32",
+     "seedSeconds": 68.32
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "15:24",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2017|בוגוסלבסקי·שון": {
    "id": "2017|בוגוסלבסקי·שון",
@@ -1858246,7 +1867919,22 @@ window.SWIM_DATA = {
      "points": 49
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "13:19",
+     "heat": "5",
+     "lane": "6",
+     "seedStr": "00:54.36",
+     "seedSeconds": 54.36
+    }
+   ]
   },
   "2013|אלטורי·סארי": {
    "id": "2013|אלטורי·סארי",
@@ -1860586,7 +1870274,36 @@ window.SWIM_DATA = {
      "points": 135
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:28",
+     "heat": "11",
+     "lane": "1",
+     "seedStr": "00:38.71",
+     "seedSeconds": 38.71
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "15:37",
+     "heat": "7",
+     "lane": "5",
+     "seedStr": "01:39.04",
+     "seedSeconds": 99.04
+    }
+   ]
   },
   "2017|אריאל·משה": {
    "id": "2017|אריאל·משה",
@@ -1862826,7 +1872543,36 @@ window.SWIM_DATA = {
      "points": 155
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "13:09",
+     "heat": "7",
+     "lane": "2",
+     "seedStr": "00:42.46",
+     "seedSeconds": 42.46
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "14:02",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|נור·קבועה": {
    "id": "2015|נור·קבועה",
@@ -1862850,7 +1872596,36 @@ window.SWIM_DATA = {
      "points": 97
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "13:07",
+     "heat": "6",
+     "lane": "6",
+     "seedStr": "00:49.63",
+     "seedSeconds": 49.63
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "15:12",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|אוגולב·תמר": {
    "id": "2016|אוגולב·תמר",
@@ -1862874,7 +1872649,36 @@ window.SWIM_DATA = {
      "points": 74
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "13:06",
+     "heat": "5",
+     "lane": "1",
+     "seedStr": "00:54.28",
+     "seedSeconds": 54.28
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "15:09",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|אליענה·קיסלוב": {
    "id": "2016|אליענה·קיסלוב",
@@ -1862898,7 +1872702,22 @@ window.SWIM_DATA = {
      "points": 67
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "13:06",
+     "heat": "5",
+     "lane": "6",
+     "seedStr": "00:56.17",
+     "seedSeconds": 56.17
+    }
+   ]
   },
   "2016|אריאל·קפלן": {
    "id": "2016|אריאל·קפלן",
@@ -1862922,7 +1872741,22 @@ window.SWIM_DATA = {
      "points": 62
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:04",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "00:57.65",
+     "seedSeconds": 57.65
+    }
+   ]
   },
   "2018|אוסיפוב·מאיה": {
    "id": "2018|אוסיפוב·מאיה",
@@ -1862946,7 +1872780,22 @@ window.SWIM_DATA = {
      "points": 61
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:04",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "00:57.80",
+     "seedSeconds": 57.8
+    }
+   ]
   },
   "2018|גברזגי·קייאה": {
    "id": "2018|גברזגי·קייאה",
@@ -1862970,7 +1872819,22 @@ window.SWIM_DATA = {
      "points": 35
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:04",
+     "heat": "4",
+     "lane": "6",
+     "seedStr": "01:09.23",
+     "seedSeconds": 69.23
+    }
+   ]
   },
   "2018|סופיר·תהל": {
    "id": "2018|סופיר·תהל",
@@ -1862994,7 +1872858,22 @@ window.SWIM_DATA = {
      "points": 21
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:03",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "01:22.28",
+     "seedSeconds": 82.28
+    }
+   ]
   },
   "2019|משי·קידר": {
    "id": "2019|משי·קידר",
@@ -1863018,7 +1872897,22 @@ window.SWIM_DATA = {
      "points": 16
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:03",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "01:30.02",
+     "seedSeconds": 90.02
+    }
+   ]
   },
   "2017|דומברובסקי·עדן": {
    "id": "2017|דומברובסקי·עדן",
@@ -1863042,7 +1872936,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:00",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|הראל·יצחק·שפורן": {
    "id": "2015|הראל·יצחק·שפורן",
@@ -1863066,7 +1872975,36 @@ window.SWIM_DATA = {
      "points": 134
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "13:28",
+     "heat": "11",
+     "lane": "6",
+     "seedStr": "00:38.81",
+     "seedSeconds": 38.81
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "15:32",
+     "heat": "5",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2014|איליאן·ריסין": {
    "id": "2014|איליאן·ריסין",
@@ -1863090,7 +1873028,22 @@ window.SWIM_DATA = {
      "points": 118
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "13:27",
+     "heat": "10",
+     "lane": "6",
+     "seedStr": "00:40.57",
+     "seedSeconds": 40.57
+    }
+   ]
   },
   "2016|וורקנטין·מקס": {
    "id": "2016|וורקנטין·מקס",
@@ -1863114,7 +1873067,36 @@ window.SWIM_DATA = {
      "points": 88
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "שחייניות/ם עצמאיות/ם",
+     "startTime": "13:22",
+     "heat": "7",
+     "lane": "2",
+     "seedStr": "00:44.62",
+     "seedSeconds": 44.62
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "שחייניות/ם עצמאיות/ם",
+     "startTime": "15:27",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|זבולונוב·יואב": {
    "id": "2016|זבולונוב·יואב",
@@ -1863138,7 +1873120,22 @@ window.SWIM_DATA = {
      "points": 85
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "13:22",
+     "heat": "7",
+     "lane": "5",
+     "seedStr": "00:45.15",
+     "seedSeconds": 45.15
+    }
+   ]
   },
   "2013|סאיל·קרינאוי": {
    "id": "2013|סאיל·קרינאוי",
@@ -1863186,7 +1873183,22 @@ window.SWIM_DATA = {
      "points": 54
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:19",
+     "heat": "5",
+     "lane": "4",
+     "seedStr": "00:52.44",
+     "seedSeconds": 52.44
+    }
+   ]
   },
   "2015|דוד·חנניה": {
    "id": "2015|דוד·חנניה",
@@ -1863210,7 +1873222,22 @@ window.SWIM_DATA = {
      "points": 54
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:19",
+     "heat": "5",
+     "lane": "2",
+     "seedStr": "00:52.59",
+     "seedSeconds": 52.59
+    }
+   ]
   },
   "2016|מזרחי·עומר": {
    "id": "2016|מזרחי·עומר",
@@ -1863234,7 +1873261,22 @@ window.SWIM_DATA = {
      "points": 50
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "13:19",
+     "heat": "5",
+     "lane": "1",
+     "seedStr": "00:53.89",
+     "seedSeconds": 53.89
+    }
+   ]
   },
   "2017|חורי·מרטין": {
    "id": "2017|חורי·מרטין",
@@ -1863258,7 +1873300,22 @@ window.SWIM_DATA = {
      "points": 46
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מ.ס. רמלה",
+     "startTime": "13:18",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "00:55.24",
+     "seedSeconds": 55.24
+    }
+   ]
   },
   "2014|הראל·מיכאל": {
    "id": "2014|הראל·מיכאל",
@@ -1863282,7 +1873339,22 @@ window.SWIM_DATA = {
      "points": 45
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "13:18",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "00:55.81",
+     "seedSeconds": 55.81
+    }
+   ]
   },
   "2017|אליה·לוי": {
    "id": "2017|אליה·לוי",
@@ -1863330,7 +1873402,22 @@ window.SWIM_DATA = {
      "points": 43
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "13:18",
+     "heat": "4",
+     "lane": "5",
+     "seedStr": "00:56.49",
+     "seedSeconds": 56.49
+    }
+   ]
   },
   "2015|אליעזר·בן·דוד": {
    "id": "2015|אליעזר·בן·דוד",
@@ -1863378,7 +1873465,22 @@ window.SWIM_DATA = {
      "points": 27
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:16",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "01:06.33",
+     "seedSeconds": 66.33
+    }
+   ]
   },
   "2017|כהן·מיכאל": {
    "id": "2017|כהן·מיכאל",
@@ -1863402,7 +1873504,22 @@ window.SWIM_DATA = {
      "points": 17
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "13:16",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "01:16.52",
+     "seedSeconds": 76.52
+    }
+   ]
   },
   "2019|בנימין·זיו·מיארה": {
    "id": "2019|בנימין·זיו·מיארה",
@@ -1863426,7 +1873543,36 @@ window.SWIM_DATA = {
      "points": 16
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:15",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "01:18.44",
+     "seedSeconds": 78.44
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "15:22",
+     "heat": "1",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2018|אריאל·מרצ'קובסקי": {
    "id": "2018|אריאל·מרצ'קובסקי",
@@ -1863450,7 +1873596,22 @@ window.SWIM_DATA = {
      "points": 13
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "13:15",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "01:23.81",
+     "seedSeconds": 83.81
+    }
+   ]
   },
   "2018|אבו-עמראן·תופיק": {
    "id": "2018|אבו-עמראן·תופיק",
@@ -1863522,7 +1873683,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:13",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "15:24",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2018|אנטולי·מיכייליאק": {
    "id": "2018|אנטולי·מיכייליאק",
@@ -1863546,7 +1873736,36 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:13",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "15:24",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2016|עופרי·ערקובי": {
    "id": "2016|עופרי·ערקובי",
@@ -1866951,7 +1877170,36 @@ window.SWIM_DATA = {
      "points": 30
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חזה",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "Eilat Swimming",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "Eilat Swimming",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "01:03.74",
+     "seedSeconds": 63.74
+    }
+   ]
   },
   "2017|בן·שיפרין": {
    "id": "2017|בן·שיפרין",
@@ -1867242,7 +1877490,22 @@ window.SWIM_DATA = {
      "points": 58
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "Eilat Swimming",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "00:58.90",
+     "seedSeconds": 58.9
+    }
+   ]
   },
   "2019|ברוסנצוב·מילנה": {
    "id": "2019|ברוסנצוב·מילנה",
@@ -1867266,7 +1877529,22 @@ window.SWIM_DATA = {
      "points": 47
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "Eilat Swimming",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "01:03.04",
+     "seedSeconds": 63.04
+    }
+   ]
   },
   "2018|מיאקישב·סופיה": {
    "id": "2018|מיאקישב·סופיה",
@@ -1867314,7 +1877592,22 @@ window.SWIM_DATA = {
      "points": 29
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "Eilat Swimming",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "6",
+     "seedStr": "01:13.68",
+     "seedSeconds": 73.68
+    }
+   ]
   },
   "2018|מרכוס·עמרי": {
    "id": "2018|מרכוס·עמרי",
@@ -1867454,7 +1877747,22 @@ window.SWIM_DATA = {
      "points": 23
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "Eilat Swimming",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "5",
+     "seedStr": "01:09.59",
+     "seedSeconds": 69.59
+    }
+   ]
   },
   "2019|צ’שב·תמיר": {
    "id": "2019|צ’שב·תמיר",
@@ -1867978,7 +1878286,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:08",
+     "startTime": "10:19",
      "heat": "1",
      "lane": "2",
      "seedStr": "01:21.99",
@@ -1867992,7 +1878300,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:50",
+     "startTime": "10:57",
      "heat": "2",
      "lane": "3",
      "seedStr": "00:28.43",
@@ -1868142,7 +1878450,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "08:24",
+     "startTime": "08:53",
      "heat": "1",
      "lane": "3",
      "seedStr": "00:44.37",
@@ -1868156,7 +1878464,7 @@ window.SWIM_DATA = {
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי מרום רמת גן",
-     "startTime": "10:57",
+     "startTime": "11:02",
      "heat": "1",
      "lane": "2",
      "seedStr": "NT",
@@ -1869716,7 +1880024,36 @@ window.SWIM_DATA = {
      "points": 202
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 פרפר",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2013|ניר·שפושניק": {
    "id": "2013|ניר·שפושניק",
@@ -1869792,7 +1880129,36 @@ window.SWIM_DATA = {
      "points": 156
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 מעורב אישי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2015|אריאל·חמלניצקי": {
    "id": "2015|אריאל·חמלניצקי",
@@ -1869829,7 +1880195,22 @@ window.SWIM_DATA = {
      "points": 0
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
   },
   "2012|אדר·זורנו": {
    "id": "2012|אדר·זורנו",
@@ -1870837,6 +1881218,980 @@ window.SWIM_DATA = {
     }
    ]
   },
+  "2018|הרשקוביץ·ענבר": {
+   "id": "2018|הרשקוביץ·ענבר",
+   "displayName": "ענבר הרשקוביץ",
+   "birthYear": 2018,
+   "clubs": [
+    "מכבי לידר גני תקווה"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "13:00",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "15:09",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2016|אמה·קדושים": {
+   "id": "2016|אמה·קדושים",
+   "displayName": "אמה קדושים",
+   "birthYear": 2016,
+   "clubs": [
+    "מועדון ספורט מעלה אדומים"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "13:01",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2015|אמה·רוזנווסר": {
+   "id": "2015|אמה·רוזנווסר",
+   "displayName": "אמה רוזנווסר",
+   "birthYear": 2015,
+   "clubs": [
+    "מכבי לידר גני תקווה"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "13:01",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "15:12",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2015|לוין·מזרחי·נוי": {
+   "id": "2015|לוין·מזרחי·נוי",
+   "displayName": "נוי לוין מזרחי",
+   "birthYear": 2015,
+   "clubs": [
+    "מכבי ירושלים"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:01",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "15:12",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2012|אביו·זהר": {
+   "id": "2012|אביו·זהר",
+   "displayName": "זהר אביו",
+   "birthYear": 2012,
+   "clubs": [
+    "מכבי ירושלים"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:03",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "15:14",
+     "heat": "4",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2015|אלמה·בונדה": {
+   "id": "2015|אלמה·בונדה",
+   "displayName": "אלמה בונדה",
+   "birthYear": 2015,
+   "clubs": [
+    "מכבי לידר גני תקווה"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "13:03",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "15:12",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2017|ויסבורד·נמרוד": {
+   "id": "2017|ויסבורד·נמרוד",
+   "displayName": "נמרוד ויסבורד",
+   "birthYear": 2017,
+   "clubs": [
+    "מכבי לידר גני תקווה"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "13:13",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "15:27",
+     "heat": "3",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2018|קדושים·רפאל": {
+   "id": "2018|קדושים·רפאל",
+   "displayName": "רפאל קדושים",
+   "birthYear": 2018,
+   "clubs": [
+    "מועדון ספורט מעלה אדומים"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "13:13",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2015|דלאל·ליעד": {
+   "id": "2015|דלאל·ליעד",
+   "displayName": "ליעד דלאל",
+   "birthYear": 2015,
+   "clubs": [
+    "מועדון ספורט מעלה אדומים"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מועדון ספורט מעלה אדומים",
+     "startTime": "13:15",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2008|בן·נבו": {
+   "id": "2008|בן·נבו",
+   "displayName": "בן נבו",
+   "birthYear": 2008,
+   "clubs": [
+    "מכבי לידר גני תקווה"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "13:15",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "startTime": "15:32",
+     "heat": "5",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2015|איתן·ניסנבאום": {
+   "id": "2015|איתן·ניסנבאום",
+   "displayName": "איתן ניסנבאום",
+   "birthYear": 2015,
+   "clubs": [
+    "מכבי ירושלים"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:15",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "15:32",
+     "heat": "5",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2016|ירוסלב·מלחובסקי": {
+   "id": "2016|ירוסלב·מלחובסקי",
+   "displayName": "ירוסלב מלחובסקי",
+   "birthYear": 2016,
+   "clubs": [
+    "שחייניות/ם עצמאיות/ם"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "שחייניות/ם עצמאיות/ם",
+     "startTime": "13:15",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2017|אנט·מיילמן": {
+   "id": "2017|אנט·מיילמן",
+   "displayName": "אנט מיילמן",
+   "birthYear": 2017,
+   "clubs": [
+    "מכבי ירושלים"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "200 חופשי",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "13:52",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנות 7-99",
+     "poolLength": 25,
+     "club": "מכבי ירושלים",
+     "startTime": "15:09",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2019|דייויד·קוקין": {
+   "id": "2019|דייויד·קוקין",
+   "displayName": "דייויד קוקין",
+   "birthYear": 2019,
+   "clubs": [
+    "הפועל אילת"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חזה",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל אילת",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל אילת",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2019|אריאל·גליקמן": {
+   "id": "2019|אריאל·גליקמן",
+   "displayName": "אריאל גליקמן",
+   "birthYear": 2019,
+   "clubs": [
+    "הפועל באר שבע"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חזה",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל באר שבע",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2019|אדגרד·לובבקין": {
+   "id": "2019|אדגרד·לובבקין",
+   "displayName": "אדגרד לובבקין",
+   "birthYear": 2019,
+   "clubs": [
+    "מכבי אשדוד"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חזה",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2018|אברהמזון·גיא": {
+   "id": "2018|אברהמזון·גיא",
+   "displayName": "גיא אברהמזון",
+   "birthYear": 2018,
+   "clubs": [
+    "הפועל באר טוביה"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חזה",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2018|גורסקי·טומי": {
+   "id": "2018|גורסקי·טומי",
+   "displayName": "טומי גורסקי",
+   "birthYear": 2018,
+   "clubs": [
+    "מכבי אשדוד"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חזה",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2015|יהלי·ינובסקי": {
+   "id": "2015|יהלי·ינובסקי",
+   "displayName": "יהלי ינובסקי",
+   "birthYear": 2015,
+   "clubs": [
+    "הפועל ג'מים אילת"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חזה",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל ג'מים אילת",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל ג'מים אילת",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2019|עאסי·ריטה": {
+   "id": "2019|עאסי·ריטה",
+   "displayName": "ריטה עאסי",
+   "birthYear": 2019,
+   "clubs": [
+    "הפועל עומר"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "100 מעורב אישי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "הפועל עומר",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "הפועל עומר",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2018|מיה·קוניאבסקי": {
+   "id": "2018|מיה·קוניאבסקי",
+   "displayName": "מיה קוניאבסקי",
+   "birthYear": 2018,
+   "clubs": [
+    "הפועל אילת"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "הפועל אילת",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2017|מורוטוב·עליה": {
+   "id": "2017|מורוטוב·עליה",
+   "displayName": "עליה מורוטוב",
+   "birthYear": 2017,
+   "clubs": [
+    "Eilat Swimming"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "Eilat Swimming",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2018|אפשטיין·עופרי": {
+   "id": "2018|אפשטיין·עופרי",
+   "displayName": "עופרי אפשטיין",
+   "birthYear": 2018,
+   "clubs": [
+    "הפועל ג'מים אילת"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "הפועל ג'מים אילת",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2016|אמילי·סמארה": {
+   "id": "2016|אמילי·סמארה",
+   "displayName": "אמילי סמארה",
+   "birthYear": 2016,
+   "clubs": [
+    "הפועל ג'מים אילת"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנות 8-10",
+     "poolLength": 25,
+     "club": "הפועל ג'מים אילת",
+     "startTime": "00:00",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2019|מורוטוב·עליחאן": {
+   "id": "2019|מורוטוב·עליחאן",
+   "displayName": "עליחאן מורוטוב",
+   "birthYear": 2019,
+   "clubs": [
+    "Eilat Swimming"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "Eilat Swimming",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "3",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2018|איתמר·כרמי": {
+   "id": "2018|איתמר·כרמי",
+   "displayName": "איתמר כרמי",
+   "birthYear": 2018,
+   "clubs": [
+    "מתנ\"ס רמת הנגב"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "00:00",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2016|וולוק·רומי": {
+   "id": "2016|וולוק·רומי",
+   "displayName": "רומי וולוק",
+   "birthYear": 2016,
+   "clubs": [
+    "מכבי אשדוד"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנות 11-13",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2016|רובינסקי·שון": {
+   "id": "2016|רובינסקי·שון",
+   "displayName": "שון רובינסקי",
+   "birthYear": 2016,
+   "clubs": [
+    "מכבי אשדוד"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2015|יעקב·ליאם": {
+   "id": "2015|יעקב·ליאם",
+   "displayName": "ליאם יעקב",
+   "birthYear": 2015,
+   "clubs": [
+    "מכבי אשדוד"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "4",
+     "lane": "1",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2014|אדם·קרמר": {
+   "id": "2014|אדם·קרמר",
+   "displayName": "אדם קרמר",
+   "birthYear": 2014,
+   "clubs": [
+    "מכבי אשדוד"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "6",
+     "lane": "5",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
   "2017|גוסצנקו·נתן": {
    "id": "2017|גוסצנקו·נתן",
    "displayName": "נתן גוסצנקו",
@@ -1870877,18 +1882232,7 @@ window.SWIM_DATA = {
    ]
   }
  },
- "lastChecked": "2026-11-19 00:15",
- "newThisRun": 1098,
- "newComps": [
-  {
-   "name": "ליגה צעירים מחוז דרום- מחזור 1 - 17/10/2026",
-   "date": "2026-10-17",
-   "count": 395
-  },
-  {
-   "name": "ליגה נוער ובוגרים מס' 1- קרב רב מחוז דרום - 14/11/2026",
-   "date": "2026-11-14",
-   "count": 703
-  }
- ]
+ "lastChecked": "2026-11-20 00:37",
+ "newThisRun": 0,
+ "newComps": []
 };
