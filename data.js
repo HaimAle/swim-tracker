@@ -3,7 +3,7 @@ window.SWIM_DATA = {
  "generated": "2026-11-19",
  "source": "isr.org.il  →  loglig.com  (SQLite backend)",
  "isSeedSample": false,
- "swimmerCount": 6869,
+ "swimmerCount": 6870,
  "swimmers": {
   "2006|יבגניה·קליימן": {
    "id": "2006|יבגניה·קליימן",
@@ -485846,7 +485846,7 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל ג'מים אילת",
      "startTime": "00:00",
-     "heat": "2",
+     "heat": "3",
      "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
@@ -564365,8 +564365,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
-     "heat": "5",
-     "lane": "3",
+     "heat": "6",
+     "lane": "6",
      "seedStr": "01:31.53",
      "seedSeconds": 91.53
     },
@@ -564860,8 +564860,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
-     "heat": "4",
-     "lane": "5",
+     "heat": "1",
+     "lane": "2",
      "seedStr": "01:48.19",
      "seedSeconds": 108.19
     },
@@ -564874,7 +564874,7 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
-     "heat": "12",
+     "heat": "1",
      "lane": "1",
      "seedStr": "03:00.27 (25m)",
      "seedSeconds": null
@@ -572133,7 +572133,7 @@ window.SWIM_DATA = {
      "club": "הפועל עומר",
      "startTime": "00:00",
      "heat": "7",
-     "lane": "2",
+     "lane": "4",
      "seedStr": "01:15.40",
      "seedSeconds": 75.4
     },
@@ -572147,7 +572147,7 @@ window.SWIM_DATA = {
      "club": "הפועל עומר",
      "startTime": "00:00",
      "heat": "14",
-     "lane": "5",
+     "lane": "2",
      "seedStr": "02:40.46 (25m)",
      "seedSeconds": null
     }
@@ -574015,7 +574015,7 @@ window.SWIM_DATA = {
      "club": "הפועל ג'מים אילת",
      "startTime": "00:00",
      "heat": "3",
-     "lane": "5",
+     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -575026,7 +575026,7 @@ window.SWIM_DATA = {
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
      "heat": "5",
-     "lane": "2",
+     "lane": "4",
      "seedStr": "01:33.33",
      "seedSeconds": 93.33
     },
@@ -575040,7 +575040,7 @@ window.SWIM_DATA = {
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
      "heat": "14",
-     "lane": "4",
+     "lane": "3",
      "seedStr": "02:33.76 (25m)",
      "seedSeconds": null
     }
@@ -575585,8 +575585,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל עומר",
      "startTime": "00:00",
-     "heat": "6",
-     "lane": "3",
+     "heat": "7",
+     "lane": "6",
      "seedStr": "01:24.41",
      "seedSeconds": 84.41
     },
@@ -576028,8 +576028,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
-     "heat": "7",
-     "lane": "3",
+     "heat": "1",
+     "lane": "4",
      "seedStr": "03:15.46 (25m)",
      "seedSeconds": null
     },
@@ -576042,8 +576042,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
-     "heat": "10",
-     "lane": "1",
+     "heat": "1",
+     "lane": "6",
      "seedStr": "03:14.83 (25m)",
      "seedSeconds": null
     }
@@ -576316,7 +576316,7 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל ג'מים אילת",
      "startTime": "00:00",
-     "heat": "10",
+     "heat": "2",
      "lane": "5",
      "seedStr": "03:10.86 (25m)",
      "seedSeconds": null
@@ -576708,7 +576708,7 @@ window.SWIM_DATA = {
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
      "heat": "10",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "03:15.14 (25m)",
      "seedSeconds": null
     }
@@ -577443,7 +577443,7 @@ window.SWIM_DATA = {
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
      "heat": "2",
-     "lane": "3",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -577456,8 +577456,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
-     "heat": "3",
-     "lane": "4",
+     "heat": "2",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -577910,7 +577910,7 @@ window.SWIM_DATA = {
      "club": "הפועל עומר",
      "startTime": "00:00",
      "heat": "2",
-     "lane": "2",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -578707,7 +578707,7 @@ window.SWIM_DATA = {
      "club": "הפועל עומר",
      "startTime": "00:00",
      "heat": "2",
-     "lane": "1",
+     "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -578720,8 +578720,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל עומר",
      "startTime": "00:00",
-     "heat": "3",
-     "lane": "3",
+     "heat": "4",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -579434,7 +579434,7 @@ window.SWIM_DATA = {
      "club": "הפועל עומר",
      "startTime": "00:00",
      "heat": "6",
-     "lane": "6",
+     "lane": "1",
      "seedStr": "01:28.64",
      "seedSeconds": 88.64
     },
@@ -579447,8 +579447,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל עומר",
      "startTime": "00:00",
-     "heat": "11",
-     "lane": "3",
+     "heat": "12",
+     "lane": "5",
      "seedStr": "03:05.50 (25m)",
      "seedSeconds": null
     }
@@ -582162,7 +582162,7 @@ window.SWIM_DATA = {
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
      "heat": "4",
-     "lane": "6",
+     "lane": "1",
      "seedStr": "01:53.92",
      "seedSeconds": 113.92
     },
@@ -582176,7 +582176,7 @@ window.SWIM_DATA = {
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
      "heat": "9",
-     "lane": "1",
+     "lane": "5",
      "seedStr": "03:22.66 (25m)",
      "seedSeconds": null
     }
@@ -584573,8 +584573,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
-     "heat": "2",
-     "lane": "3",
+     "heat": "3",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -584588,7 +584588,7 @@ window.SWIM_DATA = {
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
      "heat": "5",
-     "lane": "2",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -702749,7 +702749,7 @@ window.SWIM_DATA = {
      "club": "הפועל שחייני הנגב",
      "startTime": "00:00",
      "heat": "3",
-     "lane": "5",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1306770,7 +1306770,7 @@ window.SWIM_DATA = {
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
      "heat": "7",
-     "lane": "4",
+     "lane": "3",
      "seedStr": "01:15.15",
      "seedSeconds": 75.15
     },
@@ -1310039,7 +1310039,7 @@ window.SWIM_DATA = {
      "club": "הפועל באר שבע",
      "startTime": "00:00",
      "heat": "5",
-     "lane": "1",
+     "lane": "5",
      "seedStr": "01:35.27",
      "seedSeconds": 95.27
     },
@@ -1310052,8 +1310052,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל באר שבע",
      "startTime": "00:00",
-     "heat": "10",
-     "lane": "3",
+     "heat": "11",
+     "lane": "5",
      "seedStr": "03:19.09 (25m)",
      "seedSeconds": null
     }
@@ -1323895,7 +1323895,7 @@ window.SWIM_DATA = {
      "club": "הפועל שחייני הנגב",
      "startTime": "00:00",
      "heat": "7",
-     "lane": "5",
+     "lane": "2",
      "seedStr": "01:19.14",
      "seedSeconds": 79.14
     },
@@ -1338500,7 +1338500,7 @@ window.SWIM_DATA = {
      "club": "הפועל באר טוביה",
      "startTime": "00:00",
      "heat": "14",
-     "lane": "1",
+     "lane": "5",
      "seedStr": "02:41.12 (25m)",
      "seedSeconds": null
     }
@@ -1338955,7 +1338955,7 @@ window.SWIM_DATA = {
      "club": "הפועל באר טוביה",
      "startTime": "00:00",
      "heat": "7",
-     "lane": "6",
+     "lane": "1",
      "seedStr": "01:22.70",
      "seedSeconds": 82.7
     },
@@ -1339438,7 +1339438,7 @@ window.SWIM_DATA = {
      "club": "הפועל באר טוביה",
      "startTime": "00:00",
      "heat": "14",
-     "lane": "2",
+     "lane": "4",
      "seedStr": "02:37.99 (25m)",
      "seedSeconds": null
     }
@@ -1339867,7 +1339867,7 @@ window.SWIM_DATA = {
      "club": "הפועל באר טוביה",
      "startTime": "00:00",
      "heat": "9",
-     "lane": "2",
+     "lane": "4",
      "seedStr": "03:20.18 (25m)",
      "seedSeconds": null
     }
@@ -1341011,7 +1341011,7 @@ window.SWIM_DATA = {
      "club": "הפועל באר טוביה",
      "startTime": "00:00",
      "heat": "4",
-     "lane": "6",
+     "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1343230,7 +1343230,7 @@ window.SWIM_DATA = {
      "club": "הפועל באר טוביה",
      "startTime": "00:00",
      "heat": "6",
-     "lane": "1",
+     "lane": "5",
      "seedStr": "01:27.04",
      "seedSeconds": 87.04
     },
@@ -1343244,7 +1343244,7 @@ window.SWIM_DATA = {
      "club": "הפועל באר טוביה",
      "startTime": "00:00",
      "heat": "7",
-     "lane": "6",
+     "lane": "5",
      "seedStr": "03:25.49 (25m)",
      "seedSeconds": null
     }
@@ -1347107,8 +1347107,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל באר טוביה",
      "startTime": "00:00",
-     "heat": "9",
-     "lane": "3",
+     "heat": "10",
+     "lane": "5",
      "seedStr": "03:18.93 (25m)",
      "seedSeconds": null
     }
@@ -1347563,7 +1347563,7 @@ window.SWIM_DATA = {
      "club": "הפועל באר טוביה",
      "startTime": "00:00",
      "heat": "11",
-     "lane": "5",
+     "lane": "2",
      "seedStr": "03:09.96 (25m)",
      "seedSeconds": null
     }
@@ -1447494,7 +1447494,7 @@ window.SWIM_DATA = {
      "club": "מכבי אשדוד",
      "startTime": "00:00",
      "heat": "15",
-     "lane": "1",
+     "lane": "5",
      "seedStr": "02:28.41 (25m)",
      "seedSeconds": null
     }
@@ -1448236,7 +1448236,7 @@ window.SWIM_DATA = {
      "club": "מכבי אשדוד",
      "startTime": "00:00",
      "heat": "15",
-     "lane": "6",
+     "lane": "1",
      "seedStr": "02:29.11 (25m)",
      "seedSeconds": null
     }
@@ -1448965,7 +1448965,7 @@ window.SWIM_DATA = {
      "club": "מכבי אשדוד",
      "startTime": "00:00",
      "heat": "14",
-     "lane": "6",
+     "lane": "1",
      "seedStr": "02:41.97 (25m)",
      "seedSeconds": null
     }
@@ -1449588,7 +1449588,7 @@ window.SWIM_DATA = {
      "club": "מכבי אשדוד",
      "startTime": "00:00",
      "heat": "11",
-     "lane": "6",
+     "lane": "1",
      "seedStr": "03:16.00 (25m)",
      "seedSeconds": null
     }
@@ -1450822,7 +1450822,7 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "מכבי אשדוד",
      "startTime": "00:00",
-     "heat": "3",
+     "heat": "1",
      "lane": "2",
      "seedStr": "01:36.47",
      "seedSeconds": 96.47
@@ -1450837,7 +1450837,7 @@ window.SWIM_DATA = {
      "club": "מכבי אשדוד",
      "startTime": "00:00",
      "heat": "4",
-     "lane": "5",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1452305,7 +1452305,7 @@ window.SWIM_DATA = {
      "club": "מכבי אשדוד",
      "startTime": "00:00",
      "heat": "4",
-     "lane": "2",
+     "lane": "4",
      "seedStr": "01:44.45",
      "seedSeconds": 104.45
     },
@@ -1452319,7 +1452319,7 @@ window.SWIM_DATA = {
      "club": "מכבי אשדוד",
      "startTime": "00:00",
      "heat": "12",
-     "lane": "6",
+     "lane": "1",
      "seedStr": "03:03.88 (25m)",
      "seedSeconds": null
     }
@@ -1452605,7 +1452605,7 @@ window.SWIM_DATA = {
      "club": "מכבי אשדוד",
      "startTime": "00:00",
      "heat": "7",
-     "lane": "5",
+     "lane": "6",
      "seedStr": "03:22.10 (25m)",
      "seedSeconds": null
     },
@@ -1452619,7 +1452619,7 @@ window.SWIM_DATA = {
      "club": "מכבי אשדוד",
      "startTime": "00:00",
      "heat": "6",
-     "lane": "6",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1453788,7 +1453788,7 @@ window.SWIM_DATA = {
      "club": "מכבי אשדוד",
      "startTime": "00:00",
      "heat": "6",
-     "lane": "2",
+     "lane": "4",
      "seedStr": "01:24.65",
      "seedSeconds": 84.65
     },
@@ -1453801,8 +1453801,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "מכבי אשדוד",
      "startTime": "00:00",
-     "heat": "12",
-     "lane": "3",
+     "heat": "13",
+     "lane": "6",
      "seedStr": "02:53.47 (25m)",
      "seedSeconds": null
     }
@@ -1458337,7 +1458337,7 @@ window.SWIM_DATA = {
      "club": "הפועל שחייני הנגב",
      "startTime": "00:00",
      "heat": "15",
-     "lane": "5",
+     "lane": "2",
      "seedStr": "02:24.04 (25m)",
      "seedSeconds": null
     }
@@ -1474426,7 +1474426,7 @@ window.SWIM_DATA = {
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
      "heat": "10",
-     "lane": "2",
+     "lane": "4",
      "seedStr": "03:01.81 (25m)",
      "seedSeconds": null
     }
@@ -1475479,36 +1475479,7 @@ window.SWIM_DATA = {
      "points": 252
     }
    ],
-   "future": [
-    {
-     "date": "2026-11-21",
-     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
-     "compId": 15809,
-     "event": "100 פרפר",
-     "category": "בנים 11-14",
-     "poolLength": 25,
-     "club": "הפועל שחייני הנגב",
-     "startTime": "00:00",
-     "heat": "7",
-     "lane": "3",
-     "seedStr": "01:14.14",
-     "seedSeconds": 74.14
-    },
-    {
-     "date": "2026-11-21",
-     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
-     "compId": 15809,
-     "event": "200 חופשי",
-     "category": "בנים 11-14",
-     "poolLength": 25,
-     "club": "הפועל שחייני הנגב",
-     "startTime": "00:00",
-     "heat": "15",
-     "lane": "2",
-     "seedStr": "02:23.02 (25m)",
-     "seedSeconds": null
-    }
-   ]
+   "future": []
   },
   "2013|זדורוז'ני·ליאון": {
    "id": "2013|זדורוז'ני·ליאון",
@@ -1482216,8 +1482187,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל באר שבע",
      "startTime": "00:00",
-     "heat": "14",
-     "lane": "3",
+     "heat": "15",
+     "lane": "6",
      "seedStr": "02:33.60 (25m)",
      "seedSeconds": null
     }
@@ -1488612,7 +1488583,7 @@ window.SWIM_DATA = {
      "club": "מכבי אשדוד",
      "startTime": "00:00",
      "heat": "7",
-     "lane": "1",
+     "lane": "5",
      "seedStr": "01:19.15",
      "seedSeconds": 79.15
     },
@@ -1526231,7 +1526202,7 @@ window.SWIM_DATA = {
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
      "heat": "5",
-     "lane": "6",
+     "lane": "5",
      "seedStr": "03:46.87 (25m)",
      "seedSeconds": null
     }
@@ -1530048,7 +1530019,7 @@ window.SWIM_DATA = {
      "club": "הפועל באר שבע",
      "startTime": "00:00",
      "heat": "12",
-     "lane": "2",
+     "lane": "4",
      "seedStr": "02:56.96 (25m)",
      "seedSeconds": null
     }
@@ -1533639,7 +1533610,7 @@ window.SWIM_DATA = {
      "club": "הפועל באר שבע",
      "startTime": "00:00",
      "heat": "5",
-     "lane": "4",
+     "lane": "3",
      "seedStr": "01:33.29",
      "seedSeconds": 93.29
     },
@@ -1533653,7 +1533624,7 @@ window.SWIM_DATA = {
      "club": "הפועל באר שבע",
      "startTime": "00:00",
      "heat": "12",
-     "lane": "5",
+     "lane": "2",
      "seedStr": "02:57.12 (25m)",
      "seedSeconds": null
     }
@@ -1534860,7 +1534831,7 @@ window.SWIM_DATA = {
      "club": "הפועל באר שבע",
      "startTime": "00:00",
      "heat": "11",
-     "lane": "2",
+     "lane": "4",
      "seedStr": "03:08.00 (25m)",
      "seedSeconds": null
     }
@@ -1537176,7 +1537147,7 @@ window.SWIM_DATA = {
      "club": "Eilat Swimming",
      "startTime": "00:00",
      "heat": "4",
-     "lane": "4",
+     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1548359,7 +1548330,7 @@ window.SWIM_DATA = {
      "club": "הפועל באר שבע",
      "startTime": "00:00",
      "heat": "8",
-     "lane": "1",
+     "lane": "2",
      "seedStr": "03:09.12 (25m)",
      "seedSeconds": null
     },
@@ -1548373,7 +1548344,7 @@ window.SWIM_DATA = {
      "club": "הפועל באר שבע",
      "startTime": "00:00",
      "heat": "13",
-     "lane": "4",
+     "lane": "3",
      "seedStr": "02:49.72 (25m)",
      "seedSeconds": null
     }
@@ -1549203,8 +1549174,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
-     "heat": "13",
-     "lane": "3",
+     "heat": "14",
+     "lane": "6",
      "seedStr": "02:44.09 (25m)",
      "seedSeconds": null
     }
@@ -1550549,8 +1550520,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל שחייני הנגב",
      "startTime": "00:00",
-     "heat": "3",
-     "lane": "6",
+     "heat": "1",
+     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1550563,8 +1550534,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל שחייני הנגב",
      "startTime": "00:00",
-     "heat": "13",
-     "lane": "2",
+     "heat": "1",
+     "lane": "3",
      "seedStr": "02:50.01 (25m)",
      "seedSeconds": null
     }
@@ -1551006,7 +1550977,7 @@ window.SWIM_DATA = {
      "club": "הפועל שחייני הנגב",
      "startTime": "00:00",
      "heat": "6",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "03:49.07 (25m)",
      "seedSeconds": null
     },
@@ -1551020,7 +1550991,7 @@ window.SWIM_DATA = {
      "club": "הפועל שחייני הנגב",
      "startTime": "00:00",
      "heat": "9",
-     "lane": "4",
+     "lane": "3",
      "seedStr": "03:18.95 (25m)",
      "seedSeconds": null
     }
@@ -1551346,7 +1551317,7 @@ window.SWIM_DATA = {
      "club": "הפועל שחייני הנגב",
      "startTime": "00:00",
      "heat": "9",
-     "lane": "6",
+     "lane": "1",
      "seedStr": "03:23.06 (25m)",
      "seedSeconds": null
     }
@@ -1551929,8 +1551900,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל שחייני הנגב",
      "startTime": "00:00",
-     "heat": "7",
-     "lane": "3",
+     "heat": "8",
+     "lane": "6",
      "seedStr": "04:01.60 (25m)",
      "seedSeconds": null
     }
@@ -1552397,8 +1552368,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל שחייני הנגב",
      "startTime": "00:00",
-     "heat": "6",
-     "lane": "2",
+     "heat": "7",
+     "lane": "3",
      "seedStr": "03:29.88 (25m)",
      "seedSeconds": null
     },
@@ -1552412,7 +1552383,7 @@ window.SWIM_DATA = {
      "club": "הפועל שחייני הנגב",
      "startTime": "00:00",
      "heat": "12",
-     "lane": "4",
+     "lane": "3",
      "seedStr": "02:56.07 (25m)",
      "seedSeconds": null
     }
@@ -1555012,7 +1554983,7 @@ window.SWIM_DATA = {
      "club": "הפועל אילת",
      "startTime": "00:00",
      "heat": "8",
-     "lane": "1",
+     "lane": "5",
      "seedStr": "03:38.24 (25m)",
      "seedSeconds": null
     }
@@ -1555337,7 +1555308,7 @@ window.SWIM_DATA = {
      "club": "הפועל אילת",
      "startTime": "00:00",
      "heat": "4",
-     "lane": "4",
+     "lane": "3",
      "seedStr": "01:42.50",
      "seedSeconds": 102.5
     },
@@ -1555871,7 +1555842,7 @@ window.SWIM_DATA = {
      "club": "הפועל שחייני הנגב",
      "startTime": "00:00",
      "heat": "5",
-     "lane": "5",
+     "lane": "2",
      "seedStr": "01:34.45",
      "seedSeconds": 94.45
     },
@@ -1555885,7 +1555856,7 @@ window.SWIM_DATA = {
      "club": "הפועל שחייני הנגב",
      "startTime": "00:00",
      "heat": "13",
-     "lane": "5",
+     "lane": "2",
      "seedStr": "02:50.26 (25m)",
      "seedSeconds": null
     }
@@ -1556432,7 +1556403,7 @@ window.SWIM_DATA = {
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
      "heat": "8",
-     "lane": "2",
+     "lane": "4",
      "seedStr": "03:31.88 (25m)",
      "seedSeconds": null
     }
@@ -1557378,7 +1557349,7 @@ window.SWIM_DATA = {
      "club": "הפועל באר שבע",
      "startTime": "00:00",
      "heat": "7",
-     "lane": "2",
+     "lane": "4",
      "seedStr": "04:10.83 (25m)",
      "seedSeconds": null
     }
@@ -1557769,7 +1557740,7 @@ window.SWIM_DATA = {
      "club": "הפועל עומר",
      "startTime": "00:00",
      "heat": "2",
-     "lane": "4",
+     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1558122,7 +1558093,7 @@ window.SWIM_DATA = {
      "club": "הפועל שחייני הנגב",
      "startTime": "00:00",
      "heat": "7",
-     "lane": "5",
+     "lane": "2",
      "seedStr": "04:11.00 (25m)",
      "seedSeconds": null
     }
@@ -1558818,7 +1558789,7 @@ window.SWIM_DATA = {
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
      "heat": "3",
-     "lane": "6",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1559430,7 +1559401,7 @@ window.SWIM_DATA = {
      "club": "הפועל באר שבע",
      "startTime": "00:00",
      "heat": "9",
-     "lane": "5",
+     "lane": "2",
      "seedStr": "03:20.50 (25m)",
      "seedSeconds": null
     }
@@ -1566230,7 +1566201,7 @@ window.SWIM_DATA = {
      "club": "מכבי אשדוד",
      "startTime": "00:00",
      "heat": "11",
-     "lane": "4",
+     "lane": "3",
      "seedStr": "03:06.69 (25m)",
      "seedSeconds": null
     }
@@ -1587732,7 +1587703,7 @@ window.SWIM_DATA = {
      "club": "הפועל אילת",
      "startTime": "00:00",
      "heat": "3",
-     "lane": "4",
+     "lane": "3",
      "seedStr": "02:02.28",
      "seedSeconds": 122.28
     },
@@ -1587745,8 +1587716,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל אילת",
      "startTime": "00:00",
-     "heat": "8",
-     "lane": "3",
+     "heat": "9",
+     "lane": "6",
      "seedStr": "03:25.36 (25m)",
      "seedSeconds": null
     }
@@ -1605412,7 +1605383,7 @@ window.SWIM_DATA = {
      "club": "מכבי אשדוד",
      "startTime": "00:00",
      "heat": "13",
-     "lane": "1",
+     "lane": "5",
      "seedStr": "02:50.26 (25m)",
      "seedSeconds": null
     }
@@ -1636552,8 +1636523,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל באר שבע",
      "startTime": "00:00",
-     "heat": "1",
-     "lane": "4",
+     "heat": "2",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1642352,7 +1642323,7 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "מכבי אשדוד",
      "startTime": "00:00",
-     "heat": "1",
+     "heat": "3",
      "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
@@ -1643268,8 +1643239,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל באר שבע",
      "startTime": "00:00",
-     "heat": "1",
-     "lane": "3",
+     "heat": "6",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1643283,7 +1643254,7 @@ window.SWIM_DATA = {
      "club": "הפועל באר שבע",
      "startTime": "00:00",
      "heat": "2",
-     "lane": "4",
+     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1643556,7 +1643527,7 @@ window.SWIM_DATA = {
      "club": "הפועל באר טוביה",
      "startTime": "00:00",
      "heat": "6",
-     "lane": "5",
+     "lane": "2",
      "seedStr": "01:25.43",
      "seedSeconds": 85.43
     },
@@ -1701264,8 +1701235,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
-     "heat": "4",
-     "lane": "3",
+     "heat": "5",
+     "lane": "6",
      "seedStr": "01:35.77",
      "seedSeconds": 95.77
     },
@@ -1701279,7 +1701250,7 @@ window.SWIM_DATA = {
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
      "heat": "8",
-     "lane": "5",
+     "lane": "2",
      "seedStr": "03:32.74 (25m)",
      "seedSeconds": null
     }
@@ -1701766,8 +1701737,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
-     "heat": "7",
-     "lane": "4",
+     "heat": "1",
+     "lane": "2",
      "seedStr": "04:08.63 (25m)",
      "seedSeconds": null
     }
@@ -1702012,7 +1701983,7 @@ window.SWIM_DATA = {
      "club": "הפועל שחייני הנגב",
      "startTime": "00:00",
      "heat": "4",
-     "lane": "1",
+     "lane": "5",
      "seedStr": "01:52.11",
      "seedSeconds": 112.11
     },
@@ -1702026,7 +1701997,7 @@ window.SWIM_DATA = {
      "club": "הפועל שחייני הנגב",
      "startTime": "00:00",
      "heat": "8",
-     "lane": "4",
+     "lane": "3",
      "seedStr": "03:30.18 (25m)",
      "seedSeconds": null
     }
@@ -1702248,7 +1702219,7 @@ window.SWIM_DATA = {
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
      "heat": "7",
-     "lane": "6",
+     "lane": "1",
      "seedStr": "04:22.77 (25m)",
      "seedSeconds": null
     }
@@ -1702481,8 +1702452,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל עומר",
      "startTime": "00:00",
-     "heat": "1",
-     "lane": "3",
+     "heat": "2",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1703316,8 +1703287,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "מכבי אשדוד",
      "startTime": "00:00",
-     "heat": "3",
-     "lane": "4",
+     "heat": "1",
+     "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1703331,7 +1703302,7 @@ window.SWIM_DATA = {
      "club": "מכבי אשדוד",
      "startTime": "00:00",
      "heat": "5",
-     "lane": "5",
+     "lane": "6",
      "seedStr": "03:29.09 (25m)",
      "seedSeconds": null
     }
@@ -1703720,8 +1703691,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל שחייני הנגב",
      "startTime": "00:00",
-     "heat": "1",
-     "lane": "2",
+     "heat": "3",
+     "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1703956,7 +1703927,7 @@ window.SWIM_DATA = {
      "club": "הפועל שחייני הנגב",
      "startTime": "00:00",
      "heat": "1",
-     "lane": "3",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1704489,8 +1704460,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל שחייני הנגב",
      "startTime": "00:00",
-     "heat": "3",
-     "lane": "6",
+     "heat": "1",
+     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1705231,7 +1705202,7 @@ window.SWIM_DATA = {
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
      "heat": "6",
-     "lane": "4",
+     "lane": "3",
      "seedStr": "01:24.64",
      "seedSeconds": 84.64
     },
@@ -1705749,7 +1705720,7 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל עומר",
      "startTime": "00:00",
-     "heat": "1",
+     "heat": "4",
      "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
@@ -1705763,8 +1705734,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל עומר",
      "startTime": "00:00",
-     "heat": "1",
-     "lane": "1",
+     "heat": "7",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1705997,8 +1705968,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל שחייני הנגב",
      "startTime": "00:00",
-     "heat": "5",
-     "lane": "6",
+     "heat": "1",
+     "lane": "5",
      "seedStr": "01:35.30",
      "seedSeconds": 95.3
     },
@@ -1706012,7 +1705983,7 @@ window.SWIM_DATA = {
      "club": "הפועל שחייני הנגב",
      "startTime": "00:00",
      "heat": "2",
-     "lane": "6",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1706529,8 +1706500,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל שחייני הנגב",
      "startTime": "00:00",
-     "heat": "2",
-     "lane": "6",
+     "heat": "1",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1706544,7 +1706515,7 @@ window.SWIM_DATA = {
      "club": "הפועל שחייני הנגב",
      "startTime": "00:00",
      "heat": "11",
-     "lane": "1",
+     "lane": "6",
      "seedStr": "03:15.67 (25m)",
      "seedSeconds": null
     }
@@ -1706699,8 +1706670,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל באר שבע",
      "startTime": "00:00",
-     "heat": "3",
-     "lane": "3",
+     "heat": "4",
+     "lane": "6",
      "seedStr": "01:58.21",
      "seedSeconds": 118.21
     },
@@ -1706713,7 +1706684,7 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל באר שבע",
      "startTime": "00:00",
-     "heat": "1",
+     "heat": "3",
      "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
@@ -1707102,8 +1707073,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל ג'מים אילת",
      "startTime": "00:00",
-     "heat": "5",
-     "lane": "6",
+     "heat": "2",
+     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1707645,8 +1707616,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל עומר",
      "startTime": "00:00",
-     "heat": "2",
-     "lane": "1",
+     "heat": "5",
+     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1708139,7 +1708110,7 @@ window.SWIM_DATA = {
      "club": "הפועל עומר",
      "startTime": "00:00",
      "heat": "2",
-     "lane": "2",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1708347,8 +1708318,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל שחייני הנגב",
      "startTime": "00:00",
-     "heat": "5",
-     "lane": "2",
+     "heat": "1",
+     "lane": "1",
      "seedStr": "00:51.56",
      "seedSeconds": 51.56
     }
@@ -1708886,7 +1708857,7 @@ window.SWIM_DATA = {
      "club": "הפועל באר שבע",
      "startTime": "00:00",
      "heat": "2",
-     "lane": "1",
+     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1708900,7 +1708871,7 @@ window.SWIM_DATA = {
      "club": "הפועל באר שבע",
      "startTime": "00:00",
      "heat": "10",
-     "lane": "4",
+     "lane": "3",
      "seedStr": "03:32.93 (25m)",
      "seedSeconds": null
     }
@@ -1709095,7 +1709066,7 @@ window.SWIM_DATA = {
      "club": "הפועל עומר",
      "startTime": "00:00",
      "heat": "3",
-     "lane": "6",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1709251,7 +1709222,7 @@ window.SWIM_DATA = {
      "club": "הפועל עומר",
      "startTime": "00:00",
      "heat": "3",
-     "lane": "2",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1709694,7 +1709665,7 @@ window.SWIM_DATA = {
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
      "heat": "3",
-     "lane": "2",
+     "lane": "4",
      "seedStr": "02:10.18",
      "seedSeconds": 130.18
     },
@@ -1709708,7 +1709679,7 @@ window.SWIM_DATA = {
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
      "heat": "7",
-     "lane": "1",
+     "lane": "5",
      "seedStr": "04:17.53 (25m)",
      "seedSeconds": null
     }
@@ -1710288,8 +1710259,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל שחייני הנגב",
      "startTime": "00:00",
-     "heat": "4",
-     "lane": "5",
+     "heat": "1",
+     "lane": "2",
      "seedStr": "00:59.75",
      "seedSeconds": 59.75
     }
@@ -1710419,7 +1710390,7 @@ window.SWIM_DATA = {
      "club": "הפועל שחייני הנגב",
      "startTime": "00:00",
      "heat": "6",
-     "lane": "1",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1744182,7 +1744153,7 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
-     "heat": "3",
+     "heat": "1",
      "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
@@ -1744196,8 +1744167,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
-     "heat": "8",
-     "lane": "2",
+     "heat": "1",
+     "lane": "6",
      "seedStr": "03:05.33 (25m)",
      "seedSeconds": null
     }
@@ -1744442,7 +1744413,7 @@ window.SWIM_DATA = {
      "club": "הפועל באר טוביה",
      "startTime": "00:00",
      "heat": "13",
-     "lane": "6",
+     "lane": "1",
      "seedStr": "02:52.94 (25m)",
      "seedSeconds": null
     }
@@ -1744716,7 +1744687,7 @@ window.SWIM_DATA = {
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
      "heat": "8",
-     "lane": "6",
+     "lane": "1",
      "seedStr": "03:51.63 (25m)",
      "seedSeconds": null
     }
@@ -1746731,8 +1746702,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל באר טוביה",
      "startTime": "00:00",
-     "heat": "5",
-     "lane": "3",
+     "heat": "6",
+     "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1747146,8 +1747117,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
-     "heat": "1",
-     "lane": "4",
+     "heat": "3",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1747160,8 +1747131,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
-     "heat": "2",
-     "lane": "5",
+     "heat": "5",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1747383,7 +1747354,7 @@ window.SWIM_DATA = {
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
      "heat": "1",
-     "lane": "2",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1747808,8 +1747779,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל באר טוביה",
      "startTime": "00:00",
-     "heat": "6",
-     "lane": "1",
+     "heat": "1",
+     "lane": "5",
      "seedStr": "00:47.51",
      "seedSeconds": 47.51
     }
@@ -1748132,8 +1748103,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל באר טוביה",
      "startTime": "00:00",
-     "heat": "4",
-     "lane": "3",
+     "heat": "5",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1780223,7 +1780194,22 @@ window.SWIM_DATA = {
      "points": 98
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה אזורית וייסגל",
+     "compId": 15999,
+     "event": "50 חזה",
+     "category": "בנים 8-15",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "09:02",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "00:54.06",
+     "seedSeconds": 54.06
+    }
+   ]
   },
   "2015|רימון·שן": {
    "id": "2015|רימון·שן",
@@ -1782607,7 +1782593,7 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל שחייני הנגב",
      "startTime": "00:00",
-     "heat": "4",
+     "heat": "1",
      "lane": "3",
      "seedStr": "00:51.47",
      "seedSeconds": 51.47
@@ -1782790,7 +1782776,7 @@ window.SWIM_DATA = {
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
      "heat": "1",
-     "lane": "4",
+     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1826776,7 +1826762,7 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
-     "heat": "1",
+     "heat": "5",
      "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
@@ -1826790,8 +1826776,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
-     "heat": "1",
-     "lane": "5",
+     "heat": "7",
+     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1828302,7 +1828288,7 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "מכבי אשדוד",
      "startTime": "00:00",
-     "heat": "5",
+     "heat": "1",
      "lane": "6",
      "seedStr": "00:54.14",
      "seedSeconds": 54.14
@@ -1829077,7 +1829063,7 @@ window.SWIM_DATA = {
      "club": "הפועל שחייני הנגב",
      "startTime": "00:00",
      "heat": "4",
-     "lane": "5",
+     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1836289,7 +1836275,7 @@ window.SWIM_DATA = {
      "club": "Eilat Swimming",
      "startTime": "00:00",
      "heat": "6",
-     "lane": "2",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1859731,7 +1859717,7 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל שחייני הנגב",
      "startTime": "00:00",
-     "heat": "5",
+     "heat": "1",
      "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
@@ -1859745,8 +1859731,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל שחייני הנגב",
      "startTime": "00:00",
-     "heat": "6",
-     "lane": "3",
+     "heat": "1",
+     "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1859863,7 +1859849,7 @@ window.SWIM_DATA = {
      "club": "הפועל עומר",
      "startTime": "00:00",
      "heat": "4",
-     "lane": "6",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1859902,7 +1859888,7 @@ window.SWIM_DATA = {
      "club": "הפועל שחייני הנגב",
      "startTime": "00:00",
      "heat": "4",
-     "lane": "2",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1859977,8 +1859963,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל שחייני הנגב",
      "startTime": "00:00",
-     "heat": "5",
-     "lane": "5",
+     "heat": "10",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1860067,7 +1860053,7 @@ window.SWIM_DATA = {
      "club": "הפועל שחייני הנגב",
      "startTime": "00:00",
      "heat": "5",
-     "lane": "1",
+     "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1860129,8 +1860115,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל שחייני הנגב",
      "startTime": "00:00",
-     "heat": "2",
-     "lane": "3",
+     "heat": "3",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1860182,7 +1860168,7 @@ window.SWIM_DATA = {
      "club": "מכבי אשדוד",
      "startTime": "00:00",
      "heat": "3",
-     "lane": "5",
+     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1860402,8 +1860388,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל אילת",
      "startTime": "00:00",
-     "heat": "1",
-     "lane": "2",
+     "heat": "4",
+     "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1860506,7 +1860492,7 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל אילת",
      "startTime": "00:00",
-     "heat": "1",
+     "heat": "4",
      "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
@@ -1860676,7 +1860662,7 @@ window.SWIM_DATA = {
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "00:00",
      "heat": "3",
-     "lane": "4",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1860992,7 +1860978,7 @@ window.SWIM_DATA = {
      "club": "הפועל שחייני הנגב",
      "startTime": "00:00",
      "heat": "3",
-     "lane": "3",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1861071,7 +1861057,7 @@ window.SWIM_DATA = {
      "club": "Eilat Swimming",
      "startTime": "00:00",
      "heat": "5",
-     "lane": "1",
+     "lane": "2",
      "seedStr": "00:53.58",
      "seedSeconds": 53.58
     }
@@ -1861147,7 +1861133,7 @@ window.SWIM_DATA = {
      "club": "הפועל שחייני הנגב",
      "startTime": "00:00",
      "heat": "3",
-     "lane": "1",
+     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1861357,7 +1861343,7 @@ window.SWIM_DATA = {
      "club": "הפועל באר טוביה",
      "startTime": "00:00",
      "heat": "3",
-     "lane": "1",
+     "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1880154,7 +1880140,7 @@ window.SWIM_DATA = {
      "club": "הפועל באר שבע",
      "startTime": "00:00",
      "heat": "6",
-     "lane": "4",
+     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1880206,7 +1880192,7 @@ window.SWIM_DATA = {
      "club": "מכבי אשדוד",
      "startTime": "00:00",
      "heat": "5",
-     "lane": "4",
+     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1881858,7 +1881844,7 @@ window.SWIM_DATA = {
      "club": "מכבי אשדוד",
      "startTime": "00:00",
      "heat": "3",
-     "lane": "6",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1881935,8 +1881921,8 @@ window.SWIM_DATA = {
      "poolLength": 25,
      "club": "הפועל עומר",
      "startTime": "00:00",
-     "heat": "1",
-     "lane": "4",
+     "heat": "2",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1882092,6 +1882078,31 @@ window.SWIM_DATA = {
     }
    ]
   },
+  "2017|אנחלו·גולן": {
+   "id": "2017|אנחלו·גולן",
+   "displayName": "אנחלו גולן",
+   "birthYear": 2017,
+   "clubs": [
+    "הפועל ג'מים אילת"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "50 חופשי",
+     "category": "בנים 8-10",
+     "poolLength": 25,
+     "club": "הפועל ג'מים אילת",
+     "startTime": "00:00",
+     "heat": "5",
+     "lane": "6",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
   "2016|וולוק·רומי": {
    "id": "2016|וולוק·רומי",
    "displayName": "רומי וולוק",
@@ -1882117,31 +1882128,6 @@ window.SWIM_DATA = {
     }
    ]
   },
-  "2016|רובינסקי·שון": {
-   "id": "2016|רובינסקי·שון",
-   "displayName": "שון רובינסקי",
-   "birthYear": 2016,
-   "clubs": [
-    "מכבי אשדוד"
-   ],
-   "past": [],
-   "future": [
-    {
-     "date": "2026-11-21",
-     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
-     "compId": 15809,
-     "event": "200 חופשי",
-     "category": "בנים 11-14",
-     "poolLength": 25,
-     "club": "מכבי אשדוד",
-     "startTime": "00:00",
-     "heat": "1",
-     "lane": "4",
-     "seedStr": "NT",
-     "seedSeconds": null
-    }
-   ]
-  },
   "2015|יעקב·ליאם": {
    "id": "2015|יעקב·ליאם",
    "displayName": "ליאם יעקב",
@@ -1882161,7 +1882147,7 @@ window.SWIM_DATA = {
      "club": "מכבי אשדוד",
      "startTime": "00:00",
      "heat": "4",
-     "lane": "1",
+     "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1882186,7 +1882172,32 @@ window.SWIM_DATA = {
      "club": "מכבי אשדוד",
      "startTime": "00:00",
      "heat": "6",
-     "lane": "5",
+     "lane": "2",
+     "seedStr": "NT",
+     "seedSeconds": null
+    }
+   ]
+  },
+  "2016|רובינסקי·שון": {
+   "id": "2016|רובינסקי·שון",
+   "displayName": "שון רובינסקי",
+   "birthYear": 2016,
+   "clubs": [
+    "מכבי אשדוד"
+   ],
+   "past": [],
+   "future": [
+    {
+     "date": "2026-11-21",
+     "competition": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
+     "compId": 15809,
+     "event": "200 חופשי",
+     "category": "בנים 11-14",
+     "poolLength": 25,
+     "club": "מכבי אשדוד",
+     "startTime": "00:00",
+     "heat": "13",
+     "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
     }
@@ -1882232,7 +1882243,7 @@ window.SWIM_DATA = {
    ]
   }
  },
- "lastChecked": "2026-11-20 00:37",
+ "lastChecked": "2026-11-21 00:00",
  "newThisRun": 0,
  "newComps": []
 };
