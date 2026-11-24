@@ -1,9 +1,9 @@
 // Auto-generated from swim.db
 window.SWIM_DATA = {
- "generated": "2026-11-22",
+ "generated": "2026-11-24",
  "source": "isr.org.il  →  loglig.com  (SQLite backend)",
  "isSeedSample": false,
- "swimmerCount": 6873,
+ "swimmerCount": 6875,
  "swimmers": {
   "2006|יבגניה·קליימן": {
    "id": "2006|יבגניה·קליימן",
@@ -1597,7 +1597,7 @@ window.SWIM_DATA = {
      "club": "מכבי ראשון לציון SEALS",
      "startTime": "10:24",
      "heat": "6",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "00:28.54",
      "seedSeconds": 28.54
     },
@@ -3639,7 +3639,7 @@ window.SWIM_DATA = {
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "10:24",
      "heat": "6",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "00:28.64",
      "seedSeconds": 28.64
     },
@@ -17376,7 +17376,7 @@ window.SWIM_DATA = {
      "club": "הפועל באר טוביה",
      "startTime": "10:42",
      "heat": "1",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "01:14.30",
      "seedSeconds": 74.3
     },
@@ -17402,9 +17402,9 @@ window.SWIM_DATA = {
      "category": "נשים 16-99",
      "poolLength": 25,
      "club": "הפועל באר טוביה",
-     "startTime": "10:20",
-     "heat": "2",
-     "lane": "8",
+     "startTime": "10:19",
+     "heat": "1",
+     "lane": "4",
      "seedStr": "00:31.37",
      "seedSeconds": 31.37
     },
@@ -20777,7 +20777,7 @@ window.SWIM_DATA = {
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "10:50",
      "heat": "5",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "01:03.60",
      "seedSeconds": 63.6
     },
@@ -20789,9 +20789,9 @@ window.SWIM_DATA = {
      "category": "נשים 16-99",
      "poolLength": 25,
      "club": "מתנ\"ס רמת הנגב",
-     "startTime": "10:23",
-     "heat": "5",
-     "lane": "8",
+     "startTime": "10:22",
+     "heat": "4",
+     "lane": "4",
      "seedStr": "00:29.41",
      "seedSeconds": 29.41
     },
@@ -21541,6 +21541,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "09:09",
+     "heat": "7",
+     "lane": "6",
+     "seedStr": "00:32.13",
+     "seedSeconds": 32.13
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -21564,20 +21578,6 @@ window.SWIM_DATA = {
      "lane": "5",
      "seedStr": "00:37.03",
      "seedSeconds": 37.03
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מתנ\"ס רמת הנגב",
-     "startTime": "09:45",
-     "heat": "7",
-     "lane": "6",
-     "seedStr": "00:32.13",
-     "seedSeconds": 32.13
     },
     {
      "date": "2026-11-28",
@@ -23975,15 +23975,15 @@ window.SWIM_DATA = {
      "seedSeconds": 52.15
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "400 מעורב אישי",
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מתנ\"ס רמת הנגב",
-     "startTime": "09:30",
-     "heat": "4",
+     "startTime": "19:26",
+     "heat": "2",
      "lane": "5",
      "seedStr": "04:20.62",
      "seedSeconds": 260.62
@@ -41458,20 +41458,6 @@ window.SWIM_DATA = {
      "lane": "7",
      "seedStr": "02:38.15",
      "seedSeconds": 158.15
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "400 מעורב אישי",
-     "category": "גברים 12-99",
-     "poolLength": 25,
-     "club": "הפועל באר טוביה",
-     "startTime": "09:14",
-     "heat": "1",
-     "lane": "4",
-     "seedStr": "05:24.04",
-     "seedSeconds": 324.04
     },
     {
      "date": "2026-11-28",
@@ -70016,7 +70002,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "10:48",
      "heat": "4",
-     "lane": "4",
+     "lane": "5",
      "seedStr": "01:04.32",
      "seedSeconds": 64.32
     },
@@ -71460,7 +71446,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית אונו",
      "startTime": "10:21",
      "heat": "3",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "00:30.07",
      "seedSeconds": 30.07
     },
@@ -73124,7 +73110,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "10:08",
      "heat": "2",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "04:57.08",
      "seedSeconds": 297.08
     },
@@ -73138,7 +73124,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "10:46",
      "heat": "3",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "01:05.84",
      "seedSeconds": 65.84
     },
@@ -74556,7 +74542,7 @@ window.SWIM_DATA = {
      "club": "מכבי א.ס. רמת השרון",
      "startTime": "10:08",
      "heat": "2",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "04:49.19",
      "seedSeconds": 289.19
     },
@@ -74570,7 +74556,7 @@ window.SWIM_DATA = {
      "club": "מכבי א.ס. רמת השרון",
      "startTime": "17:45",
      "heat": "2",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "01:18.22",
      "seedSeconds": 78.22
     },
@@ -74584,7 +74570,7 @@ window.SWIM_DATA = {
      "club": "מכבי א.ס. רמת השרון",
      "startTime": "10:46",
      "heat": "3",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "01:06.05",
      "seedSeconds": 66.05
     },
@@ -75549,7 +75535,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "startTime": "10:44",
      "heat": "2",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "01:09.23",
      "seedSeconds": 69.23
     },
@@ -75563,7 +75549,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "startTime": "10:19",
      "heat": "1",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "00:31.69",
      "seedSeconds": 31.69
     },
@@ -77016,7 +77002,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית אונו",
      "startTime": "10:22",
      "heat": "4",
-     "lane": "1",
+     "lane": "8",
      "seedStr": "00:29.95",
      "seedSeconds": 29.95
     },
@@ -78342,7 +78328,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "startTime": "10:21",
      "heat": "3",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "00:30.00",
      "seedSeconds": 30.0
     }
@@ -79042,9 +79028,9 @@ window.SWIM_DATA = {
      "category": "נשים 16-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "10:22",
-     "heat": "4",
-     "lane": "8",
+     "startTime": "10:21",
+     "heat": "3",
+     "lane": "4",
      "seedStr": "00:29.98",
      "seedSeconds": 29.98
     },
@@ -79682,7 +79668,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "startTime": "10:03",
      "heat": "1",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "05:03.95",
      "seedSeconds": 303.95
     },
@@ -79696,7 +79682,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "startTime": "10:44",
      "heat": "2",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "01:07.81",
      "seedSeconds": 67.81
     },
@@ -81048,7 +81034,7 @@ window.SWIM_DATA = {
      "club": "מכבי וייסגל רחובות",
      "startTime": "10:14",
      "heat": "3",
-     "lane": "1",
+     "lane": "8",
      "seedStr": "04:43.56",
      "seedSeconds": 283.56
     },
@@ -81104,7 +81090,7 @@ window.SWIM_DATA = {
      "club": "מכבי וייסגל רחובות",
      "startTime": "10:24",
      "heat": "6",
-     "lane": "4",
+     "lane": "5",
      "seedStr": "00:28.42",
      "seedSeconds": 28.42
     }
@@ -109771,9 +109757,9 @@ window.SWIM_DATA = {
      "category": "נשים 16-99",
      "poolLength": 25,
      "club": "מכבי ירושלים",
-     "startTime": "10:08",
-     "heat": "2",
-     "lane": "8",
+     "startTime": "10:03",
+     "heat": "1",
+     "lane": "4",
      "seedStr": "04:58.15",
      "seedSeconds": 298.15
     },
@@ -109829,7 +109815,7 @@ window.SWIM_DATA = {
      "club": "מכבי ירושלים",
      "startTime": "10:44",
      "heat": "2",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "01:09.11",
      "seedSeconds": 69.11
     },
@@ -111111,14 +111097,14 @@ window.SWIM_DATA = {
      "seedSeconds": 159.18
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "400 מעורב אישי",
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "09:07",
+     "startTime": "19:14",
      "heat": "2",
      "lane": "2",
      "seedStr": "05:11.29",
@@ -114364,7 +114350,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "startTime": "17:45",
      "heat": "2",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "01:15.73",
      "seedSeconds": 75.73
     },
@@ -115847,7 +115833,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית אונו",
      "startTime": "10:23",
      "heat": "5",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "00:29.16",
      "seedSeconds": 29.16
     },
@@ -118848,19 +118834,19 @@ window.SWIM_DATA = {
      "club": "מכבי א.ס. רמת השרון",
      "startTime": "10:48",
      "heat": "4",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "01:04.33",
      "seedSeconds": 64.33
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "400 מעורב אישי",
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "09:00",
+     "startTime": "19:07",
      "heat": "1",
      "lane": "2",
      "seedStr": "05:36.32",
@@ -122245,7 +122231,7 @@ window.SWIM_DATA = {
      "club": "מכבי וייסגל רחובות",
      "startTime": "10:03",
      "heat": "1",
-     "lane": "4",
+     "lane": "5",
      "seedStr": "05:00.25",
      "seedSeconds": 300.25
     },
@@ -122287,7 +122273,7 @@ window.SWIM_DATA = {
      "club": "מכבי וייסגל רחובות",
      "startTime": "10:20",
      "heat": "2",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "00:31.06",
      "seedSeconds": 31.06
     },
@@ -130683,15 +130669,15 @@ window.SWIM_DATA = {
      "seedSeconds": 138.25
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "400 מעורב אישי",
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי פ.מ. רעות",
-     "startTime": "09:30",
-     "heat": "4",
+     "startTime": "19:26",
+     "heat": "2",
      "lane": "1",
      "seedStr": "04:30.86",
      "seedSeconds": 270.86
@@ -133605,15 +133591,15 @@ window.SWIM_DATA = {
      "seedSeconds": 60.06
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "400 מעורב אישי",
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי פ.מ. רעות",
-     "startTime": "09:25",
-     "heat": "3",
+     "startTime": "19:21",
+     "heat": "1",
      "lane": "5",
      "seedStr": "04:40.25",
      "seedSeconds": 280.25
@@ -150230,14 +150216,14 @@ window.SWIM_DATA = {
      "seedSeconds": 167.94
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "400 מעורב אישי",
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "09:07",
+     "startTime": "19:14",
      "heat": "2",
      "lane": "4",
      "seedStr": "05:00.16",
@@ -151818,14 +151804,14 @@ window.SWIM_DATA = {
      "seedSeconds": 155.55
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "400 מעורב אישי",
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "09:07",
+     "startTime": "19:14",
      "heat": "2",
      "lane": "1",
      "seedStr": "05:12.72",
@@ -160439,7 +160425,7 @@ window.SWIM_DATA = {
      "club": "מכבי א.ס. רמת השרון",
      "startTime": "17:43",
      "heat": "1",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -161804,14 +161790,14 @@ window.SWIM_DATA = {
      "seedSeconds": 57.73
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "400 מעורב אישי",
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "אלומה עירוני הוד השרון",
-     "startTime": "09:07",
+     "startTime": "19:14",
      "heat": "2",
      "lane": "3",
      "seedStr": "05:08.20",
@@ -171645,9 +171631,9 @@ window.SWIM_DATA = {
      "category": "נשים 16-99",
      "poolLength": 25,
      "club": "אלומה עירוני הוד השרון",
-     "startTime": "10:52",
-     "heat": "6",
-     "lane": "8",
+     "startTime": "10:50",
+     "heat": "5",
+     "lane": "4",
      "seedStr": "01:02.73",
      "seedSeconds": 62.73
     },
@@ -177931,7 +177917,7 @@ window.SWIM_DATA = {
      "club": "הפועל פתח תקווה",
      "startTime": "10:22",
      "heat": "4",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "00:29.81",
      "seedSeconds": 29.81
     },
@@ -225814,7 +225800,7 @@ window.SWIM_DATA = {
      "club": "מכבי א.ס. רמת השרון",
      "startTime": "10:08",
      "heat": "2",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "04:53.44",
      "seedSeconds": 293.44
     },
@@ -225840,9 +225826,9 @@ window.SWIM_DATA = {
      "category": "נשים 16-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "10:50",
-     "heat": "5",
-     "lane": "8",
+     "startTime": "10:48",
+     "heat": "4",
+     "lane": "4",
      "seedStr": "01:04.12",
      "seedSeconds": 64.12
     },
@@ -228610,15 +228596,15 @@ window.SWIM_DATA = {
      "seedSeconds": null
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "400 מעורב אישי",
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "אלומה עירוני הוד השרון",
-     "startTime": "09:30",
-     "heat": "4",
+     "startTime": "19:26",
+     "heat": "2",
      "lane": "2",
      "seedStr": "04:26.28",
      "seedSeconds": 266.28
@@ -237734,14 +237720,14 @@ window.SWIM_DATA = {
      "seedSeconds": 61.25
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "400 מעורב אישי",
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "09:07",
+     "startTime": "19:14",
      "heat": "2",
      "lane": "8",
      "seedStr": "05:16.54",
@@ -245795,7 +245781,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "17:45",
      "heat": "2",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "01:16.58",
      "seedSeconds": 76.58
     },
@@ -245835,9 +245821,9 @@ window.SWIM_DATA = {
      "category": "נשים 16-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "10:24",
-     "heat": "6",
-     "lane": "8",
+     "startTime": "10:23",
+     "heat": "5",
+     "lane": "4",
      "seedStr": "00:28.77",
      "seedSeconds": 28.77
     },
@@ -251830,15 +251816,15 @@ window.SWIM_DATA = {
      "seedSeconds": 25.2
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "400 מעורב אישי",
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "09:30",
-     "heat": "4",
+     "startTime": "19:26",
+     "heat": "2",
      "lane": "4",
      "seedStr": "04:19.80",
      "seedSeconds": 259.8
@@ -256491,15 +256477,15 @@ window.SWIM_DATA = {
      "seedSeconds": 51.49
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "400 מעורב אישי",
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "09:25",
-     "heat": "3",
+     "startTime": "19:21",
+     "heat": "1",
      "lane": "4",
      "seedStr": "04:36.71",
      "seedSeconds": 276.71
@@ -258198,15 +258184,15 @@ window.SWIM_DATA = {
      "seedSeconds": 56.2
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "400 מעורב אישי",
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "09:25",
-     "heat": "3",
+     "startTime": "19:21",
+     "heat": "1",
      "lane": "1",
      "seedStr": "04:47.21",
      "seedSeconds": 287.21
@@ -274069,7 +274055,7 @@ window.SWIM_DATA = {
      "club": "מכבי וייסגל רחובות",
      "startTime": "10:14",
      "heat": "3",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "04:39.37",
      "seedSeconds": 279.37
     },
@@ -274125,7 +274111,7 @@ window.SWIM_DATA = {
      "club": "מכבי וייסגל רחובות",
      "startTime": "10:24",
      "heat": "6",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "00:28.64",
      "seedSeconds": 28.64
     }
@@ -275139,7 +275125,7 @@ window.SWIM_DATA = {
      "club": "מכבי וייסגל רחובות",
      "startTime": "10:08",
      "heat": "2",
-     "lane": "1",
+     "lane": "8",
      "seedStr": "04:57.80",
      "seedSeconds": 297.8
     },
@@ -275195,7 +275181,7 @@ window.SWIM_DATA = {
      "club": "מכבי וייסגל רחובות",
      "startTime": "10:22",
      "heat": "4",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "00:29.86",
      "seedSeconds": 29.86
     }
@@ -281580,7 +281566,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית אונו",
      "startTime": "10:24",
      "heat": "6",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "00:28.53",
      "seedSeconds": 28.53
     },
@@ -282623,7 +282609,7 @@ window.SWIM_DATA = {
      "club": "מכבי פ.מ. רעות",
      "startTime": "10:14",
      "heat": "3",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "04:37.40",
      "seedSeconds": 277.4
     },
@@ -282637,7 +282623,7 @@ window.SWIM_DATA = {
      "club": "מכבי פ.מ. רעות",
      "startTime": "10:50",
      "heat": "5",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "01:03.10",
      "seedSeconds": 63.1
     },
@@ -284662,7 +284648,78 @@ window.SWIM_DATA = {
      "points": 581
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-26",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
+     "event": "400 חופשי",
+     "category": "נשים 16-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "10:14",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "04:37.06",
+     "seedSeconds": 277.06
+    },
+    {
+     "date": "2026-11-26",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
+     "event": "100 פרפר",
+     "category": "נשים 16-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "17:47",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "01:13.90",
+     "seedSeconds": 73.9
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
+     "event": "100 חופשי",
+     "category": "נשים 16-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "10:52",
+     "heat": "6",
+     "lane": "8",
+     "seedStr": "01:02.48",
+     "seedSeconds": 62.48
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
+     "event": "400 מעורב אישי",
+     "category": "נשים 12-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "19:07",
+     "heat": "1",
+     "lane": "8",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-28",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
+     "event": "50 חופשי",
+     "category": "נשים 16-99",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "10:24",
+     "heat": "6",
+     "lane": "4",
+     "seedStr": "00:28.34",
+     "seedSeconds": 28.34
+    }
+   ]
   },
   "2011|נטע·נצר": {
    "id": "2011|נטע·נצר",
@@ -285345,9 +285402,9 @@ window.SWIM_DATA = {
      "category": "נשים 16-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "17:45",
-     "heat": "2",
-     "lane": "8",
+     "startTime": "17:43",
+     "heat": "1",
+     "lane": "4",
      "seedStr": "01:18.69",
      "seedSeconds": 78.69
     },
@@ -285387,9 +285444,9 @@ window.SWIM_DATA = {
      "category": "נשים 16-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "10:21",
-     "heat": "3",
-     "lane": "8",
+     "startTime": "10:20",
+     "heat": "2",
+     "lane": "4",
      "seedStr": "00:30.22",
      "seedSeconds": 30.22
     },
@@ -286364,7 +286421,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית אונו",
      "startTime": "10:21",
      "heat": "3",
-     "lane": "4",
+     "lane": "5",
      "seedStr": "00:29.99",
      "seedSeconds": 29.99
     }
@@ -287302,7 +287359,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "startTime": "10:46",
      "heat": "3",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "01:05.53",
      "seedSeconds": 65.53
     },
@@ -287316,7 +287373,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "startTime": "10:22",
      "heat": "4",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "00:29.87",
      "seedSeconds": 29.87
     }
@@ -302488,6 +302545,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "09:15",
+     "heat": "11",
+     "lane": "3",
+     "seedStr": "00:30.21",
+     "seedSeconds": 30.21
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -302511,20 +302582,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "02:36.52",
      "seedSeconds": 156.52
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "09:51",
-     "heat": "11",
-     "lane": "3",
-     "seedStr": "00:30.21",
-     "seedSeconds": 30.21
     },
     {
      "date": "2026-11-28",
@@ -304191,6 +304248,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "09:10",
+     "heat": "8",
+     "lane": "8",
+     "seedStr": "00:31.92",
+     "seedSeconds": 31.92
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -304214,20 +304285,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "02:48.70",
      "seedSeconds": 168.7
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "הפועל עמק חפר",
-     "startTime": "09:46",
-     "heat": "8",
-     "lane": "8",
-     "seedStr": "00:31.92",
-     "seedSeconds": 31.92
     },
     {
      "date": "2026-11-28",
@@ -314283,9 +314340,9 @@ window.SWIM_DATA = {
      "category": "נשים 16-99",
      "poolLength": 25,
      "club": "הפועל גליל עליון",
-     "startTime": "17:47",
-     "heat": "3",
-     "lane": "8",
+     "startTime": "17:45",
+     "heat": "2",
+     "lane": "4",
      "seedStr": "01:15.54",
      "seedSeconds": 75.54
     }
@@ -315364,7 +315421,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "startTime": "10:46",
      "heat": "3",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "01:05.90",
      "seedSeconds": 65.9
     },
@@ -315383,14 +315440,14 @@ window.SWIM_DATA = {
      "seedSeconds": 32.25
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "400 מעורב אישי",
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "startTime": "09:00",
+     "startTime": "19:07",
      "heat": "1",
      "lane": "4",
      "seedStr": "05:27.68",
@@ -317320,6 +317377,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "09:16",
+     "heat": "12",
+     "lane": "5",
+     "seedStr": "00:29.78",
+     "seedSeconds": 29.78
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -317343,20 +317414,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "00:30.96",
      "seedSeconds": 30.96
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "09:52",
-     "heat": "12",
-     "lane": "5",
-     "seedStr": "00:29.78",
-     "seedSeconds": 29.78
     },
     {
      "date": "2026-11-28",
@@ -328143,7 +328200,7 @@ window.SWIM_DATA = {
      "club": "הפועל קרית טבעון",
      "startTime": "10:50",
      "heat": "5",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "01:03.62",
      "seedSeconds": 63.62
     },
@@ -329152,6 +329209,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "הפועל קרית טבעון",
+     "startTime": "09:10",
+     "heat": "8",
+     "lane": "5",
+     "seedStr": "00:31.64",
+     "seedSeconds": 31.64
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "200 חזה",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -329163,32 +329234,18 @@ window.SWIM_DATA = {
      "seedSeconds": 175.95
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "400 מעורב אישי",
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "הפועל קרית טבעון",
-     "startTime": "09:00",
+     "startTime": "19:07",
      "heat": "1",
      "lane": "6",
      "seedStr": "05:35.45",
      "seedSeconds": 335.45
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "הפועל קרית טבעון",
-     "startTime": "09:46",
-     "heat": "8",
-     "lane": "5",
-     "seedStr": "00:31.64",
-     "seedSeconds": 31.64
     },
     {
      "date": "2026-11-28",
@@ -331419,7 +331476,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "startTime": "10:03",
      "heat": "1",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "05:03.12",
      "seedSeconds": 303.12
     },
@@ -331475,7 +331532,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "startTime": "10:20",
      "heat": "2",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "00:30.90",
      "seedSeconds": 30.9
     },
@@ -342334,15 +342391,15 @@ window.SWIM_DATA = {
      "seedSeconds": 134.0
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "400 מעורב אישי",
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "startTime": "09:25",
-     "heat": "3",
+     "startTime": "19:21",
+     "heat": "1",
      "lane": "8",
      "seedStr": "04:47.52",
      "seedSeconds": 287.52
@@ -345436,7 +345493,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "startTime": "10:48",
      "heat": "4",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "01:04.71",
      "seedSeconds": 64.71
     },
@@ -345464,7 +345521,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "startTime": "10:23",
      "heat": "5",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "00:28.94",
      "seedSeconds": 28.94
     },
@@ -346287,7 +346344,7 @@ window.SWIM_DATA = {
      "club": "ע.ל.ה עצמה רעננה",
      "startTime": "10:46",
      "heat": "3",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "01:05.79",
      "seedSeconds": 65.79
     },
@@ -346315,7 +346372,7 @@ window.SWIM_DATA = {
      "club": "ע.ל.ה עצמה רעננה",
      "startTime": "10:24",
      "heat": "6",
-     "lane": "1",
+     "lane": "8",
      "seedStr": "00:28.69",
      "seedSeconds": 28.69
     }
@@ -352262,15 +352319,15 @@ window.SWIM_DATA = {
      "seedSeconds": 142.59
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "400 מעורב אישי",
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "startTime": "09:30",
-     "heat": "4",
+     "startTime": "19:26",
+     "heat": "2",
      "lane": "7",
      "seedStr": "04:29.55",
      "seedSeconds": 269.55
@@ -356688,20 +356745,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "02:34.74",
      "seedSeconds": 154.74
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "400 מעורב אישי",
-     "category": "גברים 12-99",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "09:19",
-     "heat": "2",
-     "lane": "7",
-     "seedStr": "05:02.64",
-     "seedSeconds": 302.64
     },
     {
      "date": "2026-11-28",
@@ -361846,7 +361889,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "startTime": "10:08",
      "heat": "2",
-     "lane": "4",
+     "lane": "5",
      "seedStr": "04:46.92",
      "seedSeconds": 286.92
     },
@@ -361874,7 +361917,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "startTime": "10:50",
      "heat": "5",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "01:03.14",
      "seedSeconds": 63.14
     },
@@ -361888,7 +361931,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "startTime": "10:21",
      "heat": "3",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "00:29.99",
      "seedSeconds": 29.99
     },
@@ -363856,14 +363899,14 @@ window.SWIM_DATA = {
      "seedSeconds": 36.31
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "50 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "startTime": "09:48",
+     "startTime": "09:12",
      "heat": "9",
      "lane": "6",
      "seedStr": "00:31.04",
@@ -365594,6 +365637,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "09:07",
+     "heat": "6",
+     "lane": "7",
+     "seedStr": "00:32.60",
+     "seedSeconds": 32.6
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "50 פרפר",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -365603,20 +365660,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "00:34.46",
      "seedSeconds": 34.46
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "הפועל עמק חפר",
-     "startTime": "09:43",
-     "heat": "6",
-     "lane": "7",
-     "seedStr": "00:32.60",
-     "seedSeconds": 32.6
     },
     {
      "date": "2026-11-28",
@@ -369741,6 +369784,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "הפועל פליפר חדרה",
+     "startTime": "09:06",
+     "heat": "5",
+     "lane": "7",
+     "seedStr": "00:33.13",
+     "seedSeconds": 33.13
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -369764,20 +369821,6 @@ window.SWIM_DATA = {
      "lane": "8",
      "seedStr": "00:34.79",
      "seedSeconds": 34.79
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "הפועל פליפר חדרה",
-     "startTime": "09:42",
-     "heat": "5",
-     "lane": "2",
-     "seedStr": "00:33.13",
-     "seedSeconds": 33.13
     }
    ]
   },
@@ -374185,14 +374228,14 @@ window.SWIM_DATA = {
      "seedSeconds": 183.59
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "400 מעורב אישי",
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "09:07",
+     "startTime": "19:14",
      "heat": "2",
      "lane": "7",
      "seedStr": "05:11.85",
@@ -377254,20 +377297,6 @@ window.SWIM_DATA = {
      "date": "2026-11-28",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
-     "event": "400 מעורב אישי",
-     "category": "גברים 12-99",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "09:19",
-     "heat": "2",
-     "lane": "4",
-     "seedStr": "04:54.90",
-     "seedSeconds": 294.9
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
      "event": "50 חופשי",
      "category": "גברים 16-99",
      "poolLength": 25,
@@ -379769,14 +379798,14 @@ window.SWIM_DATA = {
      "seedSeconds": 59.36
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "400 מעורב אישי",
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "startTime": "09:07",
+     "startTime": "19:14",
      "heat": "2",
      "lane": "6",
      "seedStr": "05:10.21",
@@ -380654,7 +380683,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "startTime": "17:45",
      "heat": "2",
-     "lane": "1",
+     "lane": "8",
      "seedStr": "01:18.47",
      "seedSeconds": 78.47
     },
@@ -380668,7 +380697,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "startTime": "10:48",
      "heat": "4",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "01:04.38",
      "seedSeconds": 64.38
     },
@@ -381243,7 +381272,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "startTime": "17:45",
      "heat": "2",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "01:16.01",
      "seedSeconds": 76.01
     },
@@ -381271,7 +381300,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "startTime": "10:19",
      "heat": "1",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "00:33.10",
      "seedSeconds": 33.1
     }
@@ -382279,15 +382308,15 @@ window.SWIM_DATA = {
      "seedSeconds": 146.15
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "400 מעורב אישי",
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "הפועל קרית טבעון",
-     "startTime": "09:30",
-     "heat": "4",
+     "startTime": "19:26",
+     "heat": "2",
      "lane": "3",
      "seedStr": "04:25.04",
      "seedSeconds": 265.04
@@ -386046,6 +386075,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "ע.ל.ה עצמה רעננה",
+     "startTime": "09:19",
+     "heat": "14",
+     "lane": "1",
+     "seedStr": "00:29.19",
+     "seedSeconds": 29.19
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -386069,20 +386112,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "00:31.75",
      "seedSeconds": 31.75
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "09:55",
-     "heat": "14",
-     "lane": "1",
-     "seedStr": "00:29.19",
-     "seedSeconds": 29.19
     },
     {
      "date": "2026-11-28",
@@ -386879,20 +386908,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "01:02.79",
      "seedSeconds": 62.79
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "400 מעורב אישי",
-     "category": "גברים 12-99",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "09:19",
-     "heat": "2",
-     "lane": "5",
-     "seedStr": "04:54.94",
-     "seedSeconds": 294.94
     },
     {
      "date": "2026-11-28",
@@ -392405,15 +392420,15 @@ window.SWIM_DATA = {
      "seedSeconds": 147.11
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "400 מעורב אישי",
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "startTime": "09:30",
-     "heat": "4",
+     "startTime": "19:26",
+     "heat": "2",
      "lane": "8",
      "seedStr": "04:31.22",
      "seedSeconds": 271.22
@@ -398021,7 +398036,7 @@ window.SWIM_DATA = {
      "club": "מכבי ראשון לציון SEALS",
      "startTime": "10:23",
      "heat": "5",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "00:29.28",
      "seedSeconds": 29.28
     },
@@ -399040,14 +399055,14 @@ window.SWIM_DATA = {
    ],
    "future": [
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "50 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
      "club": "מכבי ראשון לציון SEALS",
-     "startTime": "09:57",
+     "startTime": "09:21",
      "heat": "15",
      "lane": "5",
      "seedStr": "00:27.31",
@@ -399826,6 +399841,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "הפועל דולפין נתניה",
+     "startTime": "09:18",
+     "heat": "13",
+     "lane": "5",
+     "seedStr": "00:29.42",
+     "seedSeconds": 29.42
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -399835,20 +399864,6 @@ window.SWIM_DATA = {
      "lane": "5",
      "seedStr": "01:06.03",
      "seedSeconds": 66.03
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "09:54",
-     "heat": "13",
-     "lane": "5",
-     "seedStr": "00:29.42",
-     "seedSeconds": 29.42
     },
     {
      "date": "2026-11-28",
@@ -401314,7 +401329,7 @@ window.SWIM_DATA = {
      "club": "הפועל אולימפ נתניה",
      "startTime": "10:08",
      "heat": "2",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "04:54.19",
      "seedSeconds": 294.19
     },
@@ -401342,7 +401357,7 @@ window.SWIM_DATA = {
      "club": "הפועל אולימפ נתניה",
      "startTime": "17:43",
      "heat": "1",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "01:25.50",
      "seedSeconds": 85.5
     },
@@ -402246,14 +402261,14 @@ window.SWIM_DATA = {
    ],
    "future": [
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "50 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
      "club": "מכבי ראשון לציון SEALS",
-     "startTime": "09:49",
+     "startTime": "09:13",
      "heat": "10",
      "lane": "1",
      "seedStr": "00:30.84",
@@ -403079,14 +403094,14 @@ window.SWIM_DATA = {
    ],
    "future": [
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "50 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
      "club": "מכבי ראשון לציון SEALS",
-     "startTime": "09:51",
+     "startTime": "09:15",
      "heat": "11",
      "lane": "5",
      "seedStr": "00:30.16",
@@ -403548,14 +403563,14 @@ window.SWIM_DATA = {
    ],
    "future": [
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "50 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
      "club": "מכבי ראשון לציון SEALS",
-     "startTime": "09:54",
+     "startTime": "09:18",
      "heat": "13",
      "lane": "3",
      "seedStr": "00:29.61",
@@ -405284,6 +405299,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "הפועל דולפין נתניה",
+     "startTime": "09:07",
+     "heat": "6",
+     "lane": "5",
+     "seedStr": "00:32.43",
+     "seedSeconds": 32.43
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -405293,20 +405322,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "01:13.20",
      "seedSeconds": 73.2
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "09:43",
-     "heat": "6",
-     "lane": "5",
-     "seedStr": "00:32.43",
-     "seedSeconds": 32.43
     }
    ]
   },
@@ -408110,6 +408125,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "הפועל דולפין נתניה",
+     "startTime": "09:09",
+     "heat": "7",
+     "lane": "1",
+     "seedStr": "00:32.28",
+     "seedSeconds": 32.28
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -408119,20 +408148,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "01:16.20",
      "seedSeconds": 76.2
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "09:45",
-     "heat": "7",
-     "lane": "1",
-     "seedStr": "00:32.28",
-     "seedSeconds": 32.28
     },
     {
      "date": "2026-11-28",
@@ -408937,7 +408952,7 @@ window.SWIM_DATA = {
      "club": "מכבי ראשון לציון SEALS",
      "startTime": "10:21",
      "heat": "3",
-     "lane": "1",
+     "lane": "8",
      "seedStr": "00:30.11",
      "seedSeconds": 30.11
     },
@@ -422118,20 +422133,6 @@ window.SWIM_DATA = {
      "date": "2026-11-28",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
-     "event": "400 מעורב אישי",
-     "category": "גברים 12-99",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "09:19",
-     "heat": "2",
-     "lane": "8",
-     "seedStr": "05:20.79",
-     "seedSeconds": 320.79
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
      "event": "100 חזה",
      "category": "בנים 12-15",
      "poolLength": 25,
@@ -424024,20 +424025,6 @@ window.SWIM_DATA = {
      "lane": "8",
      "seedStr": "00:45.40",
      "seedSeconds": 45.4
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "400 מעורב אישי",
-     "category": "גברים 12-99",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "09:19",
-     "heat": "2",
-     "lane": "6",
-     "seedStr": "04:59.43",
-     "seedSeconds": 299.43
     },
     {
      "date": "2026-11-28",
@@ -430184,7 +430171,7 @@ window.SWIM_DATA = {
      "club": "מכבי ראשון לציון SEALS",
      "startTime": "10:24",
      "heat": "6",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "00:28.50",
      "seedSeconds": 28.5
     },
@@ -431129,6 +431116,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי ראשון לציון SEALS",
+     "startTime": "09:21",
+     "heat": "15",
+     "lane": "1",
+     "seedStr": "00:28.03",
+     "seedSeconds": 28.03
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "200 חזה",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -431138,20 +431139,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "02:48.85",
      "seedSeconds": 168.85
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי ראשון לציון SEALS",
-     "startTime": "09:57",
-     "heat": "15",
-     "lane": "1",
-     "seedStr": "00:28.03",
-     "seedSeconds": 28.03
     },
     {
      "date": "2026-11-28",
@@ -433324,6 +433311,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "הפועל אולימפ נתניה",
+     "startTime": "09:16",
+     "heat": "12",
+     "lane": "1",
+     "seedStr": "00:30.00",
+     "seedSeconds": 30.0
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "200 חזה",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -433333,20 +433334,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "02:59.97",
      "seedSeconds": 179.97
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "הפועל אולימפ נתניה",
-     "startTime": "09:52",
-     "heat": "12",
-     "lane": "1",
-     "seedStr": "00:30.00",
-     "seedSeconds": 30.0
     },
     {
      "date": "2026-11-28",
@@ -434030,6 +434017,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "הפועל דולפין נתניה",
+     "startTime": "09:18",
+     "heat": "13",
+     "lane": "2",
+     "seedStr": "00:29.64",
+     "seedSeconds": 29.64
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "50 פרפר",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -434039,20 +434040,6 @@ window.SWIM_DATA = {
      "lane": "1",
      "seedStr": "00:31.91",
      "seedSeconds": 31.91
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "הפועל דולפין נתניה",
-     "startTime": "09:54",
-     "heat": "13",
-     "lane": "2",
-     "seedStr": "00:29.64",
-     "seedSeconds": 29.64
     },
     {
      "date": "2026-11-28",
@@ -436089,15 +436076,15 @@ window.SWIM_DATA = {
      "seedSeconds": 138.85
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "400 מעורב אישי",
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי ראשון לציון SEALS",
-     "startTime": "09:25",
-     "heat": "3",
+     "startTime": "19:21",
+     "heat": "1",
      "lane": "3",
      "seedStr": "04:40.33",
      "seedSeconds": 280.33
@@ -506229,14 +506216,14 @@ window.SWIM_DATA = {
    ],
    "future": [
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "50 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
      "club": "הפועל עמק חפר",
-     "startTime": "09:46",
+     "startTime": "09:10",
      "heat": "8",
      "lane": "4",
      "seedStr": "00:31.63",
@@ -506896,6 +506883,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "09:01",
+     "heat": "2",
+     "lane": "6",
+     "seedStr": "00:35.63",
+     "seedSeconds": 35.63
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "200 חזה",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -506905,20 +506906,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "03:17.90",
      "seedSeconds": 197.9
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "הפועל עמק חפר",
-     "startTime": "09:37",
-     "heat": "2",
-     "lane": "3",
-     "seedStr": "00:35.63",
-     "seedSeconds": 35.63
     },
     {
      "date": "2026-11-28",
@@ -516105,6 +516092,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "09:07",
+     "heat": "6",
+     "lane": "3",
+     "seedStr": "00:32.45",
+     "seedSeconds": 32.45
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "200 חזה",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -516114,20 +516115,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "03:04.03",
      "seedSeconds": 184.03
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "הפועל עמק חפר",
-     "startTime": "09:43",
-     "heat": "6",
-     "lane": "3",
-     "seedStr": "00:32.45",
-     "seedSeconds": 32.45
     },
     {
      "date": "2026-11-28",
@@ -521238,7 +521225,7 @@ window.SWIM_DATA = {
      "club": "הפועל אולימפ נתניה",
      "startTime": "10:22",
      "heat": "4",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "00:29.76",
      "seedSeconds": 29.76
     },
@@ -522483,6 +522470,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "הפועל אולימפ נתניה",
+     "startTime": "09:19",
+     "heat": "14",
+     "lane": "5",
+     "seedStr": "00:28.51",
+     "seedSeconds": 28.51
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -522506,20 +522507,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "00:29.60",
      "seedSeconds": 29.6
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "הפועל אולימפ נתניה",
-     "startTime": "09:55",
-     "heat": "14",
-     "lane": "5",
-     "seedStr": "00:28.51",
-     "seedSeconds": 28.51
     },
     {
      "date": "2026-11-28",
@@ -523508,14 +523495,14 @@ window.SWIM_DATA = {
    ],
    "future": [
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "50 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
      "club": "מכבי ראשון לציון SEALS",
-     "startTime": "09:52",
+     "startTime": "09:16",
      "heat": "12",
      "lane": "4",
      "seedStr": "00:29.78",
@@ -541215,14 +541202,14 @@ window.SWIM_DATA = {
    ],
    "future": [
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "50 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "09:51",
+     "startTime": "09:15",
      "heat": "11",
      "lane": "7",
      "seedStr": "00:30.37",
@@ -602640,14 +602627,14 @@ window.SWIM_DATA = {
      "seedSeconds": 59.15
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "400 מעורב אישי",
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "09:07",
+     "startTime": "19:14",
      "heat": "2",
      "lane": "5",
      "seedStr": "05:05.48",
@@ -606144,10 +606131,10 @@ window.SWIM_DATA = {
      "category": "בנות 10-13",
      "poolLength": 25,
      "club": "הפועל לב הגליל סחנין",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "16",
-     "points": 0
+     "timeStr": "01:09.47",
+     "seconds": 69.47,
+     "place": "3",
+     "points": 378
     },
     {
      "date": "2026-11-21",
@@ -608578,6 +608565,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי חיפה",
+     "startTime": "09:16",
+     "heat": "12",
+     "lane": "6",
+     "seedStr": "00:29.90",
+     "seedSeconds": 29.9
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -608601,20 +608602,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "00:36.87",
      "seedSeconds": 36.87
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי חיפה",
-     "startTime": "09:52",
-     "heat": "12",
-     "lane": "6",
-     "seedStr": "00:29.90",
-     "seedSeconds": 29.9
     },
     {
      "date": "2026-11-28",
@@ -611757,6 +611744,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי חיפה",
+     "startTime": "09:03",
+     "heat": "3",
+     "lane": "6",
+     "seedStr": "00:34.28",
+     "seedSeconds": 34.28
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "50 גב",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -611794,20 +611795,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "02:41.95",
      "seedSeconds": 161.95
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי חיפה",
-     "startTime": "09:39",
-     "heat": "3",
-     "lane": "3",
-     "seedStr": "00:34.28",
-     "seedSeconds": 34.28
     },
     {
      "date": "2026-11-28",
@@ -614247,6 +614234,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "09:04",
+     "heat": "4",
+     "lane": "5",
+     "seedStr": "00:33.45",
+     "seedSeconds": 33.45
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "200 חזה",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -614270,20 +614271,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:40",
-     "heat": "4",
-     "lane": "4",
-     "seedStr": "00:33.45",
-     "seedSeconds": 33.45
     },
     {
      "date": "2026-11-28",
@@ -615530,14 +615517,14 @@ window.SWIM_DATA = {
    ],
    "future": [
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "50 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "09:46",
+     "startTime": "09:10",
      "heat": "8",
      "lane": "6",
      "seedStr": "00:31.71",
@@ -616786,6 +616773,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי חיפה",
+     "startTime": "09:00",
+     "heat": "1",
+     "lane": "2",
+     "seedStr": "00:38.37",
+     "seedSeconds": 38.37
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "50 גב",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -616795,20 +616796,6 @@ window.SWIM_DATA = {
      "lane": "8",
      "seedStr": "00:41.31",
      "seedSeconds": 41.31
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי חיפה",
-     "startTime": "09:36",
-     "heat": "1",
-     "lane": "6",
-     "seedStr": "00:38.37",
-     "seedSeconds": 38.37
     },
     {
      "date": "2026-11-28",
@@ -617414,10 +617401,10 @@ window.SWIM_DATA = {
      "category": "בנות 10-13",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "16",
-     "points": 0
+     "timeStr": "01:17.07",
+     "seconds": 77.07,
+     "place": "9",
+     "points": 277
     },
     {
      "date": "2026-11-21",
@@ -617840,16 +617827,16 @@ window.SWIM_DATA = {
    ],
    "future": [
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "50 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
      "club": "הפועל מ.א משגב",
-     "startTime": "09:40",
+     "startTime": "09:04",
      "heat": "4",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "00:34.00",
      "seedSeconds": 34.0
     },
@@ -619018,10 +619005,10 @@ window.SWIM_DATA = {
      "category": "בנות 10-13",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "16",
-     "points": 0
+     "timeStr": "01:08.72",
+     "seconds": 68.72,
+     "place": "2",
+     "points": 390
     },
     {
      "date": "2026-11-21",
@@ -619042,6 +619029,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי חיפה",
+     "startTime": "09:01",
+     "heat": "2",
+     "lane": "7",
+     "seedStr": "00:35.71",
+     "seedSeconds": 35.71
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -619049,8 +619050,8 @@ window.SWIM_DATA = {
      "startTime": "09:54",
      "heat": "4",
      "lane": "5",
-     "seedStr": "01:12.92",
-     "seedSeconds": 72.92
+     "seedStr": "01:08.72",
+     "seedSeconds": 68.72
     },
     {
      "date": "2026-11-27",
@@ -619079,20 +619080,6 @@ window.SWIM_DATA = {
      "lane": "7",
      "seedStr": "00:42.86",
      "seedSeconds": 42.86
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי חיפה",
-     "startTime": "09:37",
-     "heat": "2",
-     "lane": "2",
-     "seedStr": "00:35.71",
-     "seedSeconds": 35.71
     },
     {
      "date": "2026-11-28",
@@ -619449,16 +619436,16 @@ window.SWIM_DATA = {
    ],
    "future": [
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "50 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "09:39",
+     "startTime": "09:03",
      "heat": "3",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "00:34.31",
      "seedSeconds": 34.31
     },
@@ -620309,10 +620296,10 @@ window.SWIM_DATA = {
      "category": "בנות 10-13",
      "poolLength": 25,
      "club": "הפועל לב הגליל סחנין",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "16",
-     "points": 0
+     "timeStr": "01:23.48",
+     "seconds": 83.48,
+     "place": "15",
+     "points": 218
     }
    ],
    "future": []
@@ -627631,20 +627618,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "02:18.10",
      "seedSeconds": 138.1
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "400 מעורב אישי",
-     "category": "גברים 12-99",
-     "poolLength": 25,
-     "club": "הפועל לב הגליל סחנין",
-     "startTime": "09:19",
-     "heat": "2",
-     "lane": "2",
-     "seedStr": "05:00.89",
-     "seedSeconds": 300.89
     },
     {
      "date": "2026-11-28",
@@ -640358,10 +640331,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:13.93",
+     "seconds": 73.93,
+     "place": "17",
+     "points": 223
     },
     {
      "date": "2026-11-21",
@@ -648756,7 +648729,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "timeStr": "NS",
      "seconds": null,
-     "place": "1",
+     "place": "63",
      "points": 0
     },
     {
@@ -650708,10 +650681,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:08.81",
+     "seconds": 68.81,
+     "place": "11",
+     "points": 276
     }
    ],
    "future": []
@@ -653677,10 +653650,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:19.19",
+     "seconds": 79.19,
+     "place": "20",
+     "points": 181
     },
     {
      "date": "2026-11-21",
@@ -655969,7 +655942,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "timeStr": "NS",
      "seconds": null,
-     "place": "1",
+     "place": "63",
      "points": 0
     }
    ],
@@ -656381,10 +656354,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:22.99",
+     "seconds": 82.99,
+     "place": "26",
+     "points": 157
     }
    ],
    "future": []
@@ -674879,14 +674852,14 @@ window.SWIM_DATA = {
      "seedSeconds": 37.81
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "50 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
      "club": "הפועל מ.א משגב",
-     "startTime": "09:49",
+     "startTime": "09:13",
      "heat": "10",
      "lane": "7",
      "seedStr": "00:30.81",
@@ -676364,6 +676337,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי חיפה",
+     "startTime": "09:12",
+     "heat": "9",
+     "lane": "4",
+     "seedStr": "00:30.90",
+     "seedSeconds": 30.9
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -676373,20 +676360,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "01:09.00",
      "seedSeconds": 69.0
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי חיפה",
-     "startTime": "09:48",
-     "heat": "9",
-     "lane": "4",
-     "seedStr": "00:30.90",
-     "seedSeconds": 30.9
     },
     {
      "date": "2026-11-28",
@@ -677549,6 +677522,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי חיפה",
+     "startTime": "09:18",
+     "heat": "13",
+     "lane": "4",
+     "seedStr": "00:29.27",
+     "seedSeconds": 29.27
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -677572,20 +677559,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "00:35.62",
      "seedSeconds": 35.62
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי חיפה",
-     "startTime": "09:54",
-     "heat": "13",
-     "lane": "4",
-     "seedStr": "00:29.27",
-     "seedSeconds": 29.27
     },
     {
      "date": "2026-11-28",
@@ -679434,6 +679407,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי חיפה",
+     "startTime": "09:07",
+     "heat": "6",
+     "lane": "6",
+     "seedStr": "00:32.55",
+     "seedSeconds": 32.55
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -679457,20 +679444,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "00:36.36",
      "seedSeconds": 36.36
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי חיפה",
-     "startTime": "09:43",
-     "heat": "6",
-     "lane": "6",
-     "seedStr": "00:32.55",
-     "seedSeconds": 32.55
     },
     {
      "date": "2026-11-28",
@@ -680931,6 +680904,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "09:03",
+     "heat": "3",
+     "lane": "4",
+     "seedStr": "00:34.05",
+     "seedSeconds": 34.05
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "200 חזה",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -680940,20 +680927,6 @@ window.SWIM_DATA = {
      "lane": "7",
      "seedStr": "03:18.79",
      "seedSeconds": 198.79
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "הפועל מ.א משגב",
-     "startTime": "09:40",
-     "heat": "4",
-     "lane": "8",
-     "seedStr": "00:34.05",
-     "seedSeconds": 34.05
     },
     {
      "date": "2026-11-28",
@@ -685231,10 +685204,10 @@ window.SWIM_DATA = {
      "category": "בנות 10-13",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "16",
-     "points": 0
+     "timeStr": "01:17.32",
+     "seconds": 77.32,
+     "place": "10",
+     "points": 274
     },
     {
      "date": "2026-11-21",
@@ -685658,10 +685631,10 @@ window.SWIM_DATA = {
      "category": "בנות 10-13",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "16",
-     "points": 0
+     "timeStr": "01:21.44",
+     "seconds": 81.44,
+     "place": "14",
+     "points": 234
     }
    ],
    "future": []
@@ -698540,10 +698513,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:06.88",
+     "seconds": 66.88,
+     "place": "6",
+     "points": 301
     },
     {
      "date": "2026-11-21",
@@ -699192,10 +699165,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:07.09",
+     "seconds": 67.09,
+     "place": "7",
+     "points": 298
     }
    ],
    "future": []
@@ -700308,10 +700281,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:08.32",
+     "seconds": 68.32,
+     "place": "10",
+     "points": 282
     },
     {
      "date": "2026-11-21",
@@ -710097,6 +710070,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "09:21",
+     "heat": "15",
+     "lane": "6",
+     "seedStr": "00:27.81",
+     "seedSeconds": 27.81
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "200 חזה",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -710120,20 +710107,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "00:29.81",
      "seedSeconds": 29.81
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי וייסגל רחובות",
-     "startTime": "09:57",
-     "heat": "15",
-     "lane": "6",
-     "seedStr": "00:27.81",
-     "seedSeconds": 27.81
     }
    ]
   },
@@ -712341,6 +712314,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "09:16",
+     "heat": "12",
+     "lane": "3",
+     "seedStr": "00:29.79",
+     "seedSeconds": 29.79
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "200 חזה",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -712350,20 +712337,6 @@ window.SWIM_DATA = {
      "lane": "5",
      "seedStr": "02:44.84",
      "seedSeconds": 164.84
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי וייסגל רחובות",
-     "startTime": "09:52",
-     "heat": "12",
-     "lane": "3",
-     "seedStr": "00:29.79",
-     "seedSeconds": 29.79
     },
     {
      "date": "2026-11-28",
@@ -714876,6 +714849,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "09:21",
+     "heat": "15",
+     "lane": "7",
+     "seedStr": "00:28.02",
+     "seedSeconds": 28.02
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -714899,20 +714886,6 @@ window.SWIM_DATA = {
      "lane": "8",
      "seedStr": "00:30.72",
      "seedSeconds": 30.72
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי וייסגל רחובות",
-     "startTime": "09:57",
-     "heat": "15",
-     "lane": "7",
-     "seedStr": "00:28.02",
-     "seedSeconds": 28.02
     }
    ]
   },
@@ -715959,6 +715932,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "09:16",
+     "heat": "12",
+     "lane": "2",
+     "seedStr": "00:29.99",
+     "seedSeconds": 29.99
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -715982,20 +715969,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "00:33.44",
      "seedSeconds": 33.44
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי וייסגל רחובות",
-     "startTime": "09:52",
-     "heat": "12",
-     "lane": "2",
-     "seedStr": "00:29.99",
-     "seedSeconds": 29.99
     }
    ]
   },
@@ -719043,6 +719016,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "09:06",
+     "heat": "5",
+     "lane": "6",
+     "seedStr": "00:33.02",
+     "seedSeconds": 33.02
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "200 חזה",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -719052,20 +719039,6 @@ window.SWIM_DATA = {
      "lane": "8",
      "seedStr": "03:13.90",
      "seedSeconds": 193.9
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי וייסגל רחובות",
-     "startTime": "09:42",
-     "heat": "5",
-     "lane": "3",
-     "seedStr": "00:33.02",
-     "seedSeconds": 33.02
     }
    ]
   },
@@ -721329,6 +721302,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "09:13",
+     "heat": "10",
+     "lane": "6",
+     "seedStr": "00:30.74",
+     "seedSeconds": 30.74
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -721338,20 +721325,6 @@ window.SWIM_DATA = {
      "lane": "8",
      "seedStr": "01:08.20",
      "seedSeconds": 68.2
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי וייסגל רחובות",
-     "startTime": "09:49",
-     "heat": "10",
-     "lane": "6",
-     "seedStr": "00:30.74",
-     "seedSeconds": 30.74
     },
     {
      "date": "2026-11-28",
@@ -739588,15 +739561,15 @@ window.SWIM_DATA = {
      "seedSeconds": 59.05
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "400 מעורב אישי",
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "09:25",
-     "heat": "3",
+     "startTime": "19:21",
+     "heat": "1",
      "lane": "7",
      "seedStr": "04:45.27",
      "seedSeconds": 285.27
@@ -770704,9 +770677,9 @@ window.SWIM_DATA = {
      "category": "נשים 16-99",
      "poolLength": 25,
      "club": "הפועל לב הגליל סחנין",
-     "startTime": "10:44",
-     "heat": "2",
-     "lane": "8",
+     "startTime": "10:42",
+     "heat": "1",
+     "lane": "4",
      "seedStr": "01:10.08",
      "seedSeconds": 70.08
     },
@@ -770734,7 +770707,7 @@ window.SWIM_DATA = {
      "club": "הפועל לב הגליל סחנין",
      "startTime": "10:23",
      "heat": "5",
-     "lane": "1",
+     "lane": "8",
      "seedStr": "00:29.37",
      "seedSeconds": 29.37
     }
@@ -771629,16 +771602,16 @@ window.SWIM_DATA = {
    ],
    "future": [
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "50 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
      "club": "הפועל בית איל",
-     "startTime": "09:39",
+     "startTime": "09:03",
      "heat": "3",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "00:34.37",
      "seedSeconds": 34.37
     },
@@ -772243,16 +772216,16 @@ window.SWIM_DATA = {
      "seedSeconds": 40.38
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "50 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
      "club": "הפועל בית איל",
-     "startTime": "09:37",
+     "startTime": "09:01",
      "heat": "2",
-     "lane": "4",
+     "lane": "5",
      "seedStr": "00:35.01",
      "seedSeconds": 35.01
     },
@@ -773796,20 +773769,6 @@ window.SWIM_DATA = {
      "startTime": "17:42",
      "heat": "1",
      "lane": "5",
-     "seedStr": "NT",
-     "seedSeconds": null
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "400 מעורב אישי",
-     "category": "גברים 12-99",
-     "poolLength": 25,
-     "club": "הפועל מ.א משגב",
-     "startTime": "09:14",
-     "heat": "1",
-     "lane": "3",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -788639,7 +788598,7 @@ window.SWIM_DATA = {
      "club": "מכבי ראשון לציון SEALS",
      "startTime": "10:20",
      "heat": "2",
-     "lane": "4",
+     "lane": "5",
      "seedStr": "00:30.36",
      "seedSeconds": 30.36
     },
@@ -793102,20 +793061,6 @@ window.SWIM_DATA = {
      "date": "2026-11-28",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
-     "event": "400 מעורב אישי",
-     "category": "גברים 12-99",
-     "poolLength": 25,
-     "club": "הפועל מ.א משגב",
-     "startTime": "09:14",
-     "heat": "1",
-     "lane": "5",
-     "seedStr": "05:49.19",
-     "seedSeconds": 349.19
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
      "event": "200 חופשי",
      "category": "בנים 12-15",
      "poolLength": 25,
@@ -795524,10 +795469,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:11.26",
+     "seconds": 71.26,
+     "place": "14",
+     "points": 249
     },
     {
      "date": "2026-11-21",
@@ -797336,20 +797281,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "00:29.39",
      "seedSeconds": 29.39
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "400 מעורב אישי",
-     "category": "גברים 12-99",
-     "poolLength": 25,
-     "club": "מכבי וייסגל רחובות",
-     "startTime": "09:19",
-     "heat": "2",
-     "lane": "1",
-     "seedStr": "05:03.66",
-     "seedSeconds": 303.66
     },
     {
      "date": "2026-11-28",
@@ -800840,10 +800771,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:07.73",
+     "seconds": 67.73,
+     "place": "8",
+     "points": 290
     },
     {
      "date": "2026-11-21",
@@ -800885,8 +800816,8 @@ window.SWIM_DATA = {
      "startTime": "10:18",
      "heat": "3",
      "lane": "4",
-     "seedStr": "01:11.78",
-     "seedSeconds": 71.78
+     "seedStr": "01:07.73",
+     "seedSeconds": 67.73
     },
     {
      "date": "2026-11-28",
@@ -835288,10 +835219,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:27.60",
+     "seconds": 87.6,
+     "place": "41",
+     "points": 134
     }
    ],
    "future": []
@@ -837071,7 +837002,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "timeStr": "NS",
      "seconds": null,
-     "place": "1",
+     "place": "63",
      "points": 0
     },
     {
@@ -838320,7 +838251,7 @@ window.SWIM_DATA = {
      "club": "מכבי נהריה",
      "startTime": "10:21",
      "heat": "3",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "00:30.00",
      "seedSeconds": 30.0
     },
@@ -841694,7 +841625,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "startTime": "10:08",
      "heat": "2",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "04:47.11",
      "seedSeconds": 287.11
     },
@@ -841722,7 +841653,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "startTime": "10:50",
      "heat": "5",
-     "lane": "1",
+     "lane": "8",
      "seedStr": "01:03.62",
      "seedSeconds": 63.62
     },
@@ -841750,7 +841681,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "startTime": "10:23",
      "heat": "5",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "00:29.24",
      "seedSeconds": 29.24
     },
@@ -843402,6 +843333,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי נהריה",
+     "startTime": "09:13",
+     "heat": "10",
+     "lane": "3",
+     "seedStr": "00:30.65",
+     "seedSeconds": 30.65
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -843411,20 +843356,6 @@ window.SWIM_DATA = {
      "lane": "5",
      "seedStr": "01:10.25",
      "seedSeconds": 70.25
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי נהריה",
-     "startTime": "09:49",
-     "heat": "10",
-     "lane": "3",
-     "seedStr": "00:30.65",
-     "seedSeconds": 30.65
     },
     {
      "date": "2026-11-28",
@@ -853756,6 +853687,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "09:18",
+     "heat": "13",
+     "lane": "8",
+     "seedStr": "00:29.77",
+     "seedSeconds": 29.77
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -853765,20 +853710,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "01:07.20",
      "seedSeconds": 67.2
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "09:54",
-     "heat": "13",
-     "lane": "8",
-     "seedStr": "00:29.77",
-     "seedSeconds": 29.77
     },
     {
      "date": "2026-11-28",
@@ -858478,6 +858409,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "ע.ל.ה עצמה רעננה",
+     "startTime": "09:00",
+     "heat": "1",
+     "lane": "8",
+     "seedStr": "NT",
+     "seedSeconds": null
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "50 גב",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -858487,20 +858432,6 @@ window.SWIM_DATA = {
      "lane": "5",
      "seedStr": "00:41.66",
      "seedSeconds": 41.66
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "09:36",
-     "heat": "1",
-     "lane": "1",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -859868,6 +859799,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "09:18",
+     "heat": "13",
+     "lane": "6",
+     "seedStr": "00:29.62",
+     "seedSeconds": 29.62
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "200 חזה",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -859891,20 +859836,6 @@ window.SWIM_DATA = {
      "lane": "5",
      "seedStr": "00:31.23",
      "seedSeconds": 31.23
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "09:54",
-     "heat": "13",
-     "lane": "6",
-     "seedStr": "00:29.62",
-     "seedSeconds": 29.62
     },
     {
      "date": "2026-11-28",
@@ -864255,6 +864186,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "09:04",
+     "heat": "4",
+     "lane": "3",
+     "seedStr": "00:33.47",
+     "seedSeconds": 33.47
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -864264,20 +864209,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "01:12.74",
      "seedSeconds": 72.74
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "09:40",
-     "heat": "4",
-     "lane": "5",
-     "seedStr": "00:33.47",
-     "seedSeconds": 33.47
     },
     {
      "date": "2026-11-28",
@@ -864774,14 +864705,14 @@ window.SWIM_DATA = {
    ],
    "future": [
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "50 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
      "club": "מכבי ראשון לציון SEALS",
-     "startTime": "09:42",
+     "startTime": "09:06",
      "heat": "5",
      "lane": "4",
      "seedStr": "00:32.82",
@@ -868053,16 +867984,16 @@ window.SWIM_DATA = {
    ],
    "future": [
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "50 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
      "club": "מכבי ראשון לציון SEALS",
-     "startTime": "09:36",
+     "startTime": "09:00",
      "heat": "1",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "00:37.18",
      "seedSeconds": 37.18
     },
@@ -906300,7 +906231,7 @@ window.SWIM_DATA = {
      "club": "הפועל קרית טבעון",
      "startTime": "10:22",
      "heat": "4",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "00:29.67",
      "seedSeconds": 29.67
     },
@@ -907054,7 +906985,7 @@ window.SWIM_DATA = {
      "club": "מכבי נהריה",
      "startTime": "10:46",
      "heat": "3",
-     "lane": "4",
+     "lane": "5",
      "seedStr": "01:05.53",
      "seedSeconds": 65.53
     },
@@ -907082,7 +907013,7 @@ window.SWIM_DATA = {
      "club": "מכבי נהריה",
      "startTime": "10:21",
      "heat": "3",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "00:30.01",
      "seedSeconds": 30.01
     },
@@ -909542,6 +909473,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "הפועל פליפר חדרה",
+     "startTime": "09:13",
+     "heat": "10",
+     "lane": "5",
+     "seedStr": "00:30.59",
+     "seedSeconds": 30.59
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "200 חזה",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -909551,20 +909496,6 @@ window.SWIM_DATA = {
      "lane": "7",
      "seedStr": "03:03.05",
      "seedSeconds": 183.05
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "הפועל פליפר חדרה",
-     "startTime": "09:49",
-     "heat": "10",
-     "lane": "5",
-     "seedStr": "00:30.59",
-     "seedSeconds": 30.59
     },
     {
      "date": "2026-11-28",
@@ -912077,15 +912008,15 @@ window.SWIM_DATA = {
      "seedSeconds": 52.34
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "400 מעורב אישי",
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "הפועל אולימפ נתניה",
-     "startTime": "09:25",
-     "heat": "3",
+     "startTime": "19:21",
+     "heat": "1",
      "lane": "2",
      "seedStr": "04:41.35",
      "seedSeconds": 281.35
@@ -930159,6 +930090,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "09:13",
+     "heat": "10",
+     "lane": "8",
+     "seedStr": "00:30.86",
+     "seedSeconds": 30.86
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -930168,20 +930113,6 @@ window.SWIM_DATA = {
      "lane": "1",
      "seedStr": "01:08.84",
      "seedSeconds": 68.84
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי א.ס. רמת השרון",
-     "startTime": "09:49",
-     "heat": "10",
-     "lane": "8",
-     "seedStr": "00:30.86",
-     "seedSeconds": 30.86
     },
     {
      "date": "2026-11-28",
@@ -941415,14 +941346,14 @@ window.SWIM_DATA = {
      "seedSeconds": 177.15
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "400 מעורב אישי",
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "מכבי פ.מ. רעות",
-     "startTime": "09:00",
+     "startTime": "19:07",
      "heat": "1",
      "lane": "3",
      "seedStr": "05:34.93",
@@ -945164,6 +945095,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "09:19",
+     "heat": "14",
+     "lane": "6",
+     "seedStr": "00:28.67",
+     "seedSeconds": 28.67
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -945173,20 +945118,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "01:06.46",
      "seedSeconds": 66.46
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי פ.מ. רעות",
-     "startTime": "09:55",
-     "heat": "14",
-     "lane": "6",
-     "seedStr": "00:28.67",
-     "seedSeconds": 28.67
     },
     {
      "date": "2026-11-28",
@@ -966481,7 +966412,7 @@ window.SWIM_DATA = {
      "club": "הפועל באר טוביה",
      "startTime": "10:03",
      "heat": "1",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -966509,7 +966440,7 @@ window.SWIM_DATA = {
      "club": "הפועל באר טוביה",
      "startTime": "10:44",
      "heat": "2",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "01:09.88",
      "seedSeconds": 69.88
     },
@@ -966523,7 +966454,7 @@ window.SWIM_DATA = {
      "club": "הפועל באר טוביה",
      "startTime": "10:19",
      "heat": "1",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "00:31.88",
      "seedSeconds": 31.88
     },
@@ -968041,6 +967972,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "09:07",
+     "heat": "6",
+     "lane": "1",
+     "seedStr": "00:32.66",
+     "seedSeconds": 32.66
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "200 חזה",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -968064,20 +968009,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "00:53.02",
      "seedSeconds": 53.02
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "הפועל באר טוביה",
-     "startTime": "09:43",
-     "heat": "6",
-     "lane": "1",
-     "seedStr": "00:32.66",
-     "seedSeconds": 32.66
     },
     {
      "date": "2026-11-28",
@@ -980102,6 +980033,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "09:09",
+     "heat": "7",
+     "lane": "8",
+     "seedStr": "00:32.39",
+     "seedSeconds": 32.39
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -980111,20 +980056,6 @@ window.SWIM_DATA = {
      "lane": "7",
      "seedStr": "01:13.44",
      "seedSeconds": 73.44
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "09:45",
-     "heat": "7",
-     "lane": "8",
-     "seedStr": "00:32.39",
-     "seedSeconds": 32.39
     },
     {
      "date": "2026-11-28",
@@ -990722,6 +990653,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "09:03",
+     "heat": "3",
+     "lane": "1",
+     "seedStr": "00:34.80",
+     "seedSeconds": 34.8
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -990733,32 +990678,18 @@ window.SWIM_DATA = {
      "seedSeconds": 77.56
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "400 מעורב אישי",
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "הפועל באר טוביה",
-     "startTime": "09:00",
+     "startTime": "19:07",
      "heat": "1",
      "lane": "7",
      "seedStr": "06:47.86",
      "seedSeconds": 407.86
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "הפועל באר טוביה",
-     "startTime": "09:39",
-     "heat": "3",
-     "lane": "7",
-     "seedStr": "00:34.80",
-     "seedSeconds": 34.8
     },
     {
      "date": "2026-11-28",
@@ -996376,6 +996307,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "09:13",
+     "heat": "10",
+     "lane": "4",
+     "seedStr": "00:30.55",
+     "seedSeconds": 30.55
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -996385,20 +996330,6 @@ window.SWIM_DATA = {
      "lane": "1",
      "seedStr": "01:06.76",
      "seedSeconds": 66.76
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "09:49",
-     "heat": "10",
-     "lane": "4",
-     "seedStr": "00:30.55",
-     "seedSeconds": 30.55
     },
     {
      "date": "2026-11-28",
@@ -1005062,7 +1004993,7 @@ window.SWIM_DATA = {
      "club": "מכבי ירושלים",
      "startTime": "17:45",
      "heat": "2",
-     "lane": "4",
+     "lane": "5",
      "seedStr": "01:15.71",
      "seedSeconds": 75.71
     },
@@ -1005090,7 +1005021,7 @@ window.SWIM_DATA = {
      "club": "מכבי ירושלים",
      "startTime": "10:44",
      "heat": "2",
-     "lane": "4",
+     "lane": "5",
      "seedStr": "01:07.34",
      "seedSeconds": 67.34
     }
@@ -1006590,7 +1006521,7 @@ window.SWIM_DATA = {
      "club": "מכבי ירושלים",
      "startTime": "10:03",
      "heat": "1",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "05:10.62",
      "seedSeconds": 310.62
     },
@@ -1006604,7 +1006535,7 @@ window.SWIM_DATA = {
      "club": "מכבי ירושלים",
      "startTime": "17:43",
      "heat": "1",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "01:21.65",
      "seedSeconds": 81.65
     },
@@ -1006632,7 +1006563,7 @@ window.SWIM_DATA = {
      "club": "מכבי ירושלים",
      "startTime": "10:46",
      "heat": "3",
-     "lane": "1",
+     "lane": "8",
      "seedStr": "01:06.50",
      "seedSeconds": 66.5
     },
@@ -1007669,6 +1007600,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "09:07",
+     "heat": "6",
+     "lane": "2",
+     "seedStr": "00:32.57",
+     "seedSeconds": 32.57
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1007692,20 +1007637,6 @@ window.SWIM_DATA = {
      "lane": "8",
      "seedStr": "00:34.30",
      "seedSeconds": 34.3
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי פ.מ. רעות",
-     "startTime": "09:43",
-     "heat": "6",
-     "lane": "2",
-     "seedStr": "00:32.57",
-     "seedSeconds": 32.57
     },
     {
      "date": "2026-11-28",
@@ -1008765,6 +1008696,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי פ.מ. רעות",
+     "startTime": "09:16",
+     "heat": "12",
+     "lane": "7",
+     "seedStr": "00:29.99",
+     "seedSeconds": 29.99
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1008788,20 +1008733,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "02:34.89",
      "seedSeconds": 154.89
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי פ.מ. רעות",
-     "startTime": "09:52",
-     "heat": "12",
-     "lane": "7",
-     "seedStr": "00:29.99",
-     "seedSeconds": 29.99
     },
     {
      "date": "2026-11-28",
@@ -1053108,7 +1053039,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "17:45",
      "heat": "2",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "01:16.30",
      "seedSeconds": 76.3
     },
@@ -1057539,9 +1057470,9 @@ window.SWIM_DATA = {
      "category": "נשים 16-99",
      "poolLength": 25,
      "club": "הפועל אולימפ נתניה",
-     "startTime": "10:46",
-     "heat": "3",
-     "lane": "8",
+     "startTime": "10:44",
+     "heat": "2",
+     "lane": "4",
      "seedStr": "01:06.95",
      "seedSeconds": 66.95
     },
@@ -1063093,6 +1063024,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "startTime": "09:12",
+     "heat": "9",
+     "lane": "3",
+     "seedStr": "00:31.00",
+     "seedSeconds": 31.0
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1063102,20 +1063047,6 @@ window.SWIM_DATA = {
      "lane": "8",
      "seedStr": "01:08.95",
      "seedSeconds": 68.95
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "09:48",
-     "heat": "9",
-     "lane": "3",
-     "seedStr": "00:31.00",
-     "seedSeconds": 31.0
     },
     {
      "date": "2026-11-28",
@@ -1088941,7 +1088872,7 @@ window.SWIM_DATA = {
      "club": "הפועל אולימפ נתניה",
      "startTime": "10:14",
      "heat": "3",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "04:43.13",
      "seedSeconds": 283.13
     },
@@ -1088969,7 +1088900,7 @@ window.SWIM_DATA = {
      "club": "הפועל אולימפ נתניה",
      "startTime": "17:43",
      "heat": "1",
-     "lane": "4",
+     "lane": "5",
      "seedStr": "01:19.64",
      "seedSeconds": 79.64
     },
@@ -1092764,7 +1092695,7 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "10:20",
      "heat": "2",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "00:31.16",
      "seedSeconds": 31.16
     },
@@ -1093777,9 +1093708,9 @@ window.SWIM_DATA = {
      "category": "נשים 16-99",
      "poolLength": 25,
      "club": "מכבי תל אביב",
-     "startTime": "10:14",
-     "heat": "3",
-     "lane": "8",
+     "startTime": "10:08",
+     "heat": "2",
+     "lane": "4",
      "seedStr": "04:45.42",
      "seedSeconds": 285.42
     },
@@ -1093805,9 +1093736,9 @@ window.SWIM_DATA = {
      "category": "נשים 16-99",
      "poolLength": 25,
      "club": "מכבי תל אביב",
-     "startTime": "10:48",
-     "heat": "4",
-     "lane": "8",
+     "startTime": "10:46",
+     "heat": "3",
+     "lane": "4",
      "seedStr": "01:05.53",
      "seedSeconds": 65.53
     },
@@ -1094952,7 +1094883,7 @@ window.SWIM_DATA = {
      "club": "הפועל בית שמש",
      "startTime": "10:48",
      "heat": "4",
-     "lane": "1",
+     "lane": "8",
      "seedStr": "01:04.88",
      "seedSeconds": 64.88
     },
@@ -1098300,7 +1098231,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "10:19",
      "heat": "1",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "00:32.65",
      "seedSeconds": 32.65
     },
@@ -1105567,15 +1105498,15 @@ window.SWIM_DATA = {
      "seedSeconds": 51.86
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "400 מעורב אישי",
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "09:25",
-     "heat": "3",
+     "startTime": "19:21",
+     "heat": "1",
      "lane": "6",
      "seedStr": "04:40.47",
      "seedSeconds": 280.47
@@ -1131912,7 +1131843,7 @@ window.SWIM_DATA = {
      "club": "מכבי תל אביב",
      "startTime": "10:23",
      "heat": "5",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "00:29.03",
      "seedSeconds": 29.03
     },
@@ -1133396,7 +1133327,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "startTime": "10:50",
      "heat": "5",
-     "lane": "4",
+     "lane": "5",
      "seedStr": "01:02.86",
      "seedSeconds": 62.86
     },
@@ -1137705,6 +1137636,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "startTime": "09:12",
+     "heat": "9",
+     "lane": "8",
+     "seedStr": "00:31.55",
+     "seedSeconds": 31.55
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1137742,20 +1137687,6 @@ window.SWIM_DATA = {
      "lane": "1",
      "seedStr": "00:37.83",
      "seedSeconds": 37.83
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "09:48",
-     "heat": "9",
-     "lane": "8",
-     "seedStr": "00:31.55",
-     "seedSeconds": 31.55
     },
     {
      "date": "2026-11-28",
@@ -1138594,6 +1138525,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "09:10",
+     "heat": "8",
+     "lane": "2",
+     "seedStr": "00:31.82",
+     "seedSeconds": 31.82
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "200 חזה",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1138617,20 +1138562,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "00:37.07",
      "seedSeconds": 37.07
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי שוהם",
-     "startTime": "09:46",
-     "heat": "8",
-     "lane": "2",
-     "seedStr": "00:31.82",
-     "seedSeconds": 31.82
     },
     {
      "date": "2026-11-28",
@@ -1158966,7 +1158897,7 @@ window.SWIM_DATA = {
      "club": "מכבי תל אביב",
      "startTime": "10:19",
      "heat": "1",
-     "lane": "4",
+     "lane": "5",
      "seedStr": "00:31.44",
      "seedSeconds": 31.44
     },
@@ -1165321,7 +1165252,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "startTime": "10:42",
      "heat": "1",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1168262,15 +1168193,15 @@ window.SWIM_DATA = {
      "seedSeconds": 120.0
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "400 מעורב אישי",
      "category": "גברים 12-99",
      "poolLength": 25,
      "club": "אלומה עירוני הוד השרון",
-     "startTime": "09:30",
-     "heat": "4",
+     "startTime": "19:26",
+     "heat": "2",
      "lane": "6",
      "seedStr": "04:25.09",
      "seedSeconds": 265.09
@@ -1169659,6 +1169590,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "09:21",
+     "heat": "15",
+     "lane": "4",
+     "seedStr": "00:27.13",
+     "seedSeconds": 27.13
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1169682,20 +1169627,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "00:29.09",
      "seedSeconds": 29.09
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי א.ס. רמת השרון",
-     "startTime": "09:57",
-     "heat": "15",
-     "lane": "4",
-     "seedStr": "00:27.13",
-     "seedSeconds": 27.13
     },
     {
      "date": "2026-11-28",
@@ -1170737,7 +1170668,7 @@ window.SWIM_DATA = {
      "club": "מכבי תל אביב",
      "startTime": "10:20",
      "heat": "2",
-     "lane": "1",
+     "lane": "8",
      "seedStr": "00:31.20",
      "seedSeconds": 31.2
     },
@@ -1172802,6 +1172733,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי תל אביב",
+     "startTime": "09:19",
+     "heat": "14",
+     "lane": "2",
+     "seedStr": "00:28.74",
+     "seedSeconds": 28.74
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1172825,20 +1172770,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "02:29.08",
      "seedSeconds": 149.08
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "09:55",
-     "heat": "14",
-     "lane": "2",
-     "seedStr": "00:28.74",
-     "seedSeconds": 28.74
     },
     {
      "date": "2026-11-28",
@@ -1174171,6 +1174102,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "הפועל קרית טבעון",
+     "startTime": "09:03",
+     "heat": "3",
+     "lane": "5",
+     "seedStr": "00:34.15",
+     "seedSeconds": 34.15
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "50 פרפר",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1174180,20 +1174125,6 @@ window.SWIM_DATA = {
      "lane": "5",
      "seedStr": "00:35.97",
      "seedSeconds": 35.97
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "הפועל קרית טבעון",
-     "startTime": "09:39",
-     "heat": "3",
-     "lane": "4",
-     "seedStr": "00:34.15",
-     "seedSeconds": 34.15
     },
     {
      "date": "2026-11-28",
@@ -1175929,6 +1175860,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי תל אביב",
+     "startTime": "09:15",
+     "heat": "11",
+     "lane": "8",
+     "seedStr": "00:30.44",
+     "seedSeconds": 30.44
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "50 פרפר",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1175952,20 +1175897,6 @@ window.SWIM_DATA = {
      "lane": "8",
      "seedStr": "02:40.37",
      "seedSeconds": 160.37
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "09:51",
-     "heat": "11",
-     "lane": "8",
-     "seedStr": "00:30.44",
-     "seedSeconds": 30.44
     },
     {
      "date": "2026-11-28",
@@ -1176688,6 +1176619,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי תל אביב",
+     "startTime": "09:18",
+     "heat": "13",
+     "lane": "7",
+     "seedStr": "00:29.70",
+     "seedSeconds": 29.7
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1176711,20 +1176656,6 @@ window.SWIM_DATA = {
      "lane": "5",
      "seedStr": "00:35.21",
      "seedSeconds": 35.21
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "09:54",
-     "heat": "13",
-     "lane": "7",
-     "seedStr": "00:29.70",
-     "seedSeconds": 29.7
     },
     {
      "date": "2026-11-28",
@@ -1178962,6 +1178893,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי תל אביב",
+     "startTime": "09:09",
+     "heat": "7",
+     "lane": "2",
+     "seedStr": "00:32.17",
+     "seedSeconds": 32.17
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "200 חזה",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1178985,20 +1178930,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "00:40.35",
      "seedSeconds": 40.35
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "09:45",
-     "heat": "7",
-     "lane": "2",
-     "seedStr": "00:32.17",
-     "seedSeconds": 32.17
     },
     {
      "date": "2026-11-28",
@@ -1184704,6 +1184635,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי תל אביב",
+     "startTime": "09:15",
+     "heat": "11",
+     "lane": "4",
+     "seedStr": "00:30.13",
+     "seedSeconds": 30.13
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1184727,20 +1184672,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "02:43.06",
      "seedSeconds": 163.06
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "09:51",
-     "heat": "11",
-     "lane": "4",
-     "seedStr": "00:30.13",
-     "seedSeconds": 30.13
     },
     {
      "date": "2026-11-28",
@@ -1205745,6 +1205676,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "09:12",
+     "heat": "9",
+     "lane": "5",
+     "seedStr": "00:30.92",
+     "seedSeconds": 30.92
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "50 פרפר",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1205768,20 +1205713,6 @@ window.SWIM_DATA = {
      "lane": "7",
      "seedStr": "02:37.65",
      "seedSeconds": 157.65
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי שוהם",
-     "startTime": "09:48",
-     "heat": "9",
-     "lane": "5",
-     "seedStr": "00:30.92",
-     "seedSeconds": 30.92
     },
     {
      "date": "2026-11-28",
@@ -1207288,6 +1207219,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "09:15",
+     "heat": "11",
+     "lane": "2",
+     "seedStr": "00:30.33",
+     "seedSeconds": 30.33
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1207311,20 +1207256,6 @@ window.SWIM_DATA = {
      "lane": "1",
      "seedStr": "02:47.29",
      "seedSeconds": 167.29
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי שוהם",
-     "startTime": "09:51",
-     "heat": "11",
-     "lane": "2",
-     "seedStr": "00:30.33",
-     "seedSeconds": 30.33
     },
     {
      "date": "2026-11-28",
@@ -1214396,6 +1214327,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "09:09",
+     "heat": "7",
+     "lane": "5",
+     "seedStr": "00:31.99",
+     "seedSeconds": 31.99
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1214405,20 +1214350,6 @@ window.SWIM_DATA = {
      "lane": "7",
      "seedStr": "01:12.14",
      "seedSeconds": 72.14
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי שוהם",
-     "startTime": "09:45",
-     "heat": "7",
-     "lane": "5",
-     "seedStr": "00:31.99",
-     "seedSeconds": 31.99
     }
    ]
   },
@@ -1234914,16 +1234845,16 @@ window.SWIM_DATA = {
    ],
    "future": [
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "50 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "09:40",
+     "startTime": "09:04",
      "heat": "4",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "00:33.65",
      "seedSeconds": 33.65
     }
@@ -1235465,6 +1235396,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "09:04",
+     "heat": "4",
+     "lane": "4",
+     "seedStr": "00:33.38",
+     "seedSeconds": 33.38
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "50 פרפר",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1235474,20 +1235419,6 @@ window.SWIM_DATA = {
      "lane": "1",
      "seedStr": "00:36.41",
      "seedSeconds": 36.41
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי שוהם",
-     "startTime": "09:42",
-     "heat": "5",
-     "lane": "8",
-     "seedStr": "00:33.38",
-     "seedSeconds": 33.38
     },
     {
      "date": "2026-11-28",
@@ -1238064,16 +1237995,16 @@ window.SWIM_DATA = {
    ],
    "future": [
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "50 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "09:42",
+     "startTime": "09:06",
      "heat": "5",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "00:33.22",
      "seedSeconds": 33.22
     },
@@ -1254548,6 +1254479,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי תל אביב",
+     "startTime": "09:10",
+     "heat": "8",
+     "lane": "3",
+     "seedStr": "00:31.66",
+     "seedSeconds": 31.66
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1254571,20 +1254516,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "00:33.72",
      "seedSeconds": 33.72
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "09:46",
-     "heat": "8",
-     "lane": "3",
-     "seedStr": "00:31.66",
-     "seedSeconds": 31.66
     },
     {
      "date": "2026-11-28",
@@ -1261338,6 +1261269,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי תל אביב",
+     "startTime": "09:18",
+     "heat": "13",
+     "lane": "1",
+     "seedStr": "00:29.71",
+     "seedSeconds": 29.71
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1261347,20 +1261292,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "01:06.32",
      "seedSeconds": 66.32
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "09:54",
-     "heat": "13",
-     "lane": "1",
-     "seedStr": "00:29.71",
-     "seedSeconds": 29.71
     },
     {
      "date": "2026-11-28",
@@ -1265122,6 +1265053,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי שוהם",
+     "startTime": "09:13",
+     "heat": "10",
+     "lane": "2",
+     "seedStr": "00:30.75",
+     "seedSeconds": 30.75
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1265159,20 +1265104,6 @@ window.SWIM_DATA = {
      "lane": "6",
      "seedStr": "00:35.51",
      "seedSeconds": 35.51
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי שוהם",
-     "startTime": "09:49",
-     "heat": "10",
-     "lane": "2",
-     "seedStr": "00:30.75",
-     "seedSeconds": 30.75
     },
     {
      "date": "2026-11-28",
@@ -1268614,6 +1268545,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי תל אביב",
+     "startTime": "09:07",
+     "heat": "6",
+     "lane": "4",
+     "seedStr": "00:32.40",
+     "seedSeconds": 32.4
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "200 חזה",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1268623,20 +1268568,6 @@ window.SWIM_DATA = {
      "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "09:43",
-     "heat": "6",
-     "lane": "4",
-     "seedStr": "00:32.40",
-     "seedSeconds": 32.4
     },
     {
      "date": "2026-11-28",
@@ -1284621,6 +1284552,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "09:19",
+     "heat": "14",
+     "lane": "8",
+     "seedStr": "00:29.26",
+     "seedSeconds": 29.26
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1284644,20 +1284589,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "02:35.66",
      "seedSeconds": 155.66
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:55",
-     "heat": "14",
-     "lane": "8",
-     "seedStr": "00:29.26",
-     "seedSeconds": 29.26
     },
     {
      "date": "2026-11-28",
@@ -1285108,10 +1285039,10 @@ window.SWIM_DATA = {
      "category": "בנות 10-13",
      "poolLength": 25,
      "club": "מכבי נהריה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "16",
-     "points": 0
+     "timeStr": "01:12.35",
+     "seconds": 72.35,
+     "place": "6",
+     "points": 335
     }
    ],
    "future": []
@@ -1285808,10 +1285739,10 @@ window.SWIM_DATA = {
      "category": "בנות 10-13",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "16",
-     "points": 0
+     "timeStr": "01:07.63",
+     "seconds": 67.63,
+     "place": "1",
+     "points": 410
     },
     {
      "date": "2026-11-21",
@@ -1285846,6 +1285777,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "09:12",
+     "heat": "9",
+     "lane": "1",
+     "seedStr": "00:31.30",
+     "seedSeconds": 31.3
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1285853,8 +1285798,8 @@ window.SWIM_DATA = {
      "startTime": "10:02",
      "heat": "8",
      "lane": "2",
-     "seedStr": "01:07.90",
-     "seedSeconds": 67.9
+     "seedStr": "01:07.63",
+     "seedSeconds": 67.63
     },
     {
      "date": "2026-11-27",
@@ -1285869,20 +1285814,6 @@ window.SWIM_DATA = {
      "lane": "1",
      "seedStr": "00:56.47",
      "seedSeconds": 56.47
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:48",
-     "heat": "9",
-     "lane": "1",
-     "seedStr": "00:31.30",
-     "seedSeconds": 31.3
     },
     {
      "date": "2026-11-28",
@@ -1293070,10 +1293001,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי נהריה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:09.09",
+     "seconds": 69.09,
+     "place": "12",
+     "points": 273
     }
    ],
    "future": []
@@ -1293458,10 +1293389,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי נהריה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:08.16",
+     "seconds": 68.16,
+     "place": "9",
+     "points": 284
     }
    ],
    "future": []
@@ -1294250,10 +1294181,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "הפועל קרית אתא",
-     "timeStr": "NS",
-     "seconds": null,
+     "timeStr": "01:05.21",
+     "seconds": 65.21,
      "place": "1",
-     "points": 0
+     "points": 325
     }
    ],
    "future": []
@@ -1294612,10 +1294543,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי נהריה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:06.76",
+     "seconds": 66.76,
+     "place": "5",
+     "points": 303
     }
    ],
    "future": []
@@ -1296748,6 +1296679,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "09:19",
+     "heat": "14",
+     "lane": "4",
+     "seedStr": "00:28.43",
+     "seedSeconds": 28.43
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1296771,20 +1296716,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "02:28.53",
      "seedSeconds": 148.53
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:55",
-     "heat": "14",
-     "lane": "4",
-     "seedStr": "00:28.43",
-     "seedSeconds": 28.43
     },
     {
      "date": "2026-11-28",
@@ -1297491,6 +1297422,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "הפועל קרית אתא",
+     "startTime": "09:09",
+     "heat": "7",
+     "lane": "3",
+     "seedStr": "00:32.00",
+     "seedSeconds": 32.0
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1297500,20 +1297445,6 @@ window.SWIM_DATA = {
      "lane": "8",
      "seedStr": "01:12.34",
      "seedSeconds": 72.34
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "הפועל קרית אתא",
-     "startTime": "09:45",
-     "heat": "7",
-     "lane": "3",
-     "seedStr": "00:32.00",
-     "seedSeconds": 32.0
     }
    ]
   },
@@ -1298053,6 +1297984,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי חיפה",
+     "startTime": "09:10",
+     "heat": "8",
+     "lane": "7",
+     "seedStr": "00:31.88",
+     "seedSeconds": 31.88
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1298062,20 +1298007,6 @@ window.SWIM_DATA = {
      "lane": "1",
      "seedStr": "01:12.28",
      "seedSeconds": 72.28
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי חיפה",
-     "startTime": "09:46",
-     "heat": "8",
-     "lane": "7",
-     "seedStr": "00:31.88",
-     "seedSeconds": 31.88
     },
     {
      "date": "2026-11-28",
@@ -1298434,10 +1298365,10 @@ window.SWIM_DATA = {
      "category": "בנות 10-13",
      "poolLength": 25,
      "club": "מכבי נהריה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "16",
-     "points": 0
+     "timeStr": "01:17.94",
+     "seconds": 77.94,
+     "place": "11",
+     "points": 267
     }
    ],
    "future": []
@@ -1302856,10 +1302787,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי נהריה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:05.26",
+     "seconds": 65.26,
+     "place": "3",
+     "points": 324
     },
     {
      "date": "2026-11-21",
@@ -1306760,6 +1306691,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "09:01",
+     "heat": "2",
+     "lane": "4",
+     "seedStr": "00:35.00",
+     "seedSeconds": 35.0
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "200 חזה",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1306769,20 +1306714,6 @@ window.SWIM_DATA = {
      "lane": "1",
      "seedStr": "03:03.39",
      "seedSeconds": 183.39
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:39",
-     "heat": "3",
-     "lane": "8",
-     "seedStr": "00:35.00",
-     "seedSeconds": 35.0
     },
     {
      "date": "2026-11-28",
@@ -1309609,10 +1309540,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:19.47",
+     "seconds": 79.47,
+     "place": "22",
+     "points": 179
     },
     {
      "date": "2026-11-21",
@@ -1310047,10 +1309978,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:25.54",
+     "seconds": 85.54,
+     "place": "32",
+     "points": 144
     }
    ],
    "future": []
@@ -1325427,6 +1325358,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "TLV SWIM",
+     "startTime": "09:19",
+     "heat": "14",
+     "lane": "7",
+     "seedStr": "00:28.76",
+     "seedSeconds": 28.76
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1325436,20 +1325381,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "01:02.67",
      "seedSeconds": 62.67
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "TLV SWIM",
-     "startTime": "09:55",
-     "heat": "14",
-     "lane": "7",
-     "seedStr": "00:28.76",
-     "seedSeconds": 28.76
     }
    ]
   },
@@ -1333618,14 +1333549,14 @@ window.SWIM_DATA = {
      "seedSeconds": 35.89
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "50 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
      "club": "הפועל פליפר חדרה",
-     "startTime": "09:51",
+     "startTime": "09:15",
      "heat": "11",
      "lane": "1",
      "seedStr": "00:30.40",
@@ -1334933,6 +1334864,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי תל אביב",
+     "startTime": "09:07",
+     "heat": "6",
+     "lane": "8",
+     "seedStr": "00:32.71",
+     "seedSeconds": 32.71
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1334956,20 +1334901,6 @@ window.SWIM_DATA = {
      "lane": "3",
      "seedStr": "00:34.35",
      "seedSeconds": 34.35
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "09:43",
-     "heat": "6",
-     "lane": "8",
-     "seedStr": "00:32.71",
-     "seedSeconds": 32.71
     },
     {
      "date": "2026-11-28",
@@ -1336248,14 +1336179,14 @@ window.SWIM_DATA = {
      "seedSeconds": 68.25
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "400 מעורב אישי",
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "אלומה עירוני הוד השרון",
-     "startTime": "09:00",
+     "startTime": "19:07",
      "heat": "1",
      "lane": "1",
      "seedStr": "NT",
@@ -1338719,20 +1338650,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "00:39.79",
      "seedSeconds": 39.79
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "400 מעורב אישי",
-     "category": "גברים 12-99",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "09:14",
-     "heat": "1",
-     "lane": "2",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1350823,6 +1350740,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "הפועל פליפר חדרה",
+     "startTime": "09:21",
+     "heat": "15",
+     "lane": "3",
+     "seedStr": "00:27.47",
+     "seedSeconds": 27.47
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1350846,20 +1350777,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "00:30.02",
      "seedSeconds": 30.02
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "הפועל פליפר חדרה",
-     "startTime": "09:57",
-     "heat": "15",
-     "lane": "3",
-     "seedStr": "00:27.47",
-     "seedSeconds": 27.47
     },
     {
      "date": "2026-11-28",
@@ -1355198,6 +1355115,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי א.ס. רמת השרון",
+     "startTime": "09:16",
+     "heat": "12",
+     "lane": "8",
+     "seedStr": "00:30.09",
+     "seedSeconds": 30.09
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1355207,20 +1355138,6 @@ window.SWIM_DATA = {
      "lane": "8",
      "seedStr": "01:05.73",
      "seedSeconds": 65.73
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי א.ס. רמת השרון",
-     "startTime": "09:52",
-     "heat": "12",
-     "lane": "8",
-     "seedStr": "00:30.09",
-     "seedSeconds": 30.09
     },
     {
      "date": "2026-11-28",
@@ -1357668,6 +1357585,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "09:06",
+     "heat": "5",
+     "lane": "5",
+     "seedStr": "00:32.83",
+     "seedSeconds": 32.83
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "200 חזה",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1357691,20 +1357622,6 @@ window.SWIM_DATA = {
      "lane": "1",
      "seedStr": "00:34.79",
      "seedSeconds": 34.79
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "הפועל עמק חפר",
-     "startTime": "09:42",
-     "heat": "5",
-     "lane": "5",
-     "seedStr": "00:32.83",
-     "seedSeconds": 32.83
     },
     {
      "date": "2026-11-28",
@@ -1365137,6 +1365054,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "09:01",
+     "heat": "2",
+     "lane": "8",
+     "seedStr": "00:35.86",
+     "seedSeconds": 35.86
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "200 חזה",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1365146,20 +1365077,6 @@ window.SWIM_DATA = {
      "lane": "7",
      "seedStr": "03:13.48",
      "seedSeconds": 193.48
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "הפועל עמק חפר",
-     "startTime": "09:37",
-     "heat": "2",
-     "lane": "1",
-     "seedStr": "00:35.86",
-     "seedSeconds": 35.86
     },
     {
      "date": "2026-11-28",
@@ -1366350,14 +1366267,14 @@ window.SWIM_DATA = {
      "seedSeconds": 63.9
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "400 מעורב אישי",
      "category": "נשים 12-99",
      "poolLength": 25,
      "club": "אלומה עירוני הוד השרון",
-     "startTime": "09:00",
+     "startTime": "19:07",
      "heat": "1",
      "lane": "5",
      "seedStr": "05:27.81",
@@ -1390387,7 +1390304,7 @@ window.SWIM_DATA = {
      "club": "מכבי ירושלים",
      "startTime": "10:42",
      "heat": "1",
-     "lane": "4",
+     "lane": "5",
      "seedStr": "01:10.74",
      "seedSeconds": 70.74
     },
@@ -1390401,7 +1390318,7 @@ window.SWIM_DATA = {
      "club": "מכבי ירושלים",
      "startTime": "10:20",
      "heat": "2",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "00:30.64",
      "seedSeconds": 30.64
     }
@@ -1422628,10 +1422545,10 @@ window.SWIM_DATA = {
      "category": "בנות 10-13",
      "poolLength": 25,
      "club": "מכבי נהריה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "16",
-     "points": 0
+     "timeStr": "01:12.99",
+     "seconds": 72.99,
+     "place": "7",
+     "points": 326
     }
    ],
    "future": []
@@ -1423948,10 +1423865,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי נהריה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:12.68",
+     "seconds": 72.68,
+     "place": "16",
+     "points": 234
     },
     {
      "date": "2026-11-21",
@@ -1428837,16 +1428754,16 @@ window.SWIM_DATA = {
      "seedSeconds": 44.81
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "50 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "09:36",
+     "startTime": "09:00",
      "heat": "1",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "00:46.59",
      "seedSeconds": 46.59
     }
@@ -1432687,10 +1432604,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:22.80",
+     "seconds": 82.8,
+     "place": "25",
+     "points": 158
     },
     {
      "date": "2026-11-21",
@@ -1433075,10 +1432992,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
+     "timeStr": "DQ",
      "seconds": null,
-     "place": "1",
-     "points": 0
+     "place": "48",
+     "points": 100
     }
    ],
    "future": []
@@ -1433554,10 +1433471,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:38.84",
+     "seconds": 98.84,
+     "place": "50",
+     "points": 93
     }
    ],
    "future": []
@@ -1437271,7 +1437188,7 @@ window.SWIM_DATA = {
      "club": "ע.ל.ה עצמה רעננה",
      "startTime": "10:50",
      "heat": "5",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "01:03.42",
      "seedSeconds": 63.42
     },
@@ -1459251,20 +1459168,6 @@ window.SWIM_DATA = {
      "date": "2026-11-28",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
-     "event": "400 מעורב אישי",
-     "category": "גברים 12-99",
-     "poolLength": 25,
-     "club": "מכבי חיפה",
-     "startTime": "09:19",
-     "heat": "2",
-     "lane": "3",
-     "seedStr": "04:57.17",
-     "seedSeconds": 297.17
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
      "event": "200 פרפר",
      "category": "גברים 16-99",
      "poolLength": 25,
@@ -1462196,6 +1462099,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "09:00",
+     "heat": "1",
+     "lane": "7",
+     "seedStr": "00:38.76",
+     "seedSeconds": 38.76
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "50 פרפר",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1462205,20 +1462122,6 @@ window.SWIM_DATA = {
      "lane": "8",
      "seedStr": "00:35.76",
      "seedSeconds": 35.76
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:36",
-     "heat": "1",
-     "lane": "2",
-     "seedStr": "00:38.76",
-     "seedSeconds": 38.76
     },
     {
      "date": "2026-11-28",
@@ -1466684,10 +1466587,10 @@ window.SWIM_DATA = {
      "category": "בנות 10-13",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "16",
-     "points": 0
+     "timeStr": "01:13.31",
+     "seconds": 73.31,
+     "place": "8",
+     "points": 322
     },
     {
      "date": "2026-11-21",
@@ -1466722,6 +1466625,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי קרית ביאליק",
+     "startTime": "09:09",
+     "heat": "7",
+     "lane": "7",
+     "seedStr": "00:32.27",
+     "seedSeconds": 32.27
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1466729,22 +1466646,8 @@ window.SWIM_DATA = {
      "startTime": "09:52",
      "heat": "3",
      "lane": "6",
-     "seedStr": "01:14.96",
-     "seedSeconds": 74.96
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי קרית ביאליק",
-     "startTime": "09:45",
-     "heat": "7",
-     "lane": "7",
-     "seedStr": "00:32.27",
-     "seedSeconds": 32.27
+     "seedStr": "01:13.31",
+     "seedSeconds": 73.31
     },
     {
      "date": "2026-11-28",
@@ -1482141,6 +1482044,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי תל אביב",
+     "startTime": "09:21",
+     "heat": "15",
+     "lane": "2",
+     "seedStr": "00:27.84",
+     "seedSeconds": 27.84
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1482164,20 +1482081,6 @@ window.SWIM_DATA = {
      "lane": "5",
      "seedStr": "00:29.44",
      "seedSeconds": 29.44
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "09:57",
-     "heat": "15",
-     "lane": "2",
-     "seedStr": "00:27.84",
-     "seedSeconds": 27.84
     },
     {
      "date": "2026-11-28",
@@ -1483472,16 +1483375,16 @@ window.SWIM_DATA = {
    ],
    "future": [
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "50 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
      "club": "מכבי ראשון לציון SEALS",
-     "startTime": "09:40",
+     "startTime": "09:04",
      "heat": "4",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "00:33.56",
      "seedSeconds": 33.56
     },
@@ -1497912,6 +1497815,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "09:10",
+     "heat": "8",
+     "lane": "1",
+     "seedStr": "00:31.90",
+     "seedSeconds": 31.9
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "200 גב",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1497921,20 +1497838,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "02:53.30",
      "seedSeconds": 173.3
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מתנ\"ס רמת הנגב",
-     "startTime": "09:46",
-     "heat": "8",
-     "lane": "1",
-     "seedStr": "00:31.90",
-     "seedSeconds": 31.9
     },
     {
      "date": "2026-11-28",
@@ -1508457,16 +1508360,16 @@ window.SWIM_DATA = {
      "seedSeconds": 41.06
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "50 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
      "club": "הפועל קרית טבעון",
-     "startTime": "09:40",
+     "startTime": "09:04",
      "heat": "4",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "00:33.69",
      "seedSeconds": 33.69
     }
@@ -1509364,10 +1509267,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי נהריה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:05.78",
+     "seconds": 65.78,
+     "place": "4",
+     "points": 316
     }
    ],
    "future": []
@@ -1511969,6 +1511872,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "09:21",
+     "heat": "15",
+     "lane": "8",
+     "seedStr": "00:28.22",
+     "seedSeconds": 28.22
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1511992,20 +1511909,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "02:36.63",
      "seedSeconds": 156.63
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מתנ\"ס רמת הנגב",
-     "startTime": "09:57",
-     "heat": "15",
-     "lane": "8",
-     "seedStr": "00:28.22",
-     "seedSeconds": 28.22
     },
     {
      "date": "2026-11-28",
@@ -1514919,20 +1514822,6 @@ window.SWIM_DATA = {
      "lane": "5",
      "seedStr": "00:29.36",
      "seedSeconds": 29.36
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "400 מעורב אישי",
-     "category": "גברים 12-99",
-     "poolLength": 25,
-     "club": "אלומה עירוני הוד השרון",
-     "startTime": "09:14",
-     "heat": "1",
-     "lane": "6",
-     "seedStr": "NT",
-     "seedSeconds": null
     }
    ]
   },
@@ -1521742,6 +1521631,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי וייסגל רחובות",
+     "startTime": "09:15",
+     "heat": "11",
+     "lane": "6",
+     "seedStr": "00:30.27",
+     "seedSeconds": 30.27
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "200 חזה",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1521765,20 +1521668,6 @@ window.SWIM_DATA = {
      "lane": "1",
      "seedStr": "00:42.96",
      "seedSeconds": 42.96
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי וייסגל רחובות",
-     "startTime": "09:51",
-     "heat": "11",
-     "lane": "6",
-     "seedStr": "00:30.27",
-     "seedSeconds": 30.27
     }
    ]
   },
@@ -1522080,16 +1521969,16 @@ window.SWIM_DATA = {
    ],
    "future": [
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "50 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "09:37",
+     "startTime": "09:01",
      "heat": "2",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "00:35.80",
      "seedSeconds": 35.8
     },
@@ -1554439,10 +1554328,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "הפועל לב הגליל סחנין",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:26.56",
+     "seconds": 86.56,
+     "place": "37",
+     "points": 139
     },
     {
      "date": "2026-11-21",
@@ -1556711,10 +1556600,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "הפועל לב הגליל סחנין",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:45.27",
+     "seconds": 105.27,
+     "place": "58",
+     "points": 77
     },
     {
      "date": "2026-11-21",
@@ -1559389,10 +1559278,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי נהריה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:05.25",
+     "seconds": 65.25,
+     "place": "2",
+     "points": 324
     }
    ],
    "future": []
@@ -1560049,10 +1559938,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "הפועל קרית אתא",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:11.91",
+     "seconds": 71.91,
+     "place": "15",
+     "points": 242
     },
     {
      "date": "2026-11-21",
@@ -1561830,10 +1561719,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "הפועל לב הגליל סחנין",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:10.43",
+     "seconds": 70.43,
+     "place": "13",
+     "points": 258
     },
     {
      "date": "2026-11-21",
@@ -1573363,6 +1573252,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מכבי תל אביב",
+     "startTime": "09:12",
+     "heat": "9",
+     "lane": "2",
+     "seedStr": "00:31.14",
+     "seedSeconds": 31.14
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1573386,20 +1573289,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "02:44.14",
      "seedSeconds": 164.14
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מכבי תל אביב",
-     "startTime": "09:48",
-     "heat": "9",
-     "lane": "2",
-     "seedStr": "00:31.14",
-     "seedSeconds": 31.14
     },
     {
      "date": "2026-11-28",
@@ -1606424,7 +1606313,7 @@ window.SWIM_DATA = {
      "club": "הפועל באר טוביה",
      "startTime": "17:43",
      "heat": "1",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1606438,7 +1606327,7 @@ window.SWIM_DATA = {
      "club": "הפועל באר טוביה",
      "startTime": "10:44",
      "heat": "2",
-     "lane": "1",
+     "lane": "8",
      "seedStr": "01:10.06",
      "seedSeconds": 70.06
     },
@@ -1618553,10 +1618442,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי נהריה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:20.56",
+     "seconds": 80.56,
+     "place": "24",
+     "points": 172
     }
    ],
    "future": []
@@ -1619078,10 +1618967,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "הפועל לב הגליל סחנין",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:26.13",
+     "seconds": 86.13,
+     "place": "35",
+     "points": 141
     },
     {
      "date": "2026-11-21",
@@ -1622068,6 +1621957,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "הפועל באר טוביה",
+     "startTime": "09:06",
+     "heat": "5",
+     "lane": "8",
+     "seedStr": "00:33.33",
+     "seedSeconds": 33.33
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1622091,20 +1621994,6 @@ window.SWIM_DATA = {
      "lane": "8",
      "seedStr": "00:37.83",
      "seedSeconds": 37.83
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "הפועל באר טוביה",
-     "startTime": "09:42",
-     "heat": "5",
-     "lane": "1",
-     "seedStr": "00:33.33",
-     "seedSeconds": 33.33
     },
     {
      "date": "2026-11-28",
@@ -1633928,6 +1633817,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "ע.ל.ה עצמה רעננה",
+     "startTime": "09:00",
+     "heat": "1",
+     "lane": "4",
+     "seedStr": "00:36.00",
+     "seedSeconds": 36.0
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1633937,20 +1633840,6 @@ window.SWIM_DATA = {
      "lane": "7",
      "seedStr": "01:08.78",
      "seedSeconds": 68.78
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "09:37",
-     "heat": "2",
-     "lane": "8",
-     "seedStr": "00:36.00",
-     "seedSeconds": 36.0
     }
    ]
   },
@@ -1640352,7 +1640241,7 @@ window.SWIM_DATA = {
      "club": "הפועל מ.א משגב",
      "startTime": "10:48",
      "heat": "4",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "01:04.46",
      "seedSeconds": 64.46
     },
@@ -1640380,7 +1640269,7 @@ window.SWIM_DATA = {
      "club": "הפועל מ.א משגב",
      "startTime": "10:22",
      "heat": "4",
-     "lane": "4",
+     "lane": "5",
      "seedStr": "00:29.65",
      "seedSeconds": 29.65
     }
@@ -1646873,6 +1646762,20 @@ window.SWIM_DATA = {
      "lane": "8",
      "seedStr": "00:38.75",
      "seedSeconds": 38.75
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "אלומה עירוני הוד השרון",
+     "startTime": "09:06",
+     "heat": "5",
+     "lane": "3",
+     "seedStr": "00:32.91",
+     "seedSeconds": 32.91
     },
     {
      "date": "2026-11-27",
@@ -1663626,7 +1663529,7 @@ window.SWIM_DATA = {
      "club": "הפועל לב הגליל סחנין",
      "timeStr": "01:20.37",
      "seconds": 80.37,
-     "place": "2",
+     "place": "13",
      "points": 244
     },
     {
@@ -1666688,6 +1666591,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "הפועל פליפר חדרה",
+     "startTime": "09:12",
+     "heat": "9",
+     "lane": "7",
+     "seedStr": "00:31.23",
+     "seedSeconds": 31.23
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1666697,20 +1666614,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "01:09.06",
      "seedSeconds": 69.06
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "הפועל פליפר חדרה",
-     "startTime": "09:48",
-     "heat": "9",
-     "lane": "7",
-     "seedStr": "00:31.23",
-     "seedSeconds": 31.23
     },
     {
      "date": "2026-11-28",
@@ -1698629,10 +1698532,10 @@ window.SWIM_DATA = {
      "category": "בנות 10-13",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "16",
-     "points": 0
+     "timeStr": "01:11.93",
+     "seconds": 71.93,
+     "place": "4",
+     "points": 340
     },
     {
      "date": "2026-11-21",
@@ -1699197,10 +1699100,10 @@ window.SWIM_DATA = {
      "category": "בנות 10-13",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "16",
-     "points": 0
+     "timeStr": "01:29.80",
+     "seconds": 89.8,
+     "place": "18",
+     "points": 175
     }
    ],
    "future": []
@@ -1699496,7 +1699399,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "timeStr": "01:38.13",
      "seconds": 98.13,
-     "place": "8",
+     "place": "24",
      "points": 134
     }
    ],
@@ -1699841,10 +1699744,10 @@ window.SWIM_DATA = {
      "category": "בנות 10-13",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "16",
-     "points": 0
+     "timeStr": "01:35.63",
+     "seconds": 95.63,
+     "place": "20",
+     "points": 145
     }
    ],
    "future": []
@@ -1700756,10 +1700659,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:19.67",
+     "seconds": 79.67,
+     "place": "23",
+     "points": 178
     },
     {
      "date": "2026-11-21",
@@ -1701079,10 +1700982,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:31.85",
+     "seconds": 91.85,
+     "place": "44",
+     "points": 116
     },
     {
      "date": "2026-11-21",
@@ -1701389,10 +1701292,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:32.80",
+     "seconds": 92.8,
+     "place": "45",
+     "points": 112
     }
    ],
    "future": []
@@ -1706031,7 +1705934,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "timeStr": "01:43.60",
      "seconds": 103.6,
-     "place": "10",
+     "place": "26",
      "points": 114
     }
    ],
@@ -1707536,10 +1707439,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:26.56",
+     "seconds": 86.56,
+     "place": "37",
+     "points": 139
     }
    ],
    "future": []
@@ -1709494,10 +1709397,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "הפועל לב הגליל סחנין",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:27.16",
+     "seconds": 87.16,
+     "place": "40",
+     "points": 136
     },
     {
      "date": "2026-11-21",
@@ -1709804,10 +1709707,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:24.71",
+     "seconds": 84.71,
+     "place": "30",
+     "points": 148
     },
     {
      "date": "2026-11-21",
@@ -1730726,6 +1730629,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "ע.ל.ה עצמה רעננה",
+     "startTime": "09:00",
+     "heat": "1",
+     "lane": "5",
+     "seedStr": "00:36.63",
+     "seedSeconds": 36.63
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "50 גב",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1730749,20 +1730666,6 @@ window.SWIM_DATA = {
      "lane": "1",
      "seedStr": "01:19.01",
      "seedSeconds": 79.01
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "ע.ל.ה עצמה רעננה",
-     "startTime": "09:36",
-     "heat": "1",
-     "lane": "4",
-     "seedStr": "00:36.63",
-     "seedSeconds": 36.63
     }
    ]
   },
@@ -1769111,6 +1769014,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "הפועל מ.א משגב",
+     "startTime": "09:01",
+     "heat": "2",
+     "lane": "3",
+     "seedStr": "00:35.41",
+     "seedSeconds": 35.41
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1769120,20 +1769037,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "01:27.80",
      "seedSeconds": 87.8
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "הפועל מ.א משגב",
-     "startTime": "09:37",
-     "heat": "2",
-     "lane": "5",
-     "seedStr": "00:35.41",
-     "seedSeconds": 35.41
     }
    ]
   },
@@ -1769509,16 +1769412,16 @@ window.SWIM_DATA = {
    ],
    "future": [
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "50 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "09:37",
+     "startTime": "09:01",
      "heat": "2",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "00:35.67",
      "seedSeconds": 35.67
     },
@@ -1776746,7 +1776649,7 @@ window.SWIM_DATA = {
      "club": "מכבי וייסגל רחובות",
      "startTime": "10:14",
      "heat": "3",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "04:41.86",
      "seedSeconds": 281.86
     },
@@ -1787946,16 +1787849,16 @@ window.SWIM_DATA = {
    ],
    "future": [
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "50 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
      "club": "הפועל פליפר חדרה",
-     "startTime": "09:39",
+     "startTime": "09:03",
      "heat": "3",
-     "lane": "1",
+     "lane": "8",
      "seedStr": "00:34.80",
      "seedSeconds": 34.8
     }
@@ -1801114,7 +1801017,7 @@ window.SWIM_DATA = {
      "club": "הפועל לב הגליל סחנין",
      "startTime": "10:20",
      "heat": "2",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "00:30.60",
      "seedSeconds": 30.6
     },
@@ -1801621,7 +1801524,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "startTime": "10:42",
      "heat": "1",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1801649,7 +1801552,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "startTime": "10:23",
      "heat": "5",
-     "lane": "4",
+     "lane": "5",
      "seedStr": "00:28.86",
      "seedSeconds": 28.86
     },
@@ -1801760,16 +1801663,16 @@ window.SWIM_DATA = {
      "seedSeconds": null
     },
     {
-     "date": "2026-11-28",
+     "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
      "event": "50 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
      "club": "מועדון שחייה כפר תבור",
-     "startTime": "09:36",
+     "startTime": "09:00",
      "heat": "1",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "00:37.18",
      "seedSeconds": 37.18
     }
@@ -1802209,7 +1802112,7 @@ window.SWIM_DATA = {
      "club": "מכבי נהריה",
      "timeStr": "01:12.00",
      "seconds": 72.0,
-     "place": "1",
+     "place": "5",
      "points": 339
     }
    ],
@@ -1802489,10 +1802392,10 @@ window.SWIM_DATA = {
      "category": "בנות 10-13",
      "poolLength": 25,
      "club": "מכבי נהריה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "16",
-     "points": 0
+     "timeStr": "01:28.06",
+     "seconds": 88.06,
+     "place": "17",
+     "points": 185
     },
     {
      "date": "2026-11-21",
@@ -1803684,10 +1803587,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי נהריה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:19.22",
+     "seconds": 79.22,
+     "place": "21",
+     "points": 181
     }
    ],
    "future": []
@@ -1803877,10 +1803780,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי נהריה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:19.07",
+     "seconds": 79.07,
+     "place": "19",
+     "points": 182
     }
    ],
    "future": []
@@ -1807329,7 +1807232,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "timeStr": "NS",
      "seconds": null,
-     "place": "1",
+     "place": "63",
      "points": 0
     }
    ],
@@ -1808062,7 +1807965,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "timeStr": "NS",
      "seconds": null,
-     "place": "16",
+     "place": "32",
      "points": 0
     }
    ],
@@ -1808255,7 +1808158,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "timeStr": "01:44.24",
      "seconds": 104.24,
-     "place": "11",
+     "place": "27",
      "points": 112
     }
    ],
@@ -1809279,10 +1809182,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:26.43",
+     "seconds": 86.43,
+     "place": "36",
+     "points": 139
     },
     {
      "date": "2026-11-21",
@@ -1810555,7 +1810458,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "timeStr": "01:35.83",
      "seconds": 95.83,
-     "place": "5",
+     "place": "21",
      "points": 144
     }
    ],
@@ -1810735,7 +1810638,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "timeStr": "01:53.60",
      "seconds": 113.6,
-     "place": "14",
+     "place": "30",
      "points": 86
     }
    ],
@@ -1812514,7 +1812417,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "timeStr": "01:34.02",
      "seconds": 94.02,
-     "place": "4",
+     "place": "19",
      "points": 152
     }
    ],
@@ -1813117,7 +1813020,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "timeStr": "01:36.83",
      "seconds": 96.83,
-     "place": "7",
+     "place": "23",
      "points": 139
     }
    ],
@@ -1813488,7 +1813391,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "timeStr": "01:48.18",
      "seconds": 108.18,
-     "place": "12",
+     "place": "28",
      "points": 100
     }
    ],
@@ -1813909,10 +1813812,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:24.09",
+     "seconds": 84.09,
+     "place": "28",
+     "points": 151
     },
     {
      "date": "2026-11-21",
@@ -1814141,10 +1814044,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:25.81",
+     "seconds": 85.81,
+     "place": "33",
+     "points": 142
     },
     {
      "date": "2026-11-21",
@@ -1814898,10 +1814801,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:23.93",
+     "seconds": 83.93,
+     "place": "27",
+     "points": 152
     }
    ],
    "future": []
@@ -1815473,10 +1815376,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:26.57",
+     "seconds": 86.57,
+     "place": "39",
+     "points": 138
     },
     {
      "date": "2026-11-21",
@@ -1815755,10 +1815658,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:24.72",
+     "seconds": 84.72,
+     "place": "31",
+     "points": 148
     },
     {
      "date": "2026-11-21",
@@ -1817035,10 +1816938,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:33.16",
+     "seconds": 93.16,
+     "place": "47",
+     "points": 111
     }
    ],
    "future": []
@@ -1817883,10 +1817786,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:46.29",
+     "seconds": 106.29,
+     "place": "59",
+     "points": 75
     },
     {
      "date": "2026-11-21",
@@ -1818115,10 +1818018,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:39.32",
+     "seconds": 99.32,
+     "place": "52",
+     "points": 92
     }
    ],
    "future": []
@@ -1818692,10 +1818595,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:37.51",
+     "seconds": 97.51,
+     "place": "49",
+     "points": 97
     }
    ],
    "future": []
@@ -1819191,10 +1819094,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:44.85",
+     "seconds": 104.85,
+     "place": "57",
+     "points": 78
     }
    ],
    "future": []
@@ -1819627,10 +1819530,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:42.99",
+     "seconds": 102.99,
+     "place": "56",
+     "points": 82
     }
    ],
    "future": []
@@ -1820306,10 +1820209,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:42.04",
+     "seconds": 102.04,
+     "place": "55",
+     "points": 84
     }
    ],
    "future": []
@@ -1820588,10 +1820491,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:49.96",
+     "seconds": 109.96,
+     "place": "62",
+     "points": 67
     },
     {
      "date": "2026-11-21",
@@ -1820948,10 +1820851,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:31.68",
+     "seconds": 91.68,
+     "place": "43",
+     "points": 116
     },
     {
      "date": "2026-11-21",
@@ -1821401,7 +1821304,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "timeStr": "01:36.07",
      "seconds": 96.07,
-     "place": "6",
+     "place": "22",
      "points": 143
     },
     {
@@ -1823380,7 +1823283,7 @@ window.SWIM_DATA = {
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "17:47",
      "heat": "3",
-     "lane": "1",
+     "lane": "8",
      "seedStr": "01:14.70",
      "seedSeconds": 74.7
     },
@@ -1823394,7 +1823297,7 @@ window.SWIM_DATA = {
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "10:42",
      "heat": "1",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1823422,7 +1823325,7 @@ window.SWIM_DATA = {
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "10:19",
      "heat": "1",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "00:31.67",
      "seedSeconds": 31.67
     },
@@ -1824098,10 +1824001,10 @@ window.SWIM_DATA = {
      "category": "בנות 10-13",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "16",
-     "points": 0
+     "timeStr": "01:18.66",
+     "seconds": 78.66,
+     "place": "12",
+     "points": 260
     }
    ],
    "future": []
@@ -1824541,6 +1824444,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "הפועל בית איל",
+     "startTime": "09:04",
+     "heat": "4",
+     "lane": "8",
+     "seedStr": "00:34.03",
+     "seedSeconds": 34.03
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1824564,20 +1824481,6 @@ window.SWIM_DATA = {
      "lane": "5",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "הפועל בית איל",
-     "startTime": "09:40",
-     "heat": "4",
-     "lane": "1",
-     "seedStr": "00:34.03",
-     "seedSeconds": 34.03
     }
    ]
   },
@@ -1824945,6 +1824848,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "הפועל בית איל",
+     "startTime": "09:06",
+     "heat": "5",
+     "lane": "2",
+     "seedStr": "00:33.06",
+     "seedSeconds": 33.06
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1824968,20 +1824885,6 @@ window.SWIM_DATA = {
      "lane": "4",
      "seedStr": "NT",
      "seedSeconds": null
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "הפועל בית איל",
-     "startTime": "09:42",
-     "heat": "5",
-     "lane": "6",
-     "seedStr": "00:33.06",
-     "seedSeconds": 33.06
     }
    ]
   },
@@ -1828454,6 +1828357,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "מתנ\"ס רמת הנגב",
+     "startTime": "09:03",
+     "heat": "3",
+     "lane": "3",
+     "seedStr": "00:34.26",
+     "seedSeconds": 34.26
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "200 חזה",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1828463,20 +1828380,6 @@ window.SWIM_DATA = {
      "lane": "2",
      "seedStr": "03:45.16",
      "seedSeconds": 225.16
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "מתנ\"ס רמת הנגב",
-     "startTime": "09:39",
-     "heat": "3",
-     "lane": "5",
-     "seedStr": "00:34.26",
-     "seedSeconds": 34.26
     },
     {
      "date": "2026-11-28",
@@ -1835532,10 +1835435,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:39.56",
+     "seconds": 99.56,
+     "place": "53",
+     "points": 91
     }
    ],
    "future": []
@@ -1835905,10 +1835808,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:47.77",
+     "seconds": 107.77,
+     "place": "61",
+     "points": 72
     }
    ],
    "future": []
@@ -1862353,7 +1862256,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "timeStr": "01:43.15",
      "seconds": 103.15,
-     "place": "9",
+     "place": "25",
      "points": 115
     }
    ],
@@ -1862454,10 +1862357,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי נהריה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:24.58",
+     "seconds": 84.58,
+     "place": "29",
+     "points": 149
     }
    ],
    "future": []
@@ -1862862,10 +1862765,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:39.92",
+     "seconds": 99.92,
+     "place": "54",
+     "points": 90
     }
    ],
    "future": []
@@ -1863142,10 +1863045,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "הפועל קרית אתא",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:25.96",
+     "seconds": 85.96,
+     "place": "34",
+     "points": 141
     },
     {
      "date": "2026-11-21",
@@ -1880395,6 +1880298,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "בני הרצליה",
+     "startTime": "09:19",
+     "heat": "14",
+     "lane": "3",
+     "seedStr": "00:28.53",
+     "seedSeconds": 28.53
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "50 פרפר",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1880404,20 +1880321,6 @@ window.SWIM_DATA = {
      "lane": "1",
      "seedStr": "00:30.68",
      "seedSeconds": 30.68
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "בני הרצליה",
-     "startTime": "09:55",
-     "heat": "14",
-     "lane": "3",
-     "seedStr": "00:28.53",
-     "seedSeconds": 28.53
     },
     {
      "date": "2026-11-28",
@@ -1882660,10 +1882563,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:46.66",
+     "seconds": 106.66,
+     "place": "60",
+     "points": 74
     }
    ],
    "future": []
@@ -1900586,7 +1900489,7 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "17:43",
      "heat": "1",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1900600,7 +1900503,7 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "10:44",
      "heat": "2",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "01:08.51",
      "seedSeconds": 68.51
     },
@@ -1901562,6 +1901465,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "50 חופשי",
+     "category": "בנות 12-15",
+     "poolLength": 25,
+     "club": "הפועל עמק חפר",
+     "startTime": "09:09",
+     "heat": "7",
+     "lane": "4",
+     "seedStr": "00:31.97",
+     "seedSeconds": 31.97
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "100 חופשי",
      "category": "בנות 12-15",
      "poolLength": 25,
@@ -1901585,20 +1901502,6 @@ window.SWIM_DATA = {
      "lane": "7",
      "seedStr": "00:31.78",
      "seedSeconds": 31.78
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "50 חופשי",
-     "category": "בנות 12-15",
-     "poolLength": 25,
-     "club": "הפועל עמק חפר",
-     "startTime": "09:45",
-     "heat": "7",
-     "lane": "4",
-     "seedStr": "00:31.97",
-     "seedSeconds": 31.97
     }
    ]
   },
@@ -1907639,7 +1907542,7 @@ window.SWIM_DATA = {
      "club": "TLV SWIM",
      "startTime": "10:48",
      "heat": "4",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "01:04.63",
      "seedSeconds": 64.63
     },
@@ -1907887,10 +1907790,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:19.03",
+     "seconds": 79.03,
+     "place": "18",
+     "points": 182
     },
     {
      "date": "2026-11-21",
@@ -1908327,10 +1908230,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:32.97",
+     "seconds": 92.97,
+     "place": "46",
+     "points": 112
     }
    ],
    "future": []
@@ -1914364,7 +1914267,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "timeStr": "01:56.99",
      "seconds": 116.99,
-     "place": "15",
+     "place": "31",
      "points": 79
     }
    ],
@@ -1915739,7 +1915642,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "timeStr": "01:25.84",
      "seconds": 85.84,
-     "place": "3",
+     "place": "16",
      "points": 200
     },
     {
@@ -1915789,7 +1915692,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "timeStr": "01:48.56",
      "seconds": 108.56,
-     "place": "13",
+     "place": "29",
      "points": 99
     },
     {
@@ -1915850,10 +1915753,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "הפועל קרית אתא",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:28.81",
+     "seconds": 88.81,
+     "place": "42",
+     "points": 128
     },
     {
      "date": "2026-11-21",
@@ -1916558,10 +1916461,10 @@ window.SWIM_DATA = {
      "category": "בנים 10-14",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "1",
-     "points": 0
+     "timeStr": "01:39.31",
+     "seconds": 99.31,
+     "place": "51",
+     "points": 92
     },
     {
      "date": "2026-11-21",
@@ -1924437,6 +1924340,30 @@ window.SWIM_DATA = {
    ],
    "future": []
   },
+  "2014|יובל·פסטרסקי": {
+   "id": "2014|יובל·פסטרסקי",
+   "displayName": "יובל פסטרסקי",
+   "birthYear": 2014,
+   "clubs": [
+    "הפועל ירושלים"
+   ],
+   "past": [
+    {
+     "date": "2026-11-12",
+     "competition": "תחרות ליגה מספר2 של הפועל ירושלים - 12/11/2026",
+     "compId": 15949,
+     "event": "50 חופשי",
+     "category": "גברים 9-99",
+     "poolLength": 25,
+     "club": "הפועל ירושלים",
+     "timeStr": "00:47.17",
+     "seconds": 47.17,
+     "place": "25",
+     "points": 75
+    }
+   ],
+   "future": []
+  },
   "2016|יעל·פרץ": {
    "id": "2016|יעל·פרץ",
    "displayName": "יעל פרץ",
@@ -1924461,9 +1924388,9 @@ window.SWIM_DATA = {
    ],
    "future": []
   },
-  "2014|יובל·פסטרסקי": {
-   "id": "2014|יובל·פסטרסקי",
-   "displayName": "יובל פסטרסקי",
+  "2014|Michael·Pastersky": {
+   "id": "2014|Michael·Pastersky",
+   "displayName": "Michael Pastersky",
    "birthYear": 2014,
    "clubs": [
     "הפועל ירושלים"
@@ -1926206,6 +1926133,43 @@ window.SWIM_DATA = {
    ],
    "future": []
   },
+  "2008|בן·נבו": {
+   "id": "2008|בן·נבו",
+   "displayName": "בן נבו",
+   "birthYear": 2008,
+   "clubs": [
+    "מכבי לידר גני תקווה"
+   ],
+   "past": [
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "100 גב",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "timeStr": "DQ",
+     "seconds": null,
+     "place": "40",
+     "points": 0
+    },
+    {
+     "date": "2026-11-20",
+     "competition": "ליגה מספר 2- מכבי ירושלים",
+     "compId": 15966,
+     "event": "50 חופשי",
+     "category": "בנים 7-99",
+     "poolLength": 25,
+     "club": "מכבי לידר גני תקווה",
+     "timeStr": "00:37.35",
+     "seconds": 37.35,
+     "place": "24",
+     "points": 151
+    }
+   ],
+   "future": []
+  },
   "2017|אנט·מיילמן": {
    "id": "2017|אנט·מיילמן",
    "displayName": "אנט מיילמן",
@@ -1926502,10 +1926466,10 @@ window.SWIM_DATA = {
    ],
    "future": []
   },
-  "2008|בן·נבו": {
-   "id": "2008|בן·נבו",
+  "2018|בן·נבו": {
+   "id": "2018|בן·נבו",
    "displayName": "בן נבו",
-   "birthYear": 2008,
+   "birthYear": 2018,
    "clubs": [
     "מכבי לידר גני תקווה"
    ],
@@ -1928274,18 +1928238,7 @@ window.SWIM_DATA = {
    ]
   }
  },
- "lastChecked": "2026-11-22 23:32",
- "newThisRun": 787,
- "newComps": [
-  {
-   "name": "ליגה צעירים מס 2- חורף 26- קרית ביאליק",
-   "date": "2026-11-21",
-   "count": 418
-  },
-  {
-   "name": "ליגה צעירים מחוז דרום- מחזור 2 - 21/11/2026",
-   "date": "2026-11-21",
-   "count": 369
-  }
- ]
+ "lastChecked": "2026-11-24 04:10",
+ "newThisRun": 3,
+ "newComps": []
 };
