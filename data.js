@@ -23996,8 +23996,8 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "מתנ\"ס רמת הנגב",
-     "startTime": "12:46",
-     "heat": "6",
+     "startTime": "12:43",
+     "heat": "5",
      "lane": "6",
      "seedStr": "02:01.18",
      "seedSeconds": 121.18
@@ -26272,9 +26272,9 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "הפועל באר שבע",
-     "startTime": "12:43",
-     "heat": "5",
-     "lane": "5",
+     "startTime": "12:39",
+     "heat": "4",
+     "lane": "4",
      "seedStr": "02:07.22",
      "seedSeconds": 127.22
     },
@@ -32223,8 +32223,8 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "12:46",
-     "heat": "6",
+     "startTime": "12:43",
+     "heat": "5",
      "lane": "2",
      "seedStr": "02:01.56",
      "seedSeconds": 121.56
@@ -41483,7 +41483,7 @@ window.SWIM_DATA = {
      "club": "הפועל באר טוביה",
      "startTime": "18:08",
      "heat": "3",
-     "lane": "2",
+     "lane": "6",
      "seedStr": "01:12.35",
      "seedSeconds": 72.35
     }
@@ -45628,9 +45628,9 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "הפועל באר טוביה",
-     "startTime": "12:36",
-     "heat": "3",
-     "lane": "1",
+     "startTime": "12:32",
+     "heat": "2",
+     "lane": "7",
      "seedStr": "02:27.14",
      "seedSeconds": 147.14
     },
@@ -53180,7 +53180,7 @@ window.SWIM_DATA = {
      "club": "הפועל באר טוביה",
      "startTime": "17:11",
      "heat": "2",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "00:32.94",
      "seedSeconds": 32.94
     },
@@ -55049,7 +55049,7 @@ window.SWIM_DATA = {
      "club": "הפועל באר שבע",
      "startTime": "17:12",
      "heat": "3",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "00:30.42",
      "seedSeconds": 30.42
     },
@@ -102108,7 +102108,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "startTime": "10:29",
      "heat": "3",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "00:28.22",
      "seedSeconds": 28.22
     },
@@ -127260,7 +127260,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "startTime": "18:12",
      "heat": "5",
-     "lane": "5",
+     "lane": "4",
      "seedStr": "01:04.42",
      "seedSeconds": 64.42
     }
@@ -128498,7 +128498,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "startTime": "18:12",
      "heat": "5",
-     "lane": "3",
+     "lane": "5",
      "seedStr": "01:04.79",
      "seedSeconds": 64.79
     }
@@ -129465,7 +129465,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "18:14",
      "heat": "6",
-     "lane": "8",
+     "lane": "1",
      "seedStr": "01:03.89",
      "seedSeconds": 63.89
     }
@@ -131680,7 +131680,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "18:12",
      "heat": "5",
-     "lane": "1",
+     "lane": "7",
      "seedStr": "01:06.07",
      "seedSeconds": 66.07
     }
@@ -133612,9 +133612,9 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "מכבי פ.מ. רעות",
-     "startTime": "12:39",
-     "heat": "4",
-     "lane": "5",
+     "startTime": "12:36",
+     "heat": "3",
+     "lane": "4",
      "seedStr": "02:12.18",
      "seedSeconds": 132.18
     },
@@ -134721,9 +134721,9 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "12:43",
-     "heat": "5",
-     "lane": "2",
+     "startTime": "12:39",
+     "heat": "4",
+     "lane": "6",
      "seedStr": "02:08.39",
      "seedSeconds": 128.39
     },
@@ -134737,7 +134737,7 @@ window.SWIM_DATA = {
      "club": "מכבי א.ס. רמת השרון",
      "startTime": "18:10",
      "heat": "4",
-     "lane": "8",
+     "lane": "1",
      "seedStr": "01:10.03",
      "seedSeconds": 70.03
     }
@@ -135689,9 +135689,9 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "18:10",
-     "heat": "4",
-     "lane": "4",
+     "startTime": "18:12",
+     "heat": "5",
+     "lane": "8",
      "seedStr": "01:07.02",
      "seedSeconds": 67.02
     }
@@ -138475,7 +138475,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "startTime": "12:36",
      "heat": "3",
-     "lane": "4",
+     "lane": "8",
      "seedStr": "02:19.90",
      "seedSeconds": 139.9
     },
@@ -143940,9 +143940,9 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "18:04",
-     "heat": "1",
-     "lane": "4",
+     "startTime": "18:06",
+     "heat": "2",
+     "lane": "8",
      "seedStr": "01:16.01",
      "seedSeconds": 76.01
     }
@@ -199634,8 +199634,8 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "הפועל בת ים",
-     "startTime": "12:46",
-     "heat": "6",
+     "startTime": "12:43",
+     "heat": "5",
      "lane": "3",
      "seedStr": "02:01.10",
      "seedSeconds": 121.1
@@ -213857,7 +213857,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "startTime": "18:08",
      "heat": "3",
-     "lane": "8",
+     "lane": "1",
      "seedStr": "01:13.58",
      "seedSeconds": 73.58
     }
@@ -251837,8 +251837,8 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "12:46",
-     "heat": "6",
+     "startTime": "12:43",
+     "heat": "5",
      "lane": "4",
      "seedStr": "01:55.67",
      "seedSeconds": 115.67
@@ -258205,9 +258205,9 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "12:43",
-     "heat": "5",
-     "lane": "3",
+     "startTime": "12:39",
+     "heat": "4",
+     "lane": "5",
      "seedStr": "02:07.28",
      "seedSeconds": 127.28
     },
@@ -261121,7 +261121,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "startTime": "12:32",
      "heat": "2",
-     "lane": "4",
+     "lane": "8",
      "seedStr": "02:28.13",
      "seedSeconds": 148.13
     },
@@ -263126,9 +263126,9 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "מכבי פ.מ. רעות",
-     "startTime": "12:39",
-     "heat": "4",
-     "lane": "2",
+     "startTime": "12:36",
+     "heat": "3",
+     "lane": "6",
      "seedStr": "02:16.09",
      "seedSeconds": 136.09
     },
@@ -266901,9 +266901,9 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "12:36",
-     "heat": "3",
-     "lane": "7",
+     "startTime": "12:32",
+     "heat": "2",
+     "lane": "2",
      "seedStr": "02:25.09",
      "seedSeconds": 145.09
     },
@@ -268978,9 +268978,9 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "12:36",
-     "heat": "3",
-     "lane": "6",
+     "startTime": "12:32",
+     "heat": "2",
+     "lane": "3",
      "seedStr": "02:23.08",
      "seedSeconds": 143.08
     }
@@ -278761,9 +278761,9 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "12:43",
-     "heat": "5",
-     "lane": "6",
+     "startTime": "12:39",
+     "heat": "4",
+     "lane": "3",
      "seedStr": "02:08.27",
      "seedSeconds": 128.27
     },
@@ -291421,7 +291421,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית אונו",
      "startTime": "12:43",
      "heat": "5",
-     "lane": "4",
+     "lane": "8",
      "seedStr": "02:06.82",
      "seedSeconds": 126.82
     },
@@ -292783,9 +292783,9 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "מכבי קרית אונו",
-     "startTime": "12:39",
-     "heat": "4",
-     "lane": "7",
+     "startTime": "12:36",
+     "heat": "3",
+     "lane": "2",
      "seedStr": "02:16.64",
      "seedSeconds": 136.64
     },
@@ -296392,7 +296392,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "startTime": "17:13",
      "heat": "4",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "00:30.29",
      "seedSeconds": 30.29
     },
@@ -305595,7 +305595,7 @@ window.SWIM_DATA = {
      "club": "מכבי א.ס. רמת השרון",
      "startTime": "10:32",
      "heat": "10",
-     "lane": "4",
+     "lane": "5",
      "seedStr": "01:02.65",
      "seedSeconds": 62.65
     },
@@ -306458,7 +306458,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "startTime": "10:30",
      "heat": "9",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "01:04.59",
      "seedSeconds": 64.59
     },
@@ -327002,7 +327002,7 @@ window.SWIM_DATA = {
      "club": "ע.ל.ה עצמה רעננה",
      "startTime": "10:14",
      "heat": "1",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "01:38.78",
      "seedSeconds": 98.78
     },
@@ -335055,9 +335055,9 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "startTime": "18:08",
-     "heat": "3",
-     "lane": "4",
+     "startTime": "18:10",
+     "heat": "4",
+     "lane": "8",
      "seedStr": "01:10.20",
      "seedSeconds": 70.2
     }
@@ -342414,7 +342414,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "startTime": "18:08",
      "heat": "3",
-     "lane": "6",
+     "lane": "3",
      "seedStr": "01:12.06",
      "seedSeconds": 72.06
     }
@@ -344191,7 +344191,7 @@ window.SWIM_DATA = {
      "club": "מכבי כוכב יאיר - צור יגאל",
      "startTime": "10:26",
      "heat": "7",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "01:06.49",
      "seedSeconds": 66.49
     },
@@ -352342,7 +352342,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "startTime": "12:39",
      "heat": "4",
-     "lane": "4",
+     "lane": "8",
      "seedStr": "02:11.70",
      "seedSeconds": 131.7
     },
@@ -356754,9 +356754,9 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "startTime": "12:36",
-     "heat": "3",
-     "lane": "2",
+     "startTime": "12:32",
+     "heat": "2",
+     "lane": "6",
      "seedStr": "02:24.45",
      "seedSeconds": 144.45
     },
@@ -371077,7 +371077,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "startTime": "17:11",
      "heat": "2",
-     "lane": "4",
+     "lane": "5",
      "seedStr": "00:31.60",
      "seedSeconds": 31.6
     },
@@ -371091,7 +371091,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "startTime": "10:28",
      "heat": "2",
-     "lane": "4",
+     "lane": "5",
      "seedStr": "00:29.00",
      "seedSeconds": 29.0
     }
@@ -377315,9 +377315,9 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "startTime": "12:32",
-     "heat": "2",
-     "lane": "3",
+     "startTime": "12:29",
+     "heat": "1",
+     "lane": "5",
      "seedStr": "02:30.04",
      "seedSeconds": 150.04
     },
@@ -382329,9 +382329,9 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "הפועל קרית טבעון",
-     "startTime": "12:43",
-     "heat": "5",
-     "lane": "1",
+     "startTime": "12:39",
+     "heat": "4",
+     "lane": "7",
      "seedStr": "02:10.02",
      "seedSeconds": 130.02
     }
@@ -387780,7 +387780,7 @@ window.SWIM_DATA = {
      "club": "בני הרצליה",
      "startTime": "10:20",
      "heat": "4",
-     "lane": "4",
+     "lane": "3",
      "seedStr": "01:09.67",
      "seedSeconds": 69.67
     },
@@ -393665,9 +393665,9 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "בני הרצליה",
-     "startTime": "12:36",
-     "heat": "3",
-     "lane": "3",
+     "startTime": "12:32",
+     "heat": "2",
+     "lane": "5",
      "seedStr": "02:22.38",
      "seedSeconds": 142.38
     }
@@ -412555,7 +412555,7 @@ window.SWIM_DATA = {
      "club": "הפועל אולימפ נתניה",
      "startTime": "10:40",
      "heat": "14",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "00:56.95",
      "seedSeconds": 56.95
     },
@@ -414964,9 +414964,9 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "הפועל אולימפ נתניה",
-     "startTime": "12:39",
-     "heat": "4",
-     "lane": "8",
+     "startTime": "12:36",
+     "heat": "3",
+     "lane": "1",
      "seedStr": "02:17.66",
      "seedSeconds": 137.66
     },
@@ -415892,7 +415892,7 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "10:32",
      "heat": "10",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "01:02.75",
      "seedSeconds": 62.75
     },
@@ -418171,9 +418171,9 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "הפועל אולימפ נתניה",
-     "startTime": "12:32",
-     "heat": "2",
-     "lane": "7",
+     "startTime": "12:29",
+     "heat": "1",
+     "lane": "2",
      "seedStr": "03:06.81",
      "seedSeconds": 186.81
     },
@@ -419019,9 +419019,9 @@ window.SWIM_DATA = {
      "category": "בנים 12-15",
      "poolLength": 25,
      "club": "הפועל אולימפ נתניה",
-     "startTime": "10:40",
-     "heat": "14",
-     "lane": "8",
+     "startTime": "10:38",
+     "heat": "13",
+     "lane": "4",
      "seedStr": "00:57.65",
      "seedSeconds": 57.65
     },
@@ -420474,9 +420474,9 @@ window.SWIM_DATA = {
      "category": "בנים 12-15",
      "poolLength": 25,
      "club": "הפועל דולפין נתניה",
-     "startTime": "10:38",
-     "heat": "13",
-     "lane": "8",
+     "startTime": "10:36",
+     "heat": "12",
+     "lane": "4",
      "seedStr": "00:59.97",
      "seedSeconds": 59.97
     },
@@ -421352,7 +421352,7 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "10:36",
      "heat": "12",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "01:00.04",
      "seedSeconds": 60.04
     },
@@ -427339,7 +427339,7 @@ window.SWIM_DATA = {
      "club": "הפועל אולימפ נתניה",
      "startTime": "10:29",
      "heat": "3",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "00:28.62",
      "seedSeconds": 28.62
     },
@@ -427353,7 +427353,7 @@ window.SWIM_DATA = {
      "club": "הפועל אולימפ נתניה",
      "startTime": "12:29",
      "heat": "1",
-     "lane": "5",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -428585,7 +428585,7 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "10:30",
      "heat": "9",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "01:04.85",
      "seedSeconds": 64.85
     },
@@ -436113,7 +436113,7 @@ window.SWIM_DATA = {
      "club": "מכבי ראשון לציון SEALS",
      "startTime": "18:14",
      "heat": "6",
-     "lane": "1",
+     "lane": "7",
      "seedStr": "01:03.75",
      "seedSeconds": 63.75
     }
@@ -438194,7 +438194,7 @@ window.SWIM_DATA = {
      "club": "הפועל אולימפ נתניה",
      "startTime": "18:06",
      "heat": "2",
-     "lane": "5",
+     "lane": "4",
      "seedStr": "01:14.17",
      "seedSeconds": 74.17
     }
@@ -441257,7 +441257,7 @@ window.SWIM_DATA = {
      "club": "הפועל אולימפ נתניה",
      "startTime": "18:06",
      "heat": "2",
-     "lane": "1",
+     "lane": "7",
      "seedStr": "01:15.32",
      "seedSeconds": 75.32
     }
@@ -480152,7 +480152,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית אונו",
      "startTime": "18:04",
      "heat": "1",
-     "lane": "7",
+     "lane": "2",
      "seedStr": "01:32.54",
      "seedSeconds": 92.54
     }
@@ -517928,7 +517928,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "startTime": "10:26",
      "heat": "7",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "01:06.37",
      "seedSeconds": 66.37
     },
@@ -519778,7 +519778,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "startTime": "10:20",
      "heat": "4",
-     "lane": "6",
+     "lane": "7",
      "seedStr": "01:10.22",
      "seedSeconds": 70.22
     },
@@ -524651,9 +524651,9 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "הפועל אולימפ נתניה",
-     "startTime": "12:39",
-     "heat": "4",
-     "lane": "6",
+     "startTime": "12:36",
+     "heat": "3",
+     "lane": "3",
      "seedStr": "02:14.60",
      "seedSeconds": 134.6
     },
@@ -527444,7 +527444,7 @@ window.SWIM_DATA = {
      "club": "הפועל אולימפ נתניה",
      "startTime": "17:11",
      "heat": "2",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "00:31.87",
      "seedSeconds": 31.87
     },
@@ -527458,7 +527458,7 @@ window.SWIM_DATA = {
      "club": "הפועל אולימפ נתניה",
      "startTime": "10:29",
      "heat": "3",
-     "lane": "1",
+     "lane": "8",
      "seedStr": "00:28.79",
      "seedSeconds": 28.79
     },
@@ -527470,9 +527470,9 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "הפועל אולימפ נתניה",
-     "startTime": "12:32",
-     "heat": "2",
-     "lane": "2",
+     "startTime": "12:29",
+     "heat": "1",
+     "lane": "6",
      "seedStr": "02:39.00",
      "seedSeconds": 159.0
     },
@@ -532463,7 +532463,7 @@ window.SWIM_DATA = {
      "club": "מכבי ראשון לציון SEALS",
      "startTime": "18:06",
      "heat": "2",
-     "lane": "7",
+     "lane": "2",
      "seedStr": "01:15.20",
      "seedSeconds": 75.2
     }
@@ -578648,7 +578648,7 @@ window.SWIM_DATA = {
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "10:36",
      "heat": "12",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "01:00.23",
      "seedSeconds": 60.23
     }
@@ -580155,7 +580155,7 @@ window.SWIM_DATA = {
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "10:28",
      "heat": "8",
-     "lane": "4",
+     "lane": "5",
      "seedStr": "01:05.34",
      "seedSeconds": 65.34
     },
@@ -629493,7 +629493,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "startTime": "10:28",
      "heat": "2",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "00:29.02",
      "seedSeconds": 29.02
     },
@@ -630354,7 +630354,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "startTime": "10:40",
      "heat": "14",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "00:56.82",
      "seedSeconds": 56.82
     },
@@ -632097,7 +632097,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "startTime": "17:11",
      "heat": "2",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "00:32.34",
      "seedSeconds": 32.34
     },
@@ -633064,7 +633064,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "startTime": "10:29",
      "heat": "3",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "00:28.35",
      "seedSeconds": 28.35
     },
@@ -633076,9 +633076,9 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "12:32",
-     "heat": "2",
-     "lane": "5",
+     "startTime": "12:29",
+     "heat": "1",
+     "lane": "4",
      "seedStr": "02:28.96",
      "seedSeconds": 148.96
     },
@@ -635337,7 +635337,7 @@ window.SWIM_DATA = {
      "club": "הפועל מ.א משגב",
      "startTime": "10:36",
      "heat": "12",
-     "lane": "1",
+     "lane": "8",
      "seedStr": "01:01.00",
      "seedSeconds": 61.0
     },
@@ -636029,7 +636029,7 @@ window.SWIM_DATA = {
      "club": "הפועל מ.א משגב",
      "startTime": "10:34",
      "heat": "11",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "01:01.64",
      "seedSeconds": 61.64
     },
@@ -637076,7 +637076,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "startTime": "18:08",
      "heat": "3",
-     "lane": "3",
+     "lane": "5",
      "seedStr": "01:11.43",
      "seedSeconds": 71.43
     }
@@ -639164,9 +639164,9 @@ window.SWIM_DATA = {
      "category": "בנים 12-15",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "10:34",
-     "heat": "11",
-     "lane": "8",
+     "startTime": "10:32",
+     "heat": "10",
+     "lane": "4",
      "seedStr": "01:02.53",
      "seedSeconds": 62.53
     },
@@ -645661,7 +645661,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "10:16",
      "heat": "2",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "01:18.55",
      "seedSeconds": 78.55
     },
@@ -653111,7 +653111,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "startTime": "10:22",
      "heat": "5",
-     "lane": "5",
+     "lane": "6",
      "seedStr": "01:08.21",
      "seedSeconds": 68.21
     },
@@ -666315,9 +666315,9 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "מכבי ראשון לציון SEALS",
-     "startTime": "12:43",
-     "heat": "5",
-     "lane": "8",
+     "startTime": "12:39",
+     "heat": "4",
+     "lane": "1",
      "seedStr": "02:10.30",
      "seedSeconds": 130.3
     },
@@ -687110,7 +687110,7 @@ window.SWIM_DATA = {
      "club": "הפועל עמק חפר",
      "startTime": "18:12",
      "heat": "5",
-     "lane": "7",
+     "lane": "2",
      "seedStr": "01:06.03",
      "seedSeconds": 66.03
     }
@@ -688684,7 +688684,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "startTime": "18:10",
      "heat": "4",
-     "lane": "7",
+     "lane": "2",
      "seedStr": "01:09.62",
      "seedSeconds": 69.62
     }
@@ -689647,7 +689647,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "startTime": "18:08",
      "heat": "3",
-     "lane": "7",
+     "lane": "2",
      "seedStr": "01:12.98",
      "seedSeconds": 72.98
     }
@@ -691460,7 +691460,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "startTime": "10:36",
      "heat": "12",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "01:00.91",
      "seedSeconds": 60.91
     },
@@ -693934,7 +693934,7 @@ window.SWIM_DATA = {
      "club": "הפועל לב הגליל סחנין",
      "startTime": "17:12",
      "heat": "3",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "00:30.76",
      "seedSeconds": 30.76
     },
@@ -694639,7 +694639,7 @@ window.SWIM_DATA = {
      "club": "הפועל מ.א משגב",
      "startTime": "10:26",
      "heat": "7",
-     "lane": "4",
+     "lane": "5",
      "seedStr": "01:06.12",
      "seedSeconds": 66.12
     },
@@ -697863,9 +697863,9 @@ window.SWIM_DATA = {
      "category": "בנים 12-15",
      "poolLength": 25,
      "club": "הפועל לב הגליל סחנין",
-     "startTime": "10:30",
-     "heat": "9",
-     "lane": "8",
+     "startTime": "10:28",
+     "heat": "8",
+     "lane": "4",
      "seedStr": "01:05.16",
      "seedSeconds": 65.16
     },
@@ -699827,7 +699827,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "startTime": "10:32",
      "heat": "10",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "01:03.16",
      "seedSeconds": 63.16
     },
@@ -734133,7 +734133,7 @@ window.SWIM_DATA = {
      "club": "מכבי ירושלים",
      "startTime": "10:34",
      "heat": "11",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "01:02.09",
      "seedSeconds": 62.09
     },
@@ -737380,7 +737380,7 @@ window.SWIM_DATA = {
      "club": "מכבי ירושלים",
      "startTime": "10:34",
      "heat": "11",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "01:02.14",
      "seedSeconds": 62.14
     }
@@ -738423,7 +738423,7 @@ window.SWIM_DATA = {
      "club": "מכבי ירושלים",
      "startTime": "10:34",
      "heat": "11",
-     "lane": "1",
+     "lane": "8",
      "seedStr": "01:02.25",
      "seedSeconds": 62.25
     }
@@ -739582,9 +739582,9 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "12:39",
-     "heat": "4",
-     "lane": "3",
+     "startTime": "12:36",
+     "heat": "3",
+     "lane": "5",
      "seedStr": "02:12.63",
      "seedSeconds": 132.63
     }
@@ -742055,9 +742055,9 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "17:13",
-     "heat": "4",
-     "lane": "8",
+     "startTime": "17:12",
+     "heat": "3",
+     "lane": "4",
      "seedStr": "00:30.34",
      "seedSeconds": 30.34
     },
@@ -742085,7 +742085,7 @@ window.SWIM_DATA = {
      "club": "מכבי וייסגל רחובות",
      "startTime": "10:30",
      "heat": "4",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "00:27.77",
      "seedSeconds": 27.77
     },
@@ -742908,7 +742908,7 @@ window.SWIM_DATA = {
      "club": "מכבי ירושלים",
      "startTime": "10:28",
      "heat": "2",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "00:29.20",
      "seedSeconds": 29.2
     }
@@ -744641,9 +744641,9 @@ window.SWIM_DATA = {
      "category": "בנים 12-15",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "10:20",
-     "heat": "4",
-     "lane": "8",
+     "startTime": "10:18",
+     "heat": "3",
+     "lane": "5",
      "seedStr": "01:11.12",
      "seedSeconds": 71.12
     },
@@ -748408,7 +748408,7 @@ window.SWIM_DATA = {
      "club": "מכבי וייסגל רחובות",
      "startTime": "10:20",
      "heat": "4",
-     "lane": "2",
+     "lane": "1",
      "seedStr": "01:10.57",
      "seedSeconds": 70.57
     },
@@ -758902,7 +758902,7 @@ window.SWIM_DATA = {
      "club": "מכבי וייסגל רחובות",
      "timeStr": "NS",
      "seconds": null,
-     "place": "43",
+     "place": "44",
      "points": 0
     },
     {
@@ -760963,7 +760963,7 @@ window.SWIM_DATA = {
      "club": "מכבי וייסגל רחובות",
      "timeStr": "NS",
      "seconds": null,
-     "place": "43",
+     "place": "44",
      "points": 0
     },
     {
@@ -761739,7 +761739,7 @@ window.SWIM_DATA = {
      "club": "מכבי וייסגל רחובות",
      "timeStr": "NS",
      "seconds": null,
-     "place": "43",
+     "place": "44",
      "points": 0
     },
     {
@@ -764628,7 +764628,7 @@ window.SWIM_DATA = {
      "club": "מכבי לידר גני תקווה",
      "timeStr": "NS",
      "seconds": null,
-     "place": "43",
+     "place": "44",
      "points": 0
     },
     {
@@ -775015,7 +775015,7 @@ window.SWIM_DATA = {
      "club": "הפועל בית איל",
      "startTime": "10:22",
      "heat": "5",
-     "lane": "6",
+     "lane": "7",
      "seedStr": "01:08.60",
      "seedSeconds": 68.6
     },
@@ -775683,7 +775683,7 @@ window.SWIM_DATA = {
      "club": "מכבי תל אביב",
      "startTime": "17:12",
      "heat": "3",
-     "lane": "1",
+     "lane": "8",
      "seedStr": "00:30.89",
      "seedSeconds": 30.89
     },
@@ -775697,7 +775697,7 @@ window.SWIM_DATA = {
      "club": "מכבי תל אביב",
      "startTime": "10:28",
      "heat": "2",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "00:29.03",
      "seedSeconds": 29.03
     },
@@ -775725,7 +775725,7 @@ window.SWIM_DATA = {
      "club": "מכבי תל אביב",
      "startTime": "18:08",
      "heat": "3",
-     "lane": "1",
+     "lane": "7",
      "seedStr": "01:13.28",
      "seedSeconds": 73.28
     }
@@ -780539,7 +780539,7 @@ window.SWIM_DATA = {
      "club": "מכבי וייסגל רחובות",
      "startTime": "10:38",
      "heat": "13",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "00:58.40",
      "seedSeconds": 58.4
     },
@@ -785488,8 +785488,8 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "מכבי ראשון לציון SEALS",
-     "startTime": "12:46",
-     "heat": "6",
+     "startTime": "12:43",
+     "heat": "5",
      "lane": "1",
      "seedStr": "02:04.92",
      "seedSeconds": 124.92
@@ -791948,36 +791948,7 @@ window.SWIM_DATA = {
      "points": 653
     }
    ],
-   "future": [
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "200 פרפר",
-     "category": "גברים 16-99",
-     "poolLength": 25,
-     "club": "מכבי ראשון לציון SEALS",
-     "startTime": "12:46",
-     "heat": "6",
-     "lane": "8",
-     "seedStr": "02:05.18",
-     "seedSeconds": 125.18
-    },
-    {
-     "date": "2026-11-28",
-     "competition": "משחה המילניום ה25",
-     "compId": 15972,
-     "event": "100 חזה",
-     "category": "גברים 16-99",
-     "poolLength": 25,
-     "club": "מכבי ראשון לציון SEALS",
-     "startTime": "18:14",
-     "heat": "6",
-     "lane": "7",
-     "seedStr": "01:03.44",
-     "seedSeconds": 63.44
-    }
-   ]
+   "future": []
   },
   "2011|עדי·קרני": {
    "id": "2011|עדי·קרני",
@@ -794809,7 +794780,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "startTime": "10:36",
      "heat": "12",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "01:00.92",
      "seedSeconds": 60.92
     },
@@ -800813,9 +800784,9 @@ window.SWIM_DATA = {
      "category": "בנים 12-15",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "10:18",
-     "heat": "3",
-     "lane": "4",
+     "startTime": "10:24",
+     "heat": "6",
+     "lane": "8",
      "seedStr": "01:07.73",
      "seedSeconds": 67.73
     },
@@ -851460,7 +851431,7 @@ window.SWIM_DATA = {
      "club": "מכבי פ.מ. רעות",
      "startTime": "17:11",
      "heat": "2",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "00:32.83",
      "seedSeconds": 32.83
     },
@@ -915044,7 +915015,7 @@ window.SWIM_DATA = {
      "club": "הפועל אולימפ נתניה",
      "startTime": "18:12",
      "heat": "5",
-     "lane": "2",
+     "lane": "6",
      "seedStr": "01:05.53",
      "seedSeconds": 65.53
     }
@@ -920737,7 +920708,36 @@ window.SWIM_DATA = {
      "points": 364
     }
    ],
-   "future": []
+   "future": [
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
+     "event": "50 פרפר",
+     "category": "גברים 16-99",
+     "poolLength": 25,
+     "club": "הפועל פליפר חדרה",
+     "startTime": "17:13",
+     "heat": "4",
+     "lane": "2",
+     "seedStr": "00:30.16",
+     "seedSeconds": 30.16
+    },
+    {
+     "date": "2026-11-28",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
+     "event": "50 חופשי",
+     "category": "גברים 16-99",
+     "poolLength": 25,
+     "club": "הפועל פליפר חדרה",
+     "startTime": "10:30",
+     "heat": "4",
+     "lane": "6",
+     "seedStr": "00:27.75",
+     "seedSeconds": 27.75
+    }
+   ]
   },
   "2009|זועבי·עומר": {
    "id": "2009|זועבי·עומר",
@@ -921422,7 +921422,7 @@ window.SWIM_DATA = {
      "club": "מכבי נהריה",
      "startTime": "10:29",
      "heat": "3",
-     "lane": "4",
+     "lane": "5",
      "seedStr": "00:28.15",
      "seedSeconds": 28.15
     }
@@ -925822,7 +925822,7 @@ window.SWIM_DATA = {
      "club": "הפועל קרית טבעון",
      "startTime": "10:30",
      "heat": "4",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "00:28.05",
      "seedSeconds": 28.05
     },
@@ -925850,7 +925850,7 @@ window.SWIM_DATA = {
      "club": "הפועל קרית טבעון",
      "startTime": "18:04",
      "heat": "1",
-     "lane": "5",
+     "lane": "4",
      "seedStr": "01:17.16",
      "seedSeconds": 77.16
     }
@@ -970057,7 +970057,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "18:10",
      "heat": "4",
-     "lane": "6",
+     "lane": "3",
      "seedStr": "01:09.21",
      "seedSeconds": 69.21
     }
@@ -971854,7 +971854,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "17:12",
      "heat": "3",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "00:30.45",
      "seedSeconds": 30.45
     },
@@ -978027,7 +978027,7 @@ window.SWIM_DATA = {
      "club": "מכבי א.ס. רמת השרון",
      "startTime": "18:06",
      "heat": "2",
-     "lane": "3",
+     "lane": "5",
      "seedStr": "01:14.20",
      "seedSeconds": 74.2
     }
@@ -985260,7 +985260,7 @@ window.SWIM_DATA = {
      "club": "מכבי א.ס. רמת השרון",
      "startTime": "10:22",
      "heat": "5",
-     "lane": "2",
+     "lane": "1",
      "seedStr": "01:09.13",
      "seedSeconds": 69.13
     },
@@ -1004119,7 +1004119,7 @@ window.SWIM_DATA = {
      "club": "ע.ל.ה עצמה רעננה",
      "startTime": "10:24",
      "heat": "6",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "01:07.20",
      "seedSeconds": 67.2
     },
@@ -1017881,7 +1017881,7 @@ window.SWIM_DATA = {
      "club": "מכבי פ.מ. רעות",
      "startTime": "10:34",
      "heat": "11",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "01:01.67",
      "seedSeconds": 61.67
     },
@@ -1028167,7 +1028167,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "10:40",
      "heat": "14",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "00:57.30",
      "seedSeconds": 57.3
     },
@@ -1029080,9 +1029080,9 @@ window.SWIM_DATA = {
      "category": "בנים 12-15",
      "poolLength": 25,
      "club": "מכבי פ.מ. רעות",
-     "startTime": "10:22",
-     "heat": "5",
-     "lane": "1",
+     "startTime": "10:20",
+     "heat": "4",
+     "lane": "4",
      "seedStr": "01:09.38",
      "seedSeconds": 69.38
     },
@@ -1044981,7 +1044981,7 @@ window.SWIM_DATA = {
      "club": "מכבי פ.מ. רעות",
      "startTime": "10:34",
      "heat": "11",
-     "lane": "4",
+     "lane": "5",
      "seedStr": "01:01.55",
      "seedSeconds": 61.55
     },
@@ -1045726,7 +1045726,7 @@ window.SWIM_DATA = {
      "club": "מכבי פ.מ. רעות",
      "startTime": "10:30",
      "heat": "9",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "01:04.31",
      "seedSeconds": 64.31
     },
@@ -1071396,7 +1071396,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "startTime": "18:06",
      "heat": "2",
-     "lane": "6",
+     "lane": "3",
      "seedStr": "01:14.92",
      "seedSeconds": 74.92
     }
@@ -1120189,9 +1120189,9 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "אלומה עירוני הוד השרון",
-     "startTime": "12:36",
-     "heat": "3",
-     "lane": "8",
+     "startTime": "12:32",
+     "heat": "2",
+     "lane": "1",
      "seedStr": "02:27.24",
      "seedSeconds": 147.24
     },
@@ -1124517,7 +1124517,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "10:29",
      "heat": "3",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "00:28.23",
      "seedSeconds": 28.23
     }
@@ -1125710,7 +1125710,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "startTime": "12:29",
      "heat": "1",
-     "lane": "3",
+     "lane": "8",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1126495,7 +1126495,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "startTime": "10:30",
      "heat": "4",
-     "lane": "1",
+     "lane": "8",
      "seedStr": "00:28.08",
      "seedSeconds": 28.08
     },
@@ -1126509,7 +1126509,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "startTime": "18:04",
      "heat": "1",
-     "lane": "2",
+     "lane": "6",
      "seedStr": "01:21.89",
      "seedSeconds": 81.89
     }
@@ -1141407,9 +1141407,9 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "מכבי תל אביב",
-     "startTime": "18:12",
-     "heat": "5",
-     "lane": "4",
+     "startTime": "18:14",
+     "heat": "6",
+     "lane": "8",
      "seedStr": "01:04.13",
      "seedSeconds": 64.13
     }
@@ -1144237,7 +1144237,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "18:12",
      "heat": "5",
-     "lane": "6",
+     "lane": "3",
      "seedStr": "01:05.15",
      "seedSeconds": 65.15
     }
@@ -1145939,9 +1145939,9 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "אלומה עירוני הוד השרון",
-     "startTime": "18:06",
-     "heat": "2",
-     "lane": "4",
+     "startTime": "18:08",
+     "heat": "3",
+     "lane": "8",
      "seedStr": "01:13.65",
      "seedSeconds": 73.65
     }
@@ -1146423,7 +1146423,7 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "17:13",
      "heat": "4",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "00:30.21",
      "seedSeconds": 30.21
     },
@@ -1146437,7 +1146437,7 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "10:30",
      "heat": "4",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "00:27.91",
      "seedSeconds": 27.91
     },
@@ -1146451,7 +1146451,7 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "18:10",
      "heat": "4",
-     "lane": "1",
+     "lane": "7",
      "seedStr": "01:10.03",
      "seedSeconds": 70.03
     }
@@ -1147639,7 +1147639,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "18:10",
      "heat": "4",
-     "lane": "3",
+     "lane": "5",
      "seedStr": "01:09.04",
      "seedSeconds": 69.04
     }
@@ -1148290,9 +1148290,9 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "אלומה עירוני הוד השרון",
-     "startTime": "10:30",
-     "heat": "4",
-     "lane": "8",
+     "startTime": "10:29",
+     "heat": "3",
+     "lane": "4",
      "seedStr": "00:28.10",
      "seedSeconds": 28.1
     },
@@ -1148306,7 +1148306,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "startTime": "18:04",
      "heat": "1",
-     "lane": "6",
+     "lane": "3",
      "seedStr": "01:18.41",
      "seedSeconds": 78.41
     }
@@ -1149152,7 +1149152,7 @@ window.SWIM_DATA = {
      "club": "הפועל בית שמש",
      "startTime": "17:11",
      "heat": "2",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "00:32.10",
      "seedSeconds": 32.1
     }
@@ -1160508,6 +1160508,20 @@ window.SWIM_DATA = {
      "date": "2026-11-27",
      "competition": "משחה המילניום ה25",
      "compId": 15972,
+     "event": "100 חופשי",
+     "category": "בנים 12-15",
+     "poolLength": 25,
+     "club": "הפועל דולפין נתניה",
+     "startTime": "10:40",
+     "heat": "14",
+     "lane": "4",
+     "seedStr": "00:54.73",
+     "seedSeconds": 54.73
+    },
+    {
+     "date": "2026-11-27",
+     "competition": "משחה המילניום ה25",
+     "compId": 15972,
      "event": "50 פרפר",
      "category": "גברים 16-99",
      "poolLength": 25,
@@ -1160526,9 +1160540,9 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "הפועל דולפין נתניה",
-     "startTime": "12:43",
-     "heat": "5",
-     "lane": "7",
+     "startTime": "12:39",
+     "heat": "4",
+     "lane": "2",
      "seedStr": "02:09.51",
      "seedSeconds": 129.51
     },
@@ -1163323,9 +1163337,9 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "12:36",
-     "heat": "3",
-     "lane": "5",
+     "startTime": "12:32",
+     "heat": "2",
+     "lane": "4",
      "seedStr": "02:20.12",
      "seedSeconds": 140.12
     },
@@ -1166985,8 +1166999,8 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "12:46",
-     "heat": "6",
+     "startTime": "12:43",
+     "heat": "5",
      "lane": "5",
      "seedStr": "01:59.39",
      "seedSeconds": 119.39
@@ -1168214,8 +1168228,8 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "אלומה עירוני הוד השרון",
-     "startTime": "12:46",
-     "heat": "6",
+     "startTime": "12:43",
+     "heat": "5",
      "lane": "7",
      "seedStr": "02:01.79",
      "seedSeconds": 121.79
@@ -1190755,7 +1190769,7 @@ window.SWIM_DATA = {
      "club": "מכבי תל אביב",
      "startTime": "10:28",
      "heat": "8",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "01:05.98",
      "seedSeconds": 65.98
     },
@@ -1193071,9 +1193085,9 @@ window.SWIM_DATA = {
      "category": "בנים 12-15",
      "poolLength": 25,
      "club": "מכבי א.ס. רמת השרון",
-     "startTime": "10:32",
-     "heat": "10",
-     "lane": "8",
+     "startTime": "10:30",
+     "heat": "9",
+     "lane": "4",
      "seedStr": "01:04.03",
      "seedSeconds": 64.03
     },
@@ -1197501,7 +1197515,7 @@ window.SWIM_DATA = {
      "club": "מכבי תל אביב",
      "startTime": "10:28",
      "heat": "8",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "01:05.70",
      "seedSeconds": 65.7
     },
@@ -1217946,7 +1217960,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "10:40",
      "heat": "14",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "00:57.33",
      "seedSeconds": 57.33
     },
@@ -1257476,7 +1257490,7 @@ window.SWIM_DATA = {
      "club": "מכבי תל אביב",
      "startTime": "10:28",
      "heat": "2",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "00:29.55",
      "seedSeconds": 29.55
     },
@@ -1257490,7 +1257504,7 @@ window.SWIM_DATA = {
      "club": "מכבי תל אביב",
      "startTime": "18:06",
      "heat": "2",
-     "lane": "2",
+     "lane": "6",
      "seedStr": "01:15.20",
      "seedSeconds": 75.2
     }
@@ -1258942,7 +1258956,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "10:26",
      "heat": "7",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "01:06.48",
      "seedSeconds": 66.48
     }
@@ -1259592,9 +1259606,9 @@ window.SWIM_DATA = {
      "category": "בנים 12-15",
      "poolLength": 25,
      "club": "מכבי שוהם",
-     "startTime": "10:36",
-     "heat": "12",
-     "lane": "8",
+     "startTime": "10:34",
+     "heat": "11",
+     "lane": "4",
      "seedStr": "01:01.28",
      "seedSeconds": 61.28
     },
@@ -1262708,7 +1262722,7 @@ window.SWIM_DATA = {
      "club": "מכבי תל אביב",
      "startTime": "17:13",
      "heat": "4",
-     "lane": "1",
+     "lane": "8",
      "seedStr": "00:30.29",
      "seedSeconds": 30.29
     },
@@ -1262720,9 +1262734,9 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "מכבי תל אביב",
-     "startTime": "10:29",
-     "heat": "3",
-     "lane": "8",
+     "startTime": "10:28",
+     "heat": "2",
+     "lane": "4",
      "seedStr": "00:28.94",
      "seedSeconds": 28.94
     },
@@ -1262734,9 +1262748,9 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "מכבי תל אביב",
-     "startTime": "12:32",
-     "heat": "2",
-     "lane": "6",
+     "startTime": "12:29",
+     "heat": "1",
+     "lane": "3",
      "seedStr": "02:30.28",
      "seedSeconds": 150.28
     },
@@ -1263479,7 +1263493,7 @@ window.SWIM_DATA = {
      "club": "מכבי תל אביב",
      "startTime": "17:12",
      "heat": "3",
-     "lane": "4",
+     "lane": "5",
      "seedStr": "00:30.40",
      "seedSeconds": 30.4
     },
@@ -1263507,7 +1263521,7 @@ window.SWIM_DATA = {
      "club": "מכבי תל אביב",
      "startTime": "10:28",
      "heat": "2",
-     "lane": "1",
+     "lane": "8",
      "seedStr": "00:30.25",
      "seedSeconds": 30.25
     },
@@ -1264197,7 +1264211,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "10:30",
      "heat": "9",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "01:05.02",
      "seedSeconds": 65.02
     },
@@ -1274981,7 +1274995,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "10:32",
      "heat": "10",
-     "lane": "1",
+     "lane": "8",
      "seedStr": "01:03.96",
      "seedSeconds": 63.96
     },
@@ -1277159,9 +1277173,9 @@ window.SWIM_DATA = {
      "category": "בנים 12-15",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "10:26",
-     "heat": "7",
-     "lane": "8",
+     "startTime": "10:24",
+     "heat": "6",
+     "lane": "4",
      "seedStr": "01:06.71",
      "seedSeconds": 66.71
     },
@@ -1277880,7 +1277894,7 @@ window.SWIM_DATA = {
      "club": "הפועל קרית אתא",
      "startTime": "10:32",
      "heat": "10",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "01:03.27",
      "seedSeconds": 63.27
     },
@@ -1278585,9 +1278599,9 @@ window.SWIM_DATA = {
      "category": "בנים 12-15",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "10:18",
-     "heat": "3",
-     "lane": "8",
+     "startTime": "10:16",
+     "heat": "2",
+     "lane": "4",
      "seedStr": "01:15.00",
      "seedSeconds": 75.0
     },
@@ -1279410,7 +1279424,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "10:22",
      "heat": "5",
-     "lane": "7",
+     "lane": "8",
      "seedStr": "01:09.25",
      "seedSeconds": 69.25
     },
@@ -1280248,7 +1280262,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "10:32",
      "heat": "10",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "01:03.68",
      "seedSeconds": 63.68
     },
@@ -1291208,7 +1291222,7 @@ window.SWIM_DATA = {
      "club": "מכבי נהריה",
      "startTime": "10:28",
      "heat": "8",
-     "lane": "1",
+     "lane": "8",
      "seedStr": "01:06.05",
      "seedSeconds": 66.05
     },
@@ -1292442,9 +1292456,9 @@ window.SWIM_DATA = {
      "category": "בנים 12-15",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "10:24",
-     "heat": "6",
-     "lane": "8",
+     "startTime": "10:22",
+     "heat": "5",
+     "lane": "5",
      "seedStr": "01:07.98",
      "seedSeconds": 67.98
     },
@@ -1293756,7 +1293770,7 @@ window.SWIM_DATA = {
      "club": "הפועל קרית אתא",
      "startTime": "10:28",
      "heat": "2",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "00:29.39",
      "seedSeconds": 29.39
     }
@@ -1295222,7 +1295236,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "10:16",
      "heat": "2",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "01:19.17",
      "seedSeconds": 79.17
     },
@@ -1299930,7 +1299944,7 @@ window.SWIM_DATA = {
      "club": "מכבי נהריה",
      "startTime": "10:24",
      "heat": "6",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "01:06.86",
      "seedSeconds": 66.86
     },
@@ -1300856,7 +1300870,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "10:26",
      "heat": "7",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "01:06.37",
      "seedSeconds": 66.37
     },
@@ -1302375,7 +1302389,7 @@ window.SWIM_DATA = {
      "club": "הפועל קרית אתא",
      "startTime": "18:06",
      "heat": "2",
-     "lane": "8",
+     "lane": "1",
      "seedStr": "01:15.55",
      "seedSeconds": 75.55
     }
@@ -1303959,9 +1303973,9 @@ window.SWIM_DATA = {
      "category": "בנים 12-15",
      "poolLength": 25,
      "club": "מכבי קרית ביאליק",
-     "startTime": "10:16",
-     "heat": "2",
-     "lane": "8",
+     "startTime": "10:14",
+     "heat": "1",
+     "lane": "4",
      "seedStr": "01:19.84",
      "seedSeconds": 79.84
     },
@@ -1304680,7 +1304694,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "10:20",
      "heat": "4",
-     "lane": "5",
+     "lane": "6",
      "seedStr": "01:09.73",
      "seedSeconds": 69.73
     },
@@ -1305498,7 +1305512,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "10:14",
      "heat": "1",
-     "lane": "4",
+     "lane": "5",
      "seedStr": "01:33.91",
      "seedSeconds": 93.91
     },
@@ -1326393,7 +1326407,7 @@ window.SWIM_DATA = {
      "club": "הפועל באר שבע",
      "startTime": "10:38",
      "heat": "13",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "00:57.88",
      "seedSeconds": 57.88
     },
@@ -1327125,7 +1327139,7 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "10:40",
      "heat": "14",
-     "lane": "4",
+     "lane": "5",
      "seedStr": "00:56.20",
      "seedSeconds": 56.2
     },
@@ -1328208,7 +1328222,7 @@ window.SWIM_DATA = {
      "club": "הפועל אילת",
      "startTime": "10:38",
      "heat": "13",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "00:58.05",
      "seedSeconds": 58.05
     },
@@ -1328941,7 +1328955,7 @@ window.SWIM_DATA = {
      "club": "ע.ל.ה עצמה רעננה",
      "startTime": "10:38",
      "heat": "13",
-     "lane": "4",
+     "lane": "5",
      "seedStr": "00:57.81",
      "seedSeconds": 57.81
     },
@@ -1329760,7 +1329774,7 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "10:24",
      "heat": "6",
-     "lane": "4",
+     "lane": "5",
      "seedStr": "01:06.79",
      "seedSeconds": 66.79
     },
@@ -1331706,7 +1331720,7 @@ window.SWIM_DATA = {
      "club": "מכבי א.ס. רמת השרון",
      "startTime": "10:22",
      "heat": "5",
-     "lane": "3",
+     "lane": "2",
      "seedStr": "01:08.47",
      "seedSeconds": 68.47
     },
@@ -1336953,7 +1336967,7 @@ window.SWIM_DATA = {
      "club": "הפועל פליפר חדרה",
      "startTime": "10:20",
      "heat": "4",
-     "lane": "3",
+     "lane": "2",
      "seedStr": "01:09.84",
      "seedSeconds": 69.84
     },
@@ -1338619,7 +1338633,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "startTime": "10:18",
      "heat": "3",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "01:14.72",
      "seedSeconds": 74.72
     },
@@ -1340361,7 +1340375,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "startTime": "10:30",
      "heat": "9",
-     "lane": "4",
+     "lane": "5",
      "seedStr": "01:04.21",
      "seedSeconds": 64.21
     },
@@ -1340793,7 +1340807,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "startTime": "10:18",
      "heat": "3",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "01:12.48",
      "seedSeconds": 72.48
     },
@@ -1344900,7 +1344914,7 @@ window.SWIM_DATA = {
      "club": "הפועל באר שבע",
      "startTime": "10:40",
      "heat": "14",
-     "lane": "1",
+     "lane": "8",
      "seedStr": "00:57.50",
      "seedSeconds": 57.5
     },
@@ -1345749,7 +1345763,7 @@ window.SWIM_DATA = {
      "club": "הפועל בית שמש",
      "startTime": "17:11",
      "heat": "2",
-     "lane": "1",
+     "lane": "8",
      "seedStr": "00:33.22",
      "seedSeconds": 33.22
     }
@@ -1348063,9 +1348077,9 @@ window.SWIM_DATA = {
      "category": "בנים 12-15",
      "poolLength": 25,
      "club": "הפועל בית שמש",
-     "startTime": "10:24",
-     "heat": "6",
-     "lane": "1",
+     "startTime": "10:22",
+     "heat": "5",
+     "lane": "4",
      "seedStr": "01:07.94",
      "seedSeconds": 67.94
     },
@@ -1348717,7 +1348731,7 @@ window.SWIM_DATA = {
      "club": "הפועל בית שמש",
      "startTime": "10:16",
      "heat": "2",
-     "lane": "4",
+     "lane": "5",
      "seedStr": "01:15.14",
      "seedSeconds": 75.14
     },
@@ -1360576,7 +1360590,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "startTime": "10:18",
      "heat": "3",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "01:11.88",
      "seedSeconds": 71.88
     },
@@ -1370642,7 +1370656,7 @@ window.SWIM_DATA = {
      "club": "הפועל דולפין נתניה",
      "startTime": "10:30",
      "heat": "9",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "01:04.70",
      "seedSeconds": 64.7
     },
@@ -1378522,7 +1378536,7 @@ window.SWIM_DATA = {
      "club": "מכבי וייסגל רחובות",
      "startTime": "10:38",
      "heat": "13",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "00:59.52",
      "seedSeconds": 59.52
     },
@@ -1382804,9 +1382818,9 @@ window.SWIM_DATA = {
      "category": "בנים 12-15",
      "poolLength": 25,
      "club": "הפועל באר טוביה",
-     "startTime": "10:28",
-     "heat": "8",
-     "lane": "8",
+     "startTime": "10:26",
+     "heat": "7",
+     "lane": "4",
      "seedStr": "01:06.11",
      "seedSeconds": 66.11
     }
@@ -1386139,7 +1386153,7 @@ window.SWIM_DATA = {
      "club": "הפועל בית שמש",
      "startTime": "10:38",
      "heat": "13",
-     "lane": "1",
+     "lane": "8",
      "seedStr": "00:59.58",
      "seedSeconds": 59.58
     },
@@ -1387052,7 +1387066,7 @@ window.SWIM_DATA = {
      "club": "מכבי א.ס. רמת השרון",
      "startTime": "10:28",
      "heat": "8",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "01:06.00",
      "seedSeconds": 66.0
     },
@@ -1420804,7 +1420818,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "startTime": "10:16",
      "heat": "2",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "01:15.75",
      "seedSeconds": 75.75
     },
@@ -1427019,7 +1427033,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "startTime": "10:36",
      "heat": "12",
-     "lane": "4",
+     "lane": "5",
      "seedStr": "01:00.00",
      "seedSeconds": 60.0
     },
@@ -1427761,7 +1427775,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "startTime": "10:18",
      "heat": "3",
-     "lane": "1",
+     "lane": "8",
      "seedStr": "01:14.80",
      "seedSeconds": 74.8
     },
@@ -1454521,7 +1454535,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "startTime": "18:10",
      "heat": "4",
-     "lane": "2",
+     "lane": "6",
      "seedStr": "01:09.25",
      "seedSeconds": 69.25
     }
@@ -1459172,9 +1459186,9 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "מכבי חיפה",
-     "startTime": "12:39",
-     "heat": "4",
-     "lane": "1",
+     "startTime": "12:36",
+     "heat": "3",
+     "lane": "7",
      "seedStr": "02:16.81",
      "seedSeconds": 136.81
     }
@@ -1461374,7 +1461388,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "startTime": "10:16",
      "heat": "2",
-     "lane": "1",
+     "lane": "8",
      "seedStr": "01:19.64",
      "seedSeconds": 79.64
     },
@@ -1479533,7 +1479547,7 @@ window.SWIM_DATA = {
      "club": "מכבי עולם המים",
      "startTime": "17:12",
      "heat": "3",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "00:30.69",
      "seedSeconds": 30.69
     }
@@ -1501248,7 +1501262,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "startTime": "10:18",
      "heat": "3",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "01:14.13",
      "seedSeconds": 74.13
     },
@@ -1502986,7 +1503000,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "startTime": "10:26",
      "heat": "7",
-     "lane": "1",
+     "lane": "8",
      "seedStr": "01:06.60",
      "seedSeconds": 66.6
     },
@@ -1503481,7 +1503495,7 @@ window.SWIM_DATA = {
      "club": "הפועל קרית טבעון",
      "startTime": "10:34",
      "heat": "11",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "01:02.21",
      "seedSeconds": 62.21
     },
@@ -1504409,7 +1504423,7 @@ window.SWIM_DATA = {
      "club": "הפועל לב הגליל סחנין",
      "startTime": "18:10",
      "heat": "4",
-     "lane": "5",
+     "lane": "4",
      "seedStr": "01:07.60",
      "seedSeconds": 67.6
     }
@@ -1505167,7 +1505181,7 @@ window.SWIM_DATA = {
      "club": "הפועל קרית אתא",
      "startTime": "18:08",
      "heat": "3",
-     "lane": "5",
+     "lane": "4",
      "seedStr": "01:10.58",
      "seedSeconds": 70.58
     }
@@ -1508865,7 +1508879,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "startTime": "10:14",
      "heat": "1",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1510494,7 +1510508,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "startTime": "10:20",
      "heat": "4",
-     "lane": "7",
+     "lane": "8",
      "seedStr": "01:10.63",
      "seedSeconds": 70.63
     },
@@ -1511082,7 +1511096,7 @@ window.SWIM_DATA = {
      "club": "הפועל קרית טבעון",
      "startTime": "10:24",
      "heat": "6",
-     "lane": "2",
+     "lane": "7",
      "seedStr": "01:07.48",
      "seedSeconds": 67.48
     },
@@ -1512570,7 +1512584,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "startTime": "10:22",
      "heat": "5",
-     "lane": "4",
+     "lane": "3",
      "seedStr": "01:08.16",
      "seedSeconds": 68.16
     },
@@ -1513081,7 +1513095,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "startTime": "10:24",
      "heat": "6",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "01:07.52",
      "seedSeconds": 67.52
     },
@@ -1514805,7 +1514819,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "startTime": "10:36",
      "heat": "12",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "01:00.11",
      "seedSeconds": 60.11
     },
@@ -1516601,7 +1516615,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "startTime": "10:24",
      "heat": "6",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "01:07.01",
      "seedSeconds": 67.01
     },
@@ -1517463,7 +1517477,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "10:32",
      "heat": "10",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "01:03.18",
      "seedSeconds": 63.18
     },
@@ -1520223,7 +1520237,7 @@ window.SWIM_DATA = {
      "club": "מכבי חיפה",
      "startTime": "10:28",
      "heat": "8",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "01:05.66",
      "seedSeconds": 65.66
     },
@@ -1524939,7 +1524953,7 @@ window.SWIM_DATA = {
      "club": "הפועל בית שמש",
      "startTime": "10:30",
      "heat": "9",
-     "lane": "1",
+     "lane": "8",
      "seedStr": "01:05.04",
      "seedSeconds": 65.04
     },
@@ -1527511,7 +1527525,7 @@ window.SWIM_DATA = {
      "club": "הפועל בית שמש",
      "startTime": "10:40",
      "heat": "14",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "00:57.39",
      "seedSeconds": 57.39
     },
@@ -1528488,7 +1528502,7 @@ window.SWIM_DATA = {
      "club": "מכבי פ.מ. רעות",
      "startTime": "10:38",
      "heat": "13",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "00:58.04",
      "seedSeconds": 58.04
     },
@@ -1569013,9 +1569027,9 @@ window.SWIM_DATA = {
      "category": "בנים 12-15",
      "poolLength": 25,
      "club": "הפועל מ.א משגב",
-     "startTime": "10:22",
-     "heat": "5",
-     "lane": "8",
+     "startTime": "10:20",
+     "heat": "4",
+     "lane": "5",
      "seedStr": "01:09.51",
      "seedSeconds": 69.51
     },
@@ -1593696,7 +1593710,7 @@ window.SWIM_DATA = {
      "club": "הפועל אולימפ נתניה",
      "startTime": "10:29",
      "heat": "3",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "00:28.77",
      "seedSeconds": 28.77
     }
@@ -1604472,7 +1604486,7 @@ window.SWIM_DATA = {
      "club": "TLV SWIM",
      "startTime": "18:12",
      "heat": "5",
-     "lane": "8",
+     "lane": "1",
      "seedStr": "01:06.88",
      "seedSeconds": 66.88
     }
@@ -1607022,7 +1607036,7 @@ window.SWIM_DATA = {
      "club": "הפועל באר טוביה",
      "startTime": "12:29",
      "heat": "1",
-     "lane": "4",
+     "lane": "7",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1620648,7 +1620662,7 @@ window.SWIM_DATA = {
      "club": "מכבי ראשון לציון SEALS",
      "startTime": "18:04",
      "heat": "1",
-     "lane": "3",
+     "lane": "5",
      "seedStr": "01:17.95",
      "seedSeconds": 77.95
     }
@@ -1621256,9 +1621270,9 @@ window.SWIM_DATA = {
      "category": "בנים 12-15",
      "poolLength": 25,
      "club": "אלומה עירוני הוד השרון",
-     "startTime": "10:20",
-     "heat": "4",
-     "lane": "1",
+     "startTime": "10:18",
+     "heat": "3",
+     "lane": "4",
      "seedStr": "01:10.78",
      "seedSeconds": 70.78
     },
@@ -1623489,7 +1623503,7 @@ window.SWIM_DATA = {
      "club": "מכבי ירושלים",
      "timeStr": "NS",
      "seconds": null,
-     "place": "43",
+     "place": "44",
      "points": 0
     },
     {
@@ -1623502,7 +1623516,7 @@ window.SWIM_DATA = {
      "club": "מכבי ירושלים",
      "timeStr": "NS",
      "seconds": null,
-     "place": "43",
+     "place": "44",
      "points": 0
     }
    ],
@@ -1645011,7 +1645025,7 @@ window.SWIM_DATA = {
      "club": "הפועל לב הגליל סחנין",
      "startTime": "10:28",
      "heat": "8",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "01:05.40",
      "seedSeconds": 65.4
     },
@@ -1645455,7 +1645469,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "startTime": "10:18",
      "heat": "3",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "01:14.00",
      "seedSeconds": 74.0
     }
@@ -1661647,7 +1661661,7 @@ window.SWIM_DATA = {
      "club": "מכבי וייסגל רחובות",
      "timeStr": "03:41.71",
      "seconds": 221.71,
-     "place": "37",
+     "place": "38",
      "points": 87
     },
     {
@@ -1669458,7 +1669472,7 @@ window.SWIM_DATA = {
      "club": "אלומה עירוני הוד השרון",
      "startTime": "10:16",
      "heat": "2",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "01:16.24",
      "seedSeconds": 76.24
     },
@@ -1772588,7 +1772602,7 @@ window.SWIM_DATA = {
      "club": "מכבי לידר גני תקווה",
      "timeStr": "03:58.77",
      "seconds": 238.77,
-     "place": "40",
+     "place": "41",
      "points": 70
     },
     {
@@ -1773078,7 +1773092,7 @@ window.SWIM_DATA = {
      "club": "מכבי לידר גני תקווה",
      "timeStr": "03:38.31",
      "seconds": 218.31,
-     "place": "35",
+     "place": "36",
      "points": 92
     },
     {
@@ -1774456,10 +1774470,10 @@ window.SWIM_DATA = {
      "category": "בנים 7-99",
      "poolLength": 25,
      "club": "מכבי לידר גני תקווה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "43",
-     "points": 0
+     "timeStr": "03:28.67",
+     "seconds": 208.67,
+     "place": "34",
+     "points": 105
     },
     {
      "date": "2026-11-20",
@@ -1778104,7 +1778118,7 @@ window.SWIM_DATA = {
      "club": "מכבי שוהם",
      "startTime": "10:26",
      "heat": "7",
-     "lane": "5",
+     "lane": "3",
      "seedStr": "01:06.27",
      "seedSeconds": 66.27
     }
@@ -1828918,7 +1828932,7 @@ window.SWIM_DATA = {
      "club": "מועדון ספורט מעלה אדומים",
      "timeStr": "03:43.62",
      "seconds": 223.62,
-     "place": "39",
+     "place": "40",
      "points": 85
     },
     {
@@ -1847621,7 +1847635,7 @@ window.SWIM_DATA = {
      "club": "מ.ס. רמלה",
      "timeStr": "DQ / SW 4.4",
      "seconds": null,
-     "place": "42",
+     "place": "43",
      "points": 0
     },
     {
@@ -1852818,7 +1852832,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "17:12",
      "heat": "3",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "00:30.88",
      "seedSeconds": 30.88
     },
@@ -1879540,7 +1879554,7 @@ window.SWIM_DATA = {
      "club": "הפועל מ.א משגב",
      "startTime": "10:14",
      "heat": "1",
-     "lane": "7",
+     "lane": "1",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1879738,7 +1879752,7 @@ window.SWIM_DATA = {
      "club": "הפועל מ.א משגב",
      "startTime": "10:16",
      "heat": "2",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "01:18.41",
      "seedSeconds": 78.41
     },
@@ -1897003,7 +1897017,7 @@ window.SWIM_DATA = {
      "club": "מכבי וייסגל רחובות",
      "timeStr": "NS",
      "seconds": null,
-     "place": "43",
+     "place": "44",
      "points": 0
     },
     {
@@ -1897613,7 +1897627,7 @@ window.SWIM_DATA = {
      "club": "מכבי ירושלים",
      "timeStr": "03:43.11",
      "seconds": 223.11,
-     "place": "38",
+     "place": "39",
      "points": 86
     }
    ],
@@ -1900701,9 +1900715,9 @@ window.SWIM_DATA = {
      "category": "גברים 16-99",
      "poolLength": 25,
      "club": "מכבי וייסגל רחובות",
-     "startTime": "17:12",
-     "heat": "3",
-     "lane": "8",
+     "startTime": "17:11",
+     "heat": "2",
+     "lane": "4",
      "seedStr": "00:31.26",
      "seedSeconds": 31.26
     },
@@ -1912974,7 +1912988,7 @@ window.SWIM_DATA = {
      "club": "מ.ס. רמלה",
      "timeStr": "03:38.98",
      "seconds": 218.98,
-     "place": "36",
+     "place": "37",
      "points": 91
     },
     {
@@ -1913100,7 +1913114,7 @@ window.SWIM_DATA = {
      "club": "מכבי ירושלים",
      "timeStr": "03:36.74",
      "seconds": 216.74,
-     "place": "34",
+     "place": "35",
      "points": 94
     },
     {
@@ -1913163,7 +1913177,7 @@ window.SWIM_DATA = {
      "club": "מכבי ירושלים",
      "timeStr": "NS",
      "seconds": null,
-     "place": "43",
+     "place": "44",
      "points": 0
     },
     {
@@ -1913176,7 +1913190,7 @@ window.SWIM_DATA = {
      "club": "מכבי ירושלים",
      "timeStr": "NS",
      "seconds": null,
-     "place": "43",
+     "place": "44",
      "points": 0
     }
    ],
@@ -1913339,7 +1913353,7 @@ window.SWIM_DATA = {
      "club": "מכבי לידר גני תקווה",
      "timeStr": "DQ",
      "seconds": null,
-     "place": "40",
+     "place": "41",
      "points": 0
     },
     {
@@ -1913402,7 +1913416,7 @@ window.SWIM_DATA = {
      "club": "מכבי לידר גני תקווה",
      "timeStr": "02:39.34",
      "seconds": 159.34,
-     "place": "35",
+     "place": "36",
      "points": 27
     },
     {
@@ -1913465,7 +1913479,7 @@ window.SWIM_DATA = {
      "club": "מכבי לידר גני תקווה",
      "timeStr": "03:05.96",
      "seconds": 185.96,
-     "place": "38",
+     "place": "39",
      "points": 17
     },
     {
@@ -1913526,10 +1913540,10 @@ window.SWIM_DATA = {
      "category": "בנים 7-99",
      "poolLength": 25,
      "club": "מכבי לידר גני תקווה",
-     "timeStr": "NS",
-     "seconds": null,
-     "place": "43",
-     "points": 0
+     "timeStr": "02:32.45",
+     "seconds": 152.45,
+     "place": "34",
+     "points": 31
     },
     {
      "date": "2026-11-20",
@@ -1913591,7 +1913605,7 @@ window.SWIM_DATA = {
      "club": "מכבי ירושלים",
      "timeStr": "DQ",
      "seconds": null,
-     "place": "40",
+     "place": "41",
      "points": 0
     },
     {
@@ -1913604,7 +1913618,7 @@ window.SWIM_DATA = {
      "club": "מכבי ירושלים",
      "timeStr": "04:03.40",
      "seconds": 243.4,
-     "place": "41",
+     "place": "42",
      "points": 66
     }
    ],
@@ -1913791,7 +1913805,7 @@ window.SWIM_DATA = {
      "club": "מכבי לידר גני תקווה",
      "timeStr": "02:56.81",
      "seconds": 176.81,
-     "place": "37",
+     "place": "38",
      "points": 20
     },
     {
@@ -1918958,7 +1918972,7 @@ window.SWIM_DATA = {
      "club": "שחייניות/ם עצמאיות/ם",
      "timeStr": "NS",
      "seconds": null,
-     "place": "43",
+     "place": "44",
      "points": 0
     },
     {
@@ -1919413,7 +1919427,7 @@ window.SWIM_DATA = {
      "club": "מכבי ירושלים",
      "timeStr": "02:43.52",
      "seconds": 163.52,
-     "place": "36",
+     "place": "37",
      "points": 25
     },
     {
@@ -1919548,7 +1919562,7 @@ window.SWIM_DATA = {
      "club": "מכבי ירושלים",
      "timeStr": "NS",
      "seconds": null,
-     "place": "43",
+     "place": "44",
      "points": 0
     },
     {
@@ -1919598,7 +1919612,7 @@ window.SWIM_DATA = {
      "club": "מכבי ירושלים",
      "timeStr": "04:12.28",
      "seconds": 252.28,
-     "place": "39",
+     "place": "40",
      "points": 7
     },
     {
@@ -1923708,7 +1923722,7 @@ window.SWIM_DATA = {
      "club": "מתנ\"ס רמת הנגב",
      "startTime": "10:14",
      "heat": "1",
-     "lane": "3",
+     "lane": "6",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1926447,7 +1926461,7 @@ window.SWIM_DATA = {
      "club": "מכבי לידר גני תקווה",
      "timeStr": "02:35.16",
      "seconds": 155.16,
-     "place": "34",
+     "place": "35",
      "points": 30
     },
     {
@@ -1926484,7 +1926498,7 @@ window.SWIM_DATA = {
      "club": "מכבי לידר גני תקווה",
      "timeStr": "DQ",
      "seconds": null,
-     "place": "40",
+     "place": "41",
      "points": 0
     },
     {
@@ -1928217,7 +1928231,7 @@ window.SWIM_DATA = {
      "club": "מכבי קרית ביאליק",
      "startTime": "10:14",
      "heat": "1",
-     "lane": "6",
+     "lane": "2",
      "seedStr": "NT",
      "seedSeconds": null
     },
@@ -1928238,7 +1928252,7 @@ window.SWIM_DATA = {
    ]
   }
  },
- "lastChecked": "2026-11-24 04:10",
- "newThisRun": 3,
+ "lastChecked": "2026-11-25 02:18",
+ "newThisRun": 0,
  "newComps": []
 };
